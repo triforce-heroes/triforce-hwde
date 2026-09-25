@@ -1,0 +1,262 @@
+Map {
+  "1.0.0.0" => "Per completare il rituale del risveglio,
+dobbiamo conquistare l'intera area.",
+  "1.0.1.0" => "Col potere della porta delle anime, il rituale
+andrà a buon fine... e non ammetto errori!",
+  "1.0.2.0" => "Confermata presenza nemica.
+Avvio missione di contrattacco.",
+  "1.0.3.0" => "Probabilità del 60% che si tratti dei
+Reclusi, demoni estremamente pericolosi.",
+  "1.0.4.0" => "Sento puzza di bruciato da queste parti...
+Dovrò rimboccarmi le maniche anche io!",
+  "1.0.5.0" => "Che sta succedendo? Niente di cui mi
+debba preoccupare, spero.",
+  "1.0.6.0" => "Energia in diminuzione...",
+  "1.0.7.0" => "Resisti! Se sei in difficoltà
+ci penso io ad aiutarti!",
+  "1.0.8.0" => "Necessità di fuga in continuo
+aumento...",
+  "1.0.9.0" => "Oh, no! C'è bisogno subito
+del mio aiuto!",
+  "1.0.10.0" => "Numero dei Reclusi in calo, ma non
+abbasso la guardia.",
+  "1.0.11.0" => "Sì! Ti aiuto anche io, diamoci da fare!",
+  "1.0.12.0" => "Che sta succedendo? Eliminerò
+chiunque mi disturbi.",
+  "1.0.13.0" => "Ah! I Coccò sono sotto assedio!
+Devo aiutarli!",
+  "1.0.14.0" => "Resistete, Coccò!
+Vengo subito ad aiutarvi!",
+  "1.0.15.0" => "Tenete duro ancora un po', Coccò!
+Sto venendo in vostro aiuto!",
+  "1.0.17.0" => "Come possono prendersela con dei
+Coccò indifesi?! Eliminiamo quei demoni!",
+  "1.0.18.0" => "Mi aiuterete anche voi? Allora diamoci
+da fare per eliminare tutti i demoni!",
+  "1.0.19.0" => "Com'è possibile? Ancora così piccoli?
+Continuate a provare!!!",
+  "1.0.22.0" => "Il rituale è fallito di nuovo?! Provate
+ancora, con più potenza questa volta!!!",
+  "1.0.23.0" => "Se non si interrompe l'evocazione, il
+numero di Reclusi aumenterà.",
+  "1.0.24.0" => "È vero! Per prima cosa occupiamoci dei
+nemici che stanno evocando i demoni!",
+  "1.0.25.0" => "Avete fallito ancora, ancora e ancora!!!
+Com'è possibile?!",
+  "1.0.26.0" => "Guardate! Stanno di nuovo evocando
+dei nemici!",
+  "1.0.27.0" => "Dare priorità a eliminazione Reclusi.",
+  "1.0.28.0" => "Oltremodo... incredibilmente... di pessimo
+umore!!! Datemi tutto il vostro potere!!!",
+  "1.0.29.0" => "Non so quale sia il tuo piano, ma...
+potresti smettere di evocare i demoni?",
+  "1.0.30.0" => "Non avete più magia?! Così presto?
+Siete un branco di esseri inutili!",
+  "1.0.31.0" => "Conferma diminuzione di energia magica.
+Probabile diminuzione dei demoni evocati.",
+  "1.0.32.0" => "Ce l'abbiamo fatta! Basta con i demoni
+scuri! Eliminiamo gli ultimi rimasti!",
+  "1.0.33.0" => "Conferma aumento Reclusi. Probabilità
+che l'evocazione continui: 85%.",
+  "1.0.34.0" => "Parli in modo un po' strano... Beh,
+l'importante è fermare le evocazioni!",
+  "1.0.35.0" => "Probabilità che il comandante nemico
+si trovi all'interno del tempio: 90%.",
+  "1.0.36.0" => "Se eliminiamo quelli che evocano i demoni,
+il comandante nemico verrà allo scoperto?",
+  "1.0.37.0" => "Eliminate quei fastidiosi nemici prima
+che trovino la porta delle anime!",
+  "1.0.38.0" => "Miei scagnozzi! Guidate quei cosi
+verso la base nemica!",
+  "1.0.39.0" => "Quei mostri neri stanno aumentando,
+che facciamo?!",
+  "1.0.40.0" => "Individuati demoni a capo dei Reclusi.
+Si consiglia intervento immediato.",
+  "1.0.41.0" => "Dobbiamo eliminare i capi di quei
+mostri? Ho capito!",
+  "1.0.42.0" => "Individuati Reclusi verso base alleata.
+Si consiglia eliminazione dei loro capi.",
+  "1.0.43.0" => "Se non li fermiamo, attaccheranno la
+base! Presto, andiamo all'attacco!",
+  "1.0.44.0" => "Forza, continuate a mandare i
+Reclusi verso la base nemica!",
+  "1.0.45.0" => "Quei mostri neri non fanno che
+aumentare... Devo proteggere i Coccò!",
+  "1.0.46.0" => "Chissà se quel pulcino è al sicuro...",
+  "1.0.47.0" => "Individuati numerosi Reclusi.
+Si consiglia attacco immediato.",
+  "1.0.48.0" => "Dobbiamo decimare un po' quei mostri
+neri? Ho capito, ce la metterò tutta!",
+  "1.0.49.0" => "Così non riusciremo a terminare il
+rituale! Eliminate quegli insetti!!!",
+  "1.0.50.0" => "Intensificate le difese! Non lasciateli
+avvicinare al portale delle anime!",
+  "1.0.51.0" => "Abbiamo sconfitto tutti i demoni
+che controllavano quei mostri neri!",
+  "1.0.52.0" => "Confermo che i Reclusi non vengono più
+controllati. Livello di pericolo diminuito.",
+  "1.0.53.0" => "Oooh! È diventato un Coccò d'oro!
+Che bello!",
+  "1.0.54.0" => "Assorbirò l'energia dei Reclusi e
+attaccherò il nemico personalmente!",
+  "1.0.55.0" => "Capo nemico in avvicinamento alla
+base alleata. Avvio operazione d'attacco.",
+  "1.0.56.0" => "Dobbiamo proteggere i Coccò!
+Ci penso io a sconfiggere il capo nemico!",
+  "1.0.57.0" => "Mi sento in gran forma adesso!
+Eliminerò quegli insetti uno per uno!",
+  "1.0.58.0" => "Il capo nemico assorbe l'energia
+dei Reclusi per potenziarsi.",
+  "1.0.59.0" => "Allora basta sconfiggere quei mostroni
+cattivi per indebolire il loro capo!",
+  "1.0.60.0" => "Sento l'energia scorrere in me!
+Tremate al cospetto del capo dei demoni!",
+  "1.0.61.0" => "Comandante nemico potenziato grazie
+all'assorbimento dell'energia dei Reclusi.",
+  "1.0.62.0" => "Come ha fatto a diventare così forte?
+Dobbiamo eliminare quei mostri neri!!!",
+  "1.0.63.0" => "Ehi, ma... che avete combinato?!",
+  "1.0.64.0" => "Ehi, il potenziamento si è dissolto! Avevi
+analizzato perfettamente la situazione!",
+  "1.0.65.0" => "Indebolimento del comandante nemico.
+Cogliere l'occasione per sconfiggerlo.",
+  "1.0.66.0" => "Dovete smetterla di mettermi i bastoni
+tra le ruote! Basta! Basta! Basta!",
+  "1.0.67.0" => "Si è proprio arrabbiato... ma lo
+vedo anche più deboluccio...",
+  "1.0.68.0" => "Conferma indebolimento comandante nemico.
+Possibilità di ulteriore indebolimento.",
+  "1.0.69.0" => "Vatti a fidare dei principianti. Riproverò
+personalmente il rituale!",
+  "1.0.70.0" => "Conferma eliminazione dei Reclusi.
+Grazie della collaborazione.",
+  "1.0.71.0" => "Sono contenta di essere stata utile!
+Ma... la mia bussola brilla di nuovo?!",
+  "1.0.72.0" => "Oh! Hanno sconfitto il capo dei Coccò...
+Adesso tutti i Coccò sono impazziti!",
+  "1.0.73.0" => "Ecco ciò che vi meritate per interferire
+con i miei piani! Levatevi di mezzo!",
+  "1.0.74.0" => "Hanno conquistato la nostra base!
+È tutto finito...",
+  "1.0.75.0" => "Finalmente ho eliminato quegli insetti
+e posso continuare il rituale...",
+  "1.0.76.0" => "Conferma espansione potere malvagio.
+Consiglio eliminazione di tutti i nemici.",
+  "1.0.77.0" => "Dobbiamo sconfiggere tutti i demoni che
+controllano quei mostri neri!",
+  "1.0.78.0" => "Confermata riduzione dei Reclusi. Si
+consiglia di procedere verso l'obiettivo.",
+  "1.0.79.0" => "Maledizione! Ma anche se la cerimonia è
+fallita, non è detta l'ultima parola!",
+  "1.0.80.0" => "Numero dei Reclusi in diminuzione.
+Si consiglia di procedere con la missione.",
+  "1.0.81.0" => "Maledetti insetti! Me la pagherete cara!",
+  "1.0.82.0" => "Ho sconfitto un sacco di mostri neri!
+Finalmente ho capito come affrontarli!",
+  "1.0.83.0" => "Smettetela di disturbarmi!
+Ora vi darò una bella lezione!",
+  "1.0.84.0" => "Presenza di Reclusi: non rilevata.
+Conferma eliminazione totale.",
+  "1.0.85.0" => "Anche se il rituale è fallito, come avete
+fatto a sconfiggere il mio Re?!",
+  "1.0.86.0" => "Non hanno ancora raggiunto la forma
+completa... questo è solo un assaggio!",
+  "1.0.87.0" => "I demoni sembrano più piccoli di quanto
+tramandi la leggenda. Eliminazione in corso.",
+  "1.0.88.0" => "Eh? Ma che mostriciattoli carini!!! Ma sempre
+di mostri si tratta, quindi vanno eliminati!",
+  "1.0.89.0" => "Sarà perché vi ho dato una mano?
+Ora devo correre al castello di Hyrule!",
+  "1.0.90.0" => "Questi fastidiosi Coccò non ci vogliono
+far conquistare l'area! Eliminateli!",
+  "1.0.91.0" => "Ma chi sei?! E come ti vesti?! Quel
+colore orrendo, senza stile... Bleah!",
+  "1.0.92.0" => "Questa tunica è importante per me! E poi
+senti chi parla, con quei capelli bislacchi!",
+  "1.0.93.0" => "Sei tu che mi metti i bastoni tra le
+ruote da un po'. Ora smettila!",
+  "1.0.94.0" => "Siamo inaspettatamente in vantaggio.
+Suggerimento di smetterla: non accolto.",
+  "1.0.95.0" => "Non sai proprio niente di cerimonie, vero?
+Smettila di mettermi i bastoni tra le ruote!",
+  "13.0.2.0" => "Non si può entrare dalla porta centrale, ma
+sconfitto il Guardaporta si può entrare da est.",
+  "13.0.3.0" => "Che succede...? Percepisco una presenza
+maligna tra le nostre truppe...",
+  "13.0.4.0" => "Forse quell'essere spregevole ora è in
+fondo al tempio.",
+  "13.0.5.0" => "I nostri alleati sono confusi!
+Ritiriamoci e mettiamoli in salvo!",
+  "13.0.6.0" => "Ci sarà qualcuno a capo dei traditori...?
+Se è così, dobbiamo distruggerlo!",
+  "13.0.7.0" => "Dove potrà mai essere il capo...
+Forse in un presidio? Che strano...",
+  "13.0.8.0" => "Tutti i nemici si dirigono verso quel presidio.
+Chissà se tra di loro c'è anche il capo...",
+  "13.0.9.0" => "Uno dei presidi non è stato attaccato dai nemici.
+Forse è lì che si nasconde il loro capo!",
+  "13.0.10.0" => "Avverto una strana presenza intorno a te.
+Il capo dei traditori potrebbe essere qui!",
+  "13.0.11.0" => "Ho trovato il capo dei traditori!
+È proprio lì, nel tuo stesso presidio!",
+  "13.0.12.0" => "Se continuano così, siamo finiti!
+Presto, sconfiggete il loro capo!",
+  "13.0.13.0" => "Per ora è tutto! Facciamo una pausa e
+poi attacchiamo il tempio!",
+  "13.0.14.0" => "Attenzione! È l'incarnazione delle tenebre...
+Non ha niente a che fare con gli altri nemici!",
+  "13.0.15.0" => "Oh, no! Quel demone oscuro si dirige
+verso la base alleata!",
+  "13.0.16.0" => "Sembra che quel mostro non gradisca
+gli attacchi alle dita dei piedi!",
+  "13.0.17.0" => "Sembra che stia accumulando energia. Forse
+ha intenzione di distruggere un presidio...",
+  "13.0.18.0" => "A quanto pare gli alleati hanno dei cannoni nei
+presidi. Usiamoli sul mostro appena si ferma!",
+  "13.0.19.0" => "Se spariamo adesso che è fermo,
+dovremmo riuscire a colpirlo!",
+  "13.0.20.0" => "Fuori i cannoni! Dobbiamo fermarlo
+prima che distrugga la nostra base!",
+  "13.0.21.0" => "Potremo sconfiggerlo solo bombardandolo.
+Occupate i presidi in cui si trovano le armi!",
+  "13.0.22.0" => "Il punto debole di quel mostro sono le dita
+dei piedi. Colpitele per fermarlo!",
+  "13.0.23.0" => "Le uniche armi rimaste sono nella base!",
+  "13.0.24.0" => "Il mostro è scomparso!",
+  "13.0.25.0" => "Altri nemici provenienti da ovest del tempio
+si dirigono verso la base? Link, fermali!",
+  "13.0.26.0" => "Sconfiggetelo e lanciatelo nella
+porta delle anime!",
+  "13.0.27.0" => "Ecco fatto, abbiamo chiuso la porta!
+Ottimo lavoro, ragazzi!",
+  "13.0.28.0" => "La base è caduta!
+Ormai è inutile continuare a combattere...",
+  "13.0.29.0" => "Link ha perso...!
+La battaglia è finita...",
+  "13.0.30.0" => "In quel presidio c'è il capo dei traditori!
+Prendetelo, forza!",
+  "13.0.31.0" => "Ora possiamo andare in fondo al tempio!",
+  "13.0.32.0" => "Attenzione, sta recuperando le forze!
+Annientatelo prima che colpisca la nostra base!",
+  "13.0.33.0" => "Il nemico attacca da ovest!
+Link, andiamo a intercettarlo!",
+  "13.0.34.0" => "Da ovest stanno arrivando altri nemici!",
+  "13.0.35.0" => "Abbiamo completato la missione!
+Ora dirigiamoci al tempio!",
+  "13.0.36.0" => "Percepisco una minaccia nelle vicinanze.
+Qualcuno sta convincendo i soldati a tradire!",
+  "13.0.37.0" => "Abbiamo individuato chi spinge i
+soldati al tradimento!",
+  "13.0.38.0" => "Quello è il capitano dei traditori!
+Prendiamolo!",
+  "13.0.39.0" => "È pericoloso combattere da solo, Link!
+Usiamo il teletrasporto per unirci agli altri!",
+  "13.0.40.0" => "Sta recuperando le forze con la magia!
+Forse possiamo fermarlo con un cannone!",
+  "13.0.41.0" => "Sta recuperando energie! Se conquistiamo
+il presidio, forse possiamo fermarlo!",
+  "13.0.42.0" => "Se recupera tutte le forze, non riusciremo
+a sconfiggerlo! Conquistiamo il presidio, presto!",
+  "13.0.43.0" => "Se ci attaccano i soldati d'assalto, il
+nemico prenderà ancora più fiducia!",
+}

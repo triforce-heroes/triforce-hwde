@@ -1,0 +1,369 @@
+Map {
+  "0.0.0" => "La Triforce, union harmonieuse de
+la force, de la sagesse et du courage,
+a fait l'objet d'innombrables batailles... ",
+  "0.1.0" => "Entre les forces de la lumière et celles
+des ténèbres depuis la nuit des temps.",
+  "0.2.0" => "Chaque fois que la Triforce tombait entre les mains
+des forces du mal, Hyrule était plongé dans le chaos.",
+  "0.3.0" => "Mais à chaque époque, un Héros tout de vert
+vêtu ramena la paix dans le royaume.",
+  "0.4.0" => "Durant l'une de ces guerres, le Héros légendaire
+brisa l'esprit du mal en quatre fragments...",
+  "0.5.0" => "Qui furent scellés pour mettre
+fin à ce cycle de destruction.",
+  "0.6.0" => "Trois de ces fragments furent dispersés
+à travers le temps et l'espace.",
+  "0.7.0" => "Le dernier fragment fut enfermé dans un temple
+bâti sur une terre sacrée, puis scellé par
+l'épée purificatrice.",
+  "1.0.0" => "Le peuple d'Hyrule se transmit l'histoire de cette guerre
+qui traversa les âges de génération en génération.",
+  "1.1.0" => "Voici comment elle commence...",
+  "1.2.0" => "Au cœur des forêts, loin du regard des mortels,
+une puissante sorcière veillait sur l'équilibre
+de la Triforce.",
+  "1.4.0" => "Ses pouvoirs lui permettaient de voir à travers les âges. Elle
+pouvait lire le destin des mortels, mais jamais n'intervenait.",
+  "1.6.0" => "Jusqu'au jour où une âme attira son attention...",
+  "1.7.0" => "Elle était celle du Héros de la légende, qui se réincarnait
+chaque fois que le destin d'Hyrule était menacé.",
+  "1.9.0" => "Subjuguée par cette âme sans pareille,
+la sorcière ne s'aperçut pas,",
+  "1.10.0" => "malgré ses pouvoirs, qu'elle
+était liée à l'âme d'une princesse.",
+  "1.11.0" => "La sorcière s'enferma alors dans son chagrin. ",
+  "1.12.0" => "Et un éclat de ténèbres, enfermé dans son
+antique prison,y vit l'opportunité de renaître.",
+  "1.13.0" => "Les ténèbres se frayèrent un chemin jusqu'au
+cœur de la sorcière.",
+  "1.14.0" => "Elles en chassèrent la lumière et persuadèrent
+la sorcière de s'emparer de l'âme du Héros
+de la légende.",
+  "1.16.0" => "Cet être démoniaque nourrissait de noirs desseins...",
+  "1.17.0" => "Il voulait ressusciter grâce au pouvoir de la Triforce
+et régner à nouveau sur Hyrule.",
+  "1.18.0" => "Une fois le cœur de la sorcière dévoré par
+les ombres,",
+  "1.19.0" => "celles-ci la poussèrent à ouvrir la porte des
+âmes, un portail sur le temps lui-même.",
+  "1.20.0" => "Des monstres venus de tous les âges
+déferlèrent  par la porte,",
+  "1.21.0" => "semant une fois encore la désolation sur
+les terres d'Hyrule.",
+  "2.0.0" => "Impa, j'ai encore fait un mauvais rêve.",
+  "2.1.0" => "De sombres menaces planent sur le royaume d'Hyrule...",
+  "2.2.0" => "De sombres menaces?",
+  "2.3.0" => "Si c'est le cas, nous devons le trouver au plus vite...",
+  "2.4.0" => "Le Héros digne de porter l'habit légendaire.",
+  "2.5.0" => "Nous ne trouverons que des nouvelles recrues ici...",
+  "2.6.0" => "Nous devrions sûrement commencer nos recherches ailleurs.",
+  "2.7.0" => "Votre Altesse!",
+  "2.8.0" => "Une horde de monstres marche sur Hyrule!",
+  "2.9.0" => "Préparez-vous au combat immédiatement!",
+  "2.10.0" => "Hé, c'est la princesse, non?",
+  "2.11.0" => "Qu'est-ce que la princesse Zelda vient faire par ici?",
+  "2.12.0" => "On dirait que la princesse a des ennuis...",
+  "2.13.0" => "Link...?!",
+  "2.14.0" => "Qu'est-ce que tu comptes faire avec cette arme?",
+  "2.15.0" => "Zelda",
+  "2.16.0" => "Impa",
+  "2.17.0" => "Zelda",
+  "2.18.0" => "Impa",
+  "2.19.0" => "Impa",
+  "2.20.0" => "Impa",
+  "2.21.0" => "Impa",
+  "2.22.0" => "Soldat",
+  "2.23.0" => "Soldat",
+  "2.24.0" => "Zelda",
+  "2.25.0" => "Nouvelle recrue",
+  "2.26.0" => "Nouvelle recrue",
+  "2.27.0" => "Nouvelle recrue",
+  "2.28.0" => "Nouvelle recrue",
+  "2.29.0" => "Nouvelle recrue",
+  "3.0.0" => "Rassemblez-vous autour de moi!",
+  "3.1.0" => "Portes des âmes cachées dans les replis du temps...
+Écoutez mon appel... et ouvrez-vous!",
+  "3.2.0" => "Ainsi, les fragments de mon âme seront libérés!",
+  "3.3.0" => "Ha!",
+  "3.4.0" => "Bon travail, Cya...",
+  "3.5.0" => "Trois des fragments de mon âme sont réunis.",
+  "3.6.0" => "Il ne nous reste qu'à récupérer celui
+qui est scellé par l'épée maîtresse...",
+  "3.7.0" => "Lana",
+  "3.8.0" => "???",
+  "3.9.0" => "???",
+  "3.10.0" => "Cya",
+  "3.11.0" => "???",
+  "3.12.0" => "???",
+  "3.13.0" => "???",
+  "4.0.0" => "Pardonnez-moi de ne vous avoir rien dit.",
+  "4.1.0" => "Mais pour détourner les regards ennemis, je
+devais garder mon identité secrète.",
+  "4.2.0" => "Link, tu as été exceptionnel.",
+  "4.3.0" => "J'ai vu que tu avais quelque chose de
+spécial dès le premier regard.",
+  "4.4.0" => "Nous avons fermé toutes les portes des âmes.
+L'espace et le temps sont plus stables à présent.",
+  "4.5.0" => "Il est temps de..",
+  "4.6.0" => "Hé, attends un peu! Tu n'as pas quelque chose
+à nous dire, avant?",
+  "4.7.0" => "Euh... si... Je... ",
+  "4.8.0" => "Je vous ai dit que Cya et moi étions du même
+clan... Ce n'est pas tout à fait vrai...",
+  "4.9.0" => "Cya et moi n'étions à l'origine
+qu'une seule et même personne.",
+  "4.10.0" => "Mais... comment...?",
+  "4.11.0" => "Quelqu'un a chassé la lumière du cœur de Cya
+pour pouvoir la manipuler...",
+  "4.12.0" => "Je suis issue de cette lumière. Je suis cette
+moitié qui a été arrachée à Cya.",
+  "4.13.0" => "Et le monstre responsable de cette tragédie...",
+  "4.14.0" => "Tu ne m'es plus d'aucune utilité...",
+  "4.15.0" => "Qui est là?",
+  "4.16.0" => "Ça suffit...
+J'ai déjà récupéré trois fragments de mon âme...",
+  "4.17.0" => "Mes pouvoirs ne seront pas entièrement restaurés,
+mais je peux récupérer mon corps.",
+  "4.18.0" => "Toi!",
+  "4.19.0" => "Cya, tu as été une marionnette des plus utile.",
+  "4.20.0" => "Non, c'est impossible... Je... Je ne te laisserai pas
+te servir de moi plus longtemps!",
+  "4.21.0" => "Peu importe... Je n'ai plus besoin de toi!
+Je vais briser la dernière barrière moi-même.",
+  "4.22.0" => "Mais... ce corps... je manque encore de puissance...",
+  "4.23.0" => "Avec le pouvoir des Déesses cependant...",
+  "4.24.0" => "Je pourrai récupérer toutes mes forces
+et conquérir ce royaume!",
+  "4.25.0" => "La Triforce...",
+  "4.26.0" => "... SERA MIENNE!",
+  "4.27.0" => "Quoi?!",
+  "4.28.0" => "Misérable!",
+  "4.29.0" => "Les Triforces du courage et de la sagesse
+sont perdues!",
+  "4.30.0" => "Argh!",
+  "4.31.0" => "Toutes les parties de la Triforce seront
+à nouveau à moi. À moi et à moi seule!",
+  "4.32.0" => "Ainsi que le Héros...",
+  "4.33.0" => "Zelda",
+  "4.34.0" => "Zelda",
+  "4.35.0" => "Zelda",
+  "4.36.0" => "Zelda",
+  "4.37.0" => "Lana",
+  "4.38.0" => "Lana",
+  "4.39.0" => "Midona",
+  "4.40.0" => "Lana",
+  "4.41.0" => "Lana",
+  "4.42.0" => "Lana",
+  "4.43.0" => "Zelda",
+  "4.44.0" => "Lana",
+  "4.45.0" => "Lana",
+  "4.46.0" => "Lana",
+  "4.47.0" => "???",
+  "4.48.0" => "Cya",
+  "4.49.0" => "???",
+  "4.50.0" => "???",
+  "4.51.0" => "Cya",
+  "4.52.0" => "Ganondorf",
+  "4.53.0" => "Cya",
+  "4.54.0" => "Ganondorf",
+  "4.55.0" => "Ganondorf",
+  "4.56.0" => "Ganondorf",
+  "4.57.0" => "Ganondorf",
+  "4.58.0" => "Cya",
+  "4.59.0" => "Cya",
+  "4.60.0" => "Ganondorf",
+  "4.61.0" => "Ganondorf",
+  "4.62.0" => "Cya",
+  "4.63.0" => "Ganondorf",
+  "4.64.0" => "Cya",
+  "4.65.0" => "Cya",
+  "5.0.0" => "Cya...",
+  "5.1.0" => "Tu es mon autre moitié... Toi aussi, tu dois éprouver des
+sentiments pour une personne à jamais inaccessible.",
+  "5.2.0" => "Peux-tu continuer à les taire?",
+  "5.3.0" => "De tout temps, ils ont été unis par un lien très fort que
+personne ne peut comprendre... et encore moins briser.",
+  "5.4.0" => "Ha ha... Tu es incorrigible...",
+  "5.5.0" => "Le futur d'Hyrule est entre vos mains à présent.",
+  "5.6.0" => "Rendons à Hyrule son apparence d'origine.",
+  "5.7.0" => "Voilà, tout est redevenu comme avant.",
+  "5.8.0" => "Et il est temps pour moi de repartir.",
+  "5.9.0" => "Lana...",
+  "5.10.0" => "Est-ce que... nous nous reverrons?",
+  "5.11.0" => "... Au revoir.",
+  "5.12.0" => "Lana",
+  "5.13.0" => "Cya",
+  "5.14.0" => "Cya",
+  "5.15.0" => "Lana",
+  "5.16.0" => "Cya",
+  "5.17.0" => "Midona",
+  "5.18.0" => "Zelda",
+  "5.19.0" => "Lana",
+  "5.20.0" => "Lana",
+  "5.21.0" => "Zelda",
+  "5.22.0" => "Zelda",
+  "5.23.0" => "Lana",
+  "6.0.0" => "Tout le monde est parti...",
+  "6.1.0" => "Il ne reste plus qu'à replacer l'épée maîtresse
+dans son socle et tout sera enfin fini.",
+  "6.2.0" => "Mais ce n'est pas à moi que revient cette tâche.",
+  "6.3.0" => "Une fois encore, la paix est revenue à Hyrule grâce à vous...",
+  "6.4.0" => "Au revoir, Link.",
+  "6.5.0" => "Link...",
+  "6.6.0" => "Lana",
+  "6.7.0" => "Lana",
+  "6.8.0" => "Lana",
+  "6.9.0" => "Lana",
+  "6.10.0" => "Lana",
+  "6.11.0" => "Zelda",
+  "43.0.0" => "Mmmh...",
+  "43.1.0" => "Hé, Linkle!",
+  "43.2.0" => "T'as entendu ça? Le château d'Hyrule
+est assiégé par des monstres!",
+  "43.3.0" => "Quoi?! Vraiment?!",
+  "43.4.0" => "La princesse Zelda elle-même dirige les troupes
+qui les combattent... S'ils arrivent jusqu'ici...",
+  "43.5.0" => "Hé, mais qu'est-ce que tu fais?",
+  "43.6.0" => "Tu vois bien, je vais me battre!
+Et je vais arrêter ces monstres!",
+  "43.7.0" => "Ma grand-mère m'a toujours dit qu'en réalité,
+c'était moi le Héros de la légende!",
+  "43.8.0" => "Mais... toutes les grand-mères disent ça
+à leurs petits-enfants...",
+  "43.9.0" => "Regarde!",
+  "43.10.0" => "C'est la boussole que ma grand-mère m'a offerte. Elle est
+magique! Ça bien la preuve que je suis le Héros non?",
+  "43.11.0" => "Maintenant, si tu veux bien m'excuser,
+j'ai un château à sauver!",
+  "43.12.0" => "Linkle",
+  "43.13.0" => "Villageois",
+  "43.14.0" => "Villageois",
+  "43.15.0" => "Linkle",
+  "43.16.0" => "Villageois",
+  "43.17.0" => "Villageois",
+  "43.18.0" => "Linkle",
+  "43.19.0" => "Linkle",
+  "43.20.0" => "Villageois",
+  "43.21.0" => "Linkle",
+  "43.22.0" => "Linkle",
+  "43.23.0" => "Linkle",
+  "44.4.0" => "Tu as bien combattu.",
+  "44.5.0" => "Ha ha, de rien, commandant Impa! Je faisais
+juste mon devoir en tant qu'héroïne légendaire!",
+  "44.6.0" => "Je suis sûre que ma grand-mère
+serait très fière de moi.",
+  "44.7.0" => "Oui, j'en suis certaine moi aussi.",
+  "44.12.0" => "Impa",
+  "44.13.0" => "Linkle",
+  "44.14.0" => "Linkle",
+  "44.15.0" => "Impa",
+  "45.0.0" => "Je sens une autre faille entre les ères.
+Peux-tu aller voir ce qu'il en est?",
+  "45.1.0" => "Il faut que j'y aille, moi aussi.",
+  "45.2.0" => "Non, Votre Altesse, on a besoin
+de vous autant que de moi ici.",
+  "45.3.0" => "Link, nous devons te demander 
+de t'en charger.",
+  "45.4.0" => "Que... qu'est-ce qu'il s'est passé?",
+  "45.5.0" => "Impa",
+  "45.6.0" => "Zelda",
+  "45.7.0" => "Impa",
+  "45.8.0" => "Impa",
+  "45.9.0" => "Tetra",
+  "46.0.0" => "Ces terres sont en paix à présent.
+La lumière continuera à briller sur ce monde.",
+  "46.1.0" => "En espérant qu'on se reverra un jour!",
+  "46.2.0" => "Il faut y aller. Il est temps de reconstruire,
+comme nous l'avons toujours fait...",
+  "46.3.0" => "Roi Daphnès",
+  "46.4.0" => "Tetra",
+  "46.5.0" => "Lana",
+  "49.0.0" => "Linkle quitta son village, jurant
+de ramener la paix à Hyrule.",
+  "49.1.0" => "Elle serrait entre ses doigts la boussole
+que lui avait offerte sa grand-mère.",
+  "49.2.0" => "Mais son précieux trésor lui fut bien vite
+dérobé par un malicieux lutin.",
+  "49.3.0" => "Linkle le pourchassa, tentant de le convaincre
+de lui rendre sa boussole, sans succès.",
+  "49.4.0" => "Et quelque chose de très étrange arriva...",
+  "49.5.0" => "Comme reliée à ses pensées, la boussole
+se mit à émettre une mystérieuse lumière.",
+  "49.6.0" => "La boussole semblait réagir à ses émotions.
+Linkle l'attacha à son cou et jura de ne plus
+se la faire voler.",
+  "49.7.0" => "La lueur de la boussole restait 
+cependant un mystère pour elle.",
+  "49.8.0" => "Elle n'avait aucune idée des secrets
+qu'elle pouvait renfermer.",
+  "49.9.0" => "Quoi qu'il en fût, c'était bien le signe
+qu'elle était le Héros de la légende.",
+  "49.10.0" => "Si elle parvenait à en maîtriser le pouvoir, peut-être
+pourrait-elle réaliser sa destinée et sauver Hyrule?",
+  "49.11.0" => "Pleine d'espoir, Linkle reprit sa route.",
+  "50.0.0" => "Midona et Linkle se rendirent au palais du
+Crépuscule pour sauver Zelda et arrêter
+la magie des ombres.",
+  "50.1.0" => "Bien qu'elles aient gagné la bataille, le Crépuscule
+continuait à dévorer tout ce qui l'entourait.",
+  "50.2.0" => "Midona prit alors une décision difficile :
+elle briserait le cristal qu'elles avaient
+trouvé dans le palais.",
+  "50.3.0" => "Ainsi, elle libèrerait peut-être assez d'énergie
+pour sceller la magie des ombres.",
+  "50.4.0" => "Mais ce plan ne serait pas sans conséquence, 
+car Midona reprendrait sa forme maudite.",
+  "50.5.0" => "Malgré le prix à payer, Midona n'hésita pas une
+seule seconde. Elle devait sauver Zelda.",
+  "50.6.0" => "La détermination de Midona remplit
+Linkle de courage.",
+  "50.7.0" => "Animée d'un nouveau souffle, Linkle continua
+sa route vers le château d'Hyrule.",
+  "51.0.0" => "Dans ce nouveau monde, Link rencontra
+Tetra, la chef des pirates, et ils s'allièrent
+pour repousser les monstres.",
+  "51.1.0" => "Mais le mal qu'ils combattaient était plus
+fort qu'ils ne l'avaient imaginé...",
+  "51.2.0" => "Après leur victoire, Link aperçut la silhouette d'un
+oiseau gigantesque volant haut dans le ciel.",
+  "51.3.0" => "Plissant les yeux, il parvint à apercevoir quelque
+chose dans les griffes de l'énorme animal...",
+  "51.4.0" => "Ou plutôt quelqu'un...
+Il s'agissait de Tetra!",
+  "51.5.0" => "Link devait réagir rapidement, ou
+elle serait emportée pour toujours.",
+  "51.6.0" => "Sans hésitation, il se rua à la poursuite
+de l'oiseau pour la sauver.",
+  "52.0.0" => "Lana et Link avaient sauvé Tetra et
+refermé toutes les portes des âmes.",
+  "52.1.0" => "Mais les changements qu'avaient subis
+Hyrule semblaient irréversibles.",
+  "52.2.0" => "Lana, Link et Tetra ne savaient plus quoi
+faire...",
+  "52.3.0" => "C'est alors qu'un illustre personnage apparut
+devant eux.",
+  "52.4.0" => "Il s'agissait du roi Daphnès Nohansen
+Hyrule, le Lion rouge en personne!",
+  "52.5.0" => "Dans le monde de Tetra, le roi Daphnès avait
+dirigé un antique royaume scellé à jamais.",
+  "52.6.0" => "Envoyé par les Déesses, il se présenta
+devant nos héros, pour sauver ce monde
+meurtri par les batailles.",
+  "52.7.0" => "Il leur expliqua que l'être maléfique à
+l'origine de ce conflit se cachait dans
+le monde de Tetra.",
+  "52.8.0" => "Avec leur objectif identifié, la route de
+nos héros étaient à présent toute tracée.",
+  "52.9.0" => "Et ils mirent en route malgré l'appréhension
+de la terrible bataille qui s'annonçait.",
+  "53.0.0" => "Ainsi, la paix revint à Hyrule.",
+  "53.1.0" => "Lana et Cya quittèrent Link et retournèrent
+jouer leur rôle de veilleuse du temps dans
+la vallée des sorcières.",
+  "53.2.0" => "Force...
+Sagesse...",
+  "53.3.0" => "Et Courage.",
+  "53.4.0" => "Ensemble, elles continuent à veiller sur l'équilibre
+de la Triforce, dans la paix et l'harmonie.",
+}

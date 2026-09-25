@@ -1,0 +1,18 @@
+Map {
+  "0.0.0" => "Prepare for a magic thief!",
+  "0.1.0" => "A0%1sF0R appeared on the battlefield!",
+  "0.2.0" => "Don't let A0%1sF4R get too close!",
+  "0.3.0" => "A0%1sF6R stole your magic!",
+  "0.4.0" => "Defeat the real A0%1sF2R to retrieve your magic!",
+  "0.5.0" => "A0%1sF0R is advancing toward A0%2sF6R!",
+  "0.6.0" => "A0%1sF0R temporarily retreated!",
+  "0.7.0" => "A0%1sF0R reappeared along with a double!",
+  "0.8.0" => "The real A0%1sF0R has your magic!",
+  "0.9.0" => "You defeated A0%1sF2R's double!",
+  "0.10.0" => "You failed to defeat A0%1sF4R!",
+  "0.11.0" => "You defeated A0%1sF4R!",
+  "0.12.0" => "The real A0%1sF2R is about to depart!",
+  "0.13.0" => "The real A0%1sF0R departed from the battlefield!",
+  "0.14.0" => "You defeated the real A0%1sF2R!",
+  "0.15.0" => "A0%1sF0R's double disappeared after you defeated the real one!",
+}

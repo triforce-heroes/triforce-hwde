@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "A0%1sF6R rejoint le champ de bataille avec un A6trésorR !",
+  "0.2.0" => "A0%1sF4R va de fort en fort en se mêlant aux soldats ennemis !",
+  "0.3.0" => "Éliminez A0%1sF0R et récupérez son A6trésorR !",
+  "0.4.0" => "Vous avez repéré A0%1sF0R !",
+  "0.5.0" => "A0%1sF4R s'enfuit !",
+  "0.6.0" => "Vous avez perdu A0%1sF0R de vue !",
+  "0.7.0" => "Vous avez vaincu A0%1sF0R !",
+}

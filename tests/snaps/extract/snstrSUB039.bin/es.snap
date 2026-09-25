@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario "La llegada del rey"!",
+  "0.1.0" => "¡A0%1sF0R y A2sus secuacesR han aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R y A2sus secuacesR se dirigen A0%2sF4R!",
+  "0.3.0" => "¡Vence A0%1sF4R y consigue la victoria!",
+  "0.4.0" => "¡A0%1sF0R y A1sus secuacesR se han aliado contigo!",
+  "0.5.0" => "¡A0%1sF0R y A1sus secuacesR se dirigen hacia las A0%2sF1R!",
+  "0.6.0" => "¡Has vencido a uno de los A2secuacesR A0%1sF6R!",
+  "0.7.0" => "¡Has vencido A0%1sF4R!",
+  "0.8.0" => "¡A0%1sF0R se está debilitando!",
+  "0.9.0" => "¡A0%1sF0R y A1su secuazR se han aliado contigo!",
+  "0.10.0" => "¡A0%1sF0R y A1su secuazR se dirigen hacia las A0%2sF1R!",
+  "0.11.0" => "¡A0%1sF0R y A2su secuazR se dirigen A0%2sF4R!",
+}

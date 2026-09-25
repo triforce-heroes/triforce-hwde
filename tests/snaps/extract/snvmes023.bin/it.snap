@@ -1,0 +1,110 @@
+Map {
+  "1.0.0.0" => "Oh, no! La città è sotto assedio!
+Dobbiamo cacciare i demoni!",
+  "1.0.1.0" => "I mostri arrivano dalla fortezza dei demoni!
+Lì troveremo il loro capo!",
+  "1.0.2.0" => "Ma questa roccia enorme ci impedisce
+di andare avanti... dobbiamo eliminarla!",
+  "1.0.3.0" => "Hanno conquistato uno dei presidi in
+città! Dobbiamo riprendercelo!",
+  "1.0.4.0" => "Allora pensiamo a un modo per distruggere
+la roccia mentre ripuliamo l'area dai nemici!",
+  "1.0.5.0" => "(Eliminiamo quell'uccellaccio e la fortezza
+dei demoni sarà nostra!)",
+  "1.0.6.0" => "I demoni vogliono allargare il proprio
+territorio. Non avranno mai l'Isola Taura!",
+  "1.0.7.0" => "I demoni attaccano su tre lati!
+Forse è meglio se ci dividiamo!",
+  "1.0.8.0" => "Noi terremo a bada quelli a est, voi
+occupatevi di quelli al centro!",
+  "1.0.9.0" => "Guardate! C'è una nave laggiù!",
+  "1.0.10.0" => "Quello sì che è un cannone...
+Chissà se possiamo usarlo...",
+  "1.0.11.0" => "Quel passaggio... odora di tesoro!",
+  "1.0.12.0" => "La città sarà al sicuro per un po'!
+Continuiamo così!",
+  "1.0.13.0" => "Con questo martello, forse potremmo
+colpire qualcosa!",
+  "1.0.14.0" => "(Quegli esseri stanno tramando qualcosa...
+Raggiungeteli ed eliminateli!)",
+  "1.0.15.0" => "Questi demoni non finiscono mai!
+Presto, dobbiamo distruggere la roccia!",
+  "1.0.16.0" => "(Ce l'abbiamo fatta! Abbiamo cacciato
+quell'uccellaccio!)",
+  "1.0.17.0" => "Oh, no! Sull'Isola Taura c'è
+un uccello enorme!",
+  "1.0.18.0" => "È Re Elmaroc, un mostro che rapisce la
+gente! Ma potrebbe attaccare anche i presidi!",
+  "1.0.19.0" => "È troppo veloce per noi quell'uccello!
+Non riusciremo mai a raggiungerlo!",
+  "1.0.20.0" => "È scappato! Ora andiamo dal
+capo dei demoni!",
+  "1.0.21.0" => "Finalmente possiamo attaccare anche noi!",
+  "1.0.22.0" => "Ci sono altre rocce come quella di prima!
+Distruggiamole tutte!",
+  "1.0.23.0" => "Ce l'abbiamo fatta! La strada è libera!",
+  "1.0.24.0" => "Conquistando il presidio all'entrata della
+fortezza bloccheremo i loro rinforzi!",
+  "1.0.25.0" => "I demoni vengono fuori dalle altre entrate della
+fortezza! Conquistiamo tutti i presidi!",
+  "1.0.26.0" => "Bene! Abbiamo fermato i rinforzi
+nemici dalla fortezza dei demoni!",
+  "1.0.27.0" => "Abbiamo quasi raggiunto il loro boss!
+Gliela faremo vedere noi!",
+  "1.0.28.0" => "(Abbiamo perso l'occasione di allargare
+i nostri confini. Non fateli scappare!)",
+  "1.0.29.0" => "Quel mostro ha preso di mira la città!",
+  "1.0.30.0" => "Oh, no! Dobbiamo proteggere la città!",
+  "1.0.31.0" => "Quell'uccellaccio ancora non si è arreso!
+Non possiamo ignorarlo... fermiamolo!",
+  "1.0.32.0" => "Cerchi ancora di scappare?
+Non mi sfuggirai!",
+  "1.0.33.0" => "Ma dov'è finita Dazel? Sarà andata a
+rincorrere quel volatile...",
+  "1.0.34.0" => "(Vi siete fatti battere?! Datevi da
+fare, esseri inutili!!!)",
+  "1.0.35.0" => "Abbiamo scacciato quel mostro!
+Ora tocca al boss!",
+  "1.0.36.0" => "Non riusciamo a fermare quel mostro... Se
+non facciamo qualcosa, la città è spacciata!",
+  "1.0.37.0" => "Abbiamo sconfitto il loro boss, capitano!
+Ora resta soltanto quella creatura!",
+  "1.0.38.0" => "L'orda di demoni è in ritirata!
+La vittoria è nelle nostre mani!",
+  "1.0.39.0" => "Ma Dazel... dove si è cacciata?!",
+  "1.0.40.0" => "Ci hanno portato via la base...
+Non possiamo continuare a combattere!",
+  "1.0.41.0" => "(Aaargh! È la fine!)",
+  "1.0.42.0" => "I nemici continuano a uscire a fiumi
+dalla fortezza dei demoni!",
+  "1.0.43.0" => "Se non fermiamo l'orda di demoni,
+la città non ha speranza!",
+  "1.0.44.0" => "I nostri alleati hanno perso... se non fermiamo
+i nemici a est, la città sarà in pericolo!",
+  "1.0.45.0" => "Per fortuna abbiamo difeso l'Isola Taura!
+Ma... Dazel?!",
+  "1.0.46.0" => "Dove si sarà cacciato quell'uccellaccio?
+Non può essere andato lontano...",
+  "1.0.47.0" => "È scappato di nuovo! Ma adesso è
+più importante proteggere la città!",
+  "1.0.48.0" => "Se riesci a premere l'interruttore vicino alla
+nave, forse potremo usare il cannone!",
+  "1.0.49.0" => "Non dobbiamo fallire,
+scagliatelo più in alto possibile!",
+  "1.0.50.0" => "Forse è meglio collaborare!
+Diamoci da fare!",
+  "1.0.51.0" => "I demoni attaccano da est!
+Dobbiamo fermarli!",
+  "1.0.52.0" => "Tempo fa, quest'isola era il covo perfetto
+per i pirati, ma ora è un luogo pericoloso!",
+  "1.0.53.0" => "I nemici hanno raggiunto la nostra base!
+Torniamo subito indietro!",
+  "1.0.54.0" => "(Fatti sotto, se pensi di essere
+forte a sufficienza!)",
+  "1.0.55.0" => "Quei demoni sembrano piuttosto forti!
+Non possiamo farli entrare in città!",
+  "1.0.56.0" => "Quell'uccellaccio è di nuovo qui!
+È tenace, devo dargliene atto...",
+  "1.0.57.0" => "Forza, attacchiamo tutti insieme!
+Con l'ocarina sarà una passeggiata!",
+}

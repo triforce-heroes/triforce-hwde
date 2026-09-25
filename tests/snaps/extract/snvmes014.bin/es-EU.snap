@@ -1,0 +1,111 @@
+Map {
+  "1.0.0.0" => "No tenemos ninguna opción de salir
+victoriosos. Creo que lo mejor será retirarse.",
+  "1.0.1.0" => "No pienso permitirlo. ¡No ahora que la Trifuerza
+del Poder está a mi alcance!",
+  "1.0.2.0" => "El poder sagrado impregna algunos bastiones.
+Si acabamos con él, perderán la esperanza.",
+  "1.0.3.0" => "Están desesperados por hacer que la hechicera
+huya. Creo que me voy a divertir un rato...",
+  "1.0.4.0" => "¡Contemplad mi poder!",
+  "1.0.5.0" => "¡Atraed a Grahim y a Zant
+hacia los bastiones!",
+  "1.0.6.0" => "¿Qué estará planeando esa jovencita?",
+  "1.0.7.0" => "¡Hemos logrado atrapar a Grahim!",
+  "1.0.8.0" => "¡Es nuestra oportunidad! Unamos nuestras
+fuerzas para hacer retroceder al enemigo.",
+  "1.0.9.0" => "¡También hemos atrapado a Zant!",
+  "1.0.10.0" => "¡Hagamos retroceder al enemigo en esa zona!",
+  "1.0.11.0" => "Los refuerzos no tardarán en llegar.
+¡Aguantad un poco más!",
+  "1.0.12.0" => "Mis acciones nos han traído hasta aquí.
+Intentaré actuar mejor en el futuro.",
+  "1.0.13.0" => "El plan de una listilla no logrará acabar conmigo.",
+  "1.0.14.0" => "Mis disculpas. Intentaré enmendarlo cuanto antes.",
+  "1.0.15.0" => "El plan de una listilla no logrará acabar conmigo.",
+  "1.0.16.0" => "El poder sagrado ha vuelto a apagarse.",
+  "1.0.17.0" => "¡Ya no podéis huir de mí! Dadme la Trifuerza
+del Poder.",
+  "1.0.18.0" => "¡Hemos derrotado a Zant! ¡Así aprenderán
+a no meterse con los goron!",
+  "1.0.19.0" => "¡Hemos acabado con Grahim! Y aún nos quedan
+fuerzas para mucho más.",
+  "1.0.20.0" => "Lana, ¿estás bien? ¡Hemos venido a ayudarte!",
+  "1.0.21.0" => "¡Gracias por venir, Impa!",
+  "1.0.22.0" => "Ya es hora de que ponga en práctica
+las técnicas secretas de mi clan.",
+  "1.0.23.0" => "¡No era yo! Qué pena, ¿eh?",
+  "1.0.24.0" => "¿Dobles? Vaya truco de principiante...",
+  "1.0.25.0" => "Si derrotamos a la verdadera,
+las dobles desaparecerán.",
+  "1.0.26.0" => "Si amenazamos a Lana, Impa perderá la
+compostura y sabremos cuál es la verdadera.",
+  "1.0.27.0" => "No parece una mala idea.",
+  "1.0.28.0" => "¡Habéis vuelto a fallar!
+Esa también era una doble.",
+  "1.0.29.0" => "Creo que es mejor seguir mi plan. Vayamos
+a la base de Lana a sembrar el caos.",
+  "1.0.30.0" => "¡No me lo puedo creer!
+¡El enemigo ya está aquí!",
+  "1.0.31.0" => "Lana está en apuros... ¡Aguanta, ya voy!",
+  "1.0.32.0" => "Vaya, vaya... Creo que ya sabemos cuál es
+la verdadera.",
+  "1.0.33.0" => "Tus truquitos ya no sirven de nada. ¡Prepárate!",
+  "1.0.34.0" => "He logrado engañarte con mi técnica.
+¡La victoria es mía!",
+  "1.0.35.0" => "Mi plan ha fracasado...",
+  "1.0.36.0" => "¡Malditos mocosos!",
+  "1.0.37.0" => "¿Cómo lo habrá averiguado? Ahora mis dobles
+se debilitarán.",
+  "1.0.38.0" => "Todo está a punto. Aunque me derroten,
+Lana podrá escapar.",
+  "1.0.39.0" => "Ahora solo falta capturar a la hechicera.",
+  "1.0.40.0" => "Todo está a punto. Aunque me derroten,
+Lana podrá escapar.",
+  "1.0.41.0" => "¡Protegeremos a Lana!",
+  "1.0.42.0" => "¿Qué pretendéis? ¡Quitadlos de en medio
+y atrapad a la hechicera!",
+  "1.0.43.0" => "¡La Trifuerza del Poder volverá a ser mía!",
+  "1.0.44.0" => "Así que solo era una doble...
+¿Tan difícil es capturar a una chiquilla?",
+  "1.0.45.0" => "¡Lana! Puedes usar el círculo mágico para huir.",
+  "1.0.46.0" => "¡Nadie va a huir!",
+  "1.0.47.0" => "No eres tan poderosa sin tus amiguitos, ¿eh?",
+  "1.0.48.0" => "Cya y yo éramos una sola persona.
+Quizás si vuelvo a dividirme...",
+  "1.0.49.0" => "No parece la misma técnica, ¡todas son
+reales! No podemos dejar que escapen.",
+  "1.0.50.0" => "¡A por la chica! No dejéis que escape.",
+  "1.0.51.0" => "Yo me encargaré de la que
+se ha ido por el oeste.",
+  "1.0.52.0" => "Yo iré a por la del este, y haré que se arrepienta
+de lo que ha hecho.",
+  "1.0.53.0" => "Solo un poco más... La magia
+me hará más fuerte.",
+  "1.0.54.0" => "Qué inepta. Lo único que hace es desperdiciar
+energía.",
+  "1.0.55.0" => "¡Date prisa, Lana! Si alcanzas el círculo mágico,
+no podrán atraparte.",
+  "1.0.56.0" => "¡Id a por ella! ¡No permitáis que huya!",
+  "1.0.57.0" => "¡Va a escapar!",
+  "1.0.58.0" => "¡Espera!",
+  "1.0.59.0" => "Me ha causado muchos problemas, pero ha
+merecido la pena. ¡Tengo la Trifuerza del Poder!",
+  "1.0.60.0" => "El próximo objetivo es el Castillo de Hyrule,
+donde están los dos fragmentos restantes.",
+  "1.0.61.0" => "Mi ambición por conseguir la Trifuerza
+me ha llevado demasiado lejos...",
+  "1.0.62.0" => "Malditos truquitos...",
+  "1.0.63.0" => "¡Bravo, hemos logrado aislar
+a Zant!",
+  "1.0.64.0" => "Con esto quizás podamos hacer
+retroceder al enemigo del otro lado.",
+  "1.0.65.0" => "¡Si capturamos su base, venceremos!
+¡Juntos podremos hacerlo!",
+  "1.0.66.0" => "¡Adelante! ¡Estamos contigo!",
+  "1.0.67.0" => "¡Huiré cueste lo que cueste!
+No permitiré que esto acabe aquí.",
+  "1.0.68.0" => "Solo queda una, ¡y la victoria será
+nuestra!",
+  "1.0.69.0" => "¡Eh, tú! ¡Enfréntate a mí!",
+}

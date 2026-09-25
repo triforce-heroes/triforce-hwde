@@ -1,0 +1,193 @@
+Map {
+  "1.0.0.0" => "Éliminez tous les survivants!",
+  "1.0.1.0" => "Ce mage semble être leur chef... Si on parvient
+à le vaincre, nos ennemis devraient s'enfuir.",
+  "1.0.2.0" => "Il ne me reste plus qu'à me
+débarrasser de ce monstre!",
+  "1.0.3.0" => "On dirait que cette plante répand son poison
+partout dans les environs...",
+  "1.0.4.0" => "Cette fille semble savoir beaucoup de choses. On
+pourrait avoir besoin de son aide. Il faut la protéger!",
+  "1.0.5.0" => "Une baba mojo! Nous devons l'attaquer à
+distance, ou nous finirons tous empoisonnés.",
+  "1.0.6.0" => "Dans ce cas, nous allons vous aider.",
+  "1.0.7.0" => "Cette plante vénéneuse... Quand on l'attaque
+au corps à corps, elle évite tous nos assauts...",
+  "1.0.8.0" => "On pourrait peut-être l'attaquer à distance!
+Est-ce que quelqu'un a un arc?",
+  "1.0.9.0" => "Si mes souvenirs sont bons, un arc est
+entreposé quelque part au sud du village.",
+  "1.0.10.0" => "Parfait! Occupe-toi des autres à présent!",
+  "1.0.11.0" => "On a plus à s'inquiéter du poison maintenant...
+Les choses devraient être plus faciles.",
+  "1.0.12.0" => "Bande d'imbéciles! Je ne vous laisserai
+pas vous enfuir aussi facilement!",
+  "1.0.13.0" => "Encerclez ce gros arbre,
+et massacrez-les!",
+  "1.0.14.0" => "Vous avez l'air fatigués... Réfugions-nous à
+l'intérieur du vénérable Arbre Mojo pour l'instant!",
+  "1.0.15.0" => "Je vais retenir les ennemis ici.
+Allez vous mettre à l'abri!",
+  "1.0.16.0" => "Alors, ils se sont retranchés dans leur base...
+Encerclez l'arbre et massacrez-les!",
+  "1.0.17.0" => "Hum... Ils sont donc allés se
+réfugier dans cet arbre...",
+  "1.0.18.0" => "Qu'allons-nous faire? L'ennemi se dirige vers
+le vénérable Arbre Mojo!",
+  "1.0.19.0" => "Le vénérable Arbre Mojo est notre base!
+Il faut le protéger à tout prix!",
+  "1.0.20.0" => "Commençons par nous occuper des
+ennemis qui arrivent par le sud!",
+  "1.0.21.0" => "Je vais aider le meneur de la résistance.",
+  "1.0.22.0" => "Attention! Des ennemis attaquent le vénérable
+Arbre Mojo depuis le nord!",
+  "1.0.23.0" => "On dirait qu'on en a fini avec les ennemis
+au sud. Éliminons le reste d'entre eux!",
+  "1.0.24.0" => "Désolée, vous pourriez nous aider ici aussi?",
+  "1.0.25.0" => "Parfait! Semez le chaos dans leurs lignes!",
+  "1.0.26.0" => "Si ça continue, c'en est fini de nous...",
+  "1.0.27.0" => "Tenez bon! Je vais venir vous aider!",
+  "1.0.28.0" => "On a réussi! On a repoussé l'ennemi!",
+  "1.0.29.0" => "Quel soulagement... Le vénérable Arbre Mojo
+devrait être en sécurité pour un moment, non?",
+  "1.0.30.0" => "Profitez de votre minable victoire. Mon prochain
+plan vous plongera dans le désespoir! Hya ha ha!",
+  "1.0.31.0" => "Hé! Au feu! Un incendie s'est déclaré!",
+  "1.0.32.0" => "Le vénérable Arbre Mojo est en flammes!
+Nous devons trouver un moyen d'éteindre ce feu...",
+  "1.0.33.0" => "Hya ha ha! Vous n'arriverez jamais à éteindre
+cet incendie. Vous allez finir carbonisés!",
+  "1.0.34.0" => "Nous ne pouvons pas laisser le vénérable
+Arbre Mojo brûler. Mais que faire?",
+  "1.0.35.0" => "Hé! Je ressens la présence d'une grande
+fée. Peut-être qu'elle pourrait nous aider!",
+  "1.0.36.0" => "Au feu! Au feu!",
+  "1.0.37.0" => "Nous devons éteindre ce feu au plus vite, ou le
+vénérable Arbre Mojo sera réduit en cendres.",
+  "1.0.38.0" => "Et voilà le coup de grâce! Exterminez-les!",
+  "1.0.40.0" => "Oh non, les portes sont fermées.
+Comment est-ce qu'on les ouvre?",
+  "1.0.41.0" => "Grande fée, nous avons besoin de votre aide!
+S'il vous plaît, aidez-nous!",
+  "1.0.42.0" => "Le feu s'est éteint! Hourra!
+On va pouvoir combattre!",
+  "1.0.43.0" => "Hé bien, juste à temps...
+Vous avez toute notre gratitude, grande fée!",
+  "1.0.44.0" => "Quoi?! Qui leur a permis de consulter la
+grande fée?! Mon plan était PARFAIT!",
+  "1.0.45.0" => "C'est lui qui a mis le feu au vénérable Arbre
+Mojo! Il ne va pas s'en tirer comme ça!",
+  "1.0.46.0" => "Ooh... Et si je LA laissais les tuer...? Hya ha ha!
+C'est tellement sournois, c'en est magnifique!",
+  "1.0.47.0" => "Oh non! Le sorcier s'est enfui!",
+  "1.0.49.0" => "Qu... Qu'est-ce que c'est que ce monstre?!",
+  "1.0.50.0" => "Ce n'est pas un monstre ordinaire...
+Restez sur vos gardes!",
+  "1.0.51.0" => "Ce monstre a l'air très puissant. Mais nous
+n'avons pas le choix, nous devons l'éliminer!",
+  "1.0.53.0" => "Un... Un monstre! Envoyez-nous du renfort!",
+  "1.0.54.0" => "Le monstre a pénétré au cœur du vénérable
+Arbre Mojo! Utilise l'ocarina pour t'y rendre!",
+  "1.0.55.0" => "Tous les monstres ont un point faible.
+Nous devons juste trouver le sien.",
+  "1.0.56.0" => "Et si tu visais son énorme œil? Je ne suis pas
+une spécialiste, mais ça devrait lui faire mal.",
+  "1.0.57.0" => "Le revoilà! Ce monstre s'est régénéré!
+Nous devons l'éliminer rapidement!",
+  "1.0.58.0" => "Nous devons l'achever avant qu'il ne retourne
+se cacher, sinon on n'en finira jamais...",
+  "1.0.59.0" => "Victoire! Nous avons vaincu le monstre!",
+  "1.0.60.0" => "Incroyable! Nous avons vaincu
+cette énorme... CHOSE!",
+  "1.0.61.0" => "Vous avez tous fait du bon travail!
+Nous avons remporté une belle victoire!",
+  "1.0.62.0" => "Le vénérable Arbre Mojo...
+C'est la fin pour nous!",
+  "1.0.63.0" => "Nous n'avons pas pu protéger le vénérable
+Arbre Mojo... C'est sans espoir à présent.",
+  "1.0.64.0" => "Non... C'est impossible! Je suis désolée...",
+  "1.0.65.0" => "Maintenant, vous ne pouvez plus bouger...
+Hya ha ha!",
+  "1.0.66.0" => "Venez vite à ma fontaine...",
+  "1.0.67.0" => "Je ressens la présence de la grande fée par là-bas!",
+  "1.0.68.0" => "Je ressens une puissante présence au nord-est...
+Est-ce que ça pourrait être une grande fée?",
+  "1.0.69.0" => "Tu n'as toujours pas trouvé l'arc?",
+  "1.0.70.0" => "Ah! Je me souviens! L'arc est sûrement dans le
+grand arbre au sud-ouest du village!",
+  "1.0.71.0" => "Attendez, ça me revient. Il me semble avoir vu un
+arc dans le grand arbre au sud-ouest du village...",
+  "1.0.72.0" => "Si nous ne faisons rien, le vénérable Arbre Mojo
+va finir en cendres! Il faut vite éteindre le feu!",
+  "1.0.73.0" => "Le feu n'est toujours pas éteint et voilà déjà un
+autre problème à régler! Comment on va faire?!",
+  "1.0.74.0" => "Encore lui... Il a vraiment l'intention
+de nous barrer la route à tout prix.",
+  "1.0.75.0" => "Tu devrais pouvoir vaincre les babas mojos 
+avec ton arc... As-tu essayé?",
+  "1.0.76.0" => "Il doit savoir où se trouve la princesse Zelda.
+Je vais le vaincre et l'interroger!",
+  "1.0.77.0" => "Gah! Il est trop rapide!",
+  "1.0.78.0" => "Le monstre s'est enfui...?",
+  "1.0.79.0" => "On dirait que ce monstre est toujours vivant.
+Il est temps d'en finir...",
+  "1.0.80.0" => "Je ressens la présence d'une grande fée!
+Éliminons ces monstres et ouvrons les portes!",
+  "1.0.81.0" => "Le revoilà! Ce monstre est vraiment coriace!
+Tenez-vous prêts!",
+  "1.0.82.0" => "Je me charge des ennemis arrivant
+du sud!",
+  "1.0.83.0" => "Je m'occupe des ennemis qui
+nous attaquent par le sud!",
+  "1.0.84.0" => "Une fois les ennemis au nord éliminés,
+on pourra se concentrer sur ceux du sud.",
+  "1.0.85.0" => "On a réussi! On a repoussé l'attaque
+ennemie!",
+  "1.0.86.0" => "Grrr... Ces misérables vermisseaux se
+débattent plus que je ne l'aurais cru...",
+  "1.0.87.0" => "Utilisez ça, les amis! Je suis sûre
+que ce sera très utile!",
+  "1.0.88.0" => "Maintenant, nous pourrons revenir à cette
+statue dès que nous en aurons besoin.",
+  "1.0.89.0" => "Allez, rejoignez-nous autour de cet ennemi!
+Tous ensemble, on est imbattables!",
+  "13.0.0.0" => "L'attaquer de front ne nous mène à rien...",
+  "13.0.1.0" => "Si ma mémoire est bonne, il devrait y
+avoir un arc au sud du village.",
+  "13.0.2.0" => "Attendez, ça me revient. Il me semble avoir vu un
+arc quelque part au sud du village...",
+  "13.0.3.0" => "Très bien! On dirait qu'il fonctionne toujours. 
+Débarrassons-nous des autres babas mojos!",
+  "13.0.4.0" => "Le poison ne se répand plus! Tant mieux!",
+  "13.0.5.0" => "Retenons l'ennemi ici pour que tout le monde
+puisse se réfugier dans le vénérable Arbre Mojo!",
+  "13.0.6.0" => "Commencer par éliminer les ennemis
+qui arrivent depuis le sud!",
+  "13.0.7.0" => "Je ne suis pas sûre qu'elle arrive à se débrouiller
+seule. Allons l'aider!",
+  "13.0.8.0" => "L'ennemi arrive depuis le nord! Il va s'en prendre
+au vénérable Arbre Mojo! Faites attention!",
+  "13.0.9.0" => "Ils ne sont pas si forts que ça.
+Occupons-nous des autres!",
+  "13.0.10.0" => "Concentrons-nous sur les ennemis qui se trouvent
+ici! Les autres ne devraient pas poser de problème!",
+  "13.0.11.0" => "Tiens! Je sens la présence d'une grande fée pas
+très loin... Peut-être qu'elle pourrait nous aider!",
+  "13.0.12.0" => "Ah! Je ressens une puissante présence
+au nord-est! C'est peut-être la grande fée!",
+  "13.0.13.0" => "C'est horrible! Des fantômes attaquent le vénérable
+Arbre Mojo! Utilisez l'ocarina pour venir le protéger!",
+  "13.0.14.0" => "Son œil a l'air d'être son point faible... 
+On pourrait peut-être lui tirer des flèches dessus...",
+  "13.0.15.0" => "Les fantômes reviennent à la charge!
+Et ils ont l'air plus en forme que tantôt!",
+  "13.0.16.0" => "Allez, Link! Reprends-toi!",
+  "13.0.17.0" => "Ouf, on l'a vaincue! Maintenant,
+débarrassons-nous des autres babas mojos!",
+  "13.0.18.0" => "L'ennemi arrive depuis le nord! Il va s'en prendre
+au vénérable Arbre Mojo! Faites attention!",
+  "13.0.19.0" => "On arrivera peut-être à la vaincre si
+on l'attaque à distance!",
+  "13.0.20.0" => "Je suis sûre que cet arc sera efficace contre
+les babas mojos... Alors, cible-les et tire!",
+}

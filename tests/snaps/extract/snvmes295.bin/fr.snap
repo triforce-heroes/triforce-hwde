@@ -1,0 +1,147 @@
+Map {
+  "1.0.0.0" => "J'me demande si t'as des trucs intéressants sur toi.
+Oh oh! Une jolie boussole! Laisse-moi la toucher!",
+  "1.0.1.0" => "Non! J'en ai besoin! Oh... Hé! D'où viennent
+tous ces monstres... Il faut que je la récupère...",
+  "1.0.2.0" => "Même les cocottes me donnent un coup
+de main! C'est un signe, c'est sûr!",
+  "1.0.3.0" => "Oh, allez, fais pas ta mauvaise tête... Tu
+crois que tu pourrais me battre? Prétentieuse!",
+  "1.0.4.0" => "Hé, toi! Essaie un peu
+de m'attraper!",
+  "1.0.5.0" => "Le gamin de tout à l'heure est déjà là-bas?!
+Rapide! Je ne sais pas si je vais le rattraper...",
+  "1.0.6.0" => "Tous ces monstres travaillent pour moi!
+Tu devrais jouer un peu avec eux! Hé hé!",
+  "1.0.7.0" => "Si tu veux ta boussole adorée,
+il va falloir venir la chercher!",
+  "1.0.8.0" => "Quoi?! Les portes se sont fermées!
+C'est tellement sournois!",
+  "1.0.9.0" => "Tu as rencontré le gardien! Je crois que
+tu vas devoir le battre si tu veux passer!",
+  "1.0.10.0" => "Il est complètement débile ce monstre!
+Il refuse de m'obéir...",
+  "1.0.11.0" => "Si tu m'attrapes pas maintenant,
+j'enverrai davantage de monstres!",
+  "1.0.12.0" => "Rah! Je ne sais pas combien de monstres je
+peux encore affronter. Il faut que je le retrouve!",
+  "1.0.13.0" => "T'es tellement lente! On dirait que tu veux
+juste plus de monstres pour jouer!",
+  "1.0.14.0" => "Salut ma mignonne! Tu as faim?
+Tu ne sais que c'est dangereux par ici?",
+  "1.0.15.0" => "Waouh! Elle est devenue dorée! C'est
+super, mais comment elle a fait ça?!",
+  "1.0.16.0" => "Elle est partie sans manger...
+J'espère qu'elle ne va pas se blesser",
+  "1.0.17.0" => "Hein?! Mais où il est parti?",
+  "1.0.18.0" => "Et si on jouait à la cachette! Va voir dans tous
+les forts si tu veux retrouver to boussole!",
+  "1.0.19.0" => "Ha ha! Tu vois? Encore des monstres! Si tu penses
+que t'es capable d'arrêter ça, vas-y, essaie-toi!",
+  "1.0.20.0" => "Encore des monstres?! Juste ce dont j'avais
+besoin... Mais je ne me laisserai pas faire!",
+  "1.0.21.0" => "Et voilà! Éliminés tes monstres!
+Maintenant, montre-toi!",
+  "1.0.22.0" => "Oh! Regarde-toi un peu, la terreur des
+monstres. T'es pas si forte que ça!",
+  "1.0.23.0" => "Ah! Voilà un monstre dont je
+n'aurais plus à me soucier!",
+  "1.0.24.0" => "Tu m'as toujours pas trouvé? Pourquoi c'est
+si long? Tu veux plus de monstres? C'est ça?",
+  "1.0.25.0" => "Arrête ça!
+Sors de ta cachette!",
+  "1.0.26.0" => "J'ai l'impression d'attendre depuis des années...
+Peut-être que je devrais juste te laisser gagner...",
+  "1.0.27.0" => "J'arrive pas à croire que tu sois aussi nulle...
+mais je te rendrai pas la boussole pour autant!",
+  "1.0.28.0" => "Hé hé hé! Et non!
+Je suis pas dans ce fort!",
+  "1.0.29.0" => "Oh! Bonjour petite cocotte, fais attention,
+c'est dangereux ici. Laisse-moi t'aider!",
+  "1.0.30.0" => "Oh! Tu es devenue toute dorée!
+Tu es magnifique maintenant!",
+  "1.0.31.0" => "Rah, la petite cocotte s'est encore enfuie...
+Et elle n'a toujours rien mangé...",
+  "1.0.32.0" => "Aaaah! Est-ce que tu vas continuer à te cacher
+pendant longtemps? Rends-moi ma boussole!",
+  "1.0.33.0" => "Niark niark! Essaie de m'attraper si
+tu peux... même si tu peux pas!",
+  "1.0.34.0" => "Les monstres de ce fort ont l'air très
+puissants. Amuse-toi bien! Hé hé hé!",
+  "1.0.35.0" => "T'as vu combien de monstres il y a dans ce fort!
+Je suis sûr qu'ils adoreraient jouer avec toi!",
+  "1.0.36.0" => "Il y a des invocateurs dans ce fort. Et tu sais
+ce que font les invocateurs, pas vrai? Hé hé!",
+  "1.0.37.0" => "Je ne te laisserai pas t'enfuir!",
+  "1.0.38.0" => "J'm'en fiche... Même si tu m'attrapais,
+tu ne pourrais rien faire...",
+  "1.0.39.0" => "Il s'est encore échappé!",
+  "1.0.40.0" => "Hé hé hé! Viens par ici!",
+  "1.0.41.0" => "T'essaies de t'enfuir dans ce fort?
+Je suis pas sûr que ça va t'aider...",
+  "1.0.42.0" => "Dépêche-toi de me rendre
+ma boussole!",
+  "1.0.43.0" => "Hé! La boussole brille! Mais?!
+Qu'est-ce qui se passe?",
+  "1.0.44.0" => "Qu'est-ce que c'est?!
+C'est tout lumineux!",
+  "1.0.45.0" => "Encore une petite cocotte! Ne t'en fais pas,
+je te protégerai pendant que tu manges.",
+  "1.0.46.0" => "Elle est devenue dorée, elle aussi! J'imagine
+que ça veut dire qu'elle n'a plus faim...",
+  "1.0.47.0" => "Désolée, je n'ai pas réussi
+à te défendre...",
+  "1.0.48.0" => "Je suis désolé! J'arrête de faire des bêtises!
+Promis! S'il te plaît, excuse-moi!",
+  "1.0.49.0" => "Vraiment? Bon... D'accord, alors...
+Tu es pardonné...",
+  "1.0.50.0" => "Bien! La prochaine fois que je la vole,
+tu ne la reverras jamais! Hé hé hé!",
+  "1.0.51.0" => "Hé! Non! Finies les plaisanteries!
+C'est la dernière fois que tu la voles!",
+  "1.0.52.0" => "J'ai pris ta base, ça veut dire que j'ai gagné...
+mais aussi... que cette boussole est à MOI!",
+  "1.0.53.0" => "Incroyable...",
+  "1.0.54.0" => "Attends un peu... Si les monstres viennent
+de ce fort, ça voudrait dire que...",
+  "1.0.55.0" => "J'ai compris! Je sais EXACTEMENT où tu
+te caches!... Enfin j'en suis presque sûre!",
+  "1.0.56.0" => "Au moins, j'ai récupéré ma boussole! À présent,
+au château d'Hyrule! En avant, Linkle!",
+  "13.0.2.0" => "Attendez, ça me revient. Il me semble avoir vu un
+arc quelque part au sud du village...",
+  "13.0.3.0" => "Très bien! On dirait qu'il fonctionne toujours. 
+Débarrassons-nous des autres babas mojos!",
+  "13.0.4.0" => "Le poison ne se répand plus! Tant mieux!",
+  "13.0.5.0" => "Retenons l'ennemi ici pour que tout le monde
+puisse se réfugier dans le vénérable Arbre Mojo!",
+  "13.0.6.0" => "Commencer par éliminer les ennemis
+qui arrivent depuis le sud!",
+  "13.0.7.0" => "Je ne suis pas sûre qu'elle arrive à se débrouiller
+seule. Allons l'aider!",
+  "13.0.8.0" => "L'ennemi arrive depuis le nord! Il va s'en prendre
+au vénérable Arbre Mojo! Faites attention!",
+  "13.0.9.0" => "Ils ne sont pas si forts que ça.
+Occupons-nous des autres!",
+  "13.0.10.0" => "Concentrons-nous sur les ennemis qui se trouvent
+ici! Les autres ne devraient pas poser de problème!",
+  "13.0.11.0" => "Tiens! Je sens la présence d'une grande fée pas
+très loin... Peut-être qu'elle pourrait nous aider!",
+  "13.0.12.0" => "Ah! Je ressens une puissante présence
+au nord-est! C'est peut-être la grande fée!",
+  "13.0.13.0" => "C'est horrible! Des fantômes attaquent
+le vénérable Arbre Mojo!",
+  "13.0.14.0" => "Son œil a l'air d'être son point faible... 
+On pourrait peut-être lui tirer des flèches dessus...",
+  "13.0.15.0" => "Les fantômes reviennent à la charge!
+Et ils ont l'air plus en forme que tantôt!",
+  "13.0.16.0" => "Allez, Link! Reprends-toi!",
+  "13.0.17.0" => "Ouf, on l'a vaincue! Maintenant,
+débarrassons-nous des autres babas mojos!",
+  "13.0.18.0" => "L'ennemi arrive depuis le nord! Il va s'en prendre
+au vénérable Arbre Mojo! Faites attention!",
+  "13.0.19.0" => "On arrivera peut-être à la vaincre si
+on l'attaque à distance!",
+  "13.0.20.0" => "Je suis sûre que cet arc sera efficace contre
+les babas mojos... Alors, cible-les et tire!",
+}

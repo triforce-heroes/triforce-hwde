@@ -1,0 +1,256 @@
+Map {
+  "1.0.0.0" => "Link, mio eroe... Voglio incontrarti! Presto!
+Attraversa questa valle di oscurità.",
+  "1.0.1.0" => "Cia si trova tra le rovine su quella vetta.
+Dobbiamo sconfiggerla e fermare i demoni!",
+  "1.0.2.0" => "Dobbiamo conquistare i due presidi delle
+rovine per arrivare prima alla base nemica.",
+  "1.0.3.0" => "Il piano è perfetto! Bene... Forse è meglio
+dividerci in due gruppi.",
+  "1.0.4.0" => "Io andrò verso est insieme a Impa.
+Voi andrete a ovest!",
+  "1.0.5.0" => "Sheik... Io andrò per conto mio.",
+  "1.0.6.0" => "Piccoli mostriciattoli... Lasciate che
+mi diverta un po' con voi!",
+  "1.0.7.0" => "Il cavaliere drago... È così forte...!",
+  "1.0.8.0" => "Sta colpendo con tutte le sue forze...
+Se continua così, non resisteremo!",
+  "1.0.9.0" => "Uhm! Non sei per niente all'altezza...
+Non c'è un avversario più forte?",
+  "1.0.10.0" => "Il nemico mi ha fermato, non posso
+muovermi. Qualcuno vada in soccorso!",
+  "1.0.11.0" => "Non bastano le parole, servono i fatti...
+Che pena! Dovresti darti una sbollita.",
+  "1.0.12.0" => "Mi sono distratto... La prossima volta
+non succederà!",
+  "1.0.13.0" => "Bene, è ora di attaccare! Forza!",
+  "1.0.14.0" => "Scusa! Andrò da sola a est. Tu occupati
+del presidio a ovest!",
+  "1.0.15.0" => "Scusa! Ora va tutto bene. Lascia che mi
+occupi del presidio a est.",
+  "1.0.16.0" => "Bene, è ora di attaccare! Forza!",
+  "1.0.17.0" => "Uhm. E questo è tutto? Mi aspettavo
+molto di più...",
+  "1.0.18.0" => "Bene! Il presidio a ovest è a posto.",
+  "1.0.19.0" => "Continuiamo così e conquistiamo anche
+il presidio a est!",
+  "1.0.20.0" => "Non disperate!
+Possiamo tornarne in possesso!",
+  "1.0.21.0" => "Bene!
+Abbiamo recuperato il presidio a ovest!",
+  "1.0.22.0" => "Abbiamo occupato il presidio a est...",
+  "1.0.23.0" => "Continuiamo così e conquistiamo anche
+il presidio a ovest!",
+  "1.0.24.0" => "Non disperate! Dobbiamo soltanto
+tornarne in possesso!",
+  "1.0.25.0" => "Bene! Abbiamo recuperato il presidio a est!",
+  "1.0.26.0" => "Bravi, ottimo lavoro! Ora passiamo
+all'attacco delle rovine!",
+  "1.0.27.0" => "Dei tentacoli bloccano l'accesso alle
+rovine? Non possiamo proseguire...",
+  "1.0.28.0" => "Ah ah ah! Cosa fate lì impalati? State
+aspettando che vi venga dato il benvenuto?",
+  "1.0.29.0" => "Davanti è bloccato, proviamo dai lati.
+Dovremmo abbassare il ponte a est!",
+  "1.0.30.0" => "Noi attireremo i nemici davanti alle rovine!
+Approfittatene per abbassare il ponte!",
+  "1.0.31.0" => "Ma questo nemico...! Genera altri demoni
+mentre combatte...?",
+  "1.0.32.0" => "Sanno evocare demoni potenti!
+Ah ah ah! Sorprendente, vero?",
+  "1.0.33.0" => "Faccio parte del corpo degli ingegneri di
+Hyrule! Lascia che mi occupi io del ponte!",
+  "1.0.34.0" => "L'ingegnere sta uscendo dalla nostra base.
+Scortiamolo fino al lato est delle rovine!",
+  "1.0.35.0" => "Perché mi fai aspettare tanto? Dovrò venire
+personalmente a bussare alla tua base!",
+  "1.0.36.0" => "Mi occuperò dei nemici a ovest.
+Voi pensate al ponte...",
+  "1.0.37.0" => "In tal caso, io terrò sotto controllo
+il centro.",
+  "1.0.38.0" => "Attenzione! Dei nemici provenienti da ovest
+si dirigono alla nostra base!",
+  "1.0.39.0" => "Cosa state complottando? Di qualunque
+cosa si tratti, io vi fermerò!",
+  "1.0.40.0" => "Attenzione! Alcuni nemici si stanno
+dirigendo verso l'ingegnere!",
+  "1.0.41.0" => "Qui parla l'ingegnere di Hyrule!
+Il nemico mi sta attaccando!",
+  "1.0.42.0" => "Qui parla l'ingegnere di Hyrule!
+La situazione sta precipitando!",
+  "1.0.43.0" => "Qui parla l'ingegnere di Hyrule!
+Il ponte è a posto! Missione compiuta!",
+  "1.0.44.0" => "Evviva! Attraversiamo il ponte ed entriamo
+nelle rovine!",
+  "1.0.45.0" => "Abbiamo perso l'ingegnere...",
+  "1.0.46.0" => "Tanta fatica per nulla? Che peccato...",
+  "1.0.47.0" => "Ah ah ah! Che spreco di forze! Se siete in
+difficoltà, perché non usate il mio ponte?",
+  "1.0.48.0" => "Forza, andiamo! Cia è sulla vetta!",
+  "1.0.49.0" => "Anche l'accesso alla vetta è bloccato
+da tentacoli...",
+  "1.0.50.0" => "Tra le rovine dovrebbe esserci un tesoro...
+Potrebbe esserci utile in battaglia!",
+  "1.0.51.0" => "È da maleducati non salutare i propri
+ospiti...",
+  "1.0.52.0" => "Oh! Un boomerang! Ci aiuterà a tagliare
+quei tentacoli disgustosi!",
+  "1.0.53.0" => "Aspetta che i tentacoli siano più vulnerabili
+e poi colpiscili col boomerang!",
+  "1.0.54.0" => "Argh! Quel demone tentacolato... L'arco
+non ha alcun effetto?!",
+  "1.0.55.0" => "Non ti distrarre! Non è ancora finita!
+È scappato sotto terra!",
+  "1.0.56.0" => "Se colpisci il tentacolo giusto, vedrai che
+risalirà in superficie!",
+  "1.0.57.0" => "Allora attaccherò il tentacolo più vicino!",
+  "1.0.58.0" => "Sarà come fare la caccia al tentacolo!
+Ci sto!",
+  "1.0.59.0" => "Sta attaccando la base! Presto,
+dobbiamo sconfiggerlo!",
+  "1.0.60.0" => "Se non ci sbrighiamo a farlo fuori,
+la base verrà distrutta!",
+  "1.0.61.0" => "La base non resisterà a lungo...!
+Sbrigatevi!",
+  "1.0.62.0" => "Il corpo non è qui sotto...",
+  "1.0.63.0" => "Stavolta non ci scapperà!
+Ce la metteremo tutta!",
+  "1.0.64.0" => "Ci siamo liberati di quest'ostacolo!
+Cia è all'altare, andiamo!",
+  "1.0.65.0" => "Mi dispiace...",
+  "1.0.66.0" => "Io avanzerò da est insieme a Link.
+Tu occupati del lato ovest!",
+  "1.0.67.0" => "Sheik... vai in soccorso! Sei l'unico che
+può spostarsi!",
+  "1.0.68.0" => "La porta per accedere alle rovine è
+chiusa? Quindi non possiamo andare oltre.",
+  "1.0.69.0" => "Ancora non riesco a fidarmi di Sheik...",
+  "1.0.70.0" => "Perché fa tutto questo?",
+  "1.0.71.0" => "Facciamogli vedere chi siamo!",
+  "1.0.72.0" => "Vi punirò nel nome del mio
+signore Volga!!!",
+  "1.0.73.0" => "Ci sono altri nemici qui! Presto,
+ripuliamo l'area di fronte alle rovine!",
+  "1.0.74.0" => "Aaarrrggghhh! Qualcuno mi aiuti!!!",
+  "1.0.75.0" => "Grrr! Abbiamo fatto male a
+sottovalutarli!",
+  "1.0.76.0" => "Non ho speranze...
+Devo ritirarmi...",
+  "1.0.77.0" => "Non mi resta che la ritirata!",
+  "1.0.78.0" => "Vediamo che farete con questi...
+Adorano rubare i presidi!",
+  "1.0.79.0" => "Uhm... Non dobbiamo farli infiltrare
+nel presidio! Eliminiamoli!",
+  "1.0.80.0" => "Ehi, non scordatevi di noi!",
+  "1.0.81.0" => "Fatevi sotto! Provate a sconfiggerci
+se ci riuscite!",
+  "1.0.82.0" => "Un passo alla volta... Prima di Cia, forse
+dovremmo eliminare i nemici dietro di noi!",
+  "1.0.83.0" => "Fiu... con questi abbiamo finito?",
+  "1.0.84.0" => "Adesso, miei lucertoloni! Colpiteli
+ora che sono davanti alle rovine!",
+  "1.0.85.0" => "Sembra piuttosto forte...
+Dovremo unire le nostre forze!",
+  "1.0.86.0" => "Nessuno tocca il grande Volga senza
+prima fare i conti con noi!",
+  "1.0.87.0" => "Lasciate che ci occupiamo noi
+dell'armata di Hyrule!",
+  "1.0.88.0" => "Non ho bisogno d'aiuto! Pensate
+piuttosto a proteggere Cia!",
+  "1.0.89.0" => "Tra noi e le rovine è rimasto solo il
+cavaliere drago!",
+  "1.0.90.0" => "I nemici vanno verso la nostra base!
+Teniamoli lontani!",
+  "1.0.91.0" => "Bene, ora la base è al sicuro!",
+  "1.0.92.0" => "La nostra base è in pericolo...
+Dobbiamo sconfiggere i nemici!",
+  "1.0.93.0" => "Presto, da questa parte!
+Lascerò la porta del presidio aperta!",
+  "1.0.94.0" => "Ho un'idea! Circondiamo la minaccia!
+Solo così potremo fermarla!",
+  "1.0.95.0" => "Più siamo, più sarà facile sconfiggere
+il nemico unendo i nostri poteri!",
+  "1.0.96.0" => "Grazie al potere della Valle delle maghe,
+questo per me è un gioco da ragazzi!",
+  "1.0.97.0" => "Grazie alla magia di Lana abbiamo vinto!
+Forza, ora andiamo a prendere Cia!",
+  "1.0.98.0" => "Insieme possiamo sconfiggere qualsiasi
+nemico! Non dimentichiamo questa lezione!",
+  "1.0.99.0" => "Se non torniamo immediatamente,
+la nostra base cadrà!",
+  "13.0.0.0" => "Occupiamo i due presidi ai lati delle rovine
+e sarà più facile attaccare la base di Cia!",
+  "13.0.1.0" => "La strada verso i presidi nemici si divide...
+Che ne dite di attaccare da entrambi i lati?",
+  "13.0.2.0" => "La strada verso i presidi nemici si divide...
+Che ne dite di attaccare da entrambi i lati?",
+  "13.0.3.0" => "Di nuovo tu... Fammi vedere se sei
+più forte rispetto all'ultima volta!",
+  "13.0.4.0" => "Link! Tutto bene?
+Il cavaliere drago non sembra darti tregua!",
+  "13.0.5.0" => "Ottimo lavoro! Continua a mettercela tutta!",
+  "13.0.6.0" => "Grazie! Link sta bene!
+Puoi occuparti del presidio a ovest?",
+  "13.0.7.0" => "Grazie! Va tutto bene qui! Lascia che
+Link si occupi del presidio a est!",
+  "13.0.8.0" => "Ottimo! Continuate così!",
+  "13.0.9.0" => "Ce l'hai fatta! Hai conquistato
+il presidio ovest!",
+  "13.0.10.0" => "Spero che conquisteremo velocemente
+anche quello a est!",
+  "13.0.11.0" => "I nemici si sono appropriati di un altro
+presidio... Lana, aiutaci a riprenderlo!",
+  "13.0.12.0" => "Fantastico! Ci siamo riappropriati
+del presidio ovest!",
+  "13.0.13.0" => "Grandioso! Il presidio est è di nuovo
+nelle nostre mani!",
+  "13.0.14.0" => "Sarebbe bello se riuscissimo a conquistare
+anche il presidio ovest!",
+  "13.0.15.0" => "I nemici si sono appropriati di un altro
+presidio... Lana, aiutaci a riprenderlo!",
+  "13.0.16.0" => "Fantastico! Ci siamo riappropriati
+del presidio est!",
+  "13.0.17.0" => "Siete stati bravissimi!
+Ora passiamo all'attacco delle rovine!",
+  "13.0.18.0" => "Come? Dei tentacoli bloccano l'accesso
+alle rovine? Non riusciremo mai a entrare...",
+  "13.0.19.0" => "Bene, attiriamo i nemici nella piazza davanti
+alle rovine e abbassiamo il ponte!",
+  "13.0.20.0" => "Ma cosa fa?
+Continua a dar vita a nuovi mostri!",
+  "13.0.21.0" => "L'ingegnere sta uscendo dalla base!
+Proteggetelo finché arriva alle rovine est!",
+  "13.0.22.0" => "Link fermerà i nemici a ovest.
+Presto, occupatevi del ponte!",
+  "13.0.23.0" => "Sarebbe meglio se Link pensasse
+a fermare i nemici al centro!",
+  "13.0.24.0" => "Attenzione! I nemici che avanzano a
+ovest hanno preso di mira la base!",
+  "13.0.25.0" => "Ottimo lavoro! Ora attraversiamo il ponte
+in direzione delle rovine!",
+  "13.0.26.0" => "L'ingegnere è stato sconfitto...",
+  "13.0.27.0" => "Cia è sulla vetta! Andiamo!",
+  "13.0.28.0" => "Quel demone è ancora vivo?
+Sembra si sia nascosto sotto terra!",
+  "13.0.29.0" => "Bene, lasciate fare a noi!
+Link, colpisci con tutte le tue forze!",
+  "13.0.30.0" => "Bene, lasciate fare a noi!
+Link, colpisci con tutte le tue forze!",
+  "13.0.31.0" => "Stanno attaccando la base!
+Presto, occupatevene voi!",
+  "13.0.32.0" => "Oh, no! Ha colpito la base!
+Sconfiggetelo, ma fate in fretta!",
+  "13.0.33.0" => "La base è in difficoltà!
+Fate in fretta!",
+  "13.0.34.0" => "Che peccato...
+Non era quello giusto...",
+  "13.0.35.0" => "Bene! Ora andiamo da Cia!
+Tutti in marcia verso l'altare nelle rovine!",
+  "13.0.36.0" => "Link, che succede...? Sei stato sconfitto?",
+  "13.0.37.0" => "Fa' attenzione! Alcuni nemici hanno preso
+di mira l'ingegnere!",
+  "13.0.38.0" => "Come? L'accesso alle rovine è chiuso...
+Non riusciremo mai a entrare...",
+  "13.0.39.0" => "Attaccherò dal lato est insieme a Link.
+Voi occupatevi del lato ovest!",
+}

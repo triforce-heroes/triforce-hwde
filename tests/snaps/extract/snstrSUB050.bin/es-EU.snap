@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario «Los soldados de refuerzo»!",
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R está reforzando un A2bastión enemigoR!",
+  "0.3.0" => "¡Vence A0%1sF4R!",
+  "0.4.0" => "¡A0%1sF0R avanza hacia un A2bastión enemigoR para reforzarlo!",
+  "0.5.0" => "¡A0%1sF0R ha terminado de reforzar el bastión!",
+  "0.6.0" => "¡A0%1sF0R ha reforzado el A2bastión enemigoR!",
+  "0.7.0" => "¡Has impedido que se refuerce el bastión!",
+  "0.8.0" => "¡Has descubierto A0%1sF4R mientras reforzaba un bastión!",
+  "0.9.0" => "¡Vence A0%1sF4R inmediatamente!",
+  "0.10.0" => "¡Has derrotado A0%1sF4R!",
+  "0.11.0" => "¡A0%1sF0R ha abandonado el campo de batalla!",
+  "0.12.0" => "Not Used scnarioSUB050_mes, 12",
+  "0.13.0" => "¡A0%1sF0R ha llegado a un A2bastión enemigoR!",
+  "0.14.0" => "¡A0%1sF0R está reforzando el bastión!",
+}

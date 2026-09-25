@@ -1,0 +1,312 @@
+Map {
+  "1.0.0.0" => "Hemos llegado al Valle de la Hechicera, pero
+nuestras fuerzas se dividen entre este y oeste.",
+  "1.0.1.0" => "Siento el poder de la oscuridad. Acabar con
+el ejército de Hyrule será un juego de niños.",
+  "1.0.2.0" => "Han capturado y bloqueado el poder sagrado
+de los santuarios. ¡Eso los hace fuertes!",
+  "1.0.3.0" => "El enemigo se ha fortalecido, ¡pero no
+consentiré que nos derrote!",
+  "1.0.6.0" => "Debemos ir a los santuarios de la Diosa
+para recuperar el poder sagrado.",
+  "1.0.7.0" => "¡Vayamos al santuario de la Diosa a recuperar
+el poder sagrado!",
+  "1.0.8.0" => "Esta será la última batalla contra Cya. ¡Luchemos
+por la princesa Zelda y por Hyrule!",
+  "1.0.9.0" => "Impa, es nuestra oportunidad de hacernos con
+la victoria y devolver la paz a Hyrule.",
+  "1.0.10.0" => "¿Veis dónde crece el poder maligno? Ahí
+deben de estar los santuarios de la Diosa.",
+  "1.0.11.0" => "¿Veis dónde crece el poder maligno? ¡Los
+santuarios de la Diosa tienen que estar ahí!",
+  "1.0.14.0" => "Mis datos confirman que hay un santuario al este
+y otro al oeste. Recomiendo ir al más cercano.",
+  "1.0.15.0" => "Hay un santuario en el este y otro en el oeste.
+¡Id a por el que tengáis más cerca!",
+  "1.0.16.0" => "Detendré el avance del enemigo para que
+podáis ocuparos de los santuarios.",
+  "1.0.17.0" => "Me ocuparé de los enemigos, vosotros id
+a los santuarios.",
+  "1.0.18.0" => "¡Ahí también hay un santuario!",
+  "1.0.19.0" => "Vaya, ahí también hay un santuario.",
+  "1.0.20.0" => "El santuario del oeste ha sido capturado.
+Proceded a continuación con el del este.",
+  "1.0.21.0" => "¡El santuario del oeste es nuestro!
+Vayamos entonces a por el del este.",
+  "1.0.22.0" => "Hemos capturado ambos santuarios, pero el
+poder oscuro no ha menguado... Qué extraño.",
+  "1.0.23.0" => "¿Qué ocurre? Hemos capturado ambos
+santuarios, pero el poder oscuro no desaparece.",
+  "1.0.24.0" => "Que no cunda el pánico; tiene que haber otro
+santuario en algún lugar.",
+  "1.0.25.0" => "Hemos anulado el vínculo de los santuarios y
+con ello el poder del enemigo ha menguado.",
+  "1.0.26.0" => "¿Recuerdas dónde está el otro santuario, Lana?",
+  "1.0.27.0" => "Se supone que hay tres en total: al este,
+al oeste y... ¡al sur!",
+  "1.0.28.0" => "Voy a intentar buscarlo. Creo que empiezo
+a recordar dónde puede estar.",
+  "1.0.29.0" => "¡Estaba en lo cierto, está aquí!",
+  "1.0.30.0" => "¡Qué bien, lo hemos encontrado!",
+  "1.0.31.0" => "¡Cómo me alegro de que lo hayamos encontrado!",
+  "1.0.32.0" => "Ahora que el poder oscuro se ha debilitado, las
+condiciones de batalla nos serán más favorables.",
+  "1.0.33.0" => "Vaya, vaya, así que habéis capturado los tres
+santuarios, ¿eh? Qué sorpresa.",
+  "1.0.34.0" => "El enemigo ha capturado el santuario oeste.
+¡Debemos recuperarlo!",
+  "1.0.35.0" => "¡Han tomado el santuario del oeste! Debemos
+recuperarlo cuanto antes.",
+  "1.0.36.0" => "El santuario del este ha caído en manos del
+enemigo. ¡Debemos recuperarlo!",
+  "1.0.37.0" => "El enemigo se ha hecho con el control del
+santuario este. ¡Hay que recuperarlo!",
+  "1.0.38.0" => "Nos han arrebatado el santuario del sur,
+¡pero aún estamos a tiempo de recuperarlo!",
+  "1.0.39.0" => "El santuario del sur está en manos del enemigo.
+¡Recuperémoslo!",
+  "1.0.40.0" => "Podéis luchar cuanto queráis, pero al final seré
+yo quien gane esta batalla.",
+  "1.0.41.0" => "¡El enemigo va a por la princesa Zelda!",
+  "1.0.42.0" => "¡El enemigo va a por la princesa Ruto!",
+  "1.0.43.0" => "¿Os aburrís? Eso tiene remedio fácil.
+¡Segunda unidad, en marcha!",
+  "1.0.44.0" => "Estas tropas son un poquito más fuertes.
+¡A ver cómo salís de esta!",
+  "1.0.45.0" => "¡Hay que defender a la princesa Zelda!
+Esas tropas son mucho más fuertes.",
+  "1.0.46.0" => "¡Hay que defender a la princesa Ruto!
+Esas tropas son mucho más fuertes.",
+  "1.0.47.0" => "Estas tropas son aun más fuertes. ¡El
+ejército de Hyrule tiene las horas contadas!",
+  "1.0.48.0" => "¡Cya, todo esto es obra tuya!",
+  "1.0.49.0" => "Ha permitido que su alma se corrompiese para
+obtener un poder inconmensurable.",
+  "1.0.50.0" => "Ha dejado que la oscuridad entre en su corazón
+para conseguir un poder sin límites.",
+  "1.0.51.0" => "Zelda, ha llegado el momento de usar mi poder.
+¡Ven!",
+  "1.0.52.0" => "Ruto, ha llegado el momento de usar mi poder.
+¡Ven!",
+  "1.0.54.0" => "Oigo la llamada de la Gran Hada...
+He de ir a la fuente del hada.",
+  "1.0.55.0" => "La Gran Hada me ha llamado...
+Debo ir a la fuente del hada.",
+  "1.0.56.0" => "No podéis ir sola, princesa; es muy peligroso.
+Os acompañaré.",
+  "1.0.57.0" => "No dejaré que vayas sola; te acompañaré.",
+  "1.0.58.0" => "¡Yo también os acompañaré!",
+  "1.0.59.0" => "No dejaré que vayas sola; te acompañaré.",
+  "1.0.60.0" => "Yo también iré. Cuantos más, mejor, ¿no?",
+  "1.0.61.0" => "No dejaré que vayas sola; te acompañaré.",
+  "1.0.62.0" => "Según lo que nos ha dicho la Gran Hada,
+debemos establecer nuestra base en esta zona.",
+  "1.0.63.0" => "Sigamos las indicaciones de la Gran Hada
+y establezcamos aquí nuestra base.",
+  "1.0.64.0" => "Tenemos que atraer al máximo número
+de enemigos posible delante de la fuente.",
+  "1.0.65.0" => "Debemos atraer a tantos enemigos
+como podamos delante de la fuente.",
+  "1.0.66.0" => "Regeneraré el círculo mágico de la
+fuente para aplastar al enemigo.",
+  "1.0.67.0" => "Regeneraré el círculo mágico de la
+fuente y venceré al enemigo de un golpe.",
+  "1.0.68.0" => "¡Yo me encargaré de los enemigos del este!",
+  "1.0.69.0" => "Yo me ocuparé de atraer a los enemigos del este.",
+  "1.0.70.0" => "¡Debemos atraer también a los enemigos del oeste!",
+  "1.0.71.0" => "¡Tenemos que atraer también a los del oeste!",
+  "1.0.72.0" => "¡Nos atacan! Así no puedo avanzar...",
+  "1.0.73.0" => "¡El enemigo ataca y nos impide el paso!",
+  "1.0.74.0" => "¡Te debo una!",
+  "1.0.75.0" => "¡Me has salvado!",
+  "1.0.76.0" => "Detendré a los refuerzos del enemigo.
+No deben encontrar el círculo mágico.",
+  "1.0.77.0" => "Bloquearé a los refuerzos enemigos. No dejaré
+que se acerquen al círculo mágico.",
+  "1.0.78.0" => "Nosotros nos encargaremos de los refuerzos enemigos.",
+  "1.0.79.0" => "Nosotros nos encargaremos de detener
+a los refuerzos del enemigo.",
+  "1.0.80.0" => "El enemigo ha logrado llegar hasta aquí,
+¡pero no permitiré que siga avanzando!",
+  "1.0.81.0" => "Nunca pensé que llegarían hasta aquí...
+¡Pero no irán más lejos!",
+  "1.0.82.0" => "Volga, dejaré que experimentes este magnífico
+poder. ¡Ve a jugar con nuestros amigos!",
+  "1.0.83.0" => "¡Aaaaaaaaah!",
+  "1.0.84.0" => "¿Qué le pasa al caballero dragón?
+¡De repente tiene un poder enorme!",
+  "1.0.85.0" => "Tendremos que ir con sumo cuidado con
+ese caballero dragón...",
+  "1.0.86.0" => "¡Tened mucho cuidado al acercaros al caballero
+dragón!",
+  "1.0.87.0" => "El poder mágico fluye sin cesar...
+Lo compartiré contigo, Volga.",
+  "1.0.88.0" => "¡Volga, déjate de juegos y acaba
+con los hylianos!",
+  "1.0.89.0" => "¡Noto un enorme poder! Al fin soy invencible.",
+  "1.0.90.0" => "De poco sirve matarlo, siempre vuelve a la vida.
+¿Cómo vamos a acabar con él?",
+  "1.0.91.0" => "Si es invencible, ¿cómo vamos a destruirlo?",
+  "1.0.92.0" => "¡Utilizad el círculo mágico! ¡Ahora!",
+  "1.0.93.0" => "¡Usad el círculo mágico! ¡Ya!",
+  "1.0.94.0" => "¿A qué esperas? ¡Acaba con esos necios hylianos!",
+  "1.0.95.0" => "No ha estado mal... Aunque no podré perdonarlo.",
+  "1.0.96.0" => "¿A eso lo llamáis magia?
+Tendréis que esforzaros más.",
+  "1.0.97.0" => "¡Vuestro fin está muy próximo!",
+  "1.0.98.0" => "¡Acabaré con el comandante enemigo!",
+  "1.0.99.0" => "¿No te da vergüenza tener que recurrir
+a la magia oscura para ganar?",
+  "1.0.100.0" => "Qué patético, tener que utilizar la magia
+oscura para lograr la victoria...",
+  "1.0.101.0" => "¡No os burléis de mí!",
+  "1.0.102.0" => "¡Abre los ojos! Se supone que eres un gran
+guerrero, no un títere.",
+  "1.0.103.0" => "¡Abre los ojos! Eres un gran guerrero, tendrías
+que tener un poco más de orgullo.",
+  "1.0.104.0" => "¡No permitiré que la oscuridad me gobierne!",
+  "1.0.105.0" => "La batalla está a punto de acabar, pero antes
+os enseñaré de lo que soy capaz.",
+  "1.0.106.0" => "¡Os mostraré mi verdadero poder!",
+  "1.0.107.0" => "No me arrepiento de haber perdido, porque
+he logrado recuperar mi orgullo.",
+  "1.0.108.0" => "¡No dejéis a nadie con vida!",
+  "1.0.109.0" => "Basta ya, Cya...",
+  "1.0.110.0" => "Solo queda Cya. ¡Debes acabar con ella!",
+  "1.0.111.0" => "La única que queda es Cya.
+¡Tienes que acabar con ella!",
+  "1.0.112.0" => "¡Esperad, que quiero divertirme un
+poco más jugando con vosotros! ¡Ja, ja!",
+  "1.0.113.0" => "Ya no hay nadie que pueda
+detenerme, ¡ja, ja, ja!",
+  "1.0.114.0" => "Yo me encargaré de defender la base.
+¡Luchad con todas vuestras fuerzas!",
+  "1.0.115.0" => "Yo me encargaré de defender la base.
+¡Vamos, luchad con toda vuestra fuerza!",
+  "1.0.116.0" => "¡Más te vale que salgas con vida de esta!",
+  "1.0.117.0" => "Ten mucho cuidado...",
+  "1.0.118.0" => "¡Acaba con ella! Hazlo por nosotros.",
+  "1.0.119.0" => "Confío en ti... Sé que puedes vencer.",
+  "1.0.120.0" => "¿De veras crees que puedes vencerme?
+Será mejor que te esfumes.",
+  "1.0.121.0" => "¡Vas a morir!",
+  "1.0.122.0" => "Nunca pensé que podría perder de esta manera...",
+  "1.0.123.0" => "Nunca creí que me vería obligada a huir...",
+  "1.0.124.0" => "Sin la base, no tenemos ninguna esperanza...",
+  "1.0.125.0" => "Si la base ha caído, ya no hay esperanza...",
+  "1.0.126.0" => "¡Lana! ¿Has sido tú la que ha hecho esto?",
+  "1.0.127.0" => "¡Cya!",
+  "1.0.128.0" => "¡Reponte, Link! No puedes caer ahora.",
+  "1.0.129.0" => "¡Aún no! Debo seguir adelante, por la princesa.",
+  "1.0.130.0" => "Parece que el ambiente está caldeado...
+¡Pero se van a enterar!",
+  "1.0.131.0" => "¡No me está resultando nada fácil!
+Pero quejarme no me servirá de nada...",
+  "1.0.132.0" => "Estoy dispuesta a asumir cualquier riesgo
+con tal de cumplir con mi deber.",
+  "1.0.133.0" => "¡Lucharemos hasta el final para detener a Cya!",
+  "1.0.134.0" => "¡No pienso huir ni rendirme! Jamás permitiré
+que estos monstruos me derroten.",
+  "1.0.135.0" => "¿Cómo puede haber caído Volga?
+Menudo inútil...",
+  "1.0.136.0" => "¡Os prestaré mi poder, así que tenéis
+que conseguir pararles los pies!",
+  "1.0.137.0" => "La fuente del hada, ¿verdad?
+¡Voy para allá!",
+  "1.0.138.0" => "¡Bien! ¡Hemos acabado con una
+de las dobles de Cya!",
+  "1.0.139.0" => "No sé por qué te alegras tanto. ¡Acabar
+solo con una es muy poca cosa!",
+  "1.0.140.0" => "Confirmo la eliminación de
+la segunda doble de Cya.",
+  "1.0.141.0" => "¡Qué fastidio de gente!",
+  "1.0.142.0" => "No os perdonaré lo que me habéis hecho.
+¡Acabaré con todos!",
+  "1.0.143.0" => "Seré yo la que ponga punto y final
+a todo esto, Cya...",
+  "13.0.0.0" => "Han capturado los santuarios y bloqueado el poder sagrado.
+¡Por eso el enemigo se está volviendo más fuerte!",
+  "13.0.1.0" => "Debemos ir al santuario de la Diosa para
+recuperar el poder mágico.",
+  "13.0.2.0" => "¡Impa! Debemos ganar esta batalla para devolver
+la paz a Hyrule.",
+  "13.0.3.0" => "¿No notáis cómo el poder mágico se ha hecho
+más fuerte? El santuario tiene que estar ahí.",
+  "13.0.4.0" => "Hay santuarios en el este y en el oeste.
+¡Vayamos a por el más cercano!",
+  "13.0.5.0" => "Yo me ocuparé de frenar al enemigo; vosotros
+id a por los santuarios.",
+  "13.0.6.0" => "El poder oscuro se ha debilitado,
+ahora tendríamos que tener cierta ventaja.",
+  "13.0.7.0" => "¡Tenemos el santuario del oeste!
+Rápido, vayamos a por el del este.",
+  "13.0.8.0" => "Tenemos ambos santuarios, pero el poder oscuro
+sigue siendo igual de fuerte. ¿Qué ocurre?",
+  "13.0.9.0" => "El poder oscuro se ha debilitado, ahora
+tendríamos que tener cierta ventaja.",
+  "13.0.10.0" => "¡Han capturado el santuario del oeste!
+Debemos recuperarlo cuanto antes.",
+  "13.0.11.0" => "¡Maldición, se han hecho con el santuario del este!
+Debemos recuperarlo como sea.",
+  "13.0.12.0" => "El santuario del sur ha caído en manos enemigas.
+¡No nos queda más remedio que recuperarlo!",
+  "13.0.13.0" => "¡El enemigo va a por la princesa Ruto!",
+  "13.0.14.0" => "Las tropas enemigas van tras la princesa Ruto.
+¡Tenemos que protegerla!",
+  "13.0.15.0" => "Ha dejado que la oscuridad se apodere de
+su corazón para lograr un poder inimaginable.",
+  "13.0.16.0" => "¡Ruto, utiliza mi poder! Ven conmigo.",
+  "13.0.17.0" => "Creo que he oído la voz de la Gran Hada.
+¡He de ir a la fuente del hada!",
+  "13.0.18.0" => "No dejaré que vayas sola; te acompañaré.",
+  "13.0.19.0" => "No dejaré que vayas sola; te acompañaré.",
+  "13.0.20.0" => "Sigamos las órdenes de la Gran Hada. A partir de
+ahora, esta será nuestra base.",
+  "13.0.21.0" => "También debemos atraer al máximo número de
+enemigos posible a la plaza que hay ante la fuente.",
+  "13.0.22.0" => "Usaremos la magia del círculo mágico de
+la fuente para acabar con ellos de un golpe.",
+  "13.0.23.0" => "¡Yo me ocuparé de los enemigos del este!",
+  "13.0.24.0" => "¡A por los enemigos del oeste!",
+  "13.0.25.0" => "Las tropas enemigas me han alcanzado...
+No puedo continuar así.",
+  "13.0.26.0" => "¡Has sido de gran ayuda!",
+  "13.0.27.0" => "Retendré a los refuerzos enemigos.
+¡Impediré que se acerquen a la fuente!",
+  "13.0.28.0" => "Nosotros nos encargaremos de frenar
+a los refuerzos enemigos.",
+  "13.0.29.0" => "Nunca pensé que el enemigo llegaría
+aquí. ¡Pero no dejaré que vaya más lejos!",
+  "13.0.30.0" => "Será mejor lidiar con ese caballero
+dragón con mucho cuidado...",
+  "13.0.31.0" => "¡Parece invencible! ¿Cómo podemos acabar
+con él?",
+  "13.0.32.0" => "¡Usad el círculo mágico!",
+  "13.0.33.0" => "Me parece patético que te conformes con
+ganar usando el poder oscuro.",
+  "13.0.34.0" => "¡Espabila! ¿O es que no te
+consideras un guerrero?",
+  "13.0.35.0" => "Solo queda Cya... ¡El destino está en tus manos!",
+  "13.0.36.0" => "No te preocupes. ¡Confío en ti!",
+  "13.0.37.0" => "¡Yo me ocuparé de estos enemigos de poca monta!",
+  "13.0.38.0" => "¡Esto no acaba aquí!",
+  "13.0.39.0" => "¡Tengo fe en nosotros! No perderemos.",
+  "13.0.40.0" => "Llegar tan lejos no ha servido de nada...",
+  "13.0.41.0" => "La base ha caído... Este es el fin.",
+  "13.0.42.0" => "Al fin hemos llegado al Valle de la Hechicera,
+pero nuestras tropas se han dividido en dos.",
+  "13.0.43.0" => "¡Por aquí también hay un santuario!",
+  "13.0.44.0" => "¡Estupendo, habéis encontrado el santuario!",
+  "13.0.45.0" => "Es peligroso afrontar esto
+en solitario. Iré contigo.",
+  "13.0.46.0" => "¡No pienso huir ni rendirme! Jamás permitiré
+que estos monstruos me derroten.",
+  "13.0.47.0" => "¡No pienso huir ni rendirme! Jamás permitiré
+que estos monstruos me derroten.",
+  "13.0.48.0" => "¡No pienso huir ni rendirme! Jamás permitiré
+que estos monstruos me derroten.",
+  "13.0.49.0" => "¡No pienso huir ni rendirme! Jamás permitiré
+que estos monstruos me derroten.",
+  "13.0.50.0" => "¡No pienso huir ni rendirme! Jamás permitiré
+que estos monstruos me derroten.",
+}

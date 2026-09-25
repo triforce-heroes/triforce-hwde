@@ -1,0 +1,14 @@
+Map {
+  "0.1.0" => "A0%1sF0R ha evocato A0%2sF2R sul campo di battaglia!",
+  "0.2.0" => "Sconfiggi A0%1sF2R e A0%2sF2R!",
+  "0.3.0" => "Hai sconfitto A0%1sF2R!",
+  "0.10.0" => "L'A0%1sF5R si dirige verso A0%2sF6R!",
+  "0.11.0" => "Il morale dell'A0%1sF5R è migliorato!",
+  "0.12.0" => "Attenzione, A0%1sF2R non deve ritirarsi!",
+  "0.20.0" => "A0%1sF0R ha incoraggiato l'A0%2sF3R!",
+  "0.21.0" => "Il morale dell'A0%1sF1R è migliorato!",
+  "0.22.0" => "Sconfiggi A0%1sF2R al più presto!",
+  "0.23.0" => "A0%2sF0R ha perso! L'A0%1sF1R si demoralizza!",
+  "0.24.0" => "Hai sconfitto A0%1sF2R!",
+  "0.25.0" => "A0%1sF0R appare sul campo di battaglia!",
+}

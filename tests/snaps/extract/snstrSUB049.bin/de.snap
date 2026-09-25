@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "Beginn der Episode „Belagerung“!",
+  "0.1.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF0R ist dabei, A1deine FestungR zu sabotieren!",
+  "0.3.0" => "Besiege A0%1sF6R!",
+  "0.4.0" => "A0%1sF0R rückt auf A1deine FestungenR vor, um sie zu sabotieren!",
+  "0.5.0" => "A0%1sF0R hat die Sabotage abgeschlossen!",
+  "0.6.0" => "A0%1sF0R hat die Standfestigkeit A1deiner FestungR halbiert!",
+  "0.7.0" => "Die Sabotage wurde verhindert!",
+  "0.8.0" => "A0%1sF0R wurde bei der Sabotage gesichtet!",
+  "0.9.0" => "A0%1sF0R muss schnell besiegt werden!",
+  "0.10.0" => "A0%1sF0R wurde besiegt!",
+  "0.11.0" => "A0%1sF0R hat das Schlachtfeld verlassen!",
+  "0.12.0" => "scnarioSUB049_mes, 12",
+  "0.13.0" => "A0%1sF0R hat eine A1verbündete FestungR betreten!",
+  "0.14.0" => "A0%1sF0R beginnt, eine A1deiner FestungenR zu sabotieren!",
+}

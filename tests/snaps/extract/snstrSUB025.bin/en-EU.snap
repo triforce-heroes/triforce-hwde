@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R is advancing toward A0%2sF7R!",
+  "0.3.0" => "A0%1sF0R mistakenly believed A0%2sF6R was the source of the attack!",
+  "0.4.0" => "Defeat A0%1sF2R immediately, and rescue A0%2sF2R!",
+  "0.5.0" => "A0%1sF0R is battling with A0%2sF0R!",
+  "0.6.0" => "You defeated A0%1sF4R!",
+  "0.7.0" => "A0%2sF4R's attack has caused A0%1sF0R to temporarily retreat!",
+  "0.8.0" => "A0%1sF0R has reappeared and betrayed A0%2sF3R!",
+  "0.9.0" => "A0%1sF0R is furious and advancing toward A0%2sF6R!",
+  "0.10.0" => "Keep A0%1sF4R safe!",
+}

@@ -1,0 +1,18 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "Il ladro di magia"!",
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "Attenzione, A0%1sF2R si sta avvicinando!",
+  "0.3.0" => "A0%1sF0R ha rubato il tuo potere magico!",
+  "0.4.0" => "Sconfiggi A0%1sF2R originale e riprenditi la magia!",
+  "0.5.0" => "A0%1sF0R va verso A0%2sF2R!",
+  "0.6.0" => "A0%1sF0R si ritira temporaneamente!",
+  "0.7.0" => "A0%1sF0R riappare, creando una copia!",
+  "0.8.0" => "Solo A0%1sF2R originale possiede il tuo potere magico!",
+  "0.9.0" => "A0%1sF0R ha perso la sua copia!",
+  "0.10.0" => "Non hai sconfitto A0%1sF2R!",
+  "0.11.0" => "Hai sconfitto A0%1sF2R!",
+  "0.12.0" => "A0%1sF0R originale sta per ritirarsi!",
+  "0.13.0" => "A0%1sF0R originale si ritira!",
+  "0.14.0" => "Hai sconfitto A0%1sF2R originale!",
+  "0.15.0" => "A0%1sF0R ha perso e la copia è svanita!",
+}

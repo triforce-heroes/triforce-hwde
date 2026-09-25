@@ -1,0 +1,335 @@
+Map {
+  "1.0.0.0" => "La porte des âmes est au fond du palais. Nous
+devrons vaincre les ennemis qui la gardent!",
+  "1.0.1.0" => "La porte des âmes est au fin fond du palais.
+Vous savez ce qu'il vous reste à faire!",
+  "1.0.2.0" => "Stupide Midona... Je mettrai fin à tes jours!
+Plongez nos ennemis dans le Crépuscule!",
+  "1.0.3.0" => "Mais c'est... Xanto!
+Pourquoi protège-t-il la porte des âmes?",
+  "1.0.4.0" => "Je vais prendre le commandement.
+Je connais ce palais comme ma poche.",
+  "1.0.5.0" => "Je vais protéger la base. Je compte sur
+votre aide si les choses tournent mal!",
+  "1.0.6.0" => "Donc il faut... combattre aux côtés du
+commandant! Et... protéger la base! Compris!",
+  "1.0.7.0" => "Bien, d'abord allons vers l'est. Nous devons
+prendre le contrôle des forts ennemis!",
+  "1.0.8.0" => "Marchons d'abord vers l'est et
+prenons l'avant-poste ennemi!",
+  "1.0.9.0" => "Hi hi hi... Je ferai de mon mieux!",
+  "1.0.10.0" => "Assez traîné!
+Prenez vite les forts de l'est!",
+  "1.0.11.0" => "Qu'est-ce que vous faites?
+Prenez vite les forts de l'est!",
+  "1.0.12.0" => "Bien! Maintenant, prenez aussi le fort
+au nord! Vous en êtes capables, non?",
+  "1.0.13.0" => "Il est temps. Détruisez les ponts! Isolez
+les troupes ennemies de leur base.",
+  "1.0.14.0" => "Les ponts sont détruits mais restez calmes!
+Concentrez-vous sur la prise des forts!",
+  "1.0.15.0" => "Les ponts sont détruits mais on va trouver une
+solution! Pour l'instant, prenons vite les forts!",
+  "1.0.16.0" => "Alors, il faut continuer à attaquer,
+c'est bien cela? Allons-y!",
+  "1.0.17.0" => "Moi et ma troupe, nous avons pris
+le fort du palais de l'est!",
+  "1.0.18.0" => "Une récompense pour avoir pris le fort?
+Ouvrons pour voir.",
+  "1.0.19.0" => "Un coffre au trésor...
+Je ne vais pas me priver.",
+  "1.0.20.0" => "Cet objet permet de franchir des fossés?
+Utilisons-le là où les ponts ont été détruits!",
+  "1.0.21.0" => "Personne ne doit s'approcher de la porte des
+âmes! C'est un ordre du roi du Crépuscule!",
+  "1.0.22.0" => "Le dragon qu'il a invoqué me glace le sang.
+Ses pouvoirs magiques sont impressionnants.",
+  "1.0.24.0" => "Espèce de lâche! Descends, si t'es un dragon!
+On subit des dégâts sans pouvoir riposter...",
+  "1.0.25.0" => "Il passe trop vite pour que nous puissions le
+toucher. Comment le vaincre alors?",
+  "1.0.26.0" => "Monsieur Dragon vole vraiment haut dans le
+ciel. N'y a-t-il pas un moyen de le toucher?",
+  "1.0.27.0" => "Bien, je vais utiliser ma magie contre lui!",
+  "1.0.28.0" => "Je vais créer un cercle magique dans le fort
+sous le dragon. Venez m'aider!",
+  "1.0.29.0" => "Nous allons devoir réfléchir à deux fois si nous
+voulons vaincre un dragon en plein vol.",
+  "1.0.30.0" => "Je vais créer un cercle magique dans le fort
+sous le dragon, mais il me faut de l'aide!",
+  "1.0.31.0" => "J'ai besoin d'aide! Les monstres
+me barrent la route!",
+  "1.0.32.0" => "Les monstres m'empêchent d'avancer!
+J'ai besoin de renfort!",
+  "1.0.33.0" => "Tu penses pouvoir te débrouiller sans moi? Si je
+m'en vais, tu seras seule en première ligne.",
+  "1.0.34.0" => "Est-ce que vous vous en sortirez sans moi?
+Vous allez vous retrouver en première ligne...",
+  "1.0.35.0" => "Mes alliés combattent vaillamment.
+Moi aussi, je dois tenir bon!",
+  "1.0.36.0" => "Parfait! Les défenses de leur base ont diminué!
+Envoyez plus de troupes et détruisez-la!",
+  "1.0.37.0" => "Il profite de mon absence pour attaquer.
+Je dois aller créer le cercle magique rapidement!",
+  "1.0.38.0" => "Oh non! Il attaque pendant mon absence! Il faut
+que je crée ce cercle magique au plus vite!",
+  "1.0.39.0" => "Bien! Le cercle magique est prêt!
+Utilisez-le pour abattre le dragon!",
+  "1.0.40.0" => "Le cercle magique est prêt!
+Utilisons-le pour attaquer le dragon!",
+  "1.0.41.0" => "Vous allez le laisser voler encore longtemps?
+Utilisez le cercle magique! Maintenant!",
+  "1.0.42.0" => "Notre base ne va plus tenir très longtemps!
+Attaquez-le à l'aide du cercle magique! Vite!",
+  "1.0.43.0" => "Bien joué! J'aurais préféré qu'on en soit
+débarrassé pour de bon, mais c'est un début.",
+  "1.0.44.0" => "Vous avez peut-être réussi à chasser
+Pyrodactilus, mais j'ai d'autres cartes à jouer!",
+  "1.0.45.0" => "On a réussi! J'espère qu'on
+ne reverra plus ce dragon...",
+  "1.0.46.0" => "Goûtez au nouveau plan du roi du Crépuscule!
+Capturez leurs officiers en première ligne!",
+  "1.0.47.0" => "Tiens? Des ennemis s'approchent.
+Est-ce qu'ils veulent me parler?",
+  "1.0.48.0" => "Mais qu'est-ce qu'elle fabrique?
+Ne laissez pas l'ennemi l'approcher!",
+  "1.0.49.0" => "Oh non! Ils visent Machaon!
+Ne les laissez pas l'approcher!",
+  "1.0.50.0" => "Hein? Mais qu'est-ce que vous faites?",
+  "1.0.51.0" => "Elle s'est fait enlever par l'ennemi... Génial...
+Ça affaiblit nos défenses à l'est...",
+  "1.0.52.0" => "Machaon a été capturée? Cela va 
+avantager les forces ennemies à l'est...",
+  "1.0.53.0" => "Merci mille fois! J'étais sur le point d'accepter
+leur invitation quand vous m'avez secourue.",
+  "1.0.54.0" => "Vos blessures semblent guéries.
+Bien, attaquez à nouveau leur base!",
+  "1.0.55.0" => "Encore ce dragon! Grrrr!
+Je n'en peux plus...",
+  "1.0.56.0" => "Attaquons le dragon avec un cercle magique!
+Prenez la place qu'il survole!",
+  "1.0.57.0" => "Compris! On utilise la même stratégie
+que tout à l'heure! En avant!",
+  "1.0.58.0" => "Il faut attaquer ce dragon avec un cercle magique!
+Prenez la place centrale qu'il survole!",
+  "1.0.59.0" => "C'est le même plan que tout à l'heure!
+Je m'en occupe!",
+  "1.0.62.0" => "Il vise encore notre base...
+Je vais le chasser en un rien de temps!",
+  "1.0.63.0" => "Il attaque à nouveau notre base...
+Nous devons repousser ce dragon rapidement!",
+  "1.0.65.0" => "Bien! J'ai terminé le cercle magique.
+Cette fois, donnez-lui le coup de grâce!",
+  "1.0.66.0" => "Le cercle magique est prêt! Utilisons-le
+pour vaincre ce dragon pour de bon!",
+  "1.0.67.0" => "Hé, vous allez le laisser faire encore longtemps?
+Utilisez le cercle magique pour le vaincre!",
+  "1.0.68.0" => "On ne va plus tenir longtemps... Utilisez vite
+le cercle magique pour l'abattre!",
+  "1.0.69.0" => "Il s'est encore enfui... Si nos attaques pouvaient
+l'atteindre, on pourrait en finir avec lui...",
+  "1.0.70.0" => "Il s'est encore enfui?!",
+  "1.0.71.0" => "Si on veut vaincre ce dragon, il faut le forcer à
+descendre assez bas pour pouvoir le toucher...",
+  "1.0.73.0" => "Rah, c'est la troisième fois! Ça commence
+vraiment à me fatiguer!",
+  "1.0.74.0" => "C'est déjà la troisième fois...
+Combien de temps ça va encore durer?",
+  "1.0.75.0" => "On a beau le chasser, il revient toujours.
+Il est aussi énervant qu'une mouche...",
+  "1.0.76.0" => "Mon cercle magique n'a pas l'air de lui faire
+d'effet... Vous avez une meilleure idée?",
+  "1.0.77.0" => "L'attaquer avec un cercle magique ne nous
+mène nulle part... Il faut trouver un autre moyen.",
+  "1.0.78.0" => "Monsieur Papillon essaie de nous dire quelque
+chose... Il veut nous guider quelque part!",
+  "1.0.81.0" => "Suivons le papillon vers le bâtiment au sud-est.
+La fontaine de la Déesse doit se trouver là-bas.",
+  "1.0.82.0" => "Le papillon vole vers le bâtiment au sud-est!
+J'imagine que nous devons lui faire confiance!",
+  "1.0.84.0" => "Peut-être qu'on pourra vaincre le dragon grâce
+au cercle magique de la fontaine de la Déesse!",
+  "1.0.85.0" => "Le cercle magique de la fontaine de la Déesse
+devrait nous permettre de vaincre ce dragon!",
+  "1.0.86.0" => "Attaquez avec Pyrodactilus! Je veux
+les entendre rendre leur dernier souffle!",
+  "1.0.87.0" => "Il ne nous reste plus que notre base! Si on
+n'arrive pas à la protéger, on perdra la bataille.",
+  "1.0.88.0" => "Seule notre base est toujours debout.
+Il faut la protéger coûte que coûte...",
+  "1.0.89.0" => "Ils sont trop affaiblis pour contre-attaquer.
+Faites-les souffrir... et éliminez-les!",
+  "1.0.90.0" => "Rah, sale Xanto... Pour qui il se prend?",
+  "1.0.91.0" => "On va pas se laisser ridiculiser comme ça!
+Prenez au moins un de leurs avant-postes!",
+  "1.0.92.0" => "Regardez!",
+  "1.0.93.0" => "Alors, qu'en dis-tu, Xanto? La prochaine fois,
+on ne se contentera pas d'un avant-poste!",
+  "1.0.94.0" => "Vois, Xanto! Voilà de quoi
+nous sommes capables!",
+  "1.0.95.0" => "Misérables... Vous osez vous
+moquer de mon armée!",
+  "1.0.96.0" => "Regardez! Le cercle magique a fonctionné!
+Le dragon a perdu beaucoup d'altitude!",
+  "1.0.97.0" => "Nos attaques devraient pouvoir l'atteindre
+maintenant! Il faut lui porter le coup de grâce!",
+  "1.0.98.0" => "Mais... Comment ont-ils réussi à
+vaincre Pyrodactilus?!",
+  "1.0.99.0" => "Je mènerai mon armée en personne s'il le faut.
+Vous allez mourir de la main d'un roi! Chargez!",
+  "1.0.100.0" => "Le dragon est tombé au sol et Xanto est sorti.
+Si on arrive à les vaincre, la victoire est à nous!",
+  "1.0.101.0" => "Si nous arrivons à vaincre le dragon et Xanto,
+la victoire sera à nous... Nous pouvons y arriver!",
+  "1.0.102.0" => "Misérables... Moi... le roi du Crépuscule...
+vaincu par vous... des lâches sans ambition...",
+  "1.0.103.0" => "Ta soif de pouvoir a causé ta défaite.
+Disparais dans les ténèbres... pour toujours!",
+  "1.0.104.0" => "C'est justement l'ambition qui a causé
+votre perte... à Cya et à toi...",
+  "1.0.106.0" => "On l'a enfin vaincu...
+La troisième fois était la bonne...",
+  "1.0.107.0" => "Enfin, nous avons gagné...
+C'est grâce à vous tous!",
+  "1.0.108.0" => "On a vaincu le commandant ennemi! Il n'y a plus
+personne pour protéger la porte des âmes!",
+  "1.0.109.0" => "Nos plus puissants ennemis sont tombés!
+Nous allons pouvoir fermer la porte des âmes!",
+  "1.0.110.0" => "Notre base est en danger!
+Renforcez la défense!",
+  "1.0.111.0" => "Nos ennemis déferlent sur notre base!
+Protégez-la!",
+  "1.0.112.0" => "Si notre base tombe, c'est la fin!
+Envoyez vite du renfort!",
+  "1.0.113.0" => "Notre base est sur le point de tomber.
+Il nous faut du renfort, vite!",
+  "1.0.114.0" => "J'ai perdu... Je suis désolée...",
+  "1.0.115.0" => "Comment ai-je pu perdre...
+Je n'ai pas été à la hauteur...",
+  "1.0.117.0" => "Notre base est tombée?
+Cette fois, c'est fini...",
+  "1.0.118.0" => "Nous avons perdu la base...?
+Quelle défaite...",
+  "1.0.119.0" => "Hein? On a pris le fort, mais ça n'a pas ouvert
+les portes. Il faut trouver un autre chemin.",
+  "1.0.120.0" => "Mais le pont qu'on a emprunté pour venir ici
+s'est effondré. Qu'est-ce qu'on peut faire?",
+  "1.0.121.0" => "Midona, cet individu masqué est-il ton ami?",
+  "1.0.122.0" => "Mon ami? NON! C'est Xanto, un usurpateur qui
+s'est emparé du monde des ombres.",
+  "1.0.123.0" => "Ce gros lézard nous a bien amochés,
+mais ça ne doit pas nous arrêter!",
+  "1.0.124.0" => "Pfiou... On s'en est bien sortis
+pour cette fois!",
+  "1.0.125.0" => "Hé, faites quelque chose, ou notre
+base va être réduite en miettes!",
+  "1.0.126.0" => "Allez récupérer nos forts!
+Faites-le pour votre roi!",
+  "1.0.127.0" => "Ça ne va pas se passer comme ça! Ne les
+laissez pas les reprendre! Arrêtez-les!",
+  "1.0.128.0" => "Tu me parlais à moi aussi? Oh! Dans ce
+cas-là, je vais vous aider! Ha ha!",
+  "1.0.129.0" => "Quelle effronterie! Qui ose me parler
+de la sorte! Éliminez-la! Immédiatement!",
+  "1.0.130.0" => "Hi hi! Je suis tellement contente
+d'avoir pu vous aider!",
+  "1.0.131.0" => "Je vais anéantir les hordes venant de
+l'ouest! Allez défendre notre base!",
+  "1.0.132.0" => "Oh! Peut-être devrais-je arrêter les
+ennemis qui arrivent par le milieu, non?",
+  "1.0.133.0" => "Je vais faire disparaître ce dragon!
+Allez montrer à Xanto qui fait la loi ici!",
+  "1.0.134.0" => "Ha ha, ils nous livrent leur base
+sur un plateau! Rasez-la!",
+  "1.0.135.0" => "Grrr... Xanto, tu me le paieras!
+Que quelqu'un aille défendre notre base!",
+  "1.0.136.0" => "On va éliminer cette créature pour de bon!
+Rassemblez-vous autour du Pyrodactilus!",
+  "1.0.137.0" => "Grrr! Cap sur la base! Si on y retourne
+pas rapidement, elle tombera!",
+  "13.0.0.0" => "La porte des âmes doit être au fond du palais.
+Nous devons vaincre les gardes et la fermer!",
+  "13.0.1.0" => "Je vais protéger la base, mais j'aurais besoin
+de votre aide si les choses tournent mal.",
+  "13.0.2.0" => "Marchons d'abord vers l'est et prenons le
+fort ennemi! Vous êtes prêts? En avant!",
+  "13.0.3.0" => "Allez, dépêchez-vous! Prenez les forts
+de l'est! Ne vous laissez pas distraire!",
+  "13.0.4.0" => "Le pont est détruit mais ne vous en faites pas!
+Concentrez-vous sur les forts!",
+  "13.0.5.0" => "Un coffre au trésor...
+Je ne vais pas me priver.",
+  "13.0.6.0" => "Ils nous attaquent depuis les airs...
+Qu'est-ce qu'on peut faire...?",
+  "13.0.7.0" => "Je sais! Pour toucher un dragon en plein vol,
+la seule solution, c'est d'utiliser la magie!",
+  "13.0.8.0" => "Je vais créer un cercle magique dans le fort sous
+le dragon! Occupez-le pendant ce temps-là!",
+  "13.0.9.0" => "Les monstres m'empêchent d'avancer! Est-ce
+que quelqu'un pourrait venir m'en débarrasser?",
+  "13.0.10.0" => "Hé, vous allez vous en sortir tout seuls?
+Sans moi, qui va tenir la première ligne?",
+  "13.0.11.0" => "Il profite de mon absence pour attaquer...
+Je dois vite aller créer le cercle magique!",
+  "13.0.12.0" => "Le cercle magique est prêt!
+Utilisons-le pour attaquer le dragon!",
+  "13.0.13.0" => "Notre base ne va plus tenir très longtemps!
+Utilisez vite le cercle magique pour attaquer!",
+  "13.0.14.0" => "Fantastique! J'espère que c'est la dernière
+fois qu'on entend parler de ce dragon...",
+  "13.0.15.0" => "Oh non! Ils essaient de capturer Machaon!
+Ne laissez pas l'ennemi l'approcher!",
+  "13.0.16.0" => "Machaon a été capturée! Cela va sûrement
+provoquer l'arrivée de renforts ennemis à l'est.",
+  "13.0.17.0" => "Il nous faut un cercle magique pour vaincre ce
+dragon! Prenez la place qu'il survole!",
+  "13.0.18.0" => "C'est le même plan que tout à l'heure!
+Je m'en occupe!",
+  "13.0.19.0" => "Il cherche à attaquer notre base...
+Il faut vite le chasser!",
+  "13.0.20.0" => "J'ai terminé le cercle magique!
+Faites qu'il compte!",
+  "13.0.21.0" => "On ne va plus tenir longtemps... Utilisez vite
+le cercle magique pour vaincre le dragon!",
+  "13.0.22.0" => "Regardez! L'attaque magique a marché!
+Le dragon a perdu beaucoup d'altitude!",
+  "13.0.23.0" => "C'est déjà la troisième fois...
+Combien de temps ça va encore durer?",
+  "13.0.24.0" => "Mon cercle magique n'a pas l'air de faire effet...
+Comment est-ce qu'on pourrait faire?",
+  "13.0.25.0" => "Suivons le papillon vers le bâtiment au sud-est!
+Nous devons lui faire confiance!",
+  "13.0.26.0" => "Le cercle magique de la fontaine de la Déesse
+pourrait nous aider à vaincre Pyrodactilus!",
+  "13.0.27.0" => "Il ne nous reste plus que notre base.
+Il faut la protéger coûte que coûte...",
+  "13.0.28.0" => "Tu as vu? Voilà de quoi nous sommes capables!",
+  "13.0.29.0" => "Nous devons vaincre Xanto et Pyrodactilus...
+Ça ne peut pas être si difficile, n'est-ce pas?",
+  "13.0.30.0" => "C'est justement votre ambition qui a causé
+votre perte... à Cya et à toi...",
+  "13.0.31.0" => "On l'a enfin vaincu...
+Merci à vous tous!",
+  "13.0.32.0" => "Les ennemis les plus puissants ont été vaincus!
+Allons fermer la porte des âmes à présent!",
+  "13.0.33.0" => "Les ennemis attaquent notre base!
+Protégez-la!",
+  "13.0.34.0" => "Notre base est sur le point de tomber!
+Il nous faut du renfort, vite!",
+  "13.0.35.0" => "Je n'ai pas été à la hauteur...
+Pardonnez-moi...",
+  "13.0.36.0" => "Notre base est tombée...
+La bataille est perdue...",
+  "13.0.37.0" => "Ce dragon a blessé nos alliés à la base. Si elle
+se fait attaquer maintenant, elle risque de tomber!",
+  "13.0.38.0" => "Pfiou! On dirait qu'on a réussi
+à s'en sortir!",
+  "13.0.39.0" => "Oh non! Si nous ne réagissons pas rapidement,
+notre base va être réduite en poussières.",
+  "13.0.40.0" => "Je vais me charger de ce dragon! Pendant
+ce temps-là, occupez-vous de Xanto!",
+  "13.0.41.0" => "Notre base est en danger! Que
+quelqu'un aille la défendre! Vite!",
+  "13.0.42.0" => "Nous devons retourner à la base au plus
+vite, elle est en danger!",
+}

@@ -1,0 +1,54 @@
+Map {
+  "0.1.0" => "Verteile den A6SchadenR gleichmäßig über A0%1sF7R!",
+  "0.2.0" => "A0%1sF1R haben sich gegenseitig geheilt!",
+  "0.3.0" => "A0%1sF1R können ihren Schaden nicht heilen!",
+  "0.4.0" => "A0%1sF1R wurden gleichzeitig besiegt!",
+  "0.5.0" => "A0%1sF0R hat die Lebenskraft des Kameraden absorbiert!",
+  "0.6.0" => "A0%1sF0R ist vorerst kampfunfähig!",
+  "0.7.0" => "Versuche, alle Feinde gleichzeitig zu treffen!",
+  "0.8.0" => "Weitere A2feindliche EinheitenR wurden gesichtet!",
+  "0.9.0" => "Bei ungleichmäßigem A6SchadenR können sie sich gegenseitig heilen!",
+  "0.10.0" => "Verteile den A6SchadenR gleichmäßig!",
+  "0.11.0" => "A0%1sF0R rückt gegen A0%2sF6R vor!",
+  "0.12.0" => "A0%1sF0R wurde geheilt!",
+  "0.13.0" => "A0%1sF1R wurden nicht gleichzeitig besiegt!",
+  "0.14.0" => "A0%1sF1R können ihren Schaden nicht heilen!",
+  "0.15.0" => "Ein A2Magiekrug-TransportsoldatR wurde auf dem Schlachtfeld gesichtet!",
+  "0.16.0" => "Ein A2Force-Kristall-TransportsoldatR wurde auf dem Schlachtfeld gesichtet!",
+  "0.17.0" => "Ein A2Herz-TransportsoldatR wurde auf dem Schlachtfeld gesichtet!",
+  "0.18.0" => "Die A0%1sF1R rücken gegen A0%2sF6R vor!",
+  "0.19.0" => "Die Zeit ist um! Du hast verloren!",
+  "0.20.0" => "A0%1sF1R haben sich gegenseitig vollständig geheilt!",
+  "0.21.0" => "Besiege A0%1sF6R!",
+  "0.22.0" => "Besiege A0%1sF7R!",
+  "0.23.0" => "A0%1sF1R haben die Lebenskraft ihres Kameraden absorbiert!",
+  "0.25.0" => "A0%1sF0R wurde besiegt!",
+  "0.26.0" => "A0%1sF1R wurden besiegt!",
+  "0.27.0" => "A0%1sF0R hat die Lebenskraft der Kameraden absorbiert!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Besiege gleichzeitig beide
+A0%1sF3R!",
+  "3.1.0" => "Besiege gleichzeitig beide
+A0%1sF3R!",
+  "3.2.0" => "Besiege gleichzeitig alle drei
+A0%1sF3R!",
+  "3.3.0" => "Besiege gleichzeitig beide
+A0%1sF3R!",
+  "3.4.0" => "Besiege A0%1sF6R
+endgültig!",
+  "3.5.0" => "Besiege A0%1sF6R
+endgültig!",
+  "3.6.0" => "Besiege A0%1sF6R
+endgültig!",
+  "3.7.0" => "Besiege A0%1sF7R
+endgültig!",
+}

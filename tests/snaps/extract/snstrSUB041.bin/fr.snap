@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Les guerriers du Crépuscule »!",
+  "0.1.0" => "A0%1sF6R et A0%2sF2R ont rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF4R se dirige vers A0%2sF0R!",
+  "0.3.0" => "Vous avez vaincu A0%1sF0R!",
+  "0.4.0" => "A0%1sF4R est de retour sur le champ de bataille!",
+  "0.5.0" => "A0%1sF4R a aidé A0%2sF0R à revenir sur le champ de bataille!",
+  "0.6.0" => "Éliminez A0%1sF0R!",
+  "0.7.0" => "A0%2sF4R a disparu après la défaite A0%1sF3R!",
+  "0.8.0" => "Vous avez vaincu A0%1sF0R!",
+}

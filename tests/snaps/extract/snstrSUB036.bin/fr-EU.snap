@@ -1,0 +1,15 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « La cocotte d'argent errante » !",
+  "0.1.0" => "A0%1sF6R rejoint le champ de bataille !",
+  "0.2.0" => "Éliminez A0%1sF0R !",
+  "0.3.0" => "A0%1sF4R quitte temporairement le champ de bataille !",
+  "0.4.0" => "A0%1sF4R revient sur le champ de bataille depuis A0%2sF0R !",
+  "0.5.0" => "Prenez le contrôle des forts ennemis et empêchez la retraite ennemie !",
+  "0.6.0" => "A0%1sF4R semble ne plus savoir par où s'enfuir !",
+  "0.7.0" => "Vous avez éliminé A0%1sF0R !",
+  "0.8.0" => "A0%1sF4R a définitivement quitté le champ de bataille !",
+  "0.9.0" => "A0%1sF4R ne doit pas s'approcher !",
+  "0.10.0" => "Vous n'avez pas réussi à éliminer A0%1sF0R !",
+  "0.11.0" => "A0%1sF4R quitte le champ de bataille !",
+  "0.12.0" => "A0%1sF4R s'apprête à définitivement quitter le champ de bataille !",
+}

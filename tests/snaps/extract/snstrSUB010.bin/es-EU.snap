@@ -1,0 +1,16 @@
+Map {
+  "0.1.0" => "¡Han aparecido dos A0%1sF1R en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R está saboteando un A1bastión aliadoR!",
+  "0.3.0" => "¡Vence A0%1sF5R!",
+  "0.4.0" => "¡A0%1sF3R avanzan para sabotear A1bastiones aliadosR!",
+  "0.5.0" => "¡A0%1sF0R ha terminado con su sabotaje!",
+  "0.6.0" => "¡A0%1sF0R ha reducido la resistencia del A1bastión aliadoR!",
+  "0.7.0" => "¡Has impedido el sabotaje!",
+  "0.8.0" => "¡Has descubierto A0%1sF4R preparando un sabotaje!",
+  "0.9.0" => "¡Vence A0%1sF4R cuanto antes!",
+  "0.10.0" => "¡Has vencido A0%1sF4R!",
+  "0.11.0" => "¡A0%1sF0R se ha retirado del campo de batalla!",
+  "0.12.0" => "¡Vence A0%1sF4R que queda!",
+  "0.13.0" => "¡A0%1sF0R ha entrado en un A1bastión aliadoR!",
+  "0.14.0" => "¡A0%1sF0R se dispone a sabotear un A1bastión aliadoR!",
+}

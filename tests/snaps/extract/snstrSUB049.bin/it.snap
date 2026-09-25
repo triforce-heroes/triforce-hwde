@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "Assedio al castello"!",
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R sta sabotando un A1presidio alleatoR!",
+  "0.3.0" => "Sconfiggi A0%1sF2R!",
+  "0.4.0" => "A0%1sF0R si dirige verso un A1presidio alleatoR per sabotarlo!",
+  "0.5.0" => "A0%1sF0R ha terminato i preparativi per il sabotaggio!",
+  "0.6.0" => "A0%1sF0R ha dimezzato la resistenza del A1presidio alleatoR!",
+  "0.7.0" => "Hai fermato il sabotaggio!",
+  "0.8.0" => "Hai trovato A0%1sF2R mentre eseguiva il sabotaggio!",
+  "0.9.0" => "Sconfiggi subito A0%1sF2R!",
+  "0.10.0" => "A0%1sF0R ha perso!",
+  "0.11.0" => "A0%1sF0R ha abbandonato il campo di battaglia!",
+  "0.12.0" => "Not Used",
+  "0.13.0" => "A0%1sF0R si infiltra in un A1presidio alleatoR!",
+  "0.14.0" => "A0%1sF0R sta per sabotare un A1presidio alleatoR!",
+}

@@ -1,0 +1,5 @@
+Map {
+  "0.0.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.1.0" => "¡A0%1sF0R se dirige a curar a los heridos de las A0%2sF1R!",
+  "0.2.0" => "¡Las A0%2sF1R recuperan energía gracias A0%1sF4R!",
+}

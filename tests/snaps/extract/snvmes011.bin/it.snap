@@ -1,0 +1,216 @@
+Map {
+  "1.0.0.0" => "Link! Facciamoli a fette!
+Con la spada suprema non sarà difficile!",
+  "1.0.1.0" => "Accidenti a te, Link... non esagerare...
+Cerca di non correre troppi rischi.",
+  "1.0.2.0" => "Eh eh eh, sono qui, Link! Dai, fammi
+vedere la forza della spada sacra...",
+  "1.0.3.0" => "Se il nostro eroe Link viene sconfitto, non
+possiamo vincere! Non perdetelo mai di vista!",
+  "1.0.5.0" => "Ci sono tre presidi magici a est e tre a
+ovest. Sono tutti collegati da flussi magici.",
+  "1.0.6.0" => "Sì, anche io percepisco un potere dai presidi
+magici... conquistiamoli al più presto!",
+  "1.0.7.0" => "Uh uh uh... sento il potere della Triforza...",
+  "1.0.8.0" => "Che cosa... Percepisco un'aura inquietante
+in questa zona...",
+  "1.0.9.0" => "Inquietante? Io sento solo la presenza
+malefica della maga e dei suoi demoni.",
+  "1.0.10.0" => "Dai presidi magici collegati tramite il flusso
+magico provengono nemici sempre più forti.",
+  "1.0.11.0" => "Siamo nei guai... proviamo a conquistare
+tutti i presidi magici.",
+  "1.0.12.0" => "Uhm... I nemici sono in gran forma! Sono più
+forti del solito, per tutte le rocce!",
+  "1.0.13.0" => "Conquistando un presidio magico si
+interrompe il flusso magico e il suo effetto.",
+  "1.0.14.0" => "Almeno non ci saranno più nemici fortissimi!
+Conquistiamo anche gli altri presidi magici!",
+  "1.0.15.0" => "Se li conquistiamo nell'ordine giusto,
+interromperemo prima il flusso magico!",
+  "1.0.16.0" => "La zona ovest è sistemata! Conquistiamo
+gli altri presidi a est!",
+  "1.0.17.0" => "Interrompendo tutti i flussi magici i
+nemici dovrebbero indebolirsi!",
+  "1.0.18.0" => "Ci siamo occupati del lato est...
+conquistiamo anche i circoli a ovest.",
+  "1.0.19.0" => "Interrompendo tutti i flussi magici
+i nemici dovrebbero indebolirsi!",
+  "1.0.20.0" => "Due flussi magici sono stati interrotti!
+Abbiamo fatto bene a cominciare dal centro!",
+  "1.0.21.0" => "Interruzione flusso magico: 100%.",
+  "1.0.22.0" => "Link, smettila di giocare e vieni da me. Vuoi
+sconfiggermi con la tua spada sacra, no?",
+  "1.0.23.0" => "Link, le porte si sono aperte!
+Cia è là dentro, vai a sconfiggerla!",
+  "1.0.24.0" => "Link oscuro è il riflesso delle tenebre nel
+tuo cuore. Pensi di poterlo battere?",
+  "1.0.25.0" => "Mi spiace... anche io ho abbassato la guardia.
+Forza, non puoi perdere contro un impostore!",
+  "1.0.26.0" => "Ehi! Non possiamo lasciare Link
+a combattere da solo!",
+  "1.0.28.0" => "Ha sfruttato il lato oscuro del suo
+cuore... Ma cosa possiamo fare?!",
+  "1.0.29.0" => "Altri Link oscuri?! Mi raccomando,
+guardatevi le spalle!",
+  "1.0.30.0" => "A rapporto: avvistati quattro Link oscuri.",
+  "1.0.31.0" => "Ce ne sono ben quattro...
+Sarà una dura battaglia!",
+  "1.0.32.0" => "Fiu... abbiamo eliminato tutti i Link oscuri?",
+  "1.0.33.0" => "Cosa? Si è rigenerato?!
+Di questo passo non finiremo mai!",
+  "1.0.34.0" => "Vedo che siete tutti piuttosto stanchi...
+È il momento di impadronirmi della Triforza!",
+  "1.0.35.0" => "Oh, no! È venuto a rubare la Triforza!",
+  "1.0.36.0" => "Per tutti i massi!
+Arrivano degli altri nemici!",
+  "1.0.37.0" => "Ci stanno per circondare... Truppe, ritiratevi!",
+  "1.0.38.0" => "A questo punto non resta che ritirarci...
+Il roseto ovest sarà una via di fuga sicura.",
+  "1.0.39.0" => "Bene, ricevuto! Scappate tutti dal roseto
+ovest!",
+  "1.0.40.0" => "I Link oscuri si rigenerano nella sala della
+maga, impedendo la ritirata degli alleati...",
+  "1.0.41.0" => "Link! Ferma i Link oscuri in modo che tutti
+possano mettersi in salvo!",
+  "1.0.42.0" => "Link! Cerca di fare attenzione!",
+  "1.0.44.0" => "A rapporto, mio signore. I Link oscuri sono
+stati eliminati. Probabilità di rigenerazione: 0%.",
+  "1.0.45.0" => "Sento nuova energia fluire dentro di me...
+Che cosa sarà mai?",
+  "1.0.46.0" => "La spada suprema comincia a emanare
+la sua energia.",
+  "1.0.47.0" => "Non posso generare altri Link oscuri. Pazienza,
+passerò all'attacco diretto, senza trucchi!",
+  "1.0.48.0" => "Cia, basta! Se usi troppa magia, arriverai a
+un punto di non ritorno!",
+  "1.0.49.0" => "Taci! Faccio quello che mi pare!
+Però... mi sento un po' stanca...",
+  "1.0.50.0" => "Link sembra stare bene... truppe, tutti
+in ritirata! Presto!",
+  "1.0.51.0" => "Bene, ai ripari! Dovremmo poterci
+mettere in salvo dal roseto ovest.",
+  "1.0.52.0" => "La principessa è in pericolo!
+La salverò io! Voi mettetevi al riparo!",
+  "1.0.53.0" => "Impa! Non preoccuparti per me!
+Scappa anche tu, è un ordine!",
+  "1.0.54.0" => "M-Ma... Ho capito... va bene...
+Principessa, fate attenzione...!",
+  "1.0.55.0" => "Oh oh oh... non mi scapperai.",
+  "1.0.56.0" => "Che incredibile potenza... non riesco
+nemmeno a fuggire...",
+  "1.0.57.0" => "Link... adesso sta a te difendere gli amici!
+Sconfiggilo per il bene di tutti!",
+  "1.0.58.0" => "Come temevo... la situazione si fa
+pericolosa.",
+  "1.0.59.0" => "Mpf... che pena!
+Perché non ti impegni un po' di più?",
+  "1.0.60.0" => "Ugh... che sia giunta la fine?",
+  "1.0.61.0" => "Ora porrò fine alla tua sofferenza.",
+  "1.0.62.0" => "La situazione si fa sempre più dura...
+Io condurrò gli altri al punto di fuga.",
+  "1.0.63.0" => "A rapporto: rilevata aura in movimento.
+Probabilità che si tratti di Midna: 99%.",
+  "1.0.64.0" => "Qui c'è il punto di fuga! Cercate di
+raggiungermi!",
+  "1.0.66.0" => "Grazie... mi hai salvata!",
+  "1.0.67.0" => "Riesci a brandire la spada che esorcizza il
+male? Bah! Il giorno delle tenebre si avvicina!",
+  "1.0.68.0" => "Non arrenderti, Link! Tieni duro!",
+  "1.0.69.0" => "Link, resisti! Non arrenderti!",
+  "1.0.70.0" => "Link! Link! Sei il nostro eroe,
+non arrenderti!",
+  "1.0.71.0" => "Link! Non resisteremo a lungo agli attacchi
+di Cia.",
+  "1.0.72.0" => "Eravamo arrivati fin qui... perdonatemi...",
+  "1.0.73.0" => "Ormai è tutto inutile... perdonatemi...",
+  "1.0.74.0" => "Siamo arrivati fin qui per essere sconfitti...
+perdonatemi, principessa Zelda...",
+  "1.0.75.0" => "Acciroccia, ho perso... perdonatemi, fratelli.",
+  "1.0.76.0" => "Faih a rapporto, mio signore. Confermo
+impossibilità di continuare a combattere...",
+  "1.0.77.0" => "Ugh... che vergogna... perdonatemi...",
+  "1.0.78.0" => "Se qualcuno di noi perde adesso, non
+potremo proseguire...",
+  "1.0.79.0" => "Accidenti... che razza di eroe sei?",
+  "1.0.80.0" => "Che cosa...? Percepisco un'aura
+inquietante...",
+  "1.0.81.0" => "Il flusso magico è stato ripristinato!
+Appariranno dei nemici potentissimi!",
+  "1.0.82.0" => "Dobbiamo riconquistare i presidi magici
+e interrompere il flusso magico!",
+  "1.0.83.0" => "Finalmente i presidi magici si sono
+indeboliti! Il flusso magico è interrotto!",
+  "1.0.84.0" => "Non serve a niente conquistare i presidi!
+I miei scagnozzi non vi daranno tregua!",
+  "1.0.85.0" => "Evviva!
+Abbiamo sconfitto il Link oscuro!",
+  "1.0.86.0" => "Terrò a bada i nemici finché non
+sarete tutti in salvo!",
+  "1.0.87.0" => "Gli altri sono tutti al sicuro!
+Mettiti in salvo anche tu!",
+  "1.0.88.0" => "Dobbiamo metterci in salvo in qualche
+modo...",
+  "1.0.89.0" => "Se continua così, non riusciremo mai
+a metterci in salvo...",
+  "1.0.90.0" => "Stanno facendo di tutto
+per non farci scappare...!",
+  "1.0.91.0" => "Accidenti... basterebbe poco per
+riuscire a scappare...",
+  "1.0.92.0" => "Tutti stanno facendo del loro meglio...
+Non posso arrendermi proprio adesso!",
+  "1.0.93.0" => "I nemici non mollano la presa...
+Siamo in una situazione pericolosa!",
+  "1.0.94.0" => "Riprendete i presidi magici, è un ordine!
+Ristabilite il flusso magico!",
+  "13.0.0.0" => "Senza Link non abbiamo speranze...
+Non perdetelo di vista!",
+  "13.0.1.0" => "Anch'io percepisco una strana forza dai presidi
+magici. Meglio stare all'erta. Conquistateli!",
+  "13.0.2.0" => "Un flusso magico collega i presidi magici.
+Da lì continuano ad apparire nemici molto forti.",
+  "13.0.3.0" => "Se conquistiamo i presidi magici, il flusso
+verrà interrotto e non potrà essere più usato.",
+  "13.0.4.0" => "Il lato ovest è a posto. Ora dobbiamo
+conquistare anche i presidi magici a est!",
+  "13.0.5.0" => "Il lato est è a posto. Ora dobbiamo
+conquistare anche i presidi magici a ovest!",
+  "13.0.6.0" => "Abbiamo spezzato due flussi magici in un colpo!
+Iniziare da quello al centro ha funzionato!",
+  "13.0.7.0" => "Sono apparsi altri Link oscuri...?
+Fate molta attenzione!",
+  "13.0.8.0" => "Se continua così, verremo circondati...
+Ritiriamoci!",
+  "13.0.9.0" => "I Link oscuri vengono rigenerati nella sala della
+maga... e ostacolano la ritirata degli alleati!",
+  "13.0.10.0" => "Link! Sii prudente!",
+  "13.0.11.0" => "Link è a posto!
+Presto, cominciate la ritirata!",
+  "13.0.12.0" => "Uh... È dura...
+Non riusciremo a fuggire facilmente...",
+  "13.0.13.0" => "E così non c'è più niente da fare...?",
+  "13.0.14.0" => "È già troppo tardi...?",
+  "13.0.15.0" => "Grazie... mi hai salvata...",
+  "13.0.16.0" => "Link...! Se il nostro eroe viene sconfitto,
+non potremo combattere contro Cia...!",
+  "13.0.17.0" => "Era un peso troppo grande per me...",
+  "13.0.18.0" => "Se anche uno solo dei nostri compagni venisse
+meno, non avremmo alcuna speranza di vincere.",
+  "13.0.19.0" => "Era un peso troppo grande per me...",
+  "13.0.20.0" => "Era un peso troppo grande per me...",
+  "13.0.21.0" => "Era un peso troppo grande per me...",
+  "13.0.22.0" => "Era un peso troppo grande per me...",
+  "13.0.23.0" => "Metà dei Link oscuri è stata sconfitta!
+Ora occupiamoci degli altri due!",
+  "13.0.24.0" => "A questo punto... Potremmo fuggire
+attraverso il roseto a ovest...?",
+  "13.0.25.0" => "Mi... mi spiace...
+Non ce la faccio più...",
+  "13.0.26.0" => "Link... aspetta! Arrivo!",
+  "13.0.27.0" => "Riprendiamoci i presidi magici e
+interrompiamo il flusso magico!",
+  "13.0.28.0" => "M-Ma cosa...? Avverto una strana
+presenza qui nei paraggi...",
+  "13.0.29.0" => "I presidi magici hanno perso
+il loro potere. Buon segno!",
+}

@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario "Las tropas del Crepúsculo"!",
+  "0.1.0" => "¡Han aparecido A0%1sF2R y A0%2sF2R!",
+  "0.2.0" => "¡A0%1sF0R se dirige hacia A0%2sF2R!",
+  "0.3.0" => "¡Has vencido A0%1sF4R!",
+  "0.4.0" => "¡A0%1sF0R ha vuelto a aparecer!",
+  "0.5.0" => "¡A0%2sF0R ha vuelto a aparecer gracias A0%1sF4R!",
+  "0.6.0" => "¡Vence A0%1sF4R!",
+  "0.7.0" => "¡Al derrotar A0%1sF4R, A0%2sF2R ha desaparecido!",
+  "0.8.0" => "¡Has derrotado A0%1sF4R!",
+}

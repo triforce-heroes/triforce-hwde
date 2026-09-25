@@ -1,0 +1,7 @@
+Map {
+  "0.0.0" => "A0%1sF6R a rejoint le champ de bataille!",
+  "0.1.0" => "A0%1sF4R a rejoint A0%2sF1R!",
+  "0.2.0" => "Éliminez A2de nombreux ennemisR pour que A0%2sF0R rejoigne vos rangs!",
+  "0.3.0" => "A0%1sF4R a battu en retraite!",
+  "0.4.0" => "A0%1sF4R se dirige vers A0%2sF1R!",
+}

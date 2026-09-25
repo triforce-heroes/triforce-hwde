@@ -1,0 +1,351 @@
+Map {
+  "1.0.0.0" => "Wir befinden uns im Tal der Seher, doch unsere
+Truppen sind zwischen Ost und West aufgeteilt.",
+  "1.0.1.0" => "Die Essenz der Finsternis durchströmt mich.
+Wie soll mich die Armee Hyrules aufhalten?!",
+  "1.0.2.0" => "Sie haben die Heiligtümer erobert und ihre
+Macht versiegelt! Darum sind sie so stark!",
+  "1.0.3.0" => "Die Feinde sind immer noch gestärkt...
+Aber wir lassen uns nicht unterkriegen!",
+  "1.0.6.0" => "Wenn wir die Heiligtümer der Göttin erreichen,
+können wir ihre Macht wiedererlangen!",
+  "1.0.7.0" => "Die Heiligtümer der Göttin! Wir müssen
+ihre Macht zurückgewinnen!",
+  "1.0.8.0" => "Wenn dieser Krieg vorbei ist, wird Cia nur noch
+Geschichte sein... Zum Ruhme Hyrules!",
+  "1.0.9.0" => "Impa! Das ist unsere Chance, Hyrule
+ein für alle Mal den Frieden zu bringen!",
+  "1.0.10.0" => "Seht ihr die Quellen dieser dunklen Macht?
+Das sind die Heiligtümer der Göttin.",
+  "1.0.11.0" => "Siehst du die dunkle Macht, die dort aufsteigt?
+Dort ist sicher auch ein Heiligtum der Göttin...",
+  "1.0.14.0" => "Im Osten und Westen befinden sich Heiligtümer.
+Begib dich zu jenem, das am nächsten ist.",
+  "1.0.15.0" => "Es gibt Heiligtümer im Osten und Westen. Du
+solltest das erobern, das dir am nächsten ist!",
+  "1.0.16.0" => "Ich kümmere mich um die Feinde, die auf uns
+zumarschieren... Du gehst zu den Heiligtümern!",
+  "1.0.17.0" => "Lass den Feind meine Sorge sein.
+Kümmere du dich um die Heiligtümer!",
+  "1.0.18.0" => "Dort drüben ist noch ein Heiligtum!",
+  "1.0.19.0" => "Wie es scheint, befindet sich dort drüben
+ein weiteres Heiligtum!",
+  "1.0.20.0" => "Das Westheiligtum wurde erobert. Ich
+empfehle nun die Eroberung des Ostheiligtums.",
+  "1.0.21.0" => "Das Westheiligtum ist unser!
+Bleibt nur noch das Ostheiligtum, oder?",
+  "1.0.22.0" => "Die Heiligtümer im Westen und Osten sind
+erobert. Doch die dunkle Macht ist nicht fort...",
+  "1.0.23.0" => "Wie!? Wir haben die zwei Heiligtümer erobert,
+doch die dunkle Macht ist nicht gewichen!",
+  "1.0.24.0" => "Nicht den Mut verlieren.
+Es muss ein weiteres Heiligtum geben!",
+  "1.0.25.0" => "Wir haben das Siegel gebrochen.
+Unser Feind ist geschwächt!",
+  "1.0.26.0" => "Lana, wo ist das letzte Heiligtum?
+Du musst dich erinnern!",
+  "1.0.27.0" => "Moment... Es gab drei Heiligtümer...
+Ja! Das ist es! Eines war im Süden!",
+  "1.0.28.0" => "Überlasst mir die Suche! Ich weiß wieder,
+wo es sich ungefähr befindet!",
+  "1.0.29.0" => "Ich hatte recht! Seht alle her...
+Hier ist das Heiligtum!",
+  "1.0.30.0" => "Wir haben es gefunden! Wie wundervoll!",
+  "1.0.31.0" => "Welch ein Glück! Wir haben das Heiligtum
+gefunden!",
+  "1.0.32.0" => "Die dunkle Macht ist geschwächt.
+Wir haben die Oberhand in dieser Schlacht!",
+  "1.0.33.0" => "Ihr habt alle drei Heiligtümer zurückerobert?
+Hmm... Erstaunlich.",
+  "1.0.34.0" => "Der Feind hat das Westheiligtum erobert!
+Wir müssen es uns zurückholen!",
+  "1.0.35.0" => "Das Westheiligtum ist verloren? Nein!
+Das müssen wir ändern!",
+  "1.0.36.0" => "Das Ostheiligtum ist in feindlicher Hand!
+Wir dürfen es nicht kampflos aufgeben!",
+  "1.0.37.0" => "Sie haben das Ostheiligtum? Nicht mehr
+lange! Wir müssen es uns zurückholen!",
+  "1.0.38.0" => "Das Südheiligtum ist dem Feind in die Hände
+gefallen! Wir müssen es ihm wieder entreißen!",
+  "1.0.39.0" => "Das Südheiligtum in feindlicher Hand?
+So war das nicht geplant... Holt es zurück!",
+  "1.0.40.0" => "Ihr denkt, ihr könntet mich besiegen? Ihr
+braucht wohl ein paar auf die gierigen Finger!",
+  "1.0.41.0" => "Oh nein! Der Feind hat es auf Prinzessin
+Zelda abgesehen!",
+  "1.0.42.0" => "Oh nein! Der Feind hat es auf Prinzessin
+Ruto abgesehen!",
+  "1.0.43.0" => "Langweilt ihr euch? Dagegen habe ich das
+beste Gegenmittel. Zweite Welle, zum Angriff!",
+  "1.0.44.0" => "Nicht aufregend genug?
+Dann habe ich etwas... Besonderes für euch.",
+  "1.0.45.0" => "Prinzessin Zelda wird von Elitetruppen
+gejagt! Wir müssen sie beschützen!",
+  "1.0.46.0" => "Prinzessin Ruto wird von Elitetruppen
+gejagt! Wir müssen sie beschützen!",
+  "1.0.47.0" => "Meine Elitetruppen besitzen die ultimative
+Macht der Finsternis... Sterbt schön!",
+  "1.0.48.0" => "Cia... Das ist alles dein Werk, oder?",
+  "1.0.49.0" => "Ihre Seele... Sie ist nicht sie selbst...
+Die Gier nach Macht hat sie blind gemacht...",
+  "1.0.50.0" => "Sie hat ihre Seele in Finsternis gehüllt, um in
+den Besitz unglaublicher Macht zu gelangen...",
+  "1.0.51.0" => "Es wird Zeit, dass ich dir zur Seite stehe,
+Zelda. Komm zu mir!",
+  "1.0.52.0" => "Es wird Zeit, dass ich dir zur Seite stehe,
+Ruto. Komm zu mir!",
+  "1.0.53.0" => "Ihr habt die drei Heiligtümer gerettet, und so werde
+ich euch mit meiner Macht ein Helfer sein!",
+  "1.0.54.0" => "Die Große Fee ruft mich zu sich!
+Ich muss zur Quelle der Göttin eilen!",
+  "1.0.55.0" => "Die Große Fee will, dass ich zu ihr gehe!
+Ich sollte zur Quelle der Göttin gehen!",
+  "1.0.56.0" => "Prinzessin Zelda, Ihr solltet nicht allein
+dorthin. Ich werde Euch begleiten!",
+  "1.0.57.0" => "Diesen Weg sollte man nicht allein gehen.
+Ich komme mit!",
+  "1.0.58.0" => "Hey, ich werde sicher nicht zurückbleiben!
+Ich komme auch mit!",
+  "1.0.59.0" => "Das klingt nicht ungefährlich. Ich werde
+mitkommen!",
+  "1.0.60.0" => "Vielleicht sollte ich mitkommen.
+Je mehr, desto besser, oder?",
+  "1.0.61.0" => "Der Weg dorthin wimmelt nur so von
+Gefahren. Ich komme lieber mit!",
+  "1.0.62.0" => "Die Große Fee möchte, dass dieser
+Bereich zu unserem Hauptquartier wird!",
+  "1.0.63.0" => "Die Große Fee will, dass das hier unser
+Hauptquartier wird! Hören wir auf sie!",
+  "1.0.64.0" => "Wir sollten so viele Feinde wie nur möglich
+auf den Platz vor der Quelle locken!",
+  "1.0.65.0" => "Wir sollten so viele Feinde wie möglich
+auf den Platz vor der Quelle locken!",
+  "1.0.66.0" => "Dann nutze ich den Magiekreis, um unsere
+Feinde mit einem Schlag zu besiegen!",
+  "1.0.67.0" => "Mit der Macht des Magiekreises besiege ich
+dann alle Feinde mit einem einzigen Schlag!",
+  "1.0.68.0" => "Ich locke Feinde vom Osten her an!",
+  "1.0.69.0" => "Ich kümmere mich um die Feinde im Osten!",
+  "1.0.70.0" => "Wir müssen auch die Feinde im Westen
+anlocken!",
+  "1.0.71.0" => "Locken wir auch die Feinde im Westen an!",
+  "1.0.72.0" => "Wir werden angegriffen!
+So kommen wir nicht weiter!",
+  "1.0.73.0" => "Der Feind greift uns an!
+Wir kommen nicht voran!",
+  "1.0.74.0" => "Vielen Dank! Hast was gut bei mir!",
+  "1.0.75.0" => "Gut, dass du da warst!
+Das hat mich gerettet!",
+  "1.0.76.0" => "Lasst mich die Verstärkungstruppen des Feindes
+aufhalten. Sie dürfen den Magiekreis nicht finden!",
+  "1.0.77.0" => "Ich halte die Verstärkungstruppen des Feindes auf.
+Sie werden den Magiekreis nie erreichen!",
+  "1.0.78.0" => "Wir übernehmen die Verstärkungstruppen
+des Feindes!",
+  "1.0.79.0" => "Lasst die Verstärkungstruppen des Feindes
+unsere Sorge sein!",
+  "1.0.80.0" => "Die Feinde haben mich zwar erreicht, aber
+ich werde das Letzte sein, was sie sehen!",
+  "1.0.81.0" => "Ich hätte nicht gedacht, dass sie es bis zu
+mir schaffen... Egal! Hier hört der Spaß auf!",
+  "1.0.82.0" => "Volga, soll ich dir eine Prise meiner Macht
+borgen? Geh und spiel mit unseren Freunden!",
+  "1.0.83.0" => "Urgh... Gaaah!",
+  "1.0.84.0" => "W-was? D-dieser Kerl... Er strahlt eine Macht
+aus, wie ich sie noch nie erlebt habe!",
+  "1.0.85.0" => "Der Drachenritter ist gefährlich.
+Wir müssen auf der Hut sein!",
+  "1.0.86.0" => "Seid vorsichtig, wenn ihr euch dem
+Drachenritter nähert!",
+  "1.0.87.0" => "Diese Macht strömt aus mir wie Blut aus
+einer Wunde... Volga, nutze sie!",
+  "1.0.88.0" => "Volga, wir haben keine Zeit für deine Spielchen!
+Vernichte die Hylianer! Vernichte sie jetzt!!",
+  "1.0.89.0" => "Graah! Diese Macht... Sie ist grenzenlos!
+Ich... bin... UNBESIEGBAR!",
+  "1.0.90.0" => "Wie oft wir ihn auch niederringen, er steht
+wieder auf! Was sollen wir nur tun?!",
+  "1.0.91.0" => "Wie sollen wir dieses unbesiegbare
+Ungeheuer bändigen?!",
+  "1.0.92.0" => "Nutze den Magiekreis! Jetzt!",
+  "1.0.93.0" => "Nutze den Magiekreis! Jetzt!",
+  "1.0.94.0" => "Warum stellst du dich so ungeschickt an?
+Bereite diesen hylianischen Narren ein Ende!",
+  "1.0.95.0" => "Hahaha! Beeindruckend... Aber ich habe
+schon weitaus Besseres gesehen!",
+  "1.0.96.0" => "Ha! Das nennt ihr Magie?
+Ich bin wirklich überaus... enttäuscht!",
+  "1.0.97.0" => "Ruaaah! Euer Ende ist nah!",
+  "1.0.98.0" => "Ruaaah! Ihr Feldmarschall gehört MIR!",
+  "1.0.99.0" => "Stört es dich nicht, die Schlacht nur mit
+Hilfe der dunklen Macht zu gewinnen?",
+  "1.0.100.0" => "Es ist erbärmlich, dass du die dunkle Macht
+brauchst, um deine Kämpfe zu gewinnen!",
+  "1.0.101.0" => "Grrr... Machst du dich lustig über mich?!",
+  "1.0.102.0" => "Öffne deine Augen! Du warst einst ein stolzer
+Krieger, kein Handlanger dunkler Mächte!",
+  "1.0.103.0" => "Öffne deine Augen! Trägst du denn gar
+keinen Stolz mehr in dir?",
+  "1.0.104.0" => "Nein... NEIN! Keine dunkle Macht kann
+mich beherrschen!",
+  "1.0.105.0" => "Der Kampf ist gleich vorüber... Ich zeige euch,
+wie wahre Krieger ihre Sache zu Ende bringen!",
+  "1.0.106.0" => "Öffnet eure Augen! Seht meine wahre Macht!",
+  "1.0.107.0" => "Ich mag verloren haben...
+Doch ich bereue nichts!",
+  "1.0.108.0" => "Macht sie nieder!
+Lass keinen von ihnen am Leben!",
+  "1.0.109.0" => "Cia... Bitte... Es reicht...",
+  "1.0.110.0" => "Cia ist die letzte Hürde, die wir noch nehmen
+müssen. Bereiten wir ihrem Treiben ein Ende!",
+  "1.0.111.0" => "Jetzt bleibt nur noch Cia. Bereite ihr ein Ende!",
+  "1.0.112.0" => "Hahaha! Wartet nur... Ich habe noch
+ein ganz besonderes Geschenk für euch!",
+  "1.0.113.0" => "Es gibt niemanden, der mich
+jetzt noch aufhalten kann!",
+  "1.0.114.0" => "Lass unser Hauptquartier meine Sorge sein.
+Cia wird dir genug Kopfschmerzen bereiten!",
+  "1.0.115.0" => "Überlasse mir unser Hauptquartier.
+Kümmere dich um Cia!",
+  "1.0.116.0" => "Dass du mir ja nicht stirbst, hörst du?! Wenn
+du das tust, rede ich nicht mehr mit dir!",
+  "1.0.117.0" => "Komm heil wieder... Verstanden?",
+  "1.0.118.0" => "Bereite ihr ein Ende... Ein für alle Mal!",
+  "1.0.119.0" => "Ich glaube an dich. Du schaffst es!",
+  "1.0.120.0" => "Glaubst du wirklich, du könntest mich
+besiegen? Hihihi... Hinfort! Hinfort!",
+  "1.0.121.0" => "Dafür... wirst... du... STERBEN!",
+  "1.0.122.0" => "Jetzt zu verlieren ist unverzeihlich...
+Es tut mir unendlich leid...",
+  "1.0.123.0" => "Wie konnte ich nur verlieren?",
+  "1.0.124.0" => "Ohne Hauptquartier... bleibt uns keine Hoffnung...",
+  "1.0.125.0" => "Wir haben unser Hauptquartier verloren?
+Nein! Jetzt ist alles aus!",
+  "1.0.126.0" => "Lana... Warum?",
+  "1.0.127.0" => "Cia...",
+  "1.0.128.0" => "Link, halte durch! Das hier ist nicht
+der richtige Ort zum Sterben!",
+  "1.0.129.0" => "Hnnn... So nicht! Solange ich Prinzessin
+Zelda diene, werde ich nicht sterben!",
+  "1.0.130.0" => "Hier wird‘s ziemlich brenzlig...
+So gefällt es mir!",
+  "1.0.131.0" => "Ich hab mir das leichter vorgestellt!
+Aber ich sollte nicht jammern...",
+  "1.0.132.0" => "Ganz gleich, was meinem Körper zustößt,
+ich muss meine Aufgaben erfüllen...",
+  "1.0.133.0" => "Wir müssen Cia aufhalten...
+Und wenn es das Letzte ist, das wir tun!",
+  "1.0.134.0" => "Ich gebe nicht auf! Ich laufe nicht weg!
+Diesen Gefallen tue ich den Monstern nicht!",
+  "1.0.135.0" => "Was? Volga hat verloren?!
+Diese nutzlose Blindschleiche!",
+  "1.0.136.0" => "Ich gebe euch einen Teil meiner Magie!
+Erstickt damit ihren Vorstoß im Keim!",
+  "1.0.137.0" => "Die Quelle der Göttin? Ich komme auch mit!",
+  "1.0.138.0" => "Gut! Eine von Cias Doppelgängerinnen
+haben wir besiegt!",
+  "1.0.139.0" => "Hmpf! Diese doofe Doppelgängerin
+habe ich eh nie gemocht!",
+  "1.0.140.0" => "Ich kann bestätigen, dass wir die zweite
+Doppelgängerin von Cia besiegt haben.",
+  "1.0.141.0" => "Aaaah! Ihr seid lästiger als Ausschlag!",
+  "1.0.142.0" => "Der Preis für eure Unverschämtheit
+ist eure vollständige Auslöschung!",
+  "1.0.143.0" => "Cia... Ich werde dir ein Ende setzen!",
+  "13.0.0.0" => "Unsere Feinde haben das Heiligtum erobert und seine
+Macht gebannt. Die Monster sind stärker geworden.",
+  "13.0.1.0" => "Wir müssen ins Heiligtum der Göttin gelangen,
+um seine Macht wiederzuerlangen!",
+  "13.0.2.0" => "Impa! Führe uns zum Sieg in dieser letzten großen
+Schlacht und bringe Hyrule den Frieden!",
+  "13.0.3.0" => "Spürst du den immer stärkeren Strom der Magie?
+Das ist das Heiligtum der Göttin.",
+  "13.0.4.0" => "Es gibt Heiligtümer im Osten und im Westen.
+Wir sollten zuerst das nächste erobern!",
+  "13.0.5.0" => "Ich werde den Vormarsch unserer Feinde stoppen.
+Die Heiligtümer überlasse ich dir!",
+  "13.0.6.0" => "Die dunkle Macht ist geschwächt. Wir haben die
+Oberhand in dieser Schlacht!",
+  "13.0.7.0" => "Das Westheiligtum ist unser! Holen wir uns jetzt
+auch noch das Ostheiligtum!",
+  "13.0.8.0" => "Die beiden Heiligtümer sind unser. Doch die dunkle
+Macht ist noch da... Haben wir etwas übersehen?",
+  "13.0.9.0" => "Die dunkle Macht ist geschwächt. Wir haben die
+Oberhand in dieser Schlacht!",
+  "13.0.10.0" => "Sie haben das Westheiligtum in ihrer Gewalt?
+Verflucht sollen sie sein! Erobern wir es zurück!",
+  "13.0.11.0" => "Sie haben uns das Ostheiligtum entrissen? Holen
+wir es uns zurück von diesen elenden Kreaturen!",
+  "13.0.12.0" => "Das Südheiligtum ist unter feindlicher Kontrolle?
+Keine Sorge! Wir holen es uns wieder!",
+  "13.0.13.0" => "Oh nein! Unsere Feinde haben es auf Prinzessin
+Ruto abgesehen!",
+  "13.0.14.0" => "Der Feind jagt Prinzessin Ruto mit aller Macht!
+Wir müssen ihr zu Hilfe eilen!",
+  "13.0.15.0" => "Um die wahre Macht zu erlangen, hast du deine
+Seele der Dunkelheit geopfert...",
+  "13.0.16.0" => "Ruto... Es ist soweit! Ich werde meine ganze Macht
+entfesseln. Komm an meine Seite!",
+  "13.0.17.0" => "Die Stimme der Großen Fee spricht zu mir...
+Ich muss zur Quelle der Göttin!",
+  "13.0.18.0" => "Auf eigene Faust wäre es zu gefährlich.
+Lass mich mir dir gehen!",
+  "13.0.19.0" => "Auf eigene Faust wäre es zu gefährlich.
+Lass mich mir dir gehen!",
+  "13.0.20.0" => "Folgen wir dem Ruf der Großen Fee...
+Dieser Ort soll unsere Festung sein!",
+  "13.0.21.0" => "Wir sollten außerdem versuchen, so viele Feinde
+wie möglich zum Platz vor der Quelle zu locken!",
+  "13.0.22.0" => "Dann besiegen wir alle Feinde dank der Macht des
+Magiekreises mit einem einzigen mächtigen Schlag!",
+  "13.0.23.0" => "Ich locke Feinde im Osten an!",
+  "13.0.24.0" => "Jemand muss auch die Feinde im
+Westen anlocken!",
+  "13.0.25.0" => "Ich bin verwundet und kann mich nicht bewegen...",
+  "13.0.26.0" => "Danke, dass du gekommen bist! Du bist eine große
+Hilfe!",
+  "13.0.27.0" => "Ich kümmere mich um die Neuankömmlinge.
+Sie werden der Quelle nicht zu nah kommen!",
+  "13.0.28.0" => "Überlass uns die Verstärkungstruppen des Feindes.",
+  "13.0.29.0" => "Ich hätte nicht gedacht, dass der Feind es so weit
+schafft... Also gut! Bei mir endet eure Reise!",
+  "13.0.30.0" => "Diesem Drachenritter sollte man sich nur mit großer
+Vorsicht nähern!",
+  "13.0.31.0" => "Er ist unbesiegbar? Wie können wir ihn nur
+aufhalten?",
+  "13.0.32.0" => "Nutze den Magiekreis! Jetzt!",
+  "13.0.33.0" => "Deine Kraft hast du einzig der dunklen Macht zu
+verdanken! Wie... unwürdig!",
+  "13.0.34.0" => "Wach endlich auf! Und du schimpfst dich einen
+Krieger?",
+  "13.0.35.0" => "Jetzt ist nur noch Cia übrig. Ihr Ende...
+soll durch deine Hand kommen!",
+  "13.0.36.0" => "Keine Angst! Ich weiß, dass du stark genug bist!",
+  "13.0.37.0" => "Überlass mir ihre Schergen. Ich halte sie dir vom
+Hals!",
+  "13.0.38.0" => "Komm lebend wieder zurück, ja?
+Das ist ein Befehl!",
+  "13.0.39.0" => "Ich glaube an uns!
+Wir können nicht verlieren!",
+  "13.0.40.0" => "So weit haben wir es geschafft, nur um die letzte
+Schlacht zu verlieren... Ich habe alle enttäuscht...",
+  "13.0.41.0" => "Wir haben die Festung verloren?
+Dann ist alles aus...",
+  "13.0.42.0" => "Wir haben zwar das Tal der Seher erreicht, doch
+unsere Truppen sind zwischen Ost und West aufgeteilt.",
+  "13.0.43.0" => "Dort drüben gibt es auch ein Heiligtum!",
+  "13.0.44.0" => "Du hast das Heiligtum also gefunden?
+Wundervoll!",
+  "13.0.45.0" => "Auf eigene Faust wäre es zu gefährlich.
+Lass mich mir dir gehen!",
+  "13.0.46.0" => "Ich gebe nicht auf! Ich laufe nicht weg!
+Diesen Gefallen erfülle ich diesen Monstern nicht!",
+  "13.0.47.0" => "Ich gebe nicht auf! Ich laufe nicht weg!
+Diesen Gefallen erfülle ich diesen Monstern nicht!",
+  "13.0.48.0" => "Ich gebe nicht auf! Ich laufe nicht weg!
+Diesen Gefallen erfülle ich diesen Monstern nicht!",
+  "13.0.49.0" => "Ich gebe nicht auf! Ich laufe nicht weg!
+Diesen Gefallen erfülle ich diesen Monstern nicht!",
+  "13.0.50.0" => "Ich gebe nicht auf! Ich laufe nicht weg!
+Diesen Gefallen erfülle ich diesen Monstern nicht!",
+}

@@ -1,0 +1,8 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « L'invocateur des cocottes »!",
+  "0.1.0" => "A0%1sF6R a rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF4R a appelé A2des cocottesR!",
+  "0.3.0" => "A0%1sF4R contrôle A2les cocottesR!",
+  "0.4.0" => "Vous avez vaincu A0%1sF0R! A2Les cocottesR rejoignent A0%2sF1R!",
+  "0.5.0" => "Éliminez A0%1sF0R!",
+}

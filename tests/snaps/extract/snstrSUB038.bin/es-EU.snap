@@ -1,0 +1,18 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario «El ladrón mágico»!",
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡Impide que A0%1sF2R se acerque!",
+  "0.3.0" => "¡A0%1sF0R te ha robado el poder mágico!",
+  "0.4.0" => "¡Vence A0%1sF4R real para recuperar tu poder mágico!",
+  "0.5.0" => "¡A0%1sF0R se dirige hacia A0%2sF2R!",
+  "0.6.0" => "¡A0%1sF0R se ha retirado temporalmente!",
+  "0.7.0" => "¡A0%1sF0R ha vuelto a aparecer con un doble!",
+  "0.8.0" => "¡Tu poder mágico está en manos A0%1sF6R real!",
+  "0.9.0" => "¡Has vencido al doble A0%1sF6R!",
+  "0.10.0" => "¡No has logrado vencer A0%1sF4R!",
+  "0.11.0" => "¡Has vencido A0%1sF4R!",
+  "0.12.0" => "¡A0%1sF0R real se dispone a huir!",
+  "0.13.0" => "¡A0%1sF0R real ha abandonado el campo de batalla!",
+  "0.14.0" => "¡Has vencido A0%1sF4R real!",
+  "0.15.0" => "¡Al derrotar A0%1sF4R real, su doble ha desaparecido!",
+}

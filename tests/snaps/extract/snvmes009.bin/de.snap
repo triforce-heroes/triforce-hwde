@@ -1,0 +1,292 @@
+Map {
+  "1.0.0.0" => "Dies ist der Siegelhain. Hier hat ein Held einst
+ein großes Übel besiegt und versiegelt.",
+  "1.0.1.0" => "Das hier ist also der Siegelhain...",
+  "1.0.2.0" => "Ihr seid bereits hier? Ich sollte
+mich wohl etwas beeilen...",
+  "1.0.3.0" => "Besiege Ghirahim und schließe das
+Seelenportal, um diese Welt zu retten. Bitte...",
+  "1.0.4.0" => "Wir müssen das Seelenportal schließen, um
+diese Welt zu retten. Das ist der einzige Weg.",
+  "1.0.5.0" => "Das Tempeltor ist verschlossen. Wir müssen
+wohl erst den Torwächter besiegen.",
+  "1.0.6.0" => "Das mittlere Tor ist unpassierbar. Der einzige
+Weg scheint der Torwächter im Osten zu sein.",
+  "1.0.7.0" => "Wir überlassen den Tempel dir und kümmern
+uns um die umliegenden Festungen!",
+  "1.0.8.0" => "Sieh an, sieh an... Es scheint, als würden wir
+jede Menge Truppen auf unserer Seite haben.",
+  "1.0.9.0" => "Ich spüre Böses unter unseren Verbündeten
+und empfehle erhöhte Wachsamkeit.",
+  "1.0.10.0" => "Was ist das? Ich spüre eine böse Präsenz
+unter unseren Truppen...",
+  "1.0.11.0" => "Ihr könnt es gern versuchen...
+Es wird euch nur nichts nützen.",
+  "1.0.12.0" => "Geschafft! Der Weg zum Tempel ist frei!",
+  "1.0.13.0" => "Ich stelle fest, dass Ghirahim sich tief im
+Inneren des Tempels zu befinden scheint.",
+  "1.0.14.0" => "Ich frage mich, ob dieses Scheusal
+irgendwo im Tempel steckt...",
+  "1.0.15.0" => "Die Zeit ist gekommen! Zeigen wir ihnen,
+mit wem sie sich angelegt haben!",
+  "1.0.16.0" => "Für Ghirahim!",
+  "1.0.17.0" => "Wir werden von unseren eigenen
+Truppen angegriffen!",
+  "1.0.18.0" => "Unsere eigenen Truppen fallen uns in
+den Rücken? W-w-was ist hier los?",
+  "1.0.19.0" => "Ich schlage vor, dass wir uns den
+Grund für diese Verwirrung ansehen.",
+  "1.0.20.0" => "Unter unseren Truppen herrscht Chaos!
+Hilf ihnen!",
+  "1.0.21.0" => "Kameraden! Fürst Ghirahim hat uns
+neue Befehle gegeben!",
+  "1.0.22.0" => "So können wir nicht kämpfen!
+Wir müssen uns zurückziehen!",
+  "1.0.23.0" => "Ich bin so glücklich! Geradezu euphorisch!",
+  "1.0.24.0" => "Wohin man auch blickt, überall Verrat...",
+  "1.0.25.0" => "Mit einer Wahrscheinlichkeit von 90 % gibt es
+einen Anführer. Ich empfehle, ihn auszuschalten.",
+  "1.0.26.0" => "Es gibt sicher einen Anführer. Er muss
+für seinen Verrat bezahlen!",
+  "1.0.27.0" => "Mit einer Wahrscheinlichkeit von 70 % hält
+sich der Rädelsführer in einer Festung auf.",
+  "1.0.28.0" => "Wo kann sich der Rädelsführer nur verstecken?
+Vermutlich in einer der Festungen...",
+  "1.0.29.0" => "Aus den Feindbewegungen lässt sich ein Muster
+erkennen. Der Rädelsführer ist in diesem Bereich.",
+  "1.0.30.0" => "Alle Feinde scheinen zu dieser Festung zu
+wollen. Ist ihr Anführer vielleicht auch dort?",
+  "1.0.31.0" => "Kameraden! Greift das Hauptquartier der
+Menschenwürmer an!",
+  "1.0.32.0" => "Überlasst das mir!",
+  "1.0.33.0" => "Ich habe die Lage analysiert. Zu 85 % ist der
+Rädelsführer in einer dieser Festungen.",
+  "1.0.34.0" => "Eine der Festungen wird nicht angegriffen.
+Vermutlich ist der Anführer der Verräter dort!",
+  "1.0.35.0" => "Ich spüre etwas in deiner Nähe. Vermutlich
+handelt es sich um den Rädelsführer.",
+  "1.0.36.0" => "Ich spüre eine Aura der Verderbnis in der Nähe.
+Das könnte der Anführer der Verräter sein!",
+  "1.0.37.0" => "Ich konnte den Rädelsführer ausfindig
+machen. Er ist in derselben Festung wie du.",
+  "1.0.38.0" => "Ich weiß, wer die Verräter anführt! Er ist in
+derselben Festung wie du!",
+  "1.0.39.0" => "Der Rädelsführer ist in dieser Festung.
+Ich empfehle einen sofortigen Angriff.",
+  "1.0.40.0" => "Sie haben unsere Täuschung durchschaut.
+Macht euch bereit!",
+  "1.0.41.0" => "Kameraden! Setzt alles daran, das Hauptquartier
+dieser unwürdigen Maden zu zerstören!",
+  "1.0.42.0" => "Unser Hauptquartier ist in Gefahr.
+Spüren wir schnell den Rädelsführer auf.",
+  "1.0.43.0" => "Wenn das so weitergeht, verlieren wir noch!
+Schnell, knöpf dir den Anführer vor!",
+  "1.0.44.0" => "Meine Kameraden sind gefallen?
+Dann werde ich sie rächen!",
+  "1.0.45.0" => "Oooh! Fürst Ghirahim, vergebt mir!",
+  "1.0.46.0" => "Die Meuterei ist beendet. Unser Ziel
+ist wieder das Innere des Tempels.",
+  "1.0.47.0" => "Neu gruppieren und in den Tempel eindringen!",
+  "1.0.48.0" => "Das Seelenportal hat ihn zurückgebracht!
+Erzittert, ihr erbärmlichen Sterblichen!",
+  "1.0.49.0" => "Beim großen Felsen! Ein riesiges Monster!",
+  "1.0.50.0" => "Das ist der Verbannte, eine Verkörperung des
+Bösen. Einst drohte er die Welt zu verschlingen.",
+  "1.0.51.0" => "Die Fleisch gewordene Dunkelheit...
+Das ist eine völlig neue Art von Gegner!",
+  "1.0.52.0" => "Ich habe zu berichten, dass der Verbannte
+auf dem Weg zu unserem Hauptquartier ist.",
+  "1.0.53.0" => "Oh nein! Dieses Monster ist unterwegs
+zu unserem Hauptquartier!",
+  "1.0.54.0" => "Nicht nachlassen! Immer schön weiter!",
+  "1.0.55.0" => "Es scheint effektiv zu sein, die Zehen des
+Verbannten anzugreifen. Mehr weiß ich nicht.",
+  "1.0.56.0" => "An seinen Zehen scheint das
+Biest verwundbar zu sein!",
+  "1.0.57.0" => "Exzellent! Es wird mir ein Hochgenuss sein,
+euch in den Staub zu treten!",
+  "1.0.58.0" => "Achtung: Der Verbannte greift die Festung an.
+Seine magische Aura wird stärker.",
+  "1.0.59.0" => "Er scheint seine Kräfte zu sammeln. Er wird
+doch nicht etwa eine Festung zerstören wollen?",
+  "1.0.60.0" => "Er kann aus dieser Festung beschossen
+werden, am besten, wenn er sich nicht bewegt.",
+  "1.0.61.0" => "Wir sollten ihn mit dem Katapult treffen können.
+Verpass ihm eins, sobald er sich nicht bewegt!",
+  "1.0.62.0" => "Ich kann euch erlesene Schmerzen
+versprechen!",
+  "1.0.63.0" => "Die Festung ist in Gefahr, doch der Verbannte
+bewegt sich nicht. Ich empfehle einen Angriff.",
+  "1.0.64.0" => "Wenn sich das Monster nicht bewegt,
+kannst du es leichter treffen!",
+  "1.0.65.0" => "Gleich ist es vorbei! Nach dem nächsten
+Angriff ist der Sieg unser!",
+  "1.0.66.0" => "Wenn wir ihn jetzt nicht beschießen,
+werden wir den Kampf verlieren.",
+  "1.0.67.0" => "Los, schieß! Wenn wir nichts tun,
+ist unser Hauptquartier verloren!",
+  "1.0.68.0" => "Oh nein! Was sollen wir nur machen?",
+  "1.0.69.0" => "Meiner Analyse nach kann der Verbannte
+durch eine Festungswaffe besiegt werden.",
+  "1.0.70.0" => "Für den brauchen wir eine stärkere Waffe!
+Erobere das Hauptquartier, wo das Katapult ist!",
+  "1.0.71.0" => "Angriffe auf seine Zehen können den
+Verbannten eine Weile aufhalten.",
+  "1.0.72.0" => "Seine Zehen sind sein schwacher Punkt.
+Wenn du sie angreifst, sollte ihn das bremsen.",
+  "1.0.73.0" => "Nur das Hauptquartier verfügt
+über ein Katapult.",
+  "1.0.74.0" => "Das einzig verbliebene Katapult
+ist im Hauptquartier.",
+  "1.0.75.0" => "Ich kann berichten, dass der Verbannte
+wieder verschwunden ist.",
+  "1.0.76.0" => "Der Verbannte ist verschwunden!",
+  "1.0.77.0" => "Wir haben es überstanden! Danke! Danke!",
+  "1.0.78.0" => "Diese infame Unverfrorenheit! Los, kommt!
+Ihr habt es ja nicht anders gewollt!",
+  "1.0.79.0" => "Das Tor zum Tempel hat sich geöffnet.",
+  "1.0.80.0" => "Jetzt können wir in den Tempel!",
+  "1.0.81.0" => "Ghirahim und das Seelenportal
+befinden sich beide im Tempel.",
+  "1.0.82.0" => "Vom Tempel aus rücken Feinde vor.
+Wir müssen sie abfangen.",
+  "1.0.83.0" => "Unser Hauptquartier wird von der Westseite
+des Tempels angegriffen. Link erledigt das!",
+  "1.0.84.0" => "Auch im Osten sind feindliche Truppen!",
+  "1.0.85.0" => "Egal, was es mich kostet! Ich werde
+euch in die ewige Dunkelheit stürzen!",
+  "1.0.86.0" => "Besiege Ghirahim und treibe
+ihn zurück in das Seelenportal.",
+  "1.0.87.0" => "Besiege diesen Dämon und schicke
+ihn durch das Seelenportal!",
+  "1.0.88.0" => "Meine Gratulation, Link! Unsere Operation
+in diesem Gebiet war erfolgreich.",
+  "1.0.89.0" => "Das Portal ist geschlossen, wir haben
+hier das Schlimmste abgewendet!",
+  "1.0.90.0" => "Unser Hauptquartier wurde erobert. Es ist
+nicht mehr möglich, den Kampf fortzusetzen.",
+  "1.0.91.0" => "Das Hauptquartier ist gefallen,
+die Schlacht ist verloren!",
+  "1.0.92.0" => "Diese Anmaßung... Zu denken, dass sie
+mich besiegen könnten! Ha! Lachhaft!",
+  "1.0.93.0" => "Es ist mir nicht möglich, den Kampf
+weiterzuführen. Es tut mir leid...",
+  "1.0.94.0" => "Link wurde geschlagen!
+Wir können nicht länger kämpfen...",
+  "1.0.95.0" => "Puh... Vielen Dank für deine Hilfe!",
+  "1.0.96.0" => "Ich dachte schon, dass alles aus ist...",
+  "1.0.97.0" => "Solange der Verbannte nicht vernichtet ist,
+wird das Hauptquartier unweigerlich fallen.",
+  "1.0.98.0" => "Nicht nachlassen! Das Monster sammelt neue
+Kraft! Es darf das Hauptquartier nicht zerstören!",
+  "1.0.99.0" => "Aus dem Westen scheinen sich Feinde
+zu nähern. Ich fange sie ab.",
+  "1.0.100.0" => "Es rücken immer noch Feinde von Westen
+auf unser Hauptquartier vor.",
+  "1.0.101.0" => "Mission abgeschlossen. Ich schlage vor,
+dass du nun in den Tempel vordringst.",
+  "1.0.102.0" => "Ich spüre etwas in deiner Nähe. Vermutlich
+handelt es sich um den Rädelsführer.",
+  "1.0.103.0" => "Anhand der Feindbewegungen konnte ich
+den Rädelsführer ausfindig machen.",
+  "1.0.104.0" => "Das ist der Rädelsführer.
+Ich empfehle, ihn zu besiegen.",
+  "1.0.105.0" => "Allein zu kämpfen ist riskant.
+Ich empfehle, die Okarina zu verwenden.",
+  "1.0.106.0" => "Der Feind heilt sich mittels Magie. Wir sollten
+dies mithilfe des Katapults unterbinden.",
+  "1.0.107.0" => "Der Feind heilt sich wieder mittels Magie.
+Wir müssen das Katapult einsetzen.",
+  "1.0.108.0" => "Wenn wir ihn gewähren lassen, besiegen wir
+ihn nie. Katapulteinsatz dringend empfohlen.",
+  "1.0.109.0" => "Wenn wir den Feind in unser Hauptquartier
+lassen, könnte er die Oberhand gewinnen.",
+  "1.0.110.0" => "Ihr Nichtsnutze! Ich muss wohl
+höchstpersönlich eingreifen!",
+  "1.0.111.0" => "Los! Ihr auch!
+Lasst keinen von ihnen entkommen!",
+  "1.0.112.0" => "Abnahme der feindlichen Kampfkraft
+festgestellt. Es ist Zeit, Ghirahim zu besiegen.",
+  "1.0.113.0" => "Die Gefahr, dass unser Hauptquartier
+eingenommen wird, ist gestiegen.",
+  "13.0.0.0" => "Das ist also der Siegelhain...",
+  "13.0.1.0" => "Schließe das Seelenportal! Nur so können
+wir diese Welt vor dem Untergang bewahren...",
+  "13.0.2.0" => "Das mittlere Tor zum Tempel ist uns versperrt. Aber
+besiegen wir den Torwächter, ist das Osttor frei.",
+  "13.0.3.0" => "Was ist das? Unsere Truppen...
+Sie strahlen etwas Seltsames aus...",
+  "13.0.4.0" => "Dieser Griesgram könnte sich hinten im Tempel
+aufhalten.",
+  "13.0.5.0" => "Unsere Freunde müssen sich neu sammeln! Ziehen
+wir uns zurück, um Schlimmeres zu verhindern!",
+  "13.0.6.0" => "Wo ist der Anführer dieser Verräter?
+Wir sollten ihn finden und aus dem Weg räumen!",
+  "13.0.7.0" => "Wo könnte sich der Rädelsführer aufhalten?
+In einer Festung vielleicht? Merkwürdig...",
+  "13.0.8.0" => "Unsere Feinde marschieren auf diese Festung
+zu. Ob wir ihren Anführer dort finden?",
+  "13.0.9.0" => "Unsere Feinde verschonen eine der Festungen.
+Ihr Anführer könnte sich dort verstecken!",
+  "13.0.10.0" => "Ich spüre eine seltsame Präsenz in deiner Nähe.
+Der Rädelsführer muss hier irgendwo sein!",
+  "13.0.11.0" => "Ich wusste es! Wir haben unseren Verräter
+gefunden! Er ist in derselben Festung wie du!",
+  "13.0.12.0" => "Wenn das so weitergeht, werden wir verlieren!
+Du musst den Rädelsführer besiegen! Schnell!",
+  "13.0.13.0" => "Das hätten wir geschafft! Jetzt atmen wir kurz durch
+und nehmen uns dann den Tempel vor!",
+  "13.0.14.0" => "Vorsicht! Dieses Ungeheuer ist die Inkarnation der
+Dunkelheit... Unser mächtigster Feind bisher!",
+  "13.0.15.0" => "Oh nein! Die Schattenbestie hat es wohl
+auf unser Hauptquartier abgesehen!",
+  "13.0.16.0" => "Das Ungeheuer mag es wohl nicht, wenn
+man ihm auf die Zehen haut!",
+  "13.0.17.0" => "Dieses Ungetüm scheint seine Kräfte zu sammeln.
+Vielleicht will es eine Festung vernichten...",
+  "13.0.18.0" => "Unsere Festungen sind nicht wehrlos. Schieß mit
+dem Katapult auf das Ungeheuer, wenn es steht!",
+  "13.0.19.0" => "Ha! Er bewegt sich nicht! Schieß jetzt!",
+  "13.0.20.0" => "Setz das Katapult ein! Halte das Ungeheuer auf,
+bevor es die Festung in Schutt und Asche legt!",
+  "13.0.21.0" => "Ohne Katapult sind wir machtlos gegen die Bestie.
+Erobere eine der Festungen, die ein Katapult haben!",
+  "13.0.22.0" => "Schwachpunkt dieses Ungeheuers sind
+die Zehen. Greif sie an, um es aufzuhalten!",
+  "13.0.23.0" => "Wir haben nur noch eine Waffe...
+In unserem Hauptquartier!",
+  "13.0.24.0" => "Das Ungeheuer ist verschwunden!",
+  "13.0.25.0" => "Feinde westlich des Tempels marschieren...
+zum Hauptquartier? Link wird sie aufhalten!",
+  "13.0.26.0" => "Besiege diesen Bösewicht und wirf ihn durch das
+Seelenportal!",
+  "13.0.27.0" => "Es ist vollbracht... Das Portal ist geschlossen!
+Gute Arbeit!",
+  "13.0.28.0" => "Wir haben das Hauptquartier verloren!
+Jetzt ist alles aus...",
+  "13.0.29.0" => "Wir haben Link verloren! Das ist das Ende...",
+  "13.0.30.0" => "Jemand befehligt von dieser Festung aus
+die Verräter... Schnapp ihn dir! Schnell!",
+  "13.0.31.0" => "Jetzt können wir zur Rückseite des Tempels!",
+  "13.0.32.0" => "Es sammelt neue Kraft, um unser Hauptquartier
+zu zerstören... Wir dürfen nicht nachlassen! ",
+  "13.0.33.0" => "Feinde aus dem Westen!
+Komm, Link! Die erledigen wir!",
+  "13.0.34.0" => "Es kommen immer noch Feinde aus dem Westen...",
+  "13.0.35.0" => "Mission erfolgreich! Und jetzt auf zum Tempel!",
+  "13.0.36.0" => "Ich spüre etwas in der Nähe... Da stachelt
+jemand die Soldaten zum Verrat an!",
+  "13.0.37.0" => "Ich weiß, wer der Rädelsführer ist!",
+  "13.0.38.0" => "Das da ist der Anführer der Verräter!
+Besiegen wir ihn!",
+  "13.0.39.0" => "Allein zu kämpfen ist gefährlich... Wir sollten
+uns zu unseren Mitstreitern teleportieren!",
+  "13.0.40.0" => "Er heilt sich mit der gesammelten Magie! Wir
+müssen ihn mit dem Katapult davon abhalten!",
+  "13.0.41.0" => "Er regeneriert seine Energie! Aber wenn wir
+ihn erwischen, hat das ein Ende. Schnell!",
+  "13.0.42.0" => "Wenn er sich regeneriert, können wir ihn vielleicht
+nicht mehr schlagen! Schnell, verpass ihm eine!",
+  "13.0.43.0" => "Wenn der Feind unser Hauptquartier
+angreift, wird seine Moral steigen!",
+}

@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R si prepara ad attaccare l'area A0%2sF6R!",
+  "0.3.0" => "Presto, sconfiggi A0%1sF2R!",
+  "0.4.0" => "A0%1sF0R prepara l'attacco contro l'area A0%2sF4R!",
+  "0.5.0" => "A0%1sF0R si ritira temporaneamente per attaccare l'area A0%2sF4R!",
+  "0.6.0" => "A0%1sF0R assale l'area A0%2sF2R!",
+  "0.7.0" => "Attenzione, l'area A0%1sF0R non deve cadere!",
+  "0.8.0" => "A0%1sF0R è stato fermato!",
+  "0.9.0" => "A0%1sF0R attacca l'area A0%2sF2R!",
+}

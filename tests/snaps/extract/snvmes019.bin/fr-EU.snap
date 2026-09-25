@@ -1,0 +1,192 @@
+Map {
+  "1.0.0.0" => "Hé, toi ! Aide-nous à vaincre ce monstre
+appelé Volga !",
+  "1.0.1.0" => "Hein ? Ils ont l'air d'avoir besoin d'aide...
+L'Héroïne va vous aider, ne vous inquiétez pas !",
+  "1.0.2.0" => "Tant que j'ai mon marteau, je ne peux pas perdre !
+Laissez-moi m'occuper de ce Volga !",
+  "1.0.3.0" => "Il est trop dangereux de l'affronter seul ! Il faut
+sortir du temple et porter secours à Darunia !",
+  "1.0.4.0" => "Il essaye de venir seul... Ça me plaît.
+Allez, montre-moi ce que tu sais faire.",
+  "1.0.5.0" => "Les monstres sont regroupés... Je vais
+les balayer d'un coup de marteau !",
+  "1.0.6.0" => "La situation tourne mal...
+Il nous faut vite rejoindre Darunia !",
+  "1.0.7.0" => "Si nous voulons aider Darunia, il va d'abord
+nous falloir ouvrir l'entrée du temple...",
+  "1.0.8.0" => "On se charge de forcer les portes !",
+  "1.0.9.0" => "Je n'arriverai pas jusqu'à l'entrée si ça
+continue comme ça !",
+  "1.0.10.0" => "Aaah ! Au secours !",
+  "1.0.11.0" => "Hein ? Mais les portes sont cassées !
+Et je ne peux pas les réparer tout seul !",
+  "1.0.12.0" => "Comment ?! Alors débrouille-toi avec
+les deux autres ingénieurs !",
+  "1.0.14.0" => "Si on travaille tous ensemble, on pourra
+réparer les portes cassées !",
+  "1.0.15.0" => "Sans ces ingénieurs, nous ne
+pourrons pas ouvrir les portes... !",
+  "1.0.16.0" => "Si vous voulez ouvrir ces portes, il faudra
+d'abord nous passer sur le corps !",
+  "1.0.17.0" => "Les portes sont ouvertes !
+L'ennemi entre dans le temple !",
+  "1.0.18.0" => "Nous ne pouvons laisser Darunia seul plus
+longtemps. Il faut aller l'aider !",
+  "1.0.19.0" => "Oui, il faut se dépêcher !",
+  "1.0.20.0" => "Parfait, on va aller raser leur base !",
+  "1.0.21.0" => "Ils visent notre base ! Nous ne pouvons nous
+permettre de la perdre. Assurons sa défense !",
+  "1.0.22.0" => "D'accord ! Moi aussi, je vais défendre
+votre base, alors !",
+  "1.0.23.0" => "Les portes sont ouvertes de l'autre côté !
+Les monstres arrivent !",
+  "1.0.24.0" => "Merci ! Je peux aller trouver Volga,
+maintenant !",
+  "1.0.25.0" => "Mais tu combats seul depuis tout ce
+temps... Ça va aller ?",
+  "1.0.26.0" => "Darunia ! N'en fais pas trop !",
+  "1.0.27.0" => "Une bonne chose de faite.
+Mais nous devons rester sur nos gardes.",
+  "1.0.28.0" => "Nous, on va s'infiltrer dans leur base !",
+  "1.0.29.0" => "T'as raison ! Ce chef des Gorons est un
+vrai cafard, vaut mieux pas s'y frotter !",
+  "1.0.30.0" => "Les portes sont fermées ?
+Suffit de forcer un peu !",
+  "1.0.31.0" => "T'as raison !
+Comme ça, on pourra charger leur base !",
+  "1.0.32.0" => "J'arrive pas à croire que ces moins que rien aient
+eu raison de nous... Je dois me faire vieux...",
+  "1.0.33.0" => "Hmpf ! Nous n'allions quand même pas
+perdre contre de futurs fossiles !",
+  "1.0.34.0" => "Il y a beaucoup moins d'ennemis qui s'en
+prennent à la base, maintenant !",
+  "1.0.35.0" => "J'arrive pas à croire qu'ils m'aient eu...
+Je n'ai pas été assez vigilant...",
+  "1.0.36.0" => "Bravo ! Je suis soulagée qu'on ait réussi
+à les arrêter !",
+  "1.0.37.0" => "Bien. Cela devrait faciliter la défense de
+notre base.",
+  "1.0.38.0" => "Hourra ! On a réussi à protéger la base !",
+  "1.0.39.0" => "Ça commence à m'agacer de devoir
+toujours repousser l'ennemi.",
+  "1.0.40.0" => "Ils ont réussi à vaincre mes semblables...
+Pas trop mal.",
+  "1.0.41.0" => "Je vais m'occuper de ce Volga moi-même !",
+  "1.0.42.0" => "Hmpf...
+Ne crois pas que ce sera aussi simple.",
+  "1.0.43.0" => "Ce qu'ils peuvent être collants !
+J'arriverai jamais à atteindre Volga !",
+  "1.0.44.0" => "C'est terrible !
+Il faut venir en aide à Darunia !",
+  "1.0.45.0" => "Il faut vite l'aider !",
+  "1.0.46.0" => "Ce fort est fermé, on ne peut plus
+avancer... Comment faire ?",
+  "1.0.47.0" => "C'est pas des rigolos !
+Ça se présente mal pour moi...",
+  "1.0.48.0" => "Je ne tiendrai plus très longtemps !",
+  "1.0.49.0" => "Hé, Volga ! Montre que t'es un vrai guerrier
+et viens affronter le grand Darunia !",
+  "1.0.50.0" => "Tu as réussi à arriver ici...  Tu me plais !
+Je serai ton adversaire !",
+  "1.0.51.0" => "Hé, toi ! Va aider Darunia !",
+  "1.0.52.0" => "D'accord ! On pourra sûrement gagner si
+on unit nos forces !",
+  "1.0.53.0" => "Je perds l'avantage... ? Je ne pensais pas trouver
+un adversaire aussi valeureux chez les Gorons !",
+  "1.0.54.0" => "Je vais te ratatiner !
+C'est parti !",
+  "1.0.55.0" => "Alors ?! T'as pu voir mon marteau d'assez
+près ou t'en veux encore ?",
+  "1.0.56.0" => "Argh... Tu te débrouilles bien... J'admets notre
+défaite... pour cette fois-ci. Sonnez la retraite !",
+  "1.0.57.0" => "Super ! Merci de m'avoir aidé, mon frère !",
+  "1.0.58.0" => "Hein ? Mais je suis une fille !
+Hé ! Ma boussole brille encore !",
+  "1.0.59.0" => "Dé... Désolé !
+J'ai été vaincu...",
+  "1.0.60.0" => "L'ennemi a pris le contrôle de notre
+base... !",
+  "1.0.61.0" => "Mais poussez-vous de là ! Je dois aller
+écraser la face de ce Volga !",
+  "1.0.62.0" => "Nos alliés partis ouvrir les portes se font
+attaquer ! Il faut les protéger !",
+  "1.0.63.0" => "Compte sur moi !",
+  "1.0.64.0" => "Ça y est ! Les portes sont ouvertes !",
+  "1.0.65.0" => "Je vous félicite !
+Est-ce que Darunia va bien ?",
+  "1.0.66.0" => "Tiens ? Les portes se sont ouvertes de
+l'intérieur... Et le temple, alors ?",
+  "1.0.67.0" => "Elles sont cassées ?! Alors mes alliés sont
+en danger ! Je dois vite m'occuper de Volga !",
+  "1.0.68.0" => "Ha ha ha !
+Vous aurez pas ma peau aussi facilement !",
+  "1.0.69.0" => "Arrêtez ces monstres ! Nous ne devons
+pas les laisser approcher la base !",
+  "1.0.70.0" => "Tout le monde fait son possible pour repousser
+les ennemis... Je ne les laisserai pas m'avoir !",
+  "1.0.71.0" => "Darunia est en danger !
+Il faut lui porter secours !",
+  "1.0.72.0" => "Je peux ouvrir ce fort sans problème !
+Mais allons d'abord sur place !",
+  "1.0.73.0" => "Tiens bon !
+Les renforts arrivent pour t'aider !",
+  "1.0.74.0" => "Je ratatinerai ce Volga moi-même !",
+  "1.0.75.0" => "Darunia se bat avec un tel acharnement !
+Prenons exemple sur lui !",
+  "1.0.76.0" => "Compris ! Protégeons la base tous ensemble
+pour qu'elle ne tombe pas aux mains de l'ennemi !",
+  "1.0.77.0" => "Oups... J'ai cassé les portes en les fermant...
+Au moins, mes alliés sont en sécurité !",
+  "1.0.78.0" => "C'est sûrement parce qu'on a réussi à repousser
+l'ennemi ! Alors, direction le château d'Hyrule !",
+  "13.0.2.0" => "Si cette femme est un imposteur, alors nous
+devons révéler sa véritable identité !",
+  "13.0.3.0" => "Je vais chercher à l'est. Occupez-vous
+de l'ouest.",
+  "13.0.4.0" => "Elle prétend encore être la princesse...",
+  "13.0.5.0" => "Argh... L'ennemi est sur nous.",
+  "13.0.6.0" => "Beau travail... Avançons dans le temple de l'eau,
+maintenant.",
+  "13.0.7.0" => "Allons-y...",
+  "13.0.8.0" => "Ça commence à devenir dangereux...
+On doit faire quelque chose...",
+  "13.0.9.0" => "Merci... Ça devrait aller, maintenant. Il faut
+ouvrir les écluses, à présent.",
+  "13.0.10.0" => "Je vois... L'eau s'est légèrement retirée...",
+  "13.0.11.0" => "Nous allons pouvoir aider la princesse Ruto...",
+  "13.0.12.0" => "Nous n'avons pas d'autre choix que
+d'attendre l'ennemi dans ce fort...",
+  "13.0.13.0" => "Nous avons fini... Il ne nous reste plus
+que cet imposteur... !",
+  "13.0.14.0" => "Dé... Désolé...",
+  "13.0.15.0" => "Le chemin s'est ouvert tout seul...",
+  "13.0.16.0" => "Il est trop puissant ! Il faut retourner
+dans le fort !",
+  "13.0.17.0" => "Elle a pu invoquer ce monstre...
+Je commence à comprendre qui elle est...",
+  "13.0.18.0" => "Nous ne pouvons pas continuer à combattre
+sans la princesse Ruto...",
+  "13.0.19.0" => "Nettoyons d'abord cette zone. Nous pouvons prendre
+l'ennemi à revers depuis la falaise au nord.",
+  "13.0.20.0" => "Merci... Je devrais pouvoir m'en sortir
+maintenant. Va porter secours à Ruto.",
+  "13.0.21.0" => "Merci... Je devrais pouvoir m'en
+sortir maintenant. ",
+  "13.0.22.0" => "On a réussi à les repousser...",
+  "13.0.23.0" => "Kh... L'ennemi n'en est que plus virulent... !",
+  "13.0.35.0" => "Nous ne pouvons pas continuer à combattre
+sans la princesse Ruto...",
+  "13.0.36.0" => "Nettoyons d'abord cette zone. Nous pouvons prendre
+l'ennemi à revers depuis la falaise au nord.",
+  "13.0.37.0" => "Merci... Je devrais pouvoir m'en sortir
+maintenant. Va porter secours à Ruto.",
+  "13.0.38.0" => "Merci... Je devrais pouvoir m'en
+sortir maintenant. ",
+  "13.0.39.0" => "On a réussi à les repousser...",
+  "13.0.40.0" => "Kh... L'ennemi n'en est que plus virulent... !",
+  "13.0.52.0" => "Nous ne pouvons pas continuer à combattre
+sans la princesse Ruto...",
+  "13.0.53.0" => "Nettoyons d'abord cette zone. Nous pouvons
+prendre l'ennemi à revers depuis la falaise au nord.",
+}

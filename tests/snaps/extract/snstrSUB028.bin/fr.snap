@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "A2DesR A0%1sF7R ont rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF5R vont soigner les blessés A0%2sF3R!",
+  "0.3.0" => "Éliminez A0%1sF1R avant qu'ils ne soignent A0%2sF1R!",
+  "0.4.0" => "A0%1sF4R s'approche des blessés A0%2sF3R!",
+  "0.5.0" => "A0%1sF4R a soigné une partie des soldats A0%2sF3R!",
+  "0.6.0" => "Éliminez A0%1sF0R au plus vite pour l'empêcher de soigner les blessés A0%2sF3R!",
+  "0.7.0" => "Vous avez vaincu A0%1sF1R!",
+}

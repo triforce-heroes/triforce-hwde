@@ -1,0 +1,171 @@
+Map {
+  "1.0.0.0" => "Regarde, Link, c'est incroyable!
+Cette île flotte dans le ciel!",
+  "1.0.1.0" => "À l'attaque! Chaque humain vivant sur ces
+terres périra sous ma lame!",
+  "1.0.2.0" => "Ce Volga est fort arrogant. Il oublie que c'est
+moi, Ghirahim, qui suis à la tête des démons.",
+  "1.0.3.0" => "Si ça continue, nous allons perdre Célesbourg!",
+  "1.0.4.0" => "Qui commande l'armée ennemie? Mais... c'est le
+chevalier dragon de la dernière fois!",
+  "1.0.5.0" => "Des ennemis s'approchent de notre base!
+Faites attention!",
+  "1.0.7.0" => "Oh! La foudre qui tombe près de notre base
+empêche nos ennemis de s'en approcher!",
+  "1.0.8.0" => "Je dois protéger la base des humains
+contre les forces maléfiques...",
+  "1.0.9.0" => "C'est le grand esprit des cieux, Narisha...
+Voilà un invité bien importun.",
+  "1.0.10.0" => "Aidez-nous! On nous vole la précieuse soupe du
+grand Narisha! Il en a besoin, c'est vital!",
+  "1.0.11.0" => "Avec cette soupe, nous pourrons demander au
+grand Narisha de nous créer un passage!",
+  "1.0.12.0" => "Il faut apporter la soupe au grand Narisha?
+Allons à la statue de la Déesse pour les aider!",
+  "1.0.13.0" => "Vous êtes venus! Merci! Nous devons garder
+cette soupe pour le bien de Célesbourg.",
+  "1.0.14.0" => "J... J'ai été vaincu...
+Pro... Protégez la soupe!",
+  "1.0.15.0" => "Oh non! Les ennemis sont passés!
+Vite! À la statue de la Déesse!",
+  "1.0.16.0" => "Link... Je vous attends dans le fort
+de la statue de la Déesse...",
+  "1.0.17.0" => "Dis, tu as entendu cette voix? Quelqu'un
+t'appelle sous la statue de la Déesse...",
+  "1.0.18.0" => "Link, salutations. Permettez-moi de vous appeler
+« maître » jusqu'à la fin de notre mission.",
+  "1.0.19.0" => "Attirez le grand Narisha avec cette soupe. Nous
+sommes épuisés, nous ne pouvons plus bouger.",
+  "1.0.20.0" => "De la soupe de citrouille...
+Entendu, je vais la transporter.",
+  "1.0.21.0" => "Pardonnez-moi... pourriez-vous aller aider nos
+camarades isolés près de l'école de chevalerie.",
+  "1.0.22.0" => "On ne peut pas laisser des gens
+dans l'embarras! Allons les aider!",
+  "1.0.23.0" => "Oh, mais comment irez-vous aider vos alliés s'il 
+n'y a plus de chemin au nord? Cruelle ironie...",
+  "1.0.24.0" => "Les soldats de Célesbourg ont dit que Narisha
+ouvrira le chemin si on lui demande. En avant!",
+  "1.0.25.0" => "Transporter cette soupe et appeler Narisha
+devraient nous ouvrir le chemin. Je vous aiderai.",
+  "1.0.26.0" => "La soupe a été transportée
+jusqu'à sa destination.",
+  "1.0.27.0" => "Ho ho! C'est ma soupe préférée!
+Est-elle pour moi?",
+  "1.0.28.0" => "Peu importe... Je vais prendre leur base,
+ça me remontera peut-être le moral.",
+  "1.0.29.0" => "Maître, je vais aider nos alliés. Veuillez éliminer
+le commandant ennemi pendant ce temps.",
+  "1.0.30.0" => "Défaire le commandant ennemi?
+Avec plaisir! Allez, Link, en avant!",
+  "1.0.32.0" => "Merci! J'ai une autre requête. Pourriez-vous
+apporter cette soupe à la falaise à l'ouest?",
+  "1.0.33.0" => "Urgh... Je n'en peux plus... Transporte... cette
+soupe de citrouille... à la falaise à l'ouest...",
+  "1.0.34.0" => "Je détecte une hausse du moral des ennemis.
+Maître, soyez vigilant.",
+  "1.0.35.0" => "Maître, je vais transporter cette soupe
+jusqu'à sa destination.",
+  "1.0.36.0" => "Si cette soupe arrive à destination, la probabilité
+que notre situation s'améliore est de 85 %.",
+  "1.0.37.0" => "Pulvérisez leur base! Et réservez le même sort
+à tous ceux qui se dresseront sur votre chemin!",
+  "1.0.38.0" => "C'est terrible! Ils visent notre base!",
+  "1.0.39.0" => "Aaah, ces vermines m'exaspèrent...
+Volga! Rends-toi utile!",
+  "1.0.40.0" => "Maître, la deuxième marmite de soupe a été
+transportée jusqu'à sa destination.",
+  "1.0.41.0" => "Ho ho... Est-ce toi qui m'as appelé?
+Veux-tu que j'ouvre à nouveau le chemin?",
+  "1.0.42.0" => "Maître, je confirme que le chemin est praticable.
+Il est possible de rallier la base ennemie.",
+  "1.0.43.0" => "Hourra! On va pouvoir aller régler son compte
+à ce chevalier dragon!",
+  "1.0.44.0" => "Maître, un bataillon se dirige vers notre base. Un
+renforcement de nos défenses est recommandé.",
+  "1.0.45.0" => "Voilà qui devient intéressant.
+Prépare-toi à affronter un véritable guerrier!",
+  "1.0.46.0" => "Le chevalier dragon se montre enfin! On va lui
+faire regretter de ne pas être resté chez lui!",
+  "1.0.47.0" => "Mon sang de dragon commence à bouillir...
+Attaquez-moi de toutes vos forces!",
+  "1.0.48.0" => "Il en faudra plus que ça pour me vaincre!
+Allez, attaquez-moi encore plus fort!",
+  "1.0.49.0" => "Ne me faites pas rire! Vous croyez pouvoir me
+vaincre avec un tel niveau?!",
+  "1.0.50.0" => "Quelle arrogance... Si j'étais au meilleur de ma
+forme, je ne ferais qu'une bouchée de ce lézard!",
+  "1.0.51.0" => "Pourquoi ne pas stimuler Narisha en demandant
+son aide à la grande fée qui vit sur ces terres?",
+  "1.0.52.0" => "Une grande fée? Où ça? Aïe, il va falloir éliminer
+les ennemis alentour pour pouvoir l'approcher.",
+  "1.0.53.0" => "On a réussi! Activons le cercle magique et
+demandons son aide à la grande fée à présent!",
+  "1.0.54.0" => "Maître, je vous recommande fortement 
+d'utiliser un cercle magique.",
+  "1.0.55.0" => "Voici toute l'étendue de mes pouvoirs. Très
+bien. Je vais retourner me coucher à présent...",
+  "1.0.56.0" => "Urgh... Tu me le paieras...",
+  "1.0.57.0" => "Maître, Volga est affaibli. C'est le moment
+de lui donner le coup de grâce.",
+  "1.0.58.0" => "Mes forces sont insuffisantes pour arrêter Volga.",
+  "1.0.59.0" => "Fay est encerclée!
+Il faut vite aller l'aider!",
+  "1.0.60.0" => "Si l'esprit des cieux n'était pas intervenu,
+je n'aurais fait qu'une bouchée de vous...",
+  "1.0.61.0" => "On a gagné! Pfiou! On devrait être
+tranquilles pour un moment!",
+  "1.0.62.0" => "Pendant un instant, j'ai bien cru qu'on était
+perdus... Merci beaucoup!",
+  "1.0.63.0" => "Cela ne m'amuse plus du tout. Repliez-vous
+avant que je ne perde patience!",
+  "1.0.64.0" => "À bien y réfléchir, il sera encore plus amusant
+de les détruire de l'intérieur... Ha ha ha ha ha!",
+  "1.0.65.0" => "...",
+  "1.0.66.0" => "Notre base est tombée!
+Tout est fini, Link!",
+  "1.0.67.0" => "Je suis dans l'impossibilité de poursuivre le
+combat. Pardonnez-moi, maître.",
+  "1.0.68.0" => "Envoyez-nous du renfort! On ne peut pas
+transporter la soupe dans ces conditions!",
+  "1.0.69.0" => "V... Venez nous aider!
+Si ça continue, notre précieuse soupe va...",
+  "1.0.70.0" => "Narisha, nous devons vaincre les monstres qui
+menacent les cieux. Pourriez-vous nous aider?",
+  "1.0.71.0" => "Je vois, vous ne pouvez pas passer.
+Je dois pouvoir régler ce problème.",
+  "1.0.72.0" => "Excusez-moi! Pourriez-vous apporter cette
+soupe jusqu'à la falaise à l'ouest? Merci!",
+  "1.0.73.0" => "Je vais attendre Narisha ici pendant que
+vous vous occupez du commandant ennemi.",
+  "1.0.74.0" => "Je vais retenir Volga.
+Allez trouver la grande fée au plus vite.",
+  "1.0.75.0" => "Les défenses de leur base sont pitoyables
+au sud! Passez par là et envahissez-la!",
+  "1.0.76.0" => "Qu'est-ce que vous attendez? Il va encore
+falloir que je m'en charge moi-même!",
+  "1.0.77.0" => "Arrêtez cette sorcière! Pendant
+ce temps, je prendrai leur base!",
+  "1.0.78.0" => "À l'attaque! Arrachez-leur ce fort!",
+  "1.0.79.0" => "Oh, Volga... touchante imitation. Mais il n'y a
+qu'un Ghirahim, et fort heureusement, c'est moi!",
+  "1.0.80.0" => "Notre fort est à présent en sécurité
+Nos forces ont fait du bon travail.",
+  "1.0.81.0" => "En avant! Détruisez la base de ces
+misérables insectes!",
+  "1.0.82.0" => "Sss'est compris! Ssse sssera
+fait en un inssstant!",
+  "1.0.83.0" => "Gyah! Nous sssuivrons
+vos ordres!",
+  "1.0.84.0" => "Je m'occuperai du chef lézalfos! Maître,
+veuillez vous charger du chef dinolfos!",
+  "1.0.85.0" => "Sssi... puisssants...",
+  "1.0.86.0" => "Gah! Je sssouffre...
+Quel fiasssco...",
+  "1.0.87.0" => "Mes rapports indiquent que les chefs
+lézalfos et dinolfos ont été éliminés!",
+  "1.0.88.0" => "Mes rapports indiquent que la menace
+sur la base alliée a disparu!",
+  "1.0.89.0" => "Bande de lâches! À tous ceux qui sont
+encore debout, battez-vous et avancez!",
+}

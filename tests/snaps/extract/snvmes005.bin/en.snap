@@ -1,0 +1,183 @@
+Map {
+  "1.0.0.0" => "Hm. Invaders. Someone destroy them for
+me.",
+  "1.0.1.0" => "Princess Zelda--! No, she would never
+attack us of her own free will...",
+  "1.0.2.0" => "We must confront her. If we find her, I'm
+certain we will also find the Gate of Souls.",
+  "1.0.4.0" => "He-ey there! Help me!",
+  "1.0.6.0" => "Princess Ruto is the only one who knows
+how to get into the temple. Keep her safe!",
+  "1.0.7.0" => "Let's take care of these enemies first.
+Then we can smash the rest from the north!",
+  "1.0.10.0" => "A frontal assault? Such a foolish attempt...",
+  "1.0.13.0" => "Hyrulean soldiers! Cease fighting for the
+unworthy, and follow my royal command!",
+  "1.0.15.0" => "First Darunia, and now this? This is
+obviously not the real Princess Zelda!",
+  "1.0.16.0" => "The only way into the Water Temple requires
+we open the floodgates. Let's hurry!",
+  "1.0.17.0" => "If someone is masquerading as Zelda,
+I will expose and eliminate her.",
+  "1.0.18.0" => "We could always use the Lens of Truth...
+A hero left it in the temple some time ago!",
+  "1.0.19.0" => "Hear me, soldiers of Hyrule! Flee from this
+temple! Drop your weapons, and turn back!",
+  "1.0.21.0" => "Don't be deceived! This is not our Zelda!
+Anything she says will be a lie!",
+  "1.0.22.0" => "The enemy is coming this way!",
+  "1.0.23.0" => "I'll go support our allies!
+You take care of the floodgates!",
+  "1.0.24.0" => "The floodgates are open! Now we should
+be able to enter the Water Temple.",
+  "1.0.25.0" => "Great! Why don't we pour into the Water
+Temple? Get it? Pour? Ha! ...Water puns!",
+  "1.0.26.0" => "I'll go underwater and find the Lens
+of Truth. We can meet back up later.",
+  "1.0.27.0" => "We'll go on ahead too!",
+  "1.0.28.0" => "Getting in was easy. Now I just need to
+find the Lens of Truth itself...",
+  "1.0.29.0" => "Here it is! The Lens of Truth! This is
+exactly what we need...",
+  "1.0.30.0" => "Oh, of course. I feared they were planning
+to trap me in here, and they have.",
+  "1.0.31.0" => "I have captured your ally! If you want her
+to remain safe, lay down your weapons!",
+  "1.0.33.0" => "What kind of coward takes hostages...
+You insult Princess Zelda's very name!",
+  "1.0.34.0" => "Stay calm! I have the Lens of Truth with
+me!",
+  "1.0.35.0" => "But...you're captured... What good does it
+do us if we're unable to use it?",
+  "1.0.36.0" => "Quickly, open the temple floodgates! If the
+waters recede, these doors should open!",
+  "1.0.38.0" => "I'll search the east side of the temple.
+You search the west!",
+  "1.0.39.0" => "There's too many of 'em, even for ME!",
+  "1.0.40.0" => "It's fine! Go back to the temple, and get
+those floodgates open!",
+  "1.0.41.0" => "Hey, the water started to recede when
+we opened that floodgate!",
+  "1.0.42.0" => "The water isn't completely drained yet!
+Open the other floodgate! Hurry!",
+  "1.0.43.0" => "You did it! Finally, I can get out of here!",
+  "1.0.44.0" => "All right! You go help Ruto!",
+  "1.0.45.0" => "I'm...getting tired... I'll leave the rest to
+you. Good luck!",
+  "1.0.46.0" => "What happened?! The wall disappeared,
+and then a passage opened up!",
+  "1.0.47.0" => "I have no idea how you broke my spell...
+But no matter. You leave me no recourse.",
+  "1.0.48.0" => "My loyal servant, King Dodongo! Come
+forth! Burn these fools to the bone!",
+  "1.0.49.0" => "Not King Dodongo! Everybody, run to
+the keep!",
+  "1.0.50.0" => "There is no victory unless I help. It's just
+a little fire-breathing lizard. I can handle it!",
+  "1.0.51.0" => "Insolent wretch! You dare challenge me,
+the princess of the royal family of Hyrule?!",
+  "1.0.52.0" => "Silence, impostor! Show your real face!",
+  "1.0.53.0" => "Only a monster could summon a creature
+like that! That's what she is! A monster!",
+  "1.0.54.0" => "We have to hold our ground!",
+  "1.0.55.0" => "Yes! We did it! Now we just have to take
+care of that impostor in the temple!",
+  "1.0.56.0" => "Guh--! They got me! S-sorry...",
+  "1.0.57.0" => "I've suffered a wound... And so here is
+where I depart...",
+  "1.0.58.0" => "Without Ruto, we can't get through the
+temple!",
+  "1.0.59.0" => "Is there no hero here to save me?",
+  "1.0.60.0" => "He-ey! Come help me, quick!",
+  "1.0.61.0" => "Go and open the floodgates inside the
+temple! Doing that should free me!",
+  "1.0.62.0" => "You have to seek out all the keeps with
+floodgate switches. Understand?",
+  "1.0.63.0" => "Our morale is really hurting...",
+  "1.0.64.0" => "Fantastic job, though it appears that someone
+still needs our help regarding those floodgates!",
+  "1.0.65.0" => "I'm saved! Hah, thanks for that! Now, go
+give Ruto the same rescuing treatment!",
+  "1.0.66.0" => "Phew, close call! Thanks for the assist!
+We're all clear here!",
+  "1.0.67.0" => "The preparations are complete.
+Open the floodgates!",
+  "1.0.68.0" => "Hurry. We must work together to save 
+Ruto.",
+  "1.0.69.0" => "Now...punish the insolent fools in front
+of the temple!",
+  "1.0.70.0" => "No... We can't let them get outside the
+temple! Split up and stop them!",
+  "1.0.71.0" => "Whoa! That was dangerous!",
+  "1.0.72.0" => "Gah! It looks like we just lit a fire under
+their rears!",
+  "1.0.73.0" => "Hey! Don't forget about me! I still require
+a rescue!",
+  "1.0.74.0" => "Only a few enemy monsters remain. Let's
+defeat them and rout the impostor's forces!",
+  "1.0.75.0" => "King Dodongo slain? Impossible! Hurry, my
+servants! Serve Your Highness! Destroy!",
+  "1.0.76.0" => "The enemy is in shambles without clear
+leadership. Now's our chance to strike!",
+  "1.0.77.0" => "Guh... No! It's the end for me...",
+  "1.0.78.0" => "We must join our efforts together to
+drive off that beast.",
+  "13.0.0.0" => "Princess Ruto is the only one who knows the
+way into the temple. We must defend her!",
+  "13.0.1.0" => "I'm moving out to support our allies. I need
+you to open the floodgates while I do that.",
+  "13.0.2.0" => "If that was a fake...then we have to find
+the real one!",
+  "13.0.3.0" => "I'll search the east side. Meanwhile, you
+search the west.",
+  "13.0.4.0" => "She has the audacity to call herself Zelda?",
+  "13.0.5.0" => "Hmm... Our foes are heading here now.",
+  "13.0.6.0" => "Very well done. Now then, let us mount an
+attack on the Water Temple.",
+  "13.0.7.0" => "Let's enter...",
+  "13.0.8.0" => "They're on us. We have to do something...",
+  "13.0.9.0" => "Thanks. I should be fine now. You should
+focus on opening the floodgates.",
+  "13.0.10.0" => "Interesting... The water receded just a
+little...",
+  "13.0.11.0" => "Good. Now we can save Princess Ruto.",
+  "13.0.12.0" => "We have to intercept them at this keep...",
+  "13.0.13.0" => "All clear. Now, to deal with that impostor...",
+  "13.0.14.0" => "My...apologies...",
+  "13.0.15.0" => "By accident or design, the way is now
+open.",
+  "13.0.16.0" => "He's too strong. We must withdraw to the
+keep!",
+  "13.0.17.0" => "If she's summoning monsters, I think it's
+very clear who our impostor truly is!",
+  "13.0.18.0" => "Without Ruto, there's no point in carrying
+on.",
+  "13.0.19.0" => "We must defeat the enemies before us and
+then flank the rest by way of the frozen cliff.",
+  "13.0.20.0" => "Thank you for the help. I should be fine
+now, so I can help Ruto if need be.",
+  "13.0.21.0" => "Thanks for the help. I think I'm fine now.",
+  "13.0.22.0" => "We have to stop them somehow.",
+  "13.0.23.0" => "It seems we've only made them more
+self-assured...",
+  "13.0.24.0" => "I've got it! We'll all put our powers
+together and defeat that creature.",
+  "13.0.25.0" => "Grrh! I underestimated the enemy!",
+  "13.0.35.0" => "Without Ruto, there's no point in carrying
+on.",
+  "13.0.36.0" => "We must defeat the enemies before us and
+then flank the rest by way of the frozen cliff.",
+  "13.0.37.0" => "Thank you for the help. I should be fine
+now, so I can help Ruto if need be.",
+  "13.0.38.0" => "Thanks for the help. I think I'm fine now.",
+  "13.0.39.0" => "We have to stop them somehow.",
+  "13.0.40.0" => "It seems we've only made them more
+self-assured...",
+  "13.0.41.0" => "I've got it! We'll all put our powers
+together and defeat that creature.",
+  "13.0.42.0" => "Grrh! I underestimated the enemy!",
+  "13.0.52.0" => "Without Princess Ruto, our efforts will
+be in vain...",
+  "13.0.53.0" => "We must first dispatch the enemies before
+us, then flank the rest from the north.",
+}

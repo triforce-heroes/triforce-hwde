@@ -1,0 +1,16 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Le soldat de siège »!",
+  "0.1.0" => "A0%1sF6R a rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF4R sabote A1un fort alliéR!",
+  "0.3.0" => "Éliminez A0%1sF0R!",
+  "0.4.0" => "A0%1sF4R se dirige vers A1un fort alliéR pour le saboter!",
+  "0.5.0" => "A0%1sF4R a réussi à saboter un fort!",
+  "0.6.0" => "A0%1sF4R a réduit de moitié la défense A1du fort alliéR en le sabotant!",
+  "0.7.0" => "Vous avez empêché le sabotage du fort!",
+  "0.8.0" => "Vous avez repéré A0%1sF2R en train de saboter un fort!",
+  "0.9.0" => "Éliminez A0%1sF0R au plus vite!",
+  "0.10.0" => "Vous avez vaincu A0%1sF0R!",
+  "0.11.0" => "A0%1sF4R a quitté le champ de bataille!",
+  "0.13.0" => "A0%1sF4R a pénétré dans A1un fort alliéR!",
+  "0.14.0" => "A0%1sF4R commence à saboter A1un fort alliéR!",
+}

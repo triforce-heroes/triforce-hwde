@@ -1,0 +1,16 @@
+Map {
+  "0.1.0" => "Two A0%1sF1R have appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R is sabotaging an A1allied keepR!",
+  "0.3.0" => "Defeat the A0%1sF3R!",
+  "0.4.0" => "A0%1sF5R are advancing toward A1allied keepsR to sabotage them!",
+  "0.5.0" => "A0%1sF0R has finished preparing sabotage!",
+  "0.6.0" => "A0%1sF4R's sabotage has halved the durability of the A1allied keepR!",
+  "0.7.0" => "You successfully prevented the sabotage!",
+  "0.8.0" => "You discovered A0%1sF0R plotting sabotage!",
+  "0.9.0" => "Defeat A0%1sF2R immediately!",
+  "0.10.0" => "A0%1sF0R has been defeated!",
+  "0.11.0" => "A0%1sF0R withdrew from the frontlines!",
+  "0.12.0" => "Defeat the other A0%1sF0R!",
+  "0.13.0" => "A0%1sF0R has entered an A1allied keepR!",
+  "0.14.0" => "A0%1sF0R is about to sabotage an A1allied keepR!",
+}

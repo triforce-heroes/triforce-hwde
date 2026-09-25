@@ -1,0 +1,287 @@
+Map {
+  "1.0.0.0" => "Esta es la tierra del presidio. Debe su nombre
+al héroe que logró aprisionar el mal.",
+  "1.0.1.0" => "Un nombre muy apropiado.",
+  "1.0.2.0" => "Veo que ya estás aquí. ¡Qué impaciente!
+Tendré que darme prisa.",
+  "1.0.3.0" => "Derrotad a Grahim y cerrad el Portal de las
+Almas. Es la única forma de salvar Hyrule.",
+  "1.0.4.0" => "¡Debemos cerrar el Portal de las Almas cuanto
+antes! Es la única forma de salvar Hyrule.",
+  "1.0.5.0" => "La puerta central del templo está cerrada.
+Venced al guarda del este para entrar.",
+  "1.0.6.0" => "Si no vencemos al guarda del este, no
+podremos franquear la puerta central.",
+  "1.0.7.0" => "¡El templo es todo tuyo! Nosotros nos
+ocuparemos de los bastiones de alrededor.",
+  "1.0.8.0" => "Tengo la corazonada de que va a haber
+un gran número de soldados aliados.",
+  "1.0.9.0" => "Percibo un espíritu maligno entre los aliados.
+Debéis permanecer alerta.",
+  "1.0.10.0" => "Noto algo maligno entre los aliados...
+¿Qué será? ¿O quién?",
+  "1.0.11.0" => "Puedes intentarlo, pero no existe ni la más
+mínima posibilidad de que venzas.",
+  "1.0.12.0" => "¡Buen trabajo! Se ha abierto el camino
+para acceder al templo.",
+  "1.0.13.0" => "Amo, noto la presencia de Grahim en las cámaras
+más profundas del templo. ¿Lo seguimos?",
+  "1.0.14.0" => "Me pregunto si el malvado señor de los
+demonios se oculta en el templo...",
+  "1.0.15.0" => "¡Ha llegado el momento! Enseñémosles
+un par de cosas.",
+  "1.0.16.0" => "¡Ja, ja! ¡Grahim!",
+  "1.0.17.0" => "¿Qué? ¿Nos atacan nuestros propios aliados?",
+  "1.0.18.0" => "¡Nuestros aliados nos atacan! ¿Qué ocurre?",
+  "1.0.19.0" => "Amo, los aliados parecen confundidos.
+Deberíamos volver a ayudarlos.",
+  "1.0.20.0" => "Los aliados parecen muy confundidos.
+¡Debemos volver y ayudarlos!",
+  "1.0.21.0" => "¡Preparaos, camaradas!
+¡Grahim ha ordenado atacar!",
+  "1.0.22.0" => "¡Así no hay forma de luchar!
+Deberíamos huir.",
+  "1.0.23.0" => "¡Qué felicidad! ¡Qué dicha!",
+  "1.0.24.0" => "¡Hay traidores por todas partes!",
+  "1.0.25.0" => "Amo, los traidores cuentan con un líder.
+Debéis detectar al enemigo y vencerlo.",
+  "1.0.26.0" => "Alguien ha debido de ordenarles que me
+traicionasen. ¡Hay que averiguar quién!",
+  "1.0.27.0" => "Mis cálculos indican que el líder traidor
+se oculta en alguno de los bastiones.",
+  "1.0.28.0" => "¿Dónde estará la persona que dirige el motín?
+¡Seguro que en algún bastión!",
+  "1.0.29.0" => "A juzgar por los movimientos de los traidores,
+su líder se encuentra en ese bastión.",
+  "1.0.30.0" => "¡Todos los traidores se dirigen a ese bastión!
+¿Estará ahí su líder?",
+  "1.0.31.0" => "¡Camaradas! ¡Atacad la base de esos necios!",
+  "1.0.32.0" => "¡Yo me encargaré!",
+  "1.0.33.0" => "He comprobado que el enemigo no ataca
+ciertos bastiones. Su líder estará en alguno.",
+  "1.0.34.0" => "Hay un bastión que los enemigos no
+han atacado. ¿Estará ahí su líder?",
+  "1.0.35.0" => "Amo, percibo cierto desasosiego en esta zona.
+Puede que el líder de los traidores esté cerca.",
+  "1.0.36.0" => "Creo que el líder de los traidores no anda
+muy lejos. ¡Debemos tener cuidado!",
+  "1.0.37.0" => "He deducido que el líder de los traidores
+se halla en el mismo bastión que mi amo.",
+  "1.0.38.0" => "¡Ya sé quién da las órdenes! Debe
+de estar en el mismo bastión que tú.",
+  "1.0.39.0" => "La persona que habéis descubierto en el
+bastión es su líder. ¡Actuad sin demora!",
+  "1.0.40.0" => "Ahora que nos han descubierto,
+debemos prepararnos para lo peor.",
+  "1.0.41.0" => "¡Camaradas, debemos acabar con la base
+enemiga a la de ya!",
+  "1.0.42.0" => "La base aliada está siendo atacada. Debéis
+localizar al líder enemigo cuanto antes.",
+  "1.0.43.0" => "Si no hacemos algo, perderemos. ¡Hay que
+encontrar al traidor que da las órdenes!",
+  "1.0.44.0" => "Vaya, me parece que yo también
+tendré que luchar.",
+  "1.0.45.0" => "¡Grahim, lo siento!",
+  "1.0.46.0" => "Amo, los traidores han abandonado la rebelión.
+Debéis entrar en el templo.",
+  "1.0.47.0" => "Ahora que todo ha vuelto a la normalidad,
+debemos invadir el templo.",
+  "1.0.48.0" => "El Portal de las Almas lo ha hecho revivir.
+¡Que se echen a temblar los enemigos!",
+  "1.0.49.0" => "¡Aaaah! ¡Ha aparecido un monstruo gigante!",
+  "1.0.50.0" => "Se trata del Durmiente, una encarnación del mal
+que en el pasado trató de aniquilar el mundo.",
+  "1.0.51.0" => "¡Cuidado! Este enemigo es harina de otro costal...",
+  "1.0.52.0" => "Amo, el Durmiente se dirige a un bastión
+aliado con la intención de destruirlo.",
+  "1.0.53.0" => "¡No! ¡Ese ser monstruoso se dirige
+a la base aliada!",
+  "1.0.54.0" => "¡Dejaos de pamplinas y seguid avanzando!",
+  "1.0.55.0" => "Según la información de que dispongo, lo más
+eficaz es atacar los pies del Durmiente.",
+  "1.0.56.0" => "Diría que el punto débil del enemigo son los pies.",
+  "1.0.57.0" => "¡Estupendo! Será un placer acabar con vosotros.",
+  "1.0.58.0" => "Amo, el Durmiente está amplificando sus poderes
+mágicos para acabar con un bastión importante.",
+  "1.0.59.0" => "El monstruo está acumulando energía para atacar
+la base aliada. ¡Hay que hacer algo!",
+  "1.0.60.0" => "Algunos bastiones albergan un arma muy útil
+contra el Durmiente, pero solo si está inmóvil.",
+  "1.0.61.0" => "Tiene que haber algo en el bastión que
+nos sirva para acabar con el monstruo.",
+  "1.0.62.0" => "¡Este golpe acabará con todo!",
+  "1.0.63.0" => "La base corre peligro, pero el Durmiente se
+ha detenido. Es el momento de atacar.",
+  "1.0.64.0" => "Si el monstruo ya no se mueve... ¡es el momento
+perfecto para atacar!",
+  "1.0.65.0" => "¡La victoria está garantizada! Solo nos
+queda asestar el golpe de gracia.",
+  "1.0.66.0" => "Deberíais atacar al enemigo desde cierta
+distancia. Ahora es el momento oportuno.",
+  "1.0.67.0" => "¡Atacad, ahora! La base aliada no
+resistirá mucho más tiempo.",
+  "1.0.68.0" => "¡Nunca lograréis la victoria!",
+  "1.0.69.0" => "Para vencer al Durmiente precisamos cierto
+artefacto oculto en uno de los bastiones.",
+  "1.0.70.0" => "Un monstruo de semejante calibre requiere
+una poderosa arma. ¡Buscad en los alrededores!",
+  "1.0.71.0" => "El punto débil del Durmiente son los dedos de
+los pies. Si lo atacáis ahí, detendrá su avance.",
+  "1.0.72.0" => "¡Los pies del monstruo son su punto débil!
+Si atacas ahí, lograrás detenerlo.",
+  "1.0.73.0" => "Amo, el único artefacto de que disponemos
+se encuentra en la base aliada.",
+  "1.0.74.0" => "En la base aliada se encuentra el único
+artefacto poderoso que nos queda.",
+  "1.0.75.0" => "Os confirmo que el Durmiente
+ha sido aniquilado por completo.",
+  "1.0.76.0" => "Vaya, parece que el monstruo ha desaparecido.",
+  "1.0.77.0" => "¡Lo hemos conseguido! ¡Y ha sido
+todo gracias a ti!",
+  "1.0.78.0" => "¡Esto es inadmisible! ¡Acabaré
+con todos vosotros!",
+  "1.0.79.0" => "Os informo de que la puerta de acceso
+al interior del templo se ha abierto.",
+  "1.0.80.0" => "¡La puerta del templo se ha abierto!",
+  "1.0.81.0" => "Si Grahim ha accedido al templo, puede que
+el Portal de las Almas esté en el interior.",
+  "1.0.82.0" => "Amo, fuerzas enemigas se aproximan
+desde el templo. Recomiendo contratacar.",
+  "1.0.83.0" => "El enemigo se acerca por el oeste del templo y
+se dirige a la base aliada. ¡Hay que detenerlo!",
+  "1.0.84.0" => "¡El enemigo también ataca por el este!",
+  "1.0.85.0" => "¡Os haré pedacitos, cueste lo que cueste!",
+  "1.0.86.0" => "Debéis vencer a Grahim y confinarlo
+en el Portal de las Almas.",
+  "1.0.87.0" => "Acaba con ese demonio y confínalo
+en el Portal de las Almas.",
+  "1.0.88.0" => "Amo, permitidme felicitaros. La operación militar
+en esta zona ha concluido con éxito.",
+  "1.0.89.0" => "¡La puerta está cerrada! Hemos cumplido
+con nuestro deber.",
+  "1.0.90.0" => "Amo, la base aliada ha caído.
+Hemos sido derrotados.",
+  "1.0.91.0" => "¡La base ha caído! No hay nada más que
+podamos hacer... Hemos perdido.",
+  "1.0.92.0" => "¿En qué estaría pensando esa panda
+de zoquetes? ¡Jamás podrán vencerme!",
+  "1.0.93.0" => "Amo, perdonadme, pero me resulta
+imposible seguir luchando.",
+  "1.0.94.0" => "¡Link ha caído! Ahora todo depende
+de vosotros.",
+  "1.0.95.0" => "Gracias por la ayuda-goro.",
+  "1.0.96.0" => "Pensaba que estábamos acabados-goro...",
+  "1.0.97.0" => "Si el Durmiente no es destruido, existen grandes
+probabilidades de que la base aliada caiga.",
+  "1.0.98.0" => "¡Cuidado, ha vuelto a la carga! Acaba con
+el monstruo antes de que alcance la base.",
+  "1.0.99.0" => "Mis informes indican que el enemigo
+se acerca por el oeste. Contratacaré.",
+  "1.0.100.0" => "Mis informes indican que el enemigo del
+oeste sigue intentando atacar la base.",
+  "1.0.101.0" => "Tarea completada. Debéis entrar
+en el templo, amo.",
+  "1.0.102.0" => "Detecto un individuo sospechoso cerca.
+Es posible que sea el líder traidor.",
+  "1.0.103.0" => "Tras analizar los movimientos enemigos,
+he podido localizar al líder traidor.",
+  "1.0.104.0" => "Mis informes indican que es el líder
+traidor. Recomiendo un ataque inmediato.",
+  "1.0.105.0" => "Mis informes indican que luchar solo es peligroso.
+Recomiendo usar la ocarina para llegar a nuestros aliados.",
+  "1.0.106.0" => "Mis informes confirman el uso de magia.
+Recomiendo un bombardeo inmediato.",
+  "1.0.107.0" => "Confirmo el uso de magia de recuperación
+y recomiendo un bombardeo inmediato.",
+  "1.0.108.0" => "Recomiendo un bombardeo inmediato para
+evitar la recuperación del enemigo.",
+  "1.0.109.0" => "Mis informes indican que, si el enemigo
+entra en la base, su moral aumentará.",
+  "1.0.110.0" => "¡Hatajo de inútiles! Tendré que ocuparme
+de ellos personalmente.",
+  "1.0.111.0" => "¡Id a echar una mano, rápido!
+¡Y no dejéis que escape nadie!",
+  "1.0.112.0" => "Amo, se ha reducido el número de
+enemigos. Recomiendo acabar con Grahim.",
+  "1.0.113.0" => "Mis informes indican que la base
+puede caer en cualquier momento.",
+  "13.0.0.0" => "Así que esta es la tierra del presidio...",
+  "13.0.1.0" => "¡Debemos cerrar el Portal de las Almas!
+El futuro de Hyrule depende de ello.",
+  "13.0.2.0" => "La puerta central está cerrada, pero si
+vencemos al guarda de la puerta este...",
+  "13.0.3.0" => "Percibo una extraña aura en nuestras filas...",
+  "13.0.4.0" => "Me pregunto si ese ser tan
+despreciable estará en el templo.",
+  "13.0.5.0" => "Creo que los aliados están muy confundidos...
+¡Retirémonos y pongamos un poco de orden!",
+  "13.0.6.0" => "Deberíamos acabar con quienquiera que esté
+dando órdenes a los traidores.",
+  "13.0.7.0" => "¿Quién estará dando órdenes a los rebeldes?
+¡Debemos explorar a fondo los bastiones!",
+  "13.0.8.0" => "Todos los enemigos se dirigen a ese
+bastión. ¡Seguro que su líder está ahí!",
+  "13.0.9.0" => "Los enemigos no atacan ese bastión... Creo que
+su líder se esconde ahí.",
+  "13.0.10.0" => "Noto una presencia maligna a tu alrededor.
+¡Creo que el líder de los traidores está por aquí!",
+  "13.0.11.0" => "¡He localizado al líder de los traidores!
+Está en el mismo bastión que tú.",
+  "13.0.12.0" => "Si esto sigue así, perderemos. Tienes que
+acabar con su líder cuanto antes.",
+  "13.0.13.0" => "Por el momento esto es todo...
+Reagrupémonos para atacar el templo.",
+  "13.0.14.0" => "Qué enemigo más tenebroso... ¡Ten cuidado!
+No se parece en nada a ningún otro monstruo.",
+  "13.0.15.0" => "¡No! ¡El monstruo se dirige a la base aliada!",
+  "13.0.16.0" => "Creo que los dedos de los pies son
+su punto débil. ¡Aprovéchalo!",
+  "13.0.17.0" => "Presiento que está reservando energía para
+algo... ¿Quizás para destruir un bastión?",
+  "13.0.18.0" => "En ciertos bastiones hay armas con las que
+acabar con él. ¡Esperemos a que esté quieto!",
+  "13.0.19.0" => "Aprovechemos ahora que está quieto para
+dispararle. ¡Vamos!",
+  "13.0.20.0" => "¡Es el momento! Debemos acabar con él antes
+de que destruya la base aliada.",
+  "13.0.21.0" => "A menos que usemos un arma grande, nunca
+acabaremos con él. ¡Capturad los bastiones!",
+  "13.0.22.0" => "Su punto débil son los dedos de los pies.
+¡Atácalo ahí para frenar su avance!",
+  "13.0.23.0" => "En ese bastión están todas las armas que
+nos quedan.",
+  "13.0.24.0" => "¡El monstruo ha desaparecido!",
+  "13.0.25.0" => "El enemigo viene del oeste y parece que
+va a por la base... ¡Acabemos con él!",
+  "13.0.26.0" => "¡Acabemos con él y arrojémoslo
+al Portal de las Almas!",
+  "13.0.27.0" => "¡Hemos cerrado el portal! ¡Buen trabajo!",
+  "13.0.28.0" => "La base ha caído... De nada sirve luchar ya.",
+  "13.0.29.0" => "¡Link ha caído! Era nuestra única esperanza...",
+  "13.0.30.0" => "En este bastión está la persona que da
+órdenes a los traidores. ¡A por él!",
+  "13.0.31.0" => "¡Ya podemos ir a la parte trasera del templo!",
+  "13.0.32.0" => "¡Presta atención, ha vuelto a la carga! Acaba con
+el monstruo antes de que alcance la base.",
+  "13.0.33.0" => "¡Enemigos se acercan por el oeste!
+¡A por ellos, Link!",
+  "13.0.34.0" => "¡Todavía se aproximan
+enemigos por el oeste!",
+  "13.0.35.0" => "¡Misión cumplida, Link!
+¡Vamos al templo!",
+  "13.0.36.0" => "Tengo un mal presentimiento... Creo que
+alguien da órdenes a los traidores.",
+  "13.0.37.0" => "¡Ya sé quién es el traidor!",
+  "13.0.38.0" => "¡Ahí está el líder de los traidores!
+¡A por él, Link!",
+  "13.0.39.0" => "Es peligroso luchar solo, Link... ¡Usemos
+la ocarina para ir con nuestros aliados!",
+  "13.0.40.0" => "Está recuperándose gracias a la magia...
+¡Usa la supercatapulta para impedirlo!",
+  "13.0.41.0" => "¡Todavía continúa recuperándose, Link!
+¡Tomemos el bastión para evitarlo!",
+  "13.0.42.0" => "¡No podremos vencer si se recupera!
+¡Tenemos que acabar con él!",
+  "13.0.43.0" => "Si llegan a nuestra base y nos atacan,
+¡la moral enemiga aumentará!",
+}

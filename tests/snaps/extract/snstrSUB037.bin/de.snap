@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "Beginn der Episode „Die magische Kombination“!",
+  "0.1.0" => "A0%1sF0R und A0%2sF5R wurden gesichtet!",
+  "0.2.0" => "A0%1sF0R rückt gegen A0%2sF6R vor!",
+  "0.3.0" => "Besiege A0%1sF6R und A0%2sF6R!",
+  "0.4.0" => "A0%1sF0R und A0%2sF5R stärken sich gegenseitig!",
+  "0.5.0" => "A0%1sF0R und A0%2sF5R wurden besiegt!",
+  "0.6.0" => "A0%1sF0R wurde besiegt!",
+  "0.7.0" => "Besiege als Nächstes A0%1sF6R!",
+  "0.8.0" => "A0%1sF0R wurde gestärkt! A0%2sF0R wurde geschwächt!",
+  "0.9.0" => "A0%1sF0R wittert Gefahr und bleibt im gestärkten Zustand!",
+  "0.10.0" => "A0%1sF0R scheint sich nicht stärken zu können!",
+  "0.11.0" => "A0%1sF0R wurde gestärkt!",
+}

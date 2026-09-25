@@ -1,0 +1,141 @@
+Map {
+  "1.0.0.0" => "I wonder if you have something nice on you...
+Oh! What a pretty compass! Let me borrow it!",
+  "1.0.1.0" => "No! I need that! Oh, wow, and there are so
+many monsters...but I have to get it back!",
+  "1.0.2.0" => "Even the Cuccos are helping! OK, then that means
+I HAVE to do this!",
+  "1.0.3.0" => "Oh, come now... Do you really think you
+can beat me as I am now? Fool!",
+  "1.0.4.0" => "Hey, you! Catch me if you can!",
+  "1.0.5.0" => "That kid from earlier is ALREADY here?!
+He's fast... I don't think I can catch him!",
+  "1.0.6.0" => "All these monsters work for ME! Why don't
+you play with them for a while? Hee hee!",
+  "1.0.7.0" => "If you want your precious compass back,
+then you'll have to TAKE it back!",
+  "1.0.8.0" => "Ooh, the gate closed? That's so sneaky!",
+  "1.0.9.0" => "Did you meet the gatekeeper? I guess you'll
+have to fight him if you want through!",
+  "1.0.10.0" => "What's with that stupid monster?!
+It's no use at all...",
+  "1.0.11.0" => "If you don't catch me right now, I'll
+just send more monsters!",
+  "1.0.12.0" => "Yikes! I don't know how many more monsters
+I can handle. I'd better move fast!",
+  "1.0.13.0" => "You're so slow! Fine, I guess you wanted
+more monsters to play with!",
+  "1.0.14.0" => "Hello there, little one! Oh, you're so cute. Are you
+looking for food? Don't you know it's dangerous?",
+  "1.0.15.0" => "Whoa! It turned gold! That's so cool,
+but how did it do that?!",
+  "1.0.16.0" => "It ran away without eating... I hope it
+doesn't get hurt!",
+  "1.0.17.0" => "Huh? Where did it go...?",
+  "1.0.18.0" => "Let's play hide-and-seek! Check every keep
+if you want to see it again!",
+  "1.0.19.0" => "Hee, hee! See, more monsters! If you think they
+can be stopped, then just try to stop them!",
+  "1.0.20.0" => "What? MORE monsters? Great, that's
+just what I need... But I won't lose!",
+  "1.0.21.0" => "There! I defeated the monsters!
+Go ahead and show yourself already!",
+  "1.0.22.0" => "Ooh, look at you. Big monster slayer.
+I don't think you're so tough!",
+  "1.0.23.0" => "Yes! That's one less monster to worry about!",
+  "1.0.24.0" => "You still haven't found me? What's taking you so
+long? Do you want more monsters? Is that it?",
+  "1.0.25.0" => "Stop teasing me!
+Just come out!",
+  "1.0.26.0" => "Are you going to make me wait forever?
+Maybe I should just LET you win.",
+  "1.0.27.0" => "I can't believe how much trouble you're having!
+Hee hee! Still, I won't give the compass back. Hah!",
+  "1.0.28.0" => "Hee hee! Nope, not in that keep!",
+  "1.0.29.0" => "Hey there, little Cucco. It's kinda dangerous
+in here... C'mon, let me help you.",
+  "1.0.30.0" => "Wow! You turned gold!
+You're all shiny now!",
+  "1.0.31.0" => "Drat, the little Cucco ran away, and it
+didn't even get to eat anything...",
+  "1.0.32.0" => "Arghhh! Are you going to run away forever?
+Hurry up and gimme back my compass!",
+  "1.0.33.0" => "Nya-nya! Catch me if you can,
+even though I bet you CAN'T!",
+  "1.0.34.0" => "Looks like the monsters in this keep are
+pretty formidable. Have fun! Hee hee!",
+  "1.0.35.0" => "Look how many monsters are in this keep!
+I bet they'd enjoy playing with you. Hee hee!",
+  "1.0.36.0" => "There're Summoners in this keep. You know
+what Summoners do, don't you? Hee hee!",
+  "1.0.37.0" => "I won't let it get away!",
+  "1.0.38.0" => "Even if you catch me, you wouldn't be
+able to handle me...",
+  "1.0.39.0" => "It ran away again!",
+  "1.0.40.0" => "Hee hee! Come here!",
+  "1.0.41.0" => "No good, no good...
+How about I go...there!",
+  "1.0.42.0" => "Hurry up and gimme back my compass!",
+  "1.0.43.0" => "Hey! The compass is shining!
+Uh...what's going on?",
+  "1.0.44.0" => "What is this?! Gah, it's so bright!",
+  "1.0.45.0" => "Another little Cucco! Don't worry,
+I'll protect you so you can eat.",
+  "1.0.46.0" => "It turned gold! Guess that means it's
+full, huh?",
+  "1.0.47.0" => "I'm so sorry... I couldn't keep you safe...",
+  "1.0.48.0" => "I'm so sorry! I won't cause any more trouble.
+Honest! Please forgive me!",
+  "1.0.49.0" => "Really? Well...OK, then.
+You're forgiven! Hah!",
+  "1.0.50.0" => "...Good! And next time, I'll do a better job of
+stealing it! Hee hee!",
+  "1.0.51.0" => "Hey, now! Don't even joke! No more
+stealing my compass!",
+  "1.0.52.0" => "I took your base, so that means I win! And
+that also means the compass is MINE!",
+  "1.0.53.0" => "Unbelievable...",
+  "1.0.54.0" => "Wait a second... If monsters are coming
+from that keep, then maybe...",
+  "1.0.55.0" => "I've got you now! I know EXACTLY
+where you are! ...Probably!",
+  "1.0.56.0" => "At least I got my compass back. Now,
+on to Hyrule Castle! Linkle, ho!",
+  "13.0.2.0" => "Hold on--I just remembered! There should
+be a bow somewhere south of the village!",
+  "13.0.3.0" => "Good! It looks like the bow still works.
+What say we clean up those Deku Babas?!",
+  "13.0.4.0" => "No more poison to worry about!
+Thank goodness!",
+  "13.0.5.0" => "We have to stop the enemy so that everyone
+can fall back to the Deku Tree!",
+  "13.0.6.0" => "We've got to stop the enemies coming up
+from the south before we do anything else!",
+  "13.0.7.0" => "She's not going to be able to do this alone...
+Let's lend a hand!",
+  "13.0.8.0" => "Enemies are heading for the Deku Tree!
+Let's do something to stop them!",
+  "13.0.9.0" => "These enemies aren't so tough! Let's wipe
+them out and be done with it!",
+  "13.0.10.0" => "The enemies over there don't seem like much
+of a problem, but the ones over here...",
+  "13.0.11.0" => "Hey! I feel a Great Fairy somewhere!
+If we find her, she might be able to help!",
+  "13.0.12.0" => "Hey, I feel a strong presence coming from
+the northeast! It could be the Great Fairy!",
+  "13.0.13.0" => "Bad news! Monsters are attacking the
+Deku Tree!",
+  "13.0.14.0" => "Is the eye...the weak point? We should use
+the bow and aim for the eye!",
+  "13.0.15.0" => "The ghosts are attacking again!
+And they're more powerful than ever!",
+  "13.0.16.0" => "Link! Come on, pull it together!",
+  "13.0.17.0" => "Phew... Looks like we beat it.
+Now let's take care of the other Deku Babas!",
+  "13.0.18.0" => "Enemies are heading for the Deku Tree!
+Let's do something to stop them!",
+  "13.0.19.0" => "If we attack from a distance, we should be
+able to take it out!",
+  "13.0.20.0" => "That bow should be effective against Deku
+Babas. Lock on and fire some arrows off!",
+}

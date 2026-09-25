@@ -1,0 +1,28 @@
+Map {
+  "0.1.0" => "A2Le fort ennemiR est sous votre contrôle!",
+  "0.2.0" => "A0%1sF4R est apparu dans A2la base ennemieR!",
+  "0.3.0" => "Vous avez vaincu A0%1sF0R!",
+  "0.4.0" => "Les portes A0%1sF2R sont fermées!",
+  "0.5.0" => "A0%1sF4R a fui le champ de bataille. La bataille est perdue!",
+  "0.6.0" => "Le temps est écoulé. La bataille est perdue!",
+  "0.7.0" => "Aidez A1le commandant alliéR à avancer!",
+  "0.8.0" => "Prenez A2les forts ennemisR et ouvrez leurs portes!",
+  "0.9.0" => "Vous n'avez pas réussi à protéger A1les troupes alliéesR!",
+  "0.10.0" => "A1La base alliéeR est tombée. La bataille est perdue!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Prenez A2les forts ennemisR
+et A2la base ennemieR!",
+  "3.1.0" => "Éliminez A2leR
+A2commandant ennemiR!",
+  "3.2.0" => "Escortez A1le commandant alliéR
+jusqu'A2à la base ennemieR!",
+}

@@ -1,0 +1,1666 @@
+Map {
+  "0.0.0" => "¡Bien hecho, Link!",
+  "0.1.0" => "¡Eres genial, Link!",
+  "0.2.0" => "¡Así, muy bien!",
+  "0.3.0" => "¡Link ha derrotado al enemigo!",
+  "0.4.0" => "¡Genial!
+¡Ahora sí que eres todo un héroe!",
+  "0.5.0" => "¡Muy bien, Link!
+¡Estás haciendo un buen trabajo!",
+  "0.6.0" => "¿Están todos bien? ¡Link ya está aquí!",
+  "0.7.0" => "¡Ya estamos aquí!
+¡Vamos, Link! ¡Manos a la obra!",
+  "0.8.0" => "¡Ya no podemos hacer nada aquí! ¡Huyamos!",
+  "0.9.0" => "Link, has hecho todo lo posible,
+¡pero no podemos seguir peleando!",
+  "0.10.0" => "¡Oye, Link!
+¡Cuidado! ¡Nuestro enemigo es muy poderoso!",
+  "0.11.0" => "¡Ahora van a ver lo que es un héroe!
+¿Verdad, Link?",
+  "0.12.0" => "Vaya, parece que nos hemos
+equivocado de adversario...",
+  "0.13.0" => "Es duro, pero hemos perdido, Link.
+¡La próxima vez no fallaremos!",
+  "0.14.0" => "¡Es imperdonable lo que han hecho
+con nuestros amigos!",
+  "0.15.0" => "Alguien ha sido atacado...
+Esperemos que no haya sido muy grave...",
+  "0.16.0" => "¡Todo será más fácil si tomamos este bastión!",
+  "0.17.0" => "¡Vamos, toma este bastión!",
+  "0.18.0" => "¡Este bastión ya es nuestro!",
+  "0.19.0" => "¡Link, has conseguido tomar este bastión!",
+  "0.20.0" => "¡Vamos, Link!
+¡Pero procura que no te hieran!",
+  "0.21.0" => "¡Adelante! ¡Por la paz de Hyrule!",
+  "0.22.0" => "¡Me alegro de que todo haya acabado bien!",
+  "0.23.0" => "Todo ha acabado.
+¡Y me alegro de que estés bien, Link!",
+  "0.24.0" => "Parecía que todo estaba contra
+nosotros, ¡pero lo logramos!",
+  "0.25.0" => "¡Has conquistado el bastión, Link!",
+  "0.30.0" => "¡Debo proteger la paz de Hyrule!",
+  "0.31.0" => "¡Resolveré este desastre yo misma!",
+  "0.32.0" => "¡No conseguirán derrotarme!",
+  "0.33.0" => "¡He vencido a un oficial enemigo!",
+  "0.34.0" => "¡Síganme todos!
+¡Por la victoria del reino de Hyrule!",
+  "0.35.0" => "Mi obligación es proteger Hyrule.
+¡Acabaré con todos los monstruos que nos asedian!",
+  "0.36.0" => "¿Están todos bien?
+¡Permitan que me una al combate!",
+  "0.37.0" => "¡La verdadera batalla empieza ahora!
+¡Adelante!",
+  "0.38.0" => "Lo siento, he de retirarme...",
+  "0.39.0" => "He subestimado el poder del enemigo...",
+  "0.40.0" => "¡No dejaré que sigan avanzando!",
+  "0.41.0" => "¡Un momento!
+¡Su avance acaba aquí!",
+  "0.42.0" => "¡Por el momento hemos de retirarnos!",
+  "0.43.0" => "¡Esto no acaba aquí!",
+  "0.44.0" => "¡Amigos, aguanten!",
+  "0.45.0" => "¡Todos juntos podremos superar esta difícil prueba!",
+  "0.46.0" => "¡Rápido, tenemos que conquistar este lugar!",
+  "0.47.0" => "¡Yo tomaré este bastión!",
+  "0.48.0" => "¡Nosotros nos quedaremos con este bastión!",
+  "0.49.0" => "Parece que hemos conseguido tomar el bastión...",
+  "0.50.0" => "¡Pelearemos por la gloria
+de nuestra tierra!",
+  "0.51.0" => "¡Juntos lograremos la victoria!
+¡Adelante!",
+  "0.52.0" => "El resultado está ya decidido.
+¡Hemos ganado!",
+  "0.53.0" => "El destino de los malvados es fracasar.",
+  "0.54.0" => "¡Sin su esfuerzo, no
+lo podríamos lograr!",
+  "0.55.0" => "Pudimos conquistar el bastión.",
+  "0.60.0" => "Todos los espíritus malignos están
+condenados a desaparecer...",
+  "0.61.0" => "Haré todo lo que esté en mi mano...",
+  "0.62.0" => "Esta melodía nos guiará por el buen camino...",
+  "0.63.0" => "¡He vencido a un oficial enemigo!",
+  "0.64.0" => "La amistad fraguada a través del tiempo y del espacio
+es capaz de superar toda adversidad...",
+  "0.65.0" => "Soy uno de los últimos sheikah... Tocaré
+una tonada para proteger Hyrule.",
+  "0.66.0" => "Yo los llevaré a la victoria.",
+  "0.67.0" => "Yo te ayudaré.",
+  "0.68.0" => "No hemos podido detener a las fuerzas del mal...",
+  "0.69.0" => "Mi fuerza no es suficiente...",
+  "0.70.0" => "Tocaré una melodía para alejar la oscuridad...",
+  "0.71.0" => "No dejaré que bloqueen nuestro camino...",
+  "0.72.0" => "El destino no me ha sonreído...",
+  "0.73.0" => "No puedo seguir peleando... ¡Pero no
+debemos darnos por vencidos!",
+  "0.74.0" => "Aunque nuestros amigos caigan
+debemos seguir avanzando.",
+  "0.75.0" => "Combatiré hasta el final...",
+  "0.76.0" => "Tomaré este bastión con mis propias manos...",
+  "0.77.0" => "Yo me ocuparé de esta zona...",
+  "0.78.0" => "Este bastión ya es nuestro.",
+  "0.79.0" => "Hemos tomado el bastión, pero
+debemos continuar.",
+  "0.80.0" => "Nuestro destino está más allá de esta batalla...",
+  "0.81.0" => "Hemos de darnos prisa antes
+de que la oscuridad nos engulla...",
+  "0.82.0" => "Entonaré una alegre melodía para celebrarlo...",
+  "0.83.0" => "Las diosas de Hyrule celebran nuestra victoria...",
+  "0.84.0" => "Ganar esta batalla hará que estemos
+todos más unidos, seguro.",
+  "0.85.0" => "He conquistado este bastión.",
+  "0.90.0" => "¡No tienen la habilidad suficiente para derrotarme!",
+  "0.91.0" => "No me lo tengan en cuenta...",
+  "0.92.0" => "Te habías interpuesto en mi camino...",
+  "0.93.0" => "¡He derrotado a un oficial enemigo!",
+  "0.94.0" => "¡Soy Impa de los sheikah!
+¡Somos guerreros de una fuerza incomparable!",
+  "0.95.0" => "Estoy muy orgullosa de esta gran victoria...
+¡Pero ahora debemos continuar!",
+  "0.96.0" => "Han peleado con valentía.
+¡Ahora déjenme a mí el resto!",
+  "0.97.0" => "Yo, Impa de los sheikah, ofrezco mi espada
+para esta batalla.",
+  "0.98.0" => "Me avergüenza que el enemigo haya
+presenciado mi incapacidad como guerrera...",
+  "0.99.0" => "Espero que todos tengan suerte en la batalla...",
+  "0.100.0" => "Si aprecias tu vida, será mejor que huyas...",
+  "0.101.0" => "Yo me ocuparé del enemigo.",
+  "0.102.0" => "Ha llegado el momento de dejar la batalla...",
+  "0.103.0" => "Mi técnica no ha funcionado...",
+  "0.104.0" => "Parecen unos contrincantes difíciles...",
+  "0.105.0" => "Pensé que resistirías
+un poco más...",
+  "0.106.0" => "¡Asediemos el bastión!",
+  "0.107.0" => "¡Si conquistamos esta zona, ganaremos!",
+  "0.108.0" => "¡Tenemos este bastión bajo control!",
+  "0.109.0" => "La toma de esta zona vital será
+un duro golpe para el enemigo.",
+  "0.110.0" => "¡Hemos de superar esta prueba para devolver
+la luz al mundo!",
+  "0.111.0" => "Necesito evaluar las capacidades
+de nuestro adversario.",
+  "0.112.0" => "No debemos contentarnos con esta victoria.",
+  "0.113.0" => "Hemos ganado. Dejemos que
+nuestros hombres descansen.",
+  "0.114.0" => "Creo que por el momento podemos
+respirar tranquilos.",
+  "0.115.0" => "¡Hemos conquistado el bastión!",
+  "0.120.0" => "Ah, el fragor y la angustia de la batalla son
+música celestial para mí.",
+  "0.121.0" => "¡Sean testigos de mi inmenso poder!",
+  "0.122.0" => "¿Eso es todo lo que saben hacer?
+¡No me hagan reír!",
+  "0.123.0" => "Débiles gusanos...",
+  "0.124.0" => "¡Ahora que mi poder ha sido liberado,
+nadie podrá detenerme!",
+  "0.125.0" => "¡Arrodíllense ante el
+Señor del Mal!",
+  "0.126.0" => "¿Querían que me perdiera todo esto?",
+  "0.127.0" => "¿Quién es el iluso que cree
+que puede oponerse a mí?",
+  "0.128.0" => "Sus juegos me aburren.
+Me niego a perder más tiempo aquí.",
+  "0.129.0" => "Ocúpense de acabar la batalla.",
+  "0.130.0" => "¡Fíjate bien, porque este será
+el último lugar que vean tus ojos!",
+  "0.131.0" => "¡Enséñenme lo que saben hacer!",
+  "0.132.0" => "Es imposible que hayan conseguido herirme...",
+  "0.133.0" => "No lo olvidaré... Y la próxima vez,
+el destino estará de mi parte...",
+  "0.134.0" => "Ilusos... Creen que tienen una oportunidad
+contra mí.",
+  "0.135.0" => "Parece que unos miserables se interponen
+en mi camino...",
+  "0.136.0" => "Este bastión es demasiado para mis enemigos.",
+  "0.137.0" => "Ahora esta zona me pertenece.",
+  "0.138.0" => "¡Ahora esta zona está bajo
+mi dominio absoluto!",
+  "0.139.0" => "Esto ha sido muy fácil...",
+  "0.140.0" => "¿Quieren ver mi fuerza?",
+  "0.141.0" => "Ilusos... ¡Acabaré con todos!",
+  "0.142.0" => "No me cabía ninguna duda de
+que esto era lo que iba a pasar.",
+  "0.143.0" => "Mis ambiciones están cada vez más cerca
+de cumplirse...",
+  "0.144.0" => "¿Pensabas que me podías derrotar?
+¡No me hagas reír!",
+  "0.145.0" => "¡Este bastión es mío!",
+  "0.150.0" => "¡Nunca perderé contra ustedes!",
+  "0.151.0" => "¡Bien! ¡Lo hemos conseguido!",
+  "0.152.0" => "¡Bien! ¡Tomen eso!",
+  "0.153.0" => "¡He acabado con un oficial enemigo!",
+  "0.154.0" => "¿Monstruos? ¡Qué risa!
+¡No son rivales para el gran Darunia!",
+  "0.155.0" => "Me conocen, ¿verdad?
+¡Soy Darunia, gran líder de los goron!",
+  "0.156.0" => "¡Ya he llegado! ¡Vamos, hermano!",
+  "0.157.0" => "¡Darunia al rescate!",
+  "0.158.0" => "Lo siento, amigos... Tengo que irme...",
+  "0.159.0" => "Me temo que tengo que retirarme.",
+  "0.160.0" => "¡Acabaré con todos ustedes!",
+  "0.161.0" => "¡No se les ocurra tocar a mis amigos!",
+  "0.162.0" => "¡La próxima vez seré yo el que gane!",
+  "0.163.0" => "¡No pienso olvidar esto!",
+  "0.164.0" => "¡Diantres! ¡La próxima vez será distinto!",
+  "0.165.0" => "No puedo creer que me hayan vencido...",
+  "0.166.0" => "¡Yo me encargo de tomar este bastión!",
+  "0.167.0" => "¡Este bastión será para los goron!",
+  "0.168.0" => "¡Este bastión es para los goron!",
+  "0.169.0" => "¡Esta zona es nuestra!",
+  "0.170.0" => "¡Les mostraré lo que saben hacer los goron!",
+  "0.171.0" => "¡Al ataqueee! ¡Sin piedad!",
+  "0.172.0" => "¡Bien! ¡Hemos ganado!",
+  "0.173.0" => "¡Victoria! ¡Ja, ja, ja!",
+  "0.174.0" => "¡A eso lo llamo yo una buena batalla!",
+  "0.175.0" => "¡He conquistado el bastión!",
+  "0.180.0" => "¡Esto es lo que pasa cuando alguien
+se cruza en mi camino!",
+  "0.181.0" => "¡Qué insolentes! ¡Me deben un respeto!",
+  "0.182.0" => "¿Saben quién soy? ¿No? ¡Se lo mostraré!",
+  "0.183.0" => "¡Genial! ¡He vencido a un oficial enemigo!",
+  "0.184.0" => "Vaya, no sabía que fuera tan poderosa...",
+  "0.185.0" => "¡Soy la mejor princesa del mundo!
+¿No están de acuerdo?",
+  "0.186.0" => "Vaya, parece que estamos en zona peligrosa...",
+  "0.187.0" => "¿Dónde están mis amigos? ¡He de ayudarlos!",
+  "0.188.0" => "Tengo que irme...",
+  "0.189.0" => "Estoy exhausta...",
+  "0.190.0" => "¡No permitiré que el mal gane!",
+  "0.191.0" => "¡No se les ocurra tocar a mis amigos!",
+  "0.192.0" => "¡Se lo voy a decir a mi padre!",
+  "0.193.0" => "A veces, retirarse parece la opción acertada...",
+  "0.194.0" => "Vaya, parece que tenemos problemas...",
+  "0.195.0" => "¡Jamás nos rendiremos!",
+  "0.196.0" => "¿Debería atacar este bastión?",
+  "0.197.0" => "¡Conquistaremos el bastión enemigo!",
+  "0.198.0" => "Tomaré este bastión para los zora.",
+  "0.199.0" => "¡Bien! ¡Hemos conseguido tomarlo!",
+  "0.200.0" => "¡Ahora verán la fuerza de los zora!",
+  "0.201.0" => "¡Adelante! ¡Prepárense!",
+  "0.202.0" => "¡Han combatido como valientes!",
+  "0.203.0" => "Bueno, ya es hora de partir.
+¡Que alguien me lleve!",
+  "0.204.0" => "Ahora debemos recuperar las fuerzas
+antes de la próxima batalla.",
+  "0.205.0" => "Conquistar este bastión
+ ha sido muy sencillo...",
+  "0.210.0" => "Señores enemigos, ya es hora de dormir.",
+  "0.211.0" => "Vaya, no me gusta parecer una persona violenta...",
+  "0.212.0" => "Vaya, se acabó...",
+  "0.213.0" => "Buenas noches, insecto malo.",
+  "0.214.0" => "Parezco delicadita, ¡pero soy la princesa
+del reino de los insectos!",
+  "0.215.0" => "¡Seguro que las mariposas y los demás insectos
+están hablando de mi gesta a todo el mundo!",
+  "0.216.0" => "Llega tarde...
+¡pero aquí está la princesa de los insectos!",
+  "0.217.0" => "¡Voy a hacer todo lo que esté en mi mano!",
+  "0.218.0" => "Vaya...
+Voy a llegar tarde a la merienda con los insectos.",
+  "0.219.0" => "El resto te lo dejo a ti...",
+  "0.220.0" => "¡Jamás perdonaré a los que son malos con los insectos!",
+  "0.221.0" => "¡El enemigo ya está aquí!",
+  "0.222.0" => "Tienes cara de saltamontes...
+¡y yo no golpeo a los saltamontes!",
+  "0.223.0" => "Bueno, ¡gracias por todo y hasta pronto!",
+  "0.224.0" => "¡Buen trabajo, amigos!",
+  "0.225.0" => "¡No es justo, yo también
+quiero divertirme!",
+  "0.226.0" => "¡Me encantaría celebrar una fiesta
+para mis amigos los insectos!",
+  "0.227.0" => "¿Serías tan amable de cederme esta zona?",
+  "0.228.0" => "¡Haré de este bastión un jardín para insectos!",
+  "0.229.0" => "¡Les he quitado el bastión a los insectos malos!",
+  "0.230.0" => "¡Ha llegado el momento
+de avanzar todos juntitos!",
+  "0.231.0" => "Combatir siempre me dio un poquito de miedo...",
+  "0.232.0" => "¡Qué contenta me pone que todo el mundo esté feliz!",
+  "0.233.0" => "¡Los que más se alegran con mis gestas
+son los insectos!",
+  "0.234.0" => "¡Gracias por todo! Aunque yo también
+ayudé bastante, ¿no?",
+  "0.235.0" => "¡Oh! Pero si ya hemos
+conquistado el bastión...",
+  "0.240.0" => "¿Tú crees que vas a poder vencerme?",
+  "0.241.0" => "¿Ya te has hecho una idea
+de lo poderosa que soy?",
+  "0.242.0" => "Eres más débil de lo que pensaba...",
+  "0.243.0" => "¡He sido yo la que ha vencido
+a ese oficial enemigo!",
+  "0.244.0" => "¿Esto es todo lo que puedes hacer?
+¡Yo quiero combatir con alguien digno!",
+  "0.245.0" => "Soy Midna, del reino del Crepúsculo.
+¡Y ahora ya conoces mi poder!",
+  "0.246.0" => "Vaya, qué desastre...
+Tendré que pelear yo también.",
+  "0.247.0" => "¿Aún no han terminado?
+Bueno, tendré que ayudarlos.",
+  "0.248.0" => "Lo siento, pero he de retirarme...",
+  "0.249.0" => "Qué daño... Al final las cosas
+no han salido bien...",
+  "0.250.0" => "Je, je, je... Ya he llegado, y conmigo
+se han esfumado sus posibilidades de victoria.",
+  "0.251.0" => "Me enfrentaré a todos ustedes.",
+  "0.252.0" => "El exceso de confianza nos ha llevado
+a la derrota...",
+  "0.253.0" => "Ya he tenido suficiente...",
+  "0.254.0" => "¡Aún no nos han derrotado!",
+  "0.255.0" => "¡Lamentarse no nos llevará a la victoria!",
+  "0.256.0" => "Yo me ocupo de este bastión.",
+  "0.257.0" => "Será mejor que tomemos este bastión.",
+  "0.258.0" => "¡Eh! ¡He conquistado el bastión!",
+  "0.259.0" => "Ya es mío.",
+  "0.260.0" => "¡La magia del Crepúsculo acabará
+con mis enemigos!",
+  "0.261.0" => "¡Ahora conocerán mi verdadero poder!",
+  "0.262.0" => "Je, je... Creo que les he dado lo que se merecen.",
+  "0.263.0" => "El resultado de esta batalla ya
+estaba decidido desde el principio.",
+  "0.264.0" => "¡Sabía que lo lograríamos!",
+  "0.265.0" => "¡Conquistar bastiones
+es bien fácil para mí!",
+  "0.270.0" => "Ya no es posible detectar la salud del enemigo.",
+  "0.271.0" => "Amo, he cumplido con mi deber.",
+  "0.272.0" => "Enemigo derrotado. Estoy lista
+para la siguiente misión.",
+  "0.273.0" => "Amo, he completado con éxito mi misión.",
+  "0.274.0" => "Me es imposible saber si debería
+alegrarme en esta situación...",
+  "0.275.0" => "Amo, todos los análisis indican que
+soy una guerrera invencible.",
+  "0.276.0" => "Mi misión es rescatarlo, amo.",
+  "0.277.0" => "¿Me ha llamado?",
+  "0.278.0" => "Creo que no estoy capacitada
+para seguir peleando.",
+  "0.279.0" => "Debo retirarme por ahora. Perdone, amo.",
+  "0.280.0" => "Recomiendo una retirada inmediata.",
+  "0.281.0" => "Análisis y localización de puntos
+débiles finalizados.",
+  "0.282.0" => "Todos los análisis indican que
+su fuerza es digna de elogio.",
+  "0.283.0" => "No tengo energía, amo. Debo retirarme.",
+  "0.284.0" => "La probabilidad de derrota de nuestros aliados es alta.",
+  "0.285.0" => "Amo, permita que lo ayude.",
+  "0.286.0" => "Amo, todos los análisis indican que es posible
+conquistar el bastión enemigo.",
+  "0.287.0" => "Amo, todos los análisis indican que
+la conquista de esta zona será exitosa.",
+  "0.288.0" => "Amo, he conquistado este bastión.",
+  "0.289.0" => "Todos los análisis indican que
+esta zona ya está bajo nuestro control.",
+  "0.290.0" => "Amo, mi único objetivo es completar
+con éxito la misión.",
+  "0.291.0" => "Cumpliré mi misión tal y como se me indica.",
+  "0.292.0" => "Amo, hemos tenido mucha suerte
+en esta batalla.",
+  "0.293.0" => "Mis felicitaciones a todos.",
+  "0.294.0" => "Después de cumplir con mis obligaciones,
+procedo a descansar durante un tiempo.",
+  "0.295.0" => "Bastión conquistado. Me dispongo
+a iniciar la siguiente tarea.",
+  "0.300.0" => "¿Ya está? Quizá sea demasiado fuerte...",
+  "0.301.0" => "Esto es lo que pasa cuando
+uno hace esfuerzos inútiles.",
+  "0.302.0" => "Es imposible vencerme a mí,
+el señor de los demonios.",
+  "0.303.0" => "He vencido al oficial enemigo.",
+  "0.304.0" => "¡Admiren mis habilidades con la espada!
+¿No están impresionados?",
+  "0.305.0" => "¡Mi gran poder
+acabará con todos!",
+  "0.306.0" => "¿Cómo ha podido pasar eso?",
+  "0.307.0" => "Me uniré a la batalla a partir de ahora.",
+  "0.308.0" => "Permítanme que abandone el campo de batalla...",
+  "0.309.0" => "Me niego a perder más tiempo contigo.",
+  "0.310.0" => "Espero que sepas valorar el honor que supone
+enfrentarse a mí...",
+  "0.311.0" => "¿Te marchas justo cuando llego?
+Qué mala educación...",
+  "0.312.0" => "La próxima vez te haré pedazos.",
+  "0.313.0" => "¡Que no se te suba a la cabeza
+el haber podido derrotarme!",
+  "0.314.0" => "Vaya, nuestros enemigos son mejores
+de lo que pensaba...",
+  "0.315.0" => "Vaya, me lo están poniendo difícil...",
+  "0.316.0" => "¿Qué pasaría si tomara este bastión?
+¿Lo averiguamos?",
+  "0.317.0" => "Ya que estoy aquí, podría tomar este bastión...",
+  "0.318.0" => "Bueno, parece que ya hemos tomado este bastión.",
+  "0.319.0" => "Despejado... ¡El bastión es mío!",
+  "0.320.0" => "Tenemos que librarnos de todos
+los que se interpongan en nuestro camino.",
+  "0.321.0" => "Esta batalla demostrará que
+soy un auténtico líder.",
+  "0.322.0" => "Vaya, creo que al final me lo estoy
+tomando todo demasiado en serio.",
+  "0.323.0" => "Ya tuviste suficiente, ¿verdad?
+¡Así aprenderás que no debes jugar conmigo!",
+  "0.324.0" => "¿De veras creías que tenías alguna
+opción de ganarme?",
+  "0.325.0" => "¡Desde ahora, este bastión es mío!",
+  "0.330.0" => "¡La derrota ante mí será tu condena!",
+  "0.331.0" => "La oscuridad lo engulle todo...",
+  "0.332.0" => "Nunca perderé contra insectos como ustedes.",
+  "0.333.0" => "Este es el indigno final que
+encuentran todos los necios.",
+  "0.334.0" => "¡Soy el mejor! No solo seré el rey de la oscuridad...
+¡sino de todo Hyrule!",
+  "0.335.0" => "No soy ningún usurpador...
+¡sino el verdadero monarca!",
+  "0.336.0" => "Vaya, veo que necesitas mi ayuda...",
+  "0.337.0" => "Si quieren huir, esta es su última oportunidad.",
+  "0.338.0" => "La oscuridad y la ambición
+no se pueden vencer...",
+  "0.339.0" => "No... ¡No acepto perder así!",
+  "0.340.0" => "La decisión es suya: ¡ríndanse o perezcan!",
+  "0.341.0" => "No te resistas y déjate aplastar.",
+  "0.342.0" => "Algún día pagarás por lo que me has hecho...",
+  "0.343.0" => "Ah... Ahora debo soportar esta frustración
+que me corroe...",
+  "0.344.0" => "¿Hasta cuándo pretenden seguir importunándome?",
+  "0.345.0" => "¡La ira y el odio serán mi fuerza!",
+  "0.346.0" => "¡Este lugar es perfecto para mi pueblo!",
+  "0.347.0" => "¡Yo seré quien reine aquí!",
+  "0.348.0" => "Esta tierra ahora pertenece a las tinieblas...",
+  "0.349.0" => "¡He cumplido una de mis
+más deseadas ambiciones!",
+  "0.350.0" => "Si desean perecer, les concederé ese deseo.",
+  "0.351.0" => "¡El odio y la desesperanza dominan ya
+este campo de batalla!",
+  "0.352.0" => "¡El rey oscuro será el único vencedor!",
+  "0.353.0" => "Una vez más... la oscuridad devora la luz.",
+  "0.354.0" => "Dentro de poco tiempo las tinieblas
+lo envolverán todo...",
+  "0.355.0" => "¡Este bastión pertenece ahora
+al rey de las sombras!",
+  "0.390.0" => "¡Después de todo soy una hechicera!",
+  "0.391.0" => "¡Eso les pasa por interponerse en mi camino!",
+  "0.392.0" => "No tengo más opción que combatir...",
+  "0.393.0" => "¿Habré sido demasiado contundente?",
+  "0.394.0" => "¡Aplastar al enemigo
+jamás me llevará a la oscuridad!",
+  "0.395.0" => "¡Con este poder en nuestras manos
+seguro que podremos salvar Hyrule!",
+  "0.396.0" => "¡Todos atentos!
+¡La verdadera batalla comienza ahora!",
+  "0.397.0" => "¡Escuchen todos!
+¡Yo también voy a combatir!",
+  "0.398.0" => "Vaya, me parece que tendré que escapar...",
+  "0.399.0" => "Debo retirarme... ¡Tengan cuidado!",
+  "0.400.0" => "¡Yo también pelearé!",
+  "0.401.0" => "¡Su avance acaba aquí!",
+  "0.402.0" => "Tengo algo que hacer, ¡nos vemos!",
+  "0.403.0" => "No hay nada que hacer... ¡Huyamos!",
+  "0.404.0" => "¡Yo combatiré por todo el mundo!",
+  "0.405.0" => "¡No les perdonaré lo que han hecho a mis amigos!",
+  "0.406.0" => "¡Es el momento de conquistar este lugar!",
+  "0.407.0" => "¡Estamos a punto de invadir uno de
+los territorios más importantes del enemigo!",
+  "0.408.0" => "¡Con esto obtendremos una gran ventaja en la batalla!",
+  "0.409.0" => "A ver qué conquistamos ahora...",
+  "0.410.0" => "¡Con mi ayuda conseguiremos la victoria!",
+  "0.411.0" => "¡Peleemos para devolver el mundo
+a la normalidad!",
+  "0.412.0" => "Buf... Bueno, parece que hemos ganado...",
+  "0.413.0" => "¡No puedo quedarme
+aquí sin hacer nada!",
+  "0.414.0" => "¡Bravo, la victoria es nuestra!",
+  "0.415.0" => "¡Hemos conseguido conquistar el bastión!",
+  "0.420.0" => "Vaya, veo que no son gran cosa...",
+  "0.421.0" => "¡No se interpongan en mi camino!",
+  "0.422.0" => "Es peligroso menospreciar mi poder...",
+  "0.423.0" => "Pero... ¿ya hemos terminado?",
+  "0.424.0" => "¡No hay nadie en todo Hyrule que
+sea rival para mi magia!",
+  "0.425.0" => "¡Acepten la derrota y
+póstrense ante mí!",
+  "0.426.0" => "¡Es increíble que no puedan resolver esto
+sin mi ayuda!",
+  "0.427.0" => "Qué decepción... No pensaba que mis
+ejércitos estuvieran llenos de incompetentes.",
+  "0.428.0" => "Estoy cansada. Me retiro.",
+  "0.429.0" => "Ya he terminado por aquí. ¡Adiós!",
+  "0.430.0" => "¿Quién osa interponerse en mi camino?",
+  "0.431.0" => "¿Quién tendrá el suficiente valor para enfrentarse a mí?",
+  "0.432.0" => "¡Este no puede ser mi fin!",
+  "0.433.0" => "Vaya, me sorprende su habilidad...
+Por hoy ya me retiro.",
+  "0.434.0" => "¿Derrotados ya? ¡No sirven para nada!",
+  "0.435.0" => "No importa; para mí tan solo son simples peones.",
+  "0.436.0" => "Será mejor que conquistemos este bastión.",
+  "0.437.0" => "Este bastión pronto caerá en mis manos.",
+  "0.438.0" => "Este bastión ya es mío.",
+  "0.439.0" => "Inmundo bastión... Bueno, no importa.",
+  "0.440.0" => "Les enseñaré qué les pasa a los
+que se oponen a mí.",
+  "0.441.0" => "Espero que estén preparados.",
+  "0.442.0" => "¿Se han dado cuenta de lo débiles
+que son en realidad?",
+  "0.443.0" => "Vaya, me lo he pasado mejor de lo que pensaba...",
+  "0.444.0" => "No te debiste enfrentar a mí...",
+  "0.445.0" => "Y después de esta victoria,
+¿dónde podría desplegar todo mi poder?",
+  "0.450.0" => "¿Es que no hay nadie más fuerte?",
+  "0.451.0" => "Bah, no eres rival para mí...",
+  "0.452.0" => "Ahora ya sabes cuáles
+son tus limitaciones...",
+  "0.453.0" => "Vas a odiar el instante en que
+te cruzaste en mi camino.",
+  "0.454.0" => "No soy capaz de saciarme... ¡Necesito
+un rival mucho más poderoso!",
+  "0.455.0" => "Mi nombre es Volga... ¡Que el miedo
+lo grabe para siempre en tu mente!",
+  "0.456.0" => "¡Necios! ¡Acabaré con todos ustedes!",
+  "0.457.0" => "¡A partir de ahora empieza la verdadera batalla!",
+  "0.458.0" => "Vaya, no tengo más remedio que retirarme...",
+  "0.459.0" => "Jamás pensé que esto acabaría así...",
+  "0.460.0" => "Ahora que yo estoy aquí, ha llegado su final.",
+  "0.461.0" => "¡Me enfrentaré a todos ustedes!",
+  "0.462.0" => "Son fuertes... Habrá más ocasiones
+de enfrentarnos.",
+  "0.463.0" => "Me retiro por esta vez...
+Pero la próxima vez resolveremos esto.",
+  "0.464.0" => "¿Han huido? Bueno, solo hago falta yo
+para resolver todo esto.",
+  "0.465.0" => "Son débiles, pero deben esforzarse más.",
+  "0.466.0" => "Conquistaré esta zona...",
+  "0.467.0" => "Este bastión será muy fácil de tomar.",
+  "0.468.0" => "¡Este bastión ya es mío!",
+  "0.469.0" => "Je... Esto ha sido muy fácil.",
+  "0.470.0" => "¡Enfréntate a mí si te atreves!",
+  "0.471.0" => "Ahora serán testigos del poder del dragón.",
+  "0.472.0" => "Enfréntate a mí cuando seas más poderoso.",
+  "0.473.0" => "No estoy totalmente satisfecho con esto,
+pero ya está hecho...",
+  "0.474.0" => "Fue tan corto que
+ni pude divertirme.",
+  "0.475.0" => "Ahora que he conquistado el bastión,
+buscaré un enemigo digno de mí...",
+  "0.480.0" => "Ilusos... ¡Ahora ya
+conocen mi poder!",
+  "0.481.0" => "No te sobrestimes porque
+no eres rival para mí.",
+  "0.482.0" => "Por mucho que se esfuercen, los
+débiles siempre serán débiles...",
+  "0.483.0" => "¡He vencido!",
+  "0.484.0" => "Todavía no es suficiente... ¡Los haré
+sufrir aún más! ¡Jia, jia, jia!",
+  "0.485.0" => "Así que después de todo aún siguen
+atacándome... ¡Qué necios!",
+  "0.486.0" => "¡Quítense de en medio! ¡Yo me ocupo!",
+  "0.487.0" => "¡Jia, jia, jia! ¿Se están divirtiendo?",
+  "0.488.0" => "Vaya, no pensaba que iba a ser tan complicado...",
+  "0.489.0" => "¡Me retiro ahora mismo!",
+  "0.490.0" => "¡Jia, jia! ¡Sean testigos de mi poder!",
+  "0.491.0" => "Qué maravilla... ¡Voy a divertirme un poco!",
+  "0.492.0" => "Pero ¿quién ha podido...?",
+  "0.493.0" => "No puedo creerlo... ¡Me han vencido!",
+  "0.494.0" => "¿Han huido? Cobardes...",
+  "0.495.0" => "¡Tan solo son una molestia para mí!",
+  "0.496.0" => "Este bastión parece fácil de conquistar...",
+  "0.497.0" => "Iniciamos la conquista. ¡A pelear!",
+  "0.498.0" => "¡Jia, jia, jia! ¡El bastión ya es mío!",
+  "0.499.0" => "¡Qué gracioso! Piensan que son
+capaces de defender este bastión.",
+  "0.500.0" => "Ilusos... ¡Los aplastaré a todos!",
+  "0.501.0" => "Acabaré rápido con esto.
+¡Tengo cosas más importantes que hacer!",
+  "0.502.0" => "¡Necios! ¡Me hacen perder el tiempo!",
+  "0.503.0" => "¡Jia, jia, jia! ¡Sus esfuerzos son inútiles!",
+  "0.504.0" => "Los gusanos están para aplastarlos.
+¡Jia, jia!",
+  "0.505.0" => "Y tras esta conquista, es hora de
+seguir con mi siguiente trabajo...",
+  "0.510.0" => "Me siento mucho mejor
+en este cuerpo.",
+  "0.511.0" => "Ni siquiera me había dado
+cuenta de tu presencia.",
+  "0.512.0" => "¿A quién le toca ahora?",
+  "0.513.0" => "Me he ocupado del oficial enemigo.
+Ya no será un estorbo.",
+  "0.514.0" => "Ahora que ya conoces mi poder,
+deberías rendirte sin demora.",
+  "0.515.0" => "¡Soy Midna, princesa del Crepúsculo!
+El poder corre por mis venas.",
+  "0.516.0" => "Será mejor que les eche
+una mano.",
+  "0.517.0" => "¿No te has cansado todavía?
+Está bien, ¡combatamos!",
+  "0.518.0" => "Creo que voy a retirarme...",
+  "0.519.0" => "Ha sido demasiado,
+incluso para mí.",
+  "0.520.0" => "¡Compórtate, impertinente!",
+  "0.521.0" => "¿Quién tiene ganas de pelea?",
+  "0.522.0" => "Te había subestimado...",
+  "0.523.0" => "Ya no puedo hacer mucho más aquí...",
+  "0.524.0" => "¡La batalla aún no ha terminado!
+Todavía podemos ganar.",
+  "0.525.0" => "El enemigo va muy en serio...",
+  "0.526.0" => "¡Yo me ocuparé de este bastión!",
+  "0.527.0" => "Será mejor que me ocupe
+de este bastión.",
+  "0.528.0" => "¡El bastión es mío!",
+  "0.529.0" => "Perfecto. Este bastión ya
+está en nuestras manos.",
+  "0.530.0" => "¡Usaré mi temible poder
+para acabar contigo!",
+  "0.531.0" => "No te preocupes, seré muy rápida.",
+  "0.532.0" => "¡Después de esta victoria
+vendrán muchas otras!",
+  "0.533.0" => "Creo que ya no queda nada que
+hacer aquí... ¿Verdad?",
+  "0.534.0" => "Fue más complicado
+de lo que esperaba.",
+  "0.535.0" => "Ya tenemos otro bastión
+para nuestras tropas...",
+  "0.540.0" => "¡Así se hace, chico!",
+  "0.541.0" => "¡Increíble!",
+  "0.542.0" => "¡Sigue así!",
+  "0.543.0" => "¡Link ha derrotado al enemigo!",
+  "0.544.0" => "No está mal, parece que estás
+descubriendo qué significa ser un héroe...",
+  "0.545.0" => "¡Formidable, Link!",
+  "0.546.0" => "¡No teman, Link ya está aquí!",
+  "0.547.0" => "¡Adelante, Link, enséñales una lección!",
+  "0.548.0" => "Creo que lo más recomendable
+es retirarse...",
+  "0.549.0" => "Has hecho lo que has podido,
+¡pero ya no puedes seguir combatiendo!",
+  "0.550.0" => "Este enemigo parece mucho
+más fuerte; ¡ten cuidado!",
+  "0.551.0" => "¡Enséñales la verdadera
+fuerza de un héroe!",
+  "0.552.0" => "Creo que no estás a la altura
+de este adversario...",
+  "0.553.0" => "Ha sido muy duro, pero la
+próxima vez lo harás mejor, ¡seguro!",
+  "0.554.0" => "¡No podemos consentir que
+nos hagan algo así!",
+  "0.555.0" => "Alguien de los nuestros ha caído...
+¡Esperemos que esté bien!",
+  "0.556.0" => "Si conquistamos este bastión,
+la batalla resultará más fácil.",
+  "0.557.0" => "¡Vamos, debes recuperar el bastión!",
+  "0.558.0" => "¡Ahora este bastión es nuestro!",
+  "0.559.0" => "¡Link ha conquistado el bastión!",
+  "0.560.0" => "¡Vamos, Link!
+Pero ten cuidado...",
+  "0.561.0" => "¡Debemos traer la paz de
+vuelta a Hyrule!",
+  "0.562.0" => "¡Todo ha salido fenomenal!",
+  "0.563.0" => "Me alegro mucho de que todo
+haya salido bien.",
+  "0.564.0" => "Parecía que todo estaba perdido,
+pero lo logramos al final.",
+  "0.565.0" => "¡Hemos conquistado el bastión, Link!",
+  "0.570.0" => "A Tingle no le gusta la violencia,
+pero dadas las circunstancias...",
+  "0.571.0" => "¿Ya vieron? ¡Tingle también
+puede ser útil!",
+  "0.572.0" => "¡Sí, sí! ¡Logré vencer
+al enemigo!",
+  "0.573.0" => "¡Acabé con el oficial
+enemigo! ¡Yupiii!",
+  "0.574.0" => "Fue tan fácil como decir
+"kurulín... ¡PA!".",
+  "0.575.0" => "Puede que parezca débil, pero en
+realidad soy fuerte como un roble.",
+  "0.576.0" => "¡Tingle ha venido a prestar ayuda!",
+  "0.577.0" => "¿Necesitan mi ayuda?",
+  "0.578.0" => "¡Qué poco me gusta la violencia!",
+  "0.579.0" => "Este duende del bosque ya no
+tiene nada que hacer aquí...",
+  "0.580.0" => "¿Habrá aquí algún hada?",
+  "0.581.0" => "Vaya, creo que Tingle
+volvió a perderse.",
+  "0.582.0" => "¿Nunca te enseñaron a
+respetar a los mayores?",
+  "0.583.0" => "¿Cómo te atreves a burlarte de
+mis ropas de duende? ¡Me marcho!",
+  "0.584.0" => "Todo irá bien, ¿verdad?
+¡¿Verdad?!",
+  "0.585.0" => "Puede que este sea el
+momento de retirarme...",
+  "0.586.0" => "Puede que en este bastión al fin
+encuentre un hada...",
+  "0.587.0" => "¡Parece mentira que en 35 años nunca
+hubiese capturado un bastión!",
+  "0.588.0" => "Este parece un buen bastión en el que
+esperar a que aparezca un hada.",
+  "0.589.0" => "¡Tingle siempre se sale con la suya!",
+  "0.590.0" => "¡Sí, sí! ¡Conseguiré salir
+de aquí sin daños!",
+  "0.591.0" => "Acabaré contigo en menos de lo
+que tardo en decir "kurulín... ¡PA!".",
+  "0.592.0" => "Creo que ya es hora de que me
+marche a buscar hadas.",
+  "0.593.0" => "¡Tingle, Tingle! Kurulín... ¡PA!",
+  "0.594.0" => "Menos mal que todo terminó...
+¡Pensaba que no lo contaría!",
+  "0.595.0" => "¡Sí! ¡Sí! ¡He conquistado el bastión!",
+  "0.600.0" => "¡Bien! ¡Hemos ganado!",
+  "0.601.0" => "¡Así me gusta!",
+  "0.602.0" => "¡Soy muy fuerte!",
+  "0.603.0" => "¡Vamos por el siguiente objetivo!",
+  "0.604.0" => "¡Hoy estoy en forma!",
+  "0.605.0" => "¡Perfecto! ¡Soy la mejor!",
+  "0.606.0" => "¿Están todos bien?
+¡Aquí estoy para ayudar!",
+  "0.607.0" => "¡Aquí llega Linkel!",
+  "0.608.0" => "¡Estoy segura de que lo
+conseguirán sin mi ayuda!",
+  "0.609.0" => "Me retiro por el momento...",
+  "0.610.0" => "¡Enfréntense a mí!",
+  "0.611.0" => "¡Tachááán! ¡Aquí estoy!",
+  "0.612.0" => "Vaya, pensé que íbamos a ganar...",
+  "0.613.0" => "Vaya, hoy no debo de estar tan
+en forma como pensaba...",
+  "0.614.0" => "¡Tenemos que esforzarnos más!",
+  "0.615.0" => "¡Aún no nos han vencido!",
+  "0.616.0" => "¡Conquistemos este bastión!",
+  "0.617.0" => "Si hay que conquistar este bastión,
+¡déjenmelo a mí!",
+  "0.618.0" => "¡Ya es mío!",
+  "0.619.0" => "¡Este bastión ya es mío!",
+  "0.620.0" => "¿Ahora toca ir por ahí?",
+  "0.621.0" => "¡Si trabajamos en equipo, venceremos!",
+  "0.622.0" => "¡Vamos, resistamos hasta el final!",
+  "0.623.0" => "¿A que mi ayuda fue inestimable?",
+  "0.624.0" => "¡Hemos ganado! Bueno,
+¡vayamos por lo siguiente!",
+  "0.625.0" => "¡Qué bien! ¡Todo ha salido fenomenal!",
+  "0.630.0" => "¡Qué ilusos! Je, je, je...",
+  "0.631.0" => "Pues al parecer yo soy más
+fuerte, je, je, jeee...",
+  "0.632.0" => "¡Si son tan debiluchos, no me
+hagan perder el tiempo!",
+  "0.633.0" => "¿Pensaban que podrían conmigo?",
+  "0.634.0" => "¿Ya se enteraron de lo
+fuerte que soy? Je, je, jeee...",
+  "0.635.0" => "No conseguirán nada con esto...
+¡tengo a las hadas de mi lado!",
+  "0.636.0" => "¿A qué están jugando?
+¡Yo también quiero!",
+  "0.637.0" => "No se los puede dejar solos,
+así que les voy a dar una mano.",
+  "0.638.0" => "¡Qué cansancio! Voy a dormir
+una siestecita.",
+  "0.639.0" => "Pero ¿qué ha pasado?",
+  "0.640.0" => "¡Aquí estoy para acabar con ustedes!",
+  "0.641.0" => "¡Vaya, esto parece divertido!
+¡Je, je, jeee!",
+  "0.642.0" => "Solo quería divertirme un rato con ustedes...",
+  "0.643.0" => "Y yo que pensaba que iba a ganar...",
+  "0.644.0" => "No piensen que son tan fuertes por
+haber derrotado a uno de nosotros.",
+  "0.645.0" => "¡Ahora es el momento de divertirse!",
+  "0.646.0" => "¡Eh, mis amigos!",
+  "0.647.0" => "Bueno, pues ¡a conquistar este bastión!",
+  "0.648.0" => "¡Déjenme a mí este bastión!",
+  "0.649.0" => "¡Hemos conquistado el bastión!
+¡Je, je, jeee!",
+  "0.650.0" => "Bueno, ya tenemos este bastión.
+¿Ya están contentos?",
+  "0.651.0" => "Si se enfrentan a mí, esto
+es lo que les espera...",
+  "0.652.0" => "¡Se van a enterar!",
+  "0.653.0" => "¿Vencernos? Je, je, jeee...
+¡No me hagan reír!",
+  "0.654.0" => "¡Hemos ganado! ¡Je, je, jeee!",
+  "0.655.0" => "¿Esperaban un final diferente?
+Je, je, jeee...",
+  "0.656.0" => "¡Tenemos que jugar otro día!
+¡Hasta luego!",
+  "0.660.0" => "¡Eres genial, Link!",
+  "0.661.0" => "¡Qué fuerte eres, Link!",
+  "0.662.0" => "¡Así me gusta, Link!",
+  "0.663.0" => "¡Eres el hermano más fuerte del mundo!",
+  "0.664.0" => "Mi hermano es el más fuerte,
+¿no les parece?",
+  "0.665.0" => "¡Eres el más fuerte, Link!",
+  "0.666.0" => "Parece peligroso, Link...
+¡Ten cuidado!",
+  "0.667.0" => "¡Vamos, Link! ¡Te esperan!",
+  "0.668.0" => "¡Si continuamos así, nos
+van a hacer mucho daño!",
+  "0.669.0" => "Vuelve a casa, hermanito...",
+  "0.670.0" => "¡Mira, Link! ¡Hay muchos enemigos!",
+  "0.671.0" => "¡Vamos, Link! ¡Ocúpate
+de estos malvados!",
+  "0.672.0" => "Vaya, ni mi hermano
+ha podido con esto...",
+  "0.673.0" => "No pasa nada, Link.
+Vuelve a casa...",
+  "0.674.0" => "¡Ahora somos menos, Link!",
+  "0.675.0" => "¿Crees que habrán logrado
+huir, hermanito?",
+  "0.676.0" => "De este bastión puedes encargarte tú,
+¿verdad, Link?",
+  "0.677.0" => "Creo que tendrías que
+tomar el bastión...",
+  "0.678.0" => "Yo creo que podemos quedarnos
+con este bastión, ¿no?",
+  "0.679.0" => "¡Hemos conquistado el bastión, Link!",
+  "0.680.0" => "Ya hemos conquistado el bastión.
+¿Y ahora, Link?",
+  "0.681.0" => "¡Ánimo, hermanito!",
+  "0.682.0" => "¡Yo siempre te apoyaré, Link!",
+  "0.683.0" => "¡Has ganado, Link!",
+  "0.684.0" => "¡Estaba segura de que ganarías!",
+  "0.685.0" => "¡Son todos formidables!",
+  "0.690.0" => "¡No pienso perder contra ustedes!",
+  "0.691.0" => "¿Quién se han creído que soy yo?",
+  "0.692.0" => "Esto no es nada...",
+  "0.693.0" => "¿Y así piensan vencerme?",
+  "0.694.0" => "Vaya, vaya... ¡Esta batalla
+me está sentando genial!",
+  "0.695.0" => "¿Quieren saber quién soy yo?
+¡La pirata más temida del océano!",
+  "0.696.0" => "¿Están bien? ¡Esperen, los ayudaré!",
+  "0.697.0" => "Supongo que necesitan mi ayuda.
+Está bien, voy hacia allá.",
+  "0.698.0" => "Yo ya no puedo más, ¡lo siento!",
+  "0.699.0" => "Creo que me confié demasiado...",
+  "0.700.0" => "¡Vamos, estoy preparada!",
+  "0.701.0" => "¿Están listos para perder?",
+  "0.702.0" => "Me parece que no me queda más
+remedio que retirarme...",
+  "0.703.0" => "¡Ay! ¡Se acordarán de esto!",
+  "0.704.0" => "¡Combatiré por los aliados caídos
+con el doble de fuerzas!",
+  "0.705.0" => "Será mejor que no subestimemos
+al enemigo...",
+  "0.706.0" => "Así que tenemos que
+conquistar esto, ¿no?",
+  "0.707.0" => "¡Yo me ocupo de este bastión!",
+  "0.708.0" => "¡Ya hemos conquistado el bastión!",
+  "0.709.0" => "¡Tomar este bastión
+fue pan comido!",
+  "0.710.0" => "¡Pues ya está! ¿Qué hay que
+hacer ahora?",
+  "0.711.0" => "¡Vamos, la victoria es nuestra!",
+  "0.712.0" => "¡Si están preparados, adelante!",
+  "0.713.0" => "Supongo que hemos ganado.
+No lo han hecho nada mal, grumetes.",
+  "0.714.0" => "¡Hemos ganado! ¡Y yo he estado genial!",
+  "0.715.0" => "Normalmente te pediría una recompensa...
+Pero esta vez te saldrá gratis.",
+  "0.720.0" => "¡No permitiré que se salgan
+con la suya!",
+  "0.721.0" => "¡Que sea experimentado no quiere decir
+que no tenga fuerzas para pelear!",
+  "0.722.0" => "¡No son dignos de pisar esta tierra!",
+  "0.723.0" => "¡No perdonaré a quien
+mancille esta tierra!",
+  "0.724.0" => "¡No permitiré que la oscuridad
+devore estas tierras!",
+  "0.725.0" => "¡No consentiré que ocurra lo mismo que
+con mi reino cuando fue sepultado!",
+  "0.726.0" => "¡Ahora decidiremos de
+quién es la victoria!",
+  "0.727.0" => "Aunque esté aquí para ayudarlos,
+¡no deben bajar la guardia!",
+  "0.728.0" => "No he podido ayudar
+tanto como quería...",
+  "0.729.0" => "El resto lo dejo en sus manos...",
+  "0.730.0" => "¡No dejaré que se salgan con la suya!",
+  "0.731.0" => "Yo me ocuparé de los malvados.",
+  "0.732.0" => "Parece que mi fuerza no ha sido
+suficiente para detenerlos...",
+  "0.733.0" => "Jamás pensé que perderíamos...",
+  "0.734.0" => "¡Aún no está todo perdido!",
+  "0.735.0" => "¡Ha llegado la hora de la verdad!
+No debemos flaquear ahora.",
+  "0.736.0" => "Tenemos que conquistar este bastión...",
+  "0.737.0" => "Yo me encargo de conquistar
+este bastión.",
+  "0.738.0" => "¡He logrado conquistar el bastión!",
+  "0.739.0" => "¡Este lugar ya está en nuestras manos!",
+  "0.740.0" => "¡Ya controlamos este bastión!",
+  "0.741.0" => "¡Debemos vencer por
+un futuro con esperanza!",
+  "0.742.0" => "¡Nosotros salvaremos estas tierras!",
+  "0.743.0" => "¡Hemos salido victoriosos de esta batalla!",
+  "0.744.0" => "Era un temible enemigo,
+¡pero hemos vencido!",
+  "0.745.0" => "Ya podemos seguir avanzando.",
+  "0.750.0" => "¡Soy chiquita, pero peligrosa!",
+  "0.751.0" => "¡He estado a la altura de
+las circunstancias!",
+  "0.752.0" => "Todo esfuerzo tiene su recompensa.",
+  "0.753.0" => "¡Me alegro de haber puesto
+mi granito de arena!",
+  "0.754.0" => "Creo que ya voy entendiendo
+cómo funciona esto...",
+  "0.755.0" => "¡Mientras tenga mi arpa,
+nadie podrá pararme!",
+  "0.756.0" => "¡Déjenme echar una mano!",
+  "0.757.0" => "¡Si unimos nuestras fuerzas,
+todo acabará bien!",
+  "0.758.0" => "Creo que mi aventura
+termina aquí...",
+  "0.759.0" => "Aún tengo mucho que aprender...",
+  "0.760.0" => "¡Me lanzaré al combate
+con todas mis fuerzas!",
+  "0.761.0" => "¡Deja que te enseñe cómo
+funciona mi arpa!",
+  "0.762.0" => "Algún día volveremos a encontrarnos.",
+  "0.763.0" => "Han podido conmigo... Ay...",
+  "0.764.0" => "El enemigo parece poderoso...",
+  "0.765.0" => "¡Esto no puede quedar así!",
+  "0.766.0" => "¡Déjenme este bastión a mí!",
+  "0.767.0" => "¡Si conquisto este bastión,
+contaremos con ventaja!",
+  "0.768.0" => "No ha sido tan difícil
+conquistar el bastión...",
+  "0.769.0" => "Ahora que tenemos el bastión,
+la suerte estará de nuestro lado.",
+  "0.770.0" => "¡Estoy más que preparada!",
+  "0.771.0" => "Estoy segura de que la victoria
+será nuestra.",
+  "0.772.0" => "¡Empecemos de una vez!",
+  "0.773.0" => "¡Hemos logrado ganar!",
+  "0.774.0" => "¡Menos mal que hemos ganado!",
+  "0.775.0" => "¡Me alegra haber contribuido
+a esta victoria!",
+  "0.780.0" => "¡Me siento pletórica!",
+  "0.781.0" => "¡Le he dado su merecido!
+¡Bieeen!",
+  "0.782.0" => "Te mereces esto y más,
+¡por portarte tan mal!",
+  "0.783.0" => "¿A que he estado estupenda?",
+  "0.784.0" => "¡Acabaré con todooos!
+¿Eh? ¿Eso lo he dicho en alto?",
+  "0.785.0" => "¡He derrotado a un montón de enemigos!
+¿Será todo esto un sueño?",
+  "0.786.0" => "No hace falta que uno cargue con todo
+el trabajo: ¡estoy aquí para ayudar!",
+  "0.787.0" => "¡Uy! ¿Están todos bien?",
+  "0.788.0" => "Bueno, pues creo que ya lo único que
+puedo hacer es salir huyendo...",
+  "0.789.0" => "¡Eh! ¡Tengan cuidado!",
+  "0.790.0" => "¡No podemos abandonar a nadie!",
+  "0.791.0" => "¿Alguien me ha llamado?",
+  "0.792.0" => "¡La próxima vez no pienso perder!",
+  "0.793.0" => "Eso no se hace...",
+  "0.794.0" => "Lo siento, no he podido ayudar...",
+  "0.795.0" => "¡Tengo que dar lo mejor de mí!",
+  "0.796.0" => "¡Van a ver cómo se toma un bastión!",
+  "0.797.0" => "¡De este bastión me encargo yo!",
+  "0.798.0" => "¡Y otro bastión para mí!",
+  "0.799.0" => "Ese ha sido un plan estupendo, ¿verdad?",
+  "0.800.0" => "¡Y ahora adónde tengo que ir?",
+  "0.801.0" => "¡Todo el mundo alerta!",
+  "0.802.0" => "Así que piensan que pueden
+derrotarme, ¿eh?",
+  "0.803.0" => "¡Y ahora, a cantar para celebrar
+nuestra victoria!",
+  "0.804.0" => "¿Hemos ganado?
+¡Esto parece un sueño!",
+  "0.805.0" => "¡Todos han combatido fenomenal!",
+  "0.809.0" => "¡Evitaré la derrota a toda costa!",
+  "0.810.0" => "¡Sí! ¡Lo hemos conseguido!",
+  "0.811.0" => "Bueno, creo que todo me ha salido
+bastante bien, ¿no creen?",
+  "0.812.0" => "Este resultado no me deja satisfecha...",
+  "0.813.0" => "¡Me estoy acostumbrando al combate
+rápido! ¡Síganme, que venceremos!",
+  "0.814.0" => "Ni espíritus ni demonios guían mis pasos,
+¡y aun así no hay quien me pare!",
+  "0.815.0" => "¡Ya estoy aquí! Y por eso ya no hay nada
+que temer: ¡juntos venceremos!",
+  "0.816.0" => "He llegado a tiempo... ¡Esta batalla
+no tiene secretos para mí!",
+  "0.817.0" => "Parece que he perdido...",
+  "0.818.0" => "Ya no puedo seguir combatiendo...",
+  "0.819.0" => "¡No dejaré que se salgan con la suya!",
+  "0.820.0" => "¡Ahora serán testigos de mi furia
+de princesa hyliana!",
+  "0.821.0" => "Mi poder no es suficiente para vencer...",
+  "0.822.0" => "La próxima vez intentaré que todo
+salga mejor.",
+  "0.823.0" => "La ayuda no ha llegado a tiempo...",
+  "0.824.0" => "¡Yo cubriré su lugar en la batalla!",
+  "0.825.0" => "¡Ahora van a ver cómo tomo este bastión!",
+  "0.826.0" => "¡Tengo poder suficiente como para
+tomar este bastión sin problemas!",
+  "0.827.0" => "Creo que voy a quedarme con
+este bastión.",
+  "0.828.0" => "¡Este bastión ya es nuestro!",
+  "0.829.0" => "Aquí ya hemos cumplido nuestra misión.
+¡Ahora, por el siguiente objetivo!",
+  "0.830.0" => "Estoy un poco asustada,
+¡pero combatiré hasta el final!",
+  "0.831.0" => "¡No puedo perder ante alguien que no
+sabe diferenciar entre el bien y el mal!",
+  "0.832.0" => "¡Buen trabajo! ¡Ahora disfrutemos
+de la victoria!",
+  "0.833.0" => "¡Estoy muy feliz de que hayamos ganado!",
+  "0.834.0" => "¡Gracias a todos! ¡Ahora ha llegado el
+momento de seguir avanzando!",
+  "0.840.0" => "¡Vaya, he logrado vencer a uno de ellos!
+¡Esto me da energías para continuar!",
+  "0.841.0" => "¡No hay nadie que pueda vencerme!
+¡Ja, ja, ja!",
+  "0.842.0" => "¡Vaaaya! Veo que yo también puedo ser
+bastante útil en la batalla, ¿no?",
+  "0.843.0" => "¡Pues uno menos!",
+  "0.844.0" => "¿Me tomas por un héroe? Nada de eso;
+¡lo mío es alquilar!",
+  "0.845.0" => "Antes era bastante cobarde... ¡pero ahora
+me veo capaz de salvar al mundo!",
+  "0.846.0" => "¡Ya he venido para ayudar!",
+  "0.847.0" => "Soy el mejor de los aliados, ¡a pesar
+de la imagen de sospechoso que tengo!",
+  "0.848.0" => "No me gustan nada los sitios
+tan peligrosos como este...",
+  "0.849.0" => "Yo me quedo aquí.
+¡Pero aún queda por hacer, eh!",
+  "0.850.0" => "¡Hola! Espero que no sea una experiencia
+demasiado dura para mí...",
+  "0.851.0" => "A lo mejor debería unirme yo también
+a la batalla...",
+  "0.852.0" => "Es por estas cosas por las que no me
+gusta meterme en batallas.",
+  "0.853.0" => "Pues si nos rendimos, yo me voy.
+¡Llegó la hora de decir adiós!",
+  "0.854.0" => "Vaya, el enemigo es duro de roer...",
+  "0.855.0" => "Parece que la batalla empieza en serio
+ahora. ¡Ánimo, todos juntos podemos!",
+  "0.856.0" => "¡Estoy seguro de que yo también
+soy capaz de tomar bastiones!",
+  "0.857.0" => "Uy, pensaba que esto era una casa para
+instalarme, ¡pero es un bastión enemigo!",
+  "0.858.0" => "¡Ya me he ocupado de ese bastión!",
+  "0.859.0" => "Este bastión es ideal para poner una tienda
+de utensilios... ¡Es broma, je, je, je!",
+  "0.860.0" => "¿No querrías alquilar este bastión? ¡Ja, ja!
+¡Que no! ¡Te estaba tomando el pelo!",
+  "0.861.0" => "Bueno, pues vamos a dejar
+esto bien ordenado.",
+  "0.862.0" => "Yo estaré aquí animando con pasión.
+¿O mejor será que combata yo también?",
+  "0.863.0" => "Vaya, no ha sido nada fácil...
+¡Pero hemos conseguido vencer!",
+  "0.864.0" => "¿Ya hemos terminado? Vaya, pues se me
+ha hecho más rápido de lo que esperaba.",
+  "0.865.0" => "¡Qué bien que hayamos ganado!
+He estado genial, ¿no crees?",
+  "0.870.0" => "Por fin he acabado con ese enemigo
+tan falto de belleza. ¡Jo, jo, jo!",
+  "0.871.0" => "Por mí, pueden marchitarse y perder toda
+la belleza aquí mismo. ¡Mua, ja, ja, ja!",
+  "0.872.0" => "Sus habilidades no alcanzan ni para
+dibujar un garabato.",
+  "0.873.0" => "¡Ahora entienden lo que le pasa a todo
+aquel que se interpone en mi camino!",
+  "0.874.0" => "¿Algún voluntario para convertirse
+en mi siguiente obra maestra?",
+  "0.875.0" => "¡Prefiero tener una sola obra maestra
+que mil garabatos feos!",
+  "0.876.0" => "Parece que todos intentan robarme
+el talento natural que tengo...",
+  "0.877.0" => "Decoraré el campo de batalla con las
+obras de arte más bellas. ¡Mua, ja, ja, ja!",
+  "0.878.0" => "Espero que no les importe que
+les deje el resto a ustedes.",
+  "0.879.0" => "¡Una bella retirada a tiempo
+es la mejor de las victorias!",
+  "0.880.0" => "¿Quién quiere convertirse en
+mi siguiente obra maestra?",
+  "0.881.0" => "¡No tolero que nadie me moleste
+cuando estoy creando!",
+  "0.882.0" => "¡Son unos seres despreciables!",
+  "0.883.0" => "La próxima vez que nos veamos, no seré
+tan benevolente... ¡y les aplastaré!",
+  "0.884.0" => "Es increíble que en mi presencia
+se atrevan a ser tan insolentes.",
+  "0.885.0" => "¡No piensen que van a vencer
+tan fácilmente!",
+  "0.886.0" => "Tomaré ese bastión tan falto de belleza.",
+  "0.887.0" => "No puedo dejar que un bastión tan horrible
+quede sin conocer mi enorme talento.",
+  "0.888.0" => "Ya he tomado el bastión.
+¡Jo, jo, jo!",
+  "0.889.0" => "El bastión será mío.
+¡Mua, ja, ja, ja!",
+  "0.890.0" => "¡Este bastión se ha convertido
+en una de mis obras maestras!",
+  "0.891.0" => "No me complace demasiado, pero me
+ocuparé de esto por ustedes.",
+  "0.892.0" => "¡Acabaré con todo insolente que se
+interponga en nuestro camino!",
+  "0.893.0" => "Hemos conseguido la victoria, ¡pero mi
+búsqueda de la belleza máxima sigue!",
+  "0.894.0" => "Mi talento ha creado una nueva
+y magnífica obra maestra, ¡jo, jo, jo!",
+  "0.895.0" => "Esta obra tiene un estilo que la hace
+única. ¡Y todo gracias a mi talento!",
+  "0.3186.0" => "¡Nosotros también combatiremos!",
+  "0.3187.0" => "¡Hemos llegado justo a tiempo para ayudar!",
+  "0.3188.0" => "No podemos hacer nada más...",
+  "0.3189.0" => "¡Debemos retirarnos!",
+  "0.3190.0" => "Trataremos de detenerlos.",
+  "0.3191.0" => "¡No dejaremos que esto quede así!",
+  "0.3192.0" => "No nos queda más remedio que retirarnos.",
+  "0.3193.0" => "Será mejor que nos retiremos.",
+  "0.3196.0" => "¡Conquistaremos este bastión!",
+  "0.3197.0" => "¡Unamos nuestras fuerzas para conquistar este bastión!",
+  "0.3198.0" => "¡El bastión está en nuestras manos!",
+  "0.3199.0" => "¡Bravo! El bastión es nuestro.",
+  "0.3216.0" => "¡Nosotros también combatiremos!",
+  "0.3217.0" => "¡Ahora verán de qué somos capaces los goron!",
+  "0.3218.0" => "Nosotros nos vamos...",
+  "0.3219.0" => "He hecho todo lo posible, pero ya no podemos más...",
+  "0.3220.0" => "¡Acabaremos con ellos!",
+  "0.3221.0" => "¡No perdono a aquellos que hieren a mis amigos!",
+  "0.3222.0" => "Bueno, ya es suficiente por hoy...",
+  "0.3223.0" => "Ay... Nos vamos...",
+  "0.3226.0" => "¡Déjennos este bastión a nosotros!",
+  "0.3227.0" => "¡Todos juntos podremos tomar el bastión!",
+  "0.3228.0" => "¡Nos quedamos con este bastión!",
+  "0.3229.0" => "¡Hemos tomado el bastión!",
+  "0.4470.0" => "¡Increíble! ¡Fíjate en la princesa!",
+  "0.4471.0" => "¡Vaya, la princesa sabe combatir!",
+  "0.4472.0" => "¡Qué suerte! La princesa ha hablado bien de ti.",
+  "0.4473.0" => "¡No sabía que la princesa fuera tan fuerte!",
+  "0.4474.0" => "Nos esforzaremos al máximo, princesa.",
+  "0.4475.0" => "¡Link se ocupará, princesa!",
+  "0.4476.0" => "Tenga cuidado, princesa.",
+  "0.4477.0" => "¡Link ha llegado, princesa!",
+  "0.4478.0" => "¡La princesa ha llegado, Link!",
+  "0.4479.0" => "¡Princesa! ¡Link está en peligro!",
+  "0.4480.0" => "¡Tenemos que rescatar a la princesa!",
+  "0.4481.0" => "Acuérdate de darle las gracias a la princesa.",
+  "0.4482.0" => "Todo irá bien. ¡Link protegerá a la princesa!",
+  "0.4483.0" => "Vayamos tras la princesa.",
+  "0.4484.0" => "¡No te vengas abajo, Link!
+Hay que acabar con Ganondorf.",
+  "0.4485.0" => "¡Tenemos que ayudar a la princesa!",
+  "0.4486.0" => "¡Bravo! ¡Sigue haciéndolo
+así de bien!",
+  "0.4487.0" => "¡Me quedé con la boca abierta!",
+  "0.4488.0" => "¡No hay nadie como Link!",
+  "0.4489.0" => "¡No hay rival que pueda
+hacerle frente a Link!",
+  "0.4490.0" => "¡Buen trabajo, Link!",
+  "0.4491.0" => "Qué fuerza... Link, eres
+un auténtico héroe.",
+  "0.4492.0" => "¡Acciones como esta son las que
+nos animan a seguir combatiendo!",
+  "0.4493.0" => "Tengo mucha fe en tus habilidades.",
+  "0.4494.0" => "Me dirigiré hacia allí.
+Combatiremos juntos, Link.",
+  "0.4495.0" => "Yo me encargaré, Link.",
+  "0.4496.0" => "Sé que puedo confiar en ti, Link.",
+  "0.4497.0" => "¡Te ayudaré, Link!",
+  "0.4498.0" => "¡Sabía que vendrías, Link!",
+  "0.4499.0" => "¡Ayúdame, Link! No puedo seguir
+peleando sola.",
+  "0.4500.0" => "Link está en peligro... ¡Debo ayudarlo!",
+  "0.4501.0" => "¡Gracias, Link! Si estás a mi
+lado, no temo al enemigo.",
+  "0.4502.0" => "Unamos nuestras fuerzas para
+alzarnos con la victoria.",
+  "0.4503.0" => "¡Iré contigo, Link!",
+  "0.4504.0" => "¡Acabaremos con Ganondorf
+y devolveremos la luz a Hyrule!",
+  "0.4505.0" => "¡Ten cuidado, Link! Voy hacia allá.",
+  "0.4506.0" => "¡Sabía que no me fallarías!",
+  "0.4507.0" => "¡La victoria está al alcance
+de nuestra mano!",
+  "0.4508.0" => "No es momento para quedarse
+quietos... ¡Adelante!",
+  "0.4509.0" => "Si todos ponemos de nuestra
+parte, podremos lograrlo.",
+  "0.4510.0" => "Tu fuerza es incomparable.",
+  "0.4511.0" => "Tus esfuerzos fueron
+increíbles.",
+  "0.4512.0" => "Mi obligación es cumplir
+el destino de los sheikah.",
+  "0.4513.0" => "En batalla es recomendable
+andarse con mucho cuidado.",
+  "0.4514.0" => "¡Muy bien, sigan así!",
+  "0.4530.0" => "¡Buen trabajo, princesa!",
+  "0.4531.0" => "¡La princesa devolverá la luz a este mundo!",
+  "0.4532.0" => "Es todo un honor escuchar sus alabanzas.",
+  "0.4533.0" => "Creo que la princesa no necesita ayuda.",
+  "0.4534.0" => "¡Iré con usted, princesa!",
+  "0.4535.0" => "¡Yo me encargaré!",
+  "0.4536.0" => "No debe esforzarse demasiado, princesa.",
+  "0.4537.0" => "¡He venido a ayudarla, princesa!",
+  "0.4538.0" => "Gracias por su ayuda, princesa.",
+  "0.4539.0" => "No me enorgullece decirlo, pero necesito ayuda.",
+  "0.4540.0" => "¡No permitiré que Hyrule pierda la esperanza!",
+  "0.4541.0" => "¡Gracias, princesa!",
+  "0.4542.0" => "No se preocupe, yo la defenderé.",
+  "0.4543.0" => "¡Permítame acudir al asalto a la base enemiga,
+princesa!",
+  "0.4544.0" => "¡Vaya, veo que mejoraste bastante!",
+  "0.4545.0" => "¡Princesa, es peligroso que esté sola!",
+  "0.4546.0" => "¡Buen trabajo!",
+  "0.4547.0" => "¡Qué maravilla! ¡Eso sí que
+es saber pelear!",
+  "0.4548.0" => "Mientras combatamos juntos,
+no hay nada que temer.",
+  "0.4549.0" => "¡Avancemos para eliminar el mal!",
+  "0.4550.0" => "Al final me resultarás útil...",
+  "0.4551.0" => "¡Impresionante! Con ese poder,
+la luz está condenada a desaparecer.",
+  "0.4552.0" => "No hay nadie en todo Hyrule
+que pueda enfrentarse a mi poder.",
+  "0.4553.0" => "Aprovecharé este momento
+para divertirme un poco.",
+  "0.4554.0" => "Quizás tu poder ayude a saciar
+mi sed de victoria...",
+  "0.4564.0" => "El comandante enemigo no es más
+que un jovencito. ¡Será pan comido!",
+  "0.4570.0" => "¡Buen trabajo, Link!",
+  "0.4571.0" => "¡Eso ha sido digno de un goron!",
+  "0.4572.0" => "¡Vaya, eres impresionante!",
+  "0.4573.0" => "¡No hay nadie que esté a tu altura!",
+  "0.4574.0" => "¡Cuenta conmigo!",
+  "0.4575.0" => "Yo me ocuparé.",
+  "0.4576.0" => "¡Es todo tuyo!",
+  "0.4577.0" => "¡Utilizaré mi poder para ayudarte!",
+  "0.4578.0" => "¡Me alegro de que hayas venido, hermano!",
+  "0.4580.0" => "¡Aguanta, hermano! Estoy de camino.",
+  "0.4581.0" => "¡Gracias, hermano!",
+  "0.4582.0" => "¡No hace falta que seas tan educado!
+Somos hermanos, ¿recuerdas? ",
+  "0.4583.0" => "¡Yo también voy!",
+  "0.4585.0" => "¡Resiste, hermano! Ya casi estoy ahí.",
+  "0.4586.0" => "¡Ver combatir así me motiva mucho!",
+  "0.4587.0" => "Me llena de orgullo ver lo
+fuerte que te has hecho.",
+  "0.4588.0" => "¡Cuenta con mi ayuda,
+pase lo que pase!",
+  "0.4589.0" => "¡El martillo de Darunia
+está a su servicio!",
+  "0.4590.0" => "¡Buen trabajo, Link!",
+  "0.4591.0" => "¡Eres todo un héroe!",
+  "0.4592.0" => "Oye, ¿esto es una propuesta de matrimonio?
+¡Es broma, es broma!",
+  "0.4593.0" => "¡Te estás convirtiendo en un héroe muy fuerte!
+Serías el esposo perfecto...",
+  "0.4594.0" => "¡No me dejes aquí, Link!",
+  "0.4595.0" => "¡Yo me ocuparé, Link!",
+  "0.4596.0" => "Dejaré que te encargues tú, Link.",
+  "0.4597.0" => "¡He venido a rescatarte!",
+  "0.4598.0" => "¿Has venido hasta aquí por mí?",
+  "0.4599.0" => "¡Ayúdame, Link!",
+  "0.4600.0" => "¿Necesitas mi ayuda?",
+  "0.4601.0" => "Eres todo un caballero.",
+  "0.4602.0" => "Diría que te estás encariñando conmigo...",
+  "0.4603.0" => "¡No permitiré que combatas solo!",
+  "0.4604.0" => "¡Tu acción merece una gran recompensa!",
+  "0.4605.0" => "¡Te ayudaré, Link!",
+  "0.4606.0" => "¡Así se hace!",
+  "0.4607.0" => "¡La victoria está prácticamente
+asegurada!",
+  "0.4608.0" => "No me gusta tener que mostrar mi ira
+en el campo de batalla...",
+  "0.4609.0" => "¡Yo me ocuparé de poner
+fin a esto!",
+  "0.4610.0" => "¡Ni siquiera mis insectos conocían
+una fuerza semejante!",
+  "0.4611.0" => "¡Los insectos cantan de alegría!",
+  "0.4612.0" => "¡Fue un placer poder ayudar!",
+  "0.4613.0" => "Con aliados así, me siento
+más que tranquila.",
+  "0.4614.0" => "¡Tienes el poder de mil
+millones de hormiguitas!",
+  "0.4630.0" => "¡Estupendo, sigue así!",
+  "0.4631.0" => "¡Jamás vi una fuerza igual!",
+  "0.4632.0" => "Esto no es nada. ¡En mi forma
+auténtica combato incluso mejor!",
+  "0.4633.0" => "No me apetece nada tener que
+pelear, pero... ¡allá voy!",
+  "0.4634.0" => "¡Eso es, sigue así!",
+  "0.4644.0" => "¡Yo pondré fin a tus ambiciones, Zant!",
+  "0.4650.0" => "Los resultados están muy por
+encima de mis predicciones.",
+  "0.4651.0" => "Amo, le informo que su poder
+está alcanzando su límite.",
+  "0.4652.0" => "Mis informes confirman que
+me encuentro en plena forma.",
+  "0.4653.0" => "Amo, le recomiendo que inicie el avance.",
+  "0.4654.0" => "Mis informes confirman que ahora las
+posibilidades de ganar han aumentado.",
+  "0.4670.0" => "¡Sublime!",
+  "0.4671.0" => "¡Tu fuerza es descomunal!",
+  "0.4672.0" => "Me he limitado a hacer lo que se espera
+de un señor de los demonios.",
+  "0.4673.0" => "Solo alguien como usted sería capaz
+de causar semejante estrago.",
+  "0.4674.0" => "Demostraré quién soy en el campo de batalla.",
+  "0.4675.0" => "Señor, yo me ocuparé de esto.",
+  "0.4676.0" => "Esto le va a encantar, mi señor.",
+  "0.4677.0" => "El señor de los demonios está listo
+para combatir.",
+  "0.4678.0" => "Es todo un honor contar
+con tu presencia.",
+  "0.4679.0" => "Necesito su fuerza, mi señor.",
+  "0.4680.0" => "Mi señor necesita ayuda.",
+  "0.4681.0" => "Siento haberlo molestado.",
+  "0.4682.0" => "Yo me encargaré de arreglar
+este lío.",
+  "0.4683.0" => "¡Lo acompañaré!",
+  "0.4684.0" => "¡Qué bien! Felicidades.",
+  "0.4685.0" => "Me acercaré para ver mejor
+cómo pelea mi señor.",
+  "0.4686.0" => "Tus esfuerzos son dignos de elogio.",
+  "0.4687.0" => "¡Es importante contar
+con aliados poderosos!",
+  "0.4688.0" => "Lo mejor de combatir es poder
+usar mi ira contra los enemigos.",
+  "0.4689.0" => "¡¿Quién se atreverá a desafiar al
+poderoso señor de los demonios?!",
+  "0.4690.0" => "Ha resultado sencillo para mi señor.",
+  "0.4691.0" => "Solo mi señor sería capaz de algo así.",
+  "0.4692.0" => "He salido victorioso gracias al poder
+que mi señor me concedió.",
+  "0.4693.0" => "Qué afortunado soy por haberme
+topado con mi señor.",
+  "0.4694.0" => "Pondré mi granito de arena en esta batalla.",
+  "0.4695.0" => "Me encargaré personalmente de esto.",
+  "0.4696.0" => "Cumpliré su voluntad, mi señor.",
+  "0.4697.0" => "¡Utilice mi poder!",
+  "0.4698.0" => "Gracias por concederme este poder.",
+  "0.4699.0" => "¡Señor! ¡Acuda a rescatarme!",
+  "0.4700.0" => "Estaré ahí de inmediato.",
+  "0.4701.0" => "¡Mi salvador!",
+  "0.4702.0" => "Sus palabras no serán en vano.",
+  "0.4703.0" => "Ayudaré a atacar la base.",
+  "0.4704.0" => "Qué movimientos tan elegantes...",
+  "0.4705.0" => "¡Juntos aplastaremos a ese insignificante comandante!",
+  "0.4706.0" => "Semejante poder es digno
+de alabanza.",
+  "0.4707.0" => "Si sigues así, podrás acabar con
+Hyrule de una vez por todas.",
+  "0.4708.0" => "¡Sean testigos de mi auténtica fuerza!",
+  "0.4709.0" => "¡Les mostraré el auténtico
+poder de las tinieblas!",
+  "0.4730.0" => "¡Qué fuerza! Creo que me
+había equivocado contigo.",
+  "0.4731.0" => "¡Lo que recién hiciste es increíble!",
+  "0.4732.0" => "¡Hice todo lo que pude!",
+  "0.4733.0" => "¡Si combatimos todos juntos, nadie
+se interpondrá en nuestro camino!",
+  "0.4734.0" => "¡Oh, qué fuerza!",
+  "0.4744.0" => "Tengo que ser yo quien acabe
+con Cia.",
+  "0.4750.0" => "Vaya, vaya, combatir no
+se te da nada mal, ¿eh?",
+  "0.4751.0" => "¡Nada me satisface más que ver
+a mi enemigo suplicar!",
+  "0.4752.0" => "¡No hay nadie que pueda detenerme!",
+  "0.4753.0" => "Si me lo permites, te mostraré
+de qué soy capaz.",
+  "0.4754.0" => "¡Qué maravilla! ¡Así me gusta!",
+  "0.4770.0" => "Un trabajo magnífico.",
+  "0.4771.0" => "Qué fuerza tan espectacular.",
+  "0.4772.0" => "No he hecho nada especial...",
+  "0.4773.0" => "Es imposible hacer frente a semejante poder.",
+  "0.4774.0" => "Yo también iré.",
+  "0.4775.0" => "Me encargaré de esta zona.",
+  "0.4776.0" => "Les dejo el resto.",
+  "0.4777.0" => "Les enseñaré de qué soy capaz.",
+  "0.4778.0" => "Los estaba esperando.",
+  "0.4779.0" => "Deme el poder para resistir...",
+  "0.4780.0" => "Voy enseguida.",
+  "0.4781.0" => "Le estaré eternamente agradecido.",
+  "0.4782.0" => "Ah... Lo siento...",
+  "0.4783.0" => "Yo también iré.",
+  "0.4784.0" => "Veo que has mejorado tus habilidades...",
+  "0.4785.0" => "Me divertiré un poco con mi presa...",
+  "0.4786.0" => "No esperaba menos.",
+  "0.4787.0" => "¡Ya era hora! Al fin alguien
+con una fuerza digna.",
+  "0.4788.0" => "El enemigo es tan débil que no merece
+la pena ni que me ensucie las manos.",
+  "0.4789.0" => "Sabes combatir... ¡Enfréntate a mí!",
+  "0.4790.0" => "¡Un trabajo muy profesional!",
+  "0.4791.0" => "Un poder terrorífico...",
+  "0.4792.0" => "¡Jia, jia, jia! Gracias
+por el cumplido.",
+  "0.4793.0" => "Acabo de presenciar algo que
+no se ve a diario.",
+  "0.4794.0" => "¡Ahora verán de qué soy capaz!",
+  "0.4795.0" => "Yo me ocuparé de esos gusanos.",
+  "0.4796.0" => "Si insisten...",
+  "0.4797.0" => "¡Van a presenciar mi magnífico poder!",
+  "0.4798.0" => "¡Vaya, los estaba esperando!",
+  "0.4799.0" => "¿Podrían ayudarme?",
+  "0.4800.0" => "Echaré una mano.",
+  "0.4801.0" => "Siento haber causado problemas...",
+  "0.4802.0" => "Tengan un poco de paciencia conmigo,
+que ahora mismo resuelvo esto.",
+  "0.4803.0" => "Los acompañaré.",
+  "0.4804.0" => "Veo que están en plena forma...",
+  "0.4805.0" => "Participaré en la batalla.",
+  "0.4806.0" => "¡La estoy pasando fenomenal!",
+  "0.4807.0" => "¡Qué fuerza tan descomunal!",
+  "0.4808.0" => "Esto recién comenzó...
+¡Jia, jia!",
+  "0.4809.0" => "Puede que no te tomes esto
+en serio, ¡pero yo sí!",
+  "0.4810.0" => "Veo que lo estás haciendo
+lo mejor que puedes...",
+  "0.4811.0" => "¡Qué poder más increíble! No hay
+nadie que le pueda hacer frente.",
+  "0.4812.0" => "¡Me siento mucho más cómoda
+con este cuerpo!",
+  "0.4813.0" => "Si permanecemos unidos,
+¡podremos vencer!",
+  "0.4814.0" => "Existen pocos tan fuertes como tú...",
+  "0.4824.0" => "¡Zant, solo yo puedo
+ponerte fin!",
+  "0.4830.0" => "¡Mira a la princesa!",
+  "0.4831.0" => "¡Vaya, la princesa sabe combatir!",
+  "0.4832.0" => "¡Qué suerte! La princesa habló bien de ti.",
+  "0.4833.0" => "¡No sabía que la princesa era tan fuerte!",
+  "0.4834.0" => "Nos esforzaremos al máximo, princesa.",
+  "0.4835.0" => "¡Link se ocupará, princesa!",
+  "0.4836.0" => "¡Ten cuidado, princesa!",
+  "0.4837.0" => "¡Link ya llegó, princesa!",
+  "0.4838.0" => "¡La princesa llegó, Link!",
+  "0.4839.0" => "¡Princesa! ¡Link está en peligro!",
+  "0.4840.0" => "¡Tenemos que rescatar a la princesa!",
+  "0.4841.0" => "Recuerda dar las gracias a la princesa.",
+  "0.4842.0" => "Todo irá bien. ¡Link protegerá a la princesa!",
+  "0.4843.0" => "Vayamos tras la princesa.",
+  "0.4844.0" => "¡No te pongas triste, Link!
+Debemos derrotar a Ganondorf.",
+  "0.4845.0" => "¡Tenemos que ayudar a la princesa!",
+  "0.4846.0" => "¡Bravo! ¡Sigue haciéndolo
+así de bien!",
+  "0.4847.0" => "¡Vaya, qué sorpresa!",
+  "0.4848.0" => "¡Link es el mejor! Yo ya lo sabía...",
+  "0.4849.0" => "¡Link puede ocuparse de
+cualquier enemigo!",
+  "0.4850.0" => "¡Tingle hará todo lo que pueda!",
+  "0.4851.0" => "¡Bieeen! Tingle se alegra de
+ser buen amigo tuyo.",
+  "0.4852.0" => "Todo el mundo pensaba que Tingle
+era un debilucho... ¡¿Y ahora qué?!",
+  "0.4853.0" => "¡Tingle también quiere!",
+  "0.4854.0" => "¡Tingle nunca había visto
+tanto poder junto!",
+  "0.4870.0" => "¡Así me gusta!",
+  "0.4871.0" => "¡Así se hace!",
+  "0.4872.0" => "¡Qué fuerza!
+Me quedo boquiabierta...",
+  "0.4873.0" => "¡Aún puedo seguir adelante!",
+  "0.4874.0" => "¡Estando yo aquí para ayudar,
+no hay nada que temer!",
+  "0.4890.0" => "Vaya, veo que sabes lo que haces...",
+  "0.4891.0" => "Lo haces bastante bien, je, je, jeee...",
+  "0.4892.0" => "Parece divertido...
+¡Yo también quiero jugar!",
+  "0.4893.0" => "Qué enemigo tan debilucho...",
+  "0.4894.0" => "Eh, ¿qué vas a hacer?
+¡Yo también quiero participar!",
+  "0.4910.0" => "¡Mira, Link! ¡Qué fuerte es!",
+  "0.4911.0" => "¡Mira, Link! ¡Tú también debes
+esforzarte al máximo!",
+  "0.4912.0" => "¡Son muy fuertes!
+¡No te rindas, Link!",
+  "0.4913.0" => "¿A que Link es muy fuerte?
+¡Es mi hermano!",
+  "0.4914.0" => "¡Empezamos ya, Link!",
+  "0.4930.0" => "¡A toda vela, por la victoria!",
+  "0.4931.0" => "Vaya, qué grumete más capaz...",
+  "0.4932.0" => "Has vencido por tu cuenta al enemigo...
+¡Me has impresionado!",
+  "0.4933.0" => "Bueno, tampoco es para tanto...",
+  "0.4934.0" => "¡Vamos, grumetes! ¡Demostremos
+lo que somos capaces de hacer!",
+  "0.4950.0" => "Qué valerosidad...",
+  "0.4951.0" => "¡Así podremos avanzar hasta el final!",
+  "0.4952.0" => "¡Qué fortaleza!
+¡Eres la esperanza de esta tierra!",
+  "0.4953.0" => "¡Me alegra haber resultado útil!",
+  "0.4954.0" => "¡Hemos de ayudarnos hasta el final!",
+  "0.4970.0" => "¡No lo haces nada mal!",
+  "0.4971.0" => "¡Ha sido impresionante!",
+  "0.4972.0" => "Nunca había visto a nadie tan fuerte...",
+  "0.4973.0" => "¡No me rendiré!",
+  "0.4974.0" => "¡La unión hace la fuerza!",
+  "0.4990.0" => "¡Vaya, qué poder!
+¡Me quedo anonadada!",
+  "0.4991.0" => "¿Siempre te sale todo tan bien?",
+  "0.4992.0" => "Te arriesgas demasiado para mi gusto,
+¡pero es impresionante!",
+  "0.4993.0" => "Me alegro de que te haya impresionado,
+je, je, je...",
+  "0.4994.0" => "¡Vamos! ¡Juntos venceremos!",
+  "0.5010.0" => "¡Tienes un poder increíble!",
+  "0.5011.0" => "¡Lo has hecho genial!",
+  "0.5012.0" => "No tenía la más mínima duda: ¡sabía que
+en batalla lo darías todo!",
+  "0.5013.0" => "Uy... Si me he pasado, lo siento mucho...",
+  "0.5014.0" => "¡Ha llegado el momento de que
+unamos nuestras fuerzas!",
+  "0.5030.0" => "¡Qué actuación en batalla tan
+maravillosa la tuya!",
+  "0.5031.0" => "¡Eres increíble!",
+  "0.5032.0" => "¡Has vencido a tantos enemigos, que tu
+heroicidad es incuestionable!",
+  "0.5033.0" => "En la batalla, ¡cuando empiezo,
+no hay quien me detenga!",
+  "0.5034.0" => "¡Ánimo! Si les vencen, ya envío a Shirio
+a recoger sus... ¡Es solo una broma!",
+  "0.5050.0" => "¡Qué belleza! ¡Qué hermosura de
+actuación en la batalla!",
+  "0.5051.0" => "Transmites una confianza taaan
+bella... ¡Jo, jo, jo!",
+  "0.5052.0" => "¡Has vencido a tantos enemigos, que tu
+heroicidad ha alcanzado una belleza suma!",
+  "0.5053.0" => "Nada más bello que mi presencia única
+en el campo de batalla. ¡Mua, ja, ja!",
+  "0.5054.0" => "Ayudaré a todo aquel que sepa
+agradecérmelo bella y adecuadamente.",
+  "0.6679.0" => "¡Mi ssseñor, ayúdame!",
+  "0.6681.0" => "Muchasss graciasss por la ayuda...",
+  "0.6699.0" => "¡Ayúdame, mi ssseñor!",
+  "0.6701.0" => "¡Graciasss por tu ayuda, mi ssseñor!",
+  "0.7450.0" => "Parece bastante fuerte...
+¡Pero no puedes perder!",
+  "0.7451.0" => "¡No les tenemos miedo!
+Ocúpate de ellos, Link.",
+  "0.7452.0" => "¡Bien, hemos ganado!
+¡Solo un héroe podría lograrlo!",
+  "0.7453.0" => "¡Por muy fuertes que sean,
+nadie puede vencerte, Link!",
+  "0.7454.0" => "¡No conocen el poder de Link!
+¡Están avisados!",
+  "0.7460.0" => "Como princesa, mi deber
+es combatir el mal.",
+  "0.7461.0" => "Mientras sigas con vida, no habrá
+esperanza en este mundo.",
+  "0.7462.0" => "Al final ha merecido la pena no perder
+la esperanza.",
+  "0.7463.0" => "¡No escapen!
+¡Seré yo quien los venza!",
+  "0.7464.0" => "¡Seré una digna contrincante!",
+  "0.7470.0" => "No pienses que puedes vencerme...",
+  "0.7471.0" => "¡Soy inmune a sus miserables charlas!",
+  "0.7480.0" => "¡Seré yo quien te venza!",
+  "0.7481.0" => "¡Sus amenazas son
+inútiles contra mí!",
+  "0.7490.0" => "¡Yo acabaré contigo!",
+  "0.7491.0" => "Al menos tratas de plantarme
+cara. ¡Pero no servirá de nada!",
+  "0.7492.0" => "¿Un héroe legendario sin fuerza?
+Qué inútil... Casi me siento decepcionado.",
+  "0.7493.0" => "¡Te podrás arrepentir de enfrentarte
+a mí en el otro mundo!",
+  "0.7494.0" => "Ya es demasiado tarde para arrepentirte
+de no haber estado a mi altura...",
+  "0.7500.0" => "Así que tienes el valor suficiente
+para ser mi rival...",
+  "0.7501.0" => "Si quieres combatir, adelante.
+¡Pero luego no llores!",
+  "0.7510.0" => "Te daré el honor de ser
+yo quien te venza.",
+  "0.7511.0" => "¡Los zora no se rinden jamás!",
+  "0.7520.0" => "¡¿Que pisaron unas hormiguitas?!
+¡Eso es imperdonable!",
+  "0.7521.0" => "Ahora estoy un poco ocupada
+cuidando de mis insectitos, pero...",
+  "0.7530.0" => "¡Te destruiré, Zant!",
+  "0.7531.0" => "¡No pienso perder contra
+alguien como tú!",
+  "0.7532.0" => "Será mejor que no vuelvas
+a despertarte, Zant.",
+  "0.7533.0" => "¿A qué esperan?
+¿O es que me tienen miedo?",
+  "0.7534.0" => "Así que quieren vérselas conmigo, ¿eh?
+¡Luego no digan que no se lo advertí!",
+  "0.7540.0" => "Mis análisis indican que eres
+un estorbo para mi misión.",
+  "0.7541.0" => "Nuestro enfrentamiento
+es posible e inevitable.",
+  "0.7550.0" => "Tú... Quizás haya llegado
+el momento de tomárselo en serio.",
+  "0.7551.0" => "Estaba deseando combatir contigo.
+¡No te defraudaré!",
+  "0.7552.0" => "Espero que ahora te des cuenta de
+tus limitaciones. ¿Me he pasado?",
+  "0.7553.0" => "No puedo permitir que escapes.
+¡Ahora sabrás lo que es la derrota!",
+  "0.7554.0" => "¿Es que quieres sufrir?
+Bien, te complaceré entonces...",
+  "0.7560.0" => "¿Cómo osas enfrentarte a mí?
+Haré que te postres a mis pies.",
+  "0.7561.0" => "Tu simple magia no bastará
+para detenerme, Midna.",
+  "0.7562.0" => "Eres patética. ¡No volverás
+a molestarme!",
+  "0.7563.0" => "¡Ni con todo tu poder
+eres rival para mi magia!",
+  "0.7564.0" => "¿Con quién crees que te enfrentas?
+Te arrepentirás de haberme desafiado.",
+  "0.7580.0" => "¡Te pararé los pies, Cia!",
+  "0.7581.0" => "Tu tiempo se ha acabado, Cia.",
+  "0.7582.0" => "No me dejas alternativa, Cia.",
+  "0.7583.0" => "Si crees que puedes
+ganarme, ¡adelante!",
+  "0.7584.0" => "Muy bien, si tienes tantas ganas
+de perder, ¡combatamos!",
+  "0.7590.0" => "¡Ha llegado tu hora, Lana!",
+  "0.7591.0" => "Prueben a pararme... si pueden.",
+  "0.7592.0" => "Tu sola presencia me incomoda.
+¿Podrías desaparecer?",
+  "0.7593.0" => "Vaya, así que quieres que nos enfrentemos...
+¡Te arrepentirás de tu decisión!",
+  "0.7600.0" => "Veamos si tu poder es tan grande
+como aparenta...",
+  "0.7601.0" => "Oh, ¿quieres enfrentarte a mí?
+Interesante.",
+  "0.7610.0" => "¡Será un placer ver cómo eres
+derrotado, jia, jia, jia!",
+  "0.7611.0" => "Has conseguido enfadarme...
+¡Y ahora lo vas a lamentar!",
+  "0.7620.0" => "¡Zant, eres un traidor! Me
+ocuparé de ti personalmente.",
+  "0.7621.0" => "No pienso perder ante ti.",
+  "0.7622.0" => "Siempre has sido un necio, Zant.
+¡Este es tu fin!",
+  "0.7623.0" => "¿Quieres que nos enfrentemos?
+Tú decides...",
+  "0.7624.0" => "Así que crees que puedes derrotarme...
+¡Pues no te resultará tan fácil!",
+  "0.7630.0" => "Parecen muy fuertes...
+¡Pero debes ganar, Link!",
+  "0.7631.0" => "No... no tenemos miedo... ¿Verdad, Link?
+¡Vamos por ellos!",
+  "0.7632.0" => "¡Lo logramos, Link!
+¡Eres un auténtico héroe!",
+  "0.7633.0" => "¡Por muy poderosos que sean,
+no podrán vencer a Link!",
+  "0.7634.0" => "¡Será demasiado tarde cuando por fin se
+den cuenta de lo poderoso que es Link!",
+  "0.7640.0" => "¡A combatir! Tardo menos en decir
+"kurulín... ¡PA!" que en acabar contigo.",
+  "0.7641.0" => "¡Como reencarnación de un duende
+no permitiré que escapes!",
+  "0.7650.0" => "¡Adelante, a la batalla!",
+  "0.7660.0" => "No creo que puedas vencerme,
+je, je, jeee...",
+  "0.7670.0" => "¡No tenemos miedo!
+¡Mi hermano te derrotará!",
+  "0.7680.0" => "¡Si quieres enfrentarte a mí,
+aquí me tienes!",
+  "0.7690.0" => "¡Te venceré en nombre de
+los habitantes de estas tierras!",
+  "0.7700.0" => "¡Lograré detenerte! ¡Ya lo verás!",
+  "0.7710.0" => "¡Tú te lo has buscado por
+hacer cosas tan feas!",
+  "0.7720.0" => "¡No dejaré que te interpongas
+en mi camino!",
+  "0.7730.0" => "No me queda más remedio que combatir.
+¡Empezamos cuando tú quieras!",
+  "0.7740.0" => "Si lo que quieres es entorpecer mis planes,
+¡te arrepentirás! ¡Mua, ja, ja, ja!",
+}

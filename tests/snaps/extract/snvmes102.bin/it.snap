@@ -1,0 +1,223 @@
+Map {
+  "1.0.0.0" => "Questi demoni non finiscono più!
+Ma che vogliono?",
+  "1.0.1.0" => "Che importa che vogliono?! Midna, traditrice!
+Dovrai vedertela con me, il re del crepuscolo!",
+  "1.0.2.0" => "Ci sono due eserciti in battaglia.
+Potrei farmi seguire da uno dei due...",
+  "1.0.3.0" => "Non è difficile convincere un cuore colmo
+di brama. Zant passerà dalla nostra parte.",
+  "1.0.4.0" => "Per invogliarlo, la cosa migliore è
+sconfiggere Midna, il suo avversario.",
+  "1.0.5.0" => "Eeeh? Stanno arrivando ancora altri nemici?
+Non ho altra scelta, devo eliminarli tutti!",
+  "1.0.6.0" => "Cosa vedo? Stranieri nella mia terra? Non
+permetterò alcuna minaccia al mio regno!",
+  "1.0.7.0" => "Siamo riusciti a sbaragliare l'armata di Midna!
+Così anche la nostra base sarà al sicuro.",
+  "1.0.8.0" => "Ora non resta che dare il colpo di grazia
+a Midna!",
+  "1.0.9.0" => "Eh eh eh! Vi ho rinchiuso! Non so da dove
+siate spuntati fuori, ma la pagherete cara!",
+  "1.0.10.0" => "Accidenti...! Non è poi così stupida quella
+Midna... Le cose non si mettono bene!",
+  "1.0.11.0" => "Eh eh eh... Non so chi siate, ma grazie
+per aver eliminato il mio nemico!",
+  "1.0.12.0" => "Dobbiamo smettere di attaccare l'armata di
+Zant! Midna ne sta traendo troppo vantaggio!",
+  "1.0.13.0" => "Proprio ora che sono arrivato alla sala
+del trono... No, non posso morire!",
+  "1.0.14.0" => "Il nemico si è indebolito...
+Ora nessuno mi può fermare!",
+  "1.0.15.0" => "A quanto pare Midna ha tirato fuori i denti.
+Ma ancora per poco, adesso la eliminerò!",
+  "1.0.16.0" => "Grrr... per ora farò meglio a ritirarmi...",
+  "1.0.17.0" => "Ehi, re del crepuscolo! Che ne dici di unire
+le nostre forze? Governeremo il mondo insieme!",
+  "1.0.18.0" => "Mpf... il mondo può essere governato da una
+sola persona... e quella persona sono IO!",
+  "1.0.19.0" => "Uff... non ti lasci convincere... speravo
+di poterti prendere con le buone...",
+  "1.0.20.0" => "Non c'è posto per gli intrusi!
+Sparite subito!!!",
+  "1.0.21.0" => "Beh, se non hai intenzione di cooperare,
+dovrò convincerti con la forza...",
+  "1.0.22.0" => "Umpf... da lì non potranno scalfirmi!
+Argorok, attacca!!!",
+  "1.0.23.0" => "Per ora sono costretto a ritirarmi...
+Devo recuperare le forze perdute.",
+  "1.0.24.0" => "Coccinella? Dove sei?
+Mi sono persa...",
+  "1.0.25.0" => "Oh! Ma che bella chiavetta! Non penso che
+si arrabbierà nessuno se la porto con me...",
+  "1.0.26.0" => "Una ragazzina che si è persa? E se quella
+chiave aprisse...?",
+  "1.0.27.0" => "Con la chiave della ragazzina, potremmo
+riuscire a incontrarci...",
+  "1.0.28.0" => "Ci penso io a difendere la base!",
+  "1.0.29.0" => "Noi tenderemo un'imboscata a Zant!",
+  "1.0.30.0" => "I-Impossibile! Hai sconfitto Argorok?!",
+  "1.0.31.0" => "Aaahi!!! Ma chi sei?
+Basta con la violenza!",
+  "1.0.32.0" => "Eh? Volevi solo la chiave? Pensavo che
+volessi i miei insettini. Prendila pure, tieni!",
+  "1.0.33.0" => "Finalmente possiamo catturare Zant
+e fargliela pagare!",
+  "1.0.34.0" => "Ugh... a-accidenti...",
+  "1.0.35.0" => "Maledizione! Le palle di fuoco di quel
+bestione stanno danneggiando la base!",
+  "1.0.36.0" => "Le palle di fuoco stanno mettendo in pericolo
+la nostra base... non reggerà ancora a lungo!",
+  "1.0.37.0" => "Allora, Zant... Unisciti a me e avrai salva la
+vita. E lascerò in pace anche il tuo palazzo.",
+  "1.0.38.0" => "Ogni resistenza pare inutile... Sono
+costretto ad arrendermi...",
+  "1.0.39.0" => "Eh eh eh, hai fatto la scelta giusta. Non
+dimenticare mai chi è che dà gli ordini qui.",
+  "1.0.40.0" => "Cia, non posso più combattere a lungo...",
+  "1.0.41.0" => "Non si può mai combattere in pace!
+C'è sempre qualcosa che disturba!",
+  "1.0.42.0" => "La nostra base è caduta?! Così non si
+può andare avanti!!!",
+  "1.0.43.0" => "Io sono il re! Sei pazza se pensavi di
+potermi sottomettere!",
+  "1.0.44.0" => "È scappato...? Tutta questa fatica per
+niente...",
+  "1.0.45.0" => "Con il contributo di Zant, la nostra armata
+sarebbe imbattibile... dobbiamo riprovarci!",
+  "1.0.46.0" => "Ehi, voi!
+Dovete rallentare Zant a ogni costo!",
+  "1.0.47.0" => "Bene, è il momento di passare di nuovo
+all'azione... Attacchiamo!!!",
+  "1.0.48.0" => "Zant ha fatto un grosso errore a lasciare
+il suo palazzo... Presto, sconfiggetelo!",
+  "1.0.49.0" => "Tutta questa fatica per venire ad
+attaccarmi? Va bene, accetto la sfida!",
+  "1.0.50.0" => "Non possiamo lasciare che scappi.
+Questo posto diventerà la sua tomba!",
+  "1.0.51.0" => "La porta è chiusa... ma se conquistiamo il
+presidio dovrebbe aprirsi!",
+  "1.0.52.0" => "Bene bene... La porta è aperta e dall'altra
+parte ci deve essere Midna... All'attacco!",
+  "1.0.53.0" => "Non mi scapperai!",
+  "1.0.54.0" => "Uhm... almeno abbiamo guadagnato un po'
+di tempo...",
+  "1.0.55.0" => "Per te è la fine!",
+  "1.0.56.0" => "Ora ci penso io!",
+  "1.0.57.0" => "Quel presidio è di Zant!
+Non attaccatelo!",
+  "1.0.58.0" => "Non mi resta che usare il mio asso nella
+manica! Che te ne pare?!",
+  "1.0.59.0" => "Zant ci considera nemici?! E allora
+ci comporteremo da nemici!",
+  "1.0.60.0" => "Eliminate tutti quelli che ci attaccano,
+ma non toccate i loro presidi!",
+  "1.0.61.0" => "L'armata di Zant sembra avercela con
+Volga, per qualche ragione...",
+  "1.0.62.0" => "Mpf... non voglio perdere alleati.
+Per una volta potrei anche aiutarlo...",
+  "1.0.63.0" => "Codardi! Una vittoria ottenuta solo con
+i numeri non è onorevole!",
+  "1.0.64.0" => "Il nostro capo è in pericolo!
+Dobbiamo aiutare Volga!",
+  "1.0.65.0" => "Come ho potuto farmi battere da questa
+feccia?!",
+  "1.0.66.0" => "Il grande Volga è in pericolo! Qualcuno
+lo aiuti!",
+  "1.0.67.0" => "Luride lucertole, ho capito!
+Smettetela di sibilare!",
+  "1.0.68.0" => "Argh! Il grande Volga...!",
+  "1.0.69.0" => "Abbiamo fallito...",
+  "1.0.70.0" => "Siamo alle strette... forse è il
+momento giusto per il piano di riserva...",
+  "1.0.71.0" => "Sta tramando qualcosa... Teniamola
+sott'occhio!",
+  "1.0.72.0" => "Ih ih ih! I tuoi sforzi sono inutili,
+vedrai!",
+  "1.0.73.0" => "Uh uh uh... hai proprio bisogno di
+una bella lezione...!",
+  "1.0.74.0" => "Ora che quella stupida Midna è sistemata,
+sono io l'unico re del crepuscolo!",
+  "1.0.75.0" => "Ora che Midna non c'è più, sono io
+l'unico sovrano del crepuscolo!",
+  "1.0.76.0" => "Se abbattiamo quel drago, Zant
+perderà il vantaggio in battaglia!",
+  "1.0.77.0" => "Zant non si arrenderà così facilmente,
+ma un nemico in meno fa sempre comodo.",
+  "1.0.78.0" => "Conquistiamo la base nemica mentre
+quelli si indeboliscono a vicenda!",
+  "1.0.79.0" => "Abbatterò quell'uccellaccio...
+Ci vuole il gioco di squadra!",
+  "13.0.0.0" => "Più sono avidi, più sono controllabili. Farò
+presto a convincere il re del crepuscolo.",
+  "13.0.1.0" => "Se riesco a mostrargli la mia forza battendo
+Midna, anche Zant si convincerà a seguirmi.",
+  "13.0.2.0" => "Abbiamo respinto l'armata di Midna.
+La nostra base sarà al sicuro per un po'.",
+  "13.0.3.0" => "Di questo passo non ci metteremo molto
+a sconfiggere Midna.",
+  "13.0.4.0" => "Uh uh uh... molto interessante...
+finirà in una carneficina?!",
+  "13.0.5.0" => "Un momento! Chi è che attacca l'armata di
+Zant?! È Midna il nostro obiettivo!!!",
+  "13.0.6.0" => "Io ho sconfitto Zant! Come ti permetti?!
+Ti darò una bella lezione!",
+  "13.0.7.0" => "Aprendo la porta con la chiave della
+ragazzina potremmo incontrarci...",
+  "13.0.8.0" => "Presto, inseguiamo Zant!",
+  "13.0.9.0" => "Ora possiamo inseguire Zant!
+Sconfiggiamolo prima che scappi!",
+  "13.0.10.0" => "Accidenti, le palle di fuoco di quel bestione
+stanno mettendo in pericolo la nostra base.",
+  "13.0.11.0" => "La base non resisterà ancora a lungo
+contro quelle palle di fuoco!",
+  "13.0.12.0" => "Ti ho sottovalutato... ma non farò lo
+stesso errore un'altra volta.",
+  "13.0.13.0" => "Pazienza...",
+  "13.0.14.0" => "Non posso lasciare che mi scappi...
+Devo liberarmene al più presto!",
+  "13.0.15.0" => "Così dovrei aver guadagnato un po'
+di tempo...",
+  "13.0.16.0" => "Come si permette...?!
+Intercettate subito l'armata di Midna!",
+  "13.0.17.0" => "La porta è chiusa?! Che aspetti? Conquista
+il presidio e sfonda la porta!",
+  "13.0.18.0" => "Ih ih ih... la porta è aperta...
+Midna deve essere poco più avanti!",
+  "13.0.19.0" => "Non mi scapperai!",
+  "13.0.20.0" => "Zant ha abbandonato il palazzo!
+Presto, sconfiggetelo!",
+  "13.0.21.0" => "Quel presidio è di Zant!
+Non attaccatelo!",
+  "13.0.22.0" => "Guarda! L'attacco magico ha fatto effetto!
+Il drago ha perso quota!",
+  "13.0.23.0" => "È già la terza volta...
+Quanto durerà ancora...?",
+  "13.0.24.0" => "Gli attacchi effettuati con il cerchio magico
+non hanno effetto... Cosa possiamo fare...?",
+  "13.0.25.0" => "Ora dirigiamoci verso l'edificio a sud est che la
+farfalla ci ha mostrato. Non ci resta che fidarci!",
+  "13.0.26.0" => "Forse il cerchio magico nella fontana della dea
+è ciò che ci serve per sconfiggere il drago...!",
+  "13.0.27.0" => "Ci resta solo la base...
+Dobbiamo difenderla a costo della vita...",
+  "13.0.28.0" => "Visto? Ce l'abbiamo fatta!",
+  "13.0.29.0" => "Una volta sconfitti il drago e Zant...
+la vittoria sarà nostra, giusto? Forza!",
+  "13.0.30.0" => "Hai rinunciato ai tuoi desideri...
+Come Cia...",
+  "13.0.31.0" => "Finalmente ce l'abbiamo fatta...
+Bravi, ottimo lavoro!",
+  "13.0.32.0" => "Li abbiamo sconfitti tutti!
+Ora possiamo chiudere la porta delle anime!",
+  "13.0.33.0" => "La base sta per cadere nelle mani del nemico!
+Ho bisogno di aiuto!",
+  "13.0.34.0" => "La base sta per arrendersi!
+Presto, mandate dei rinforzi!",
+  "13.0.35.0" => "Ah... Non ce l'ho fatta...
+Mi dispiace...",
+  "13.0.36.0" => "La base è caduta...?
+Quindi la battaglia è finita...",
+  "13.0.37.0" => "Guardate! Gli attacchi del circolo magico hanno effetto!
+Il drago ora vola basso!",
+}

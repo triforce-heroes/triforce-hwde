@@ -1,0 +1,7 @@
+Map {
+  "0.0.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.1.0" => "¡A0%1sF0R se ha aliado con las A0%2sF1R!",
+  "0.2.0" => "¡Vence a A2un gran número de enemigosR y alíate con A0%1sF2R!",
+  "0.3.0" => "¡A0%1sF0R se ha retirado!",
+  "0.4.0" => "¡A0%1sF0R se dirige hacia las A0%2sF1R!",
+}

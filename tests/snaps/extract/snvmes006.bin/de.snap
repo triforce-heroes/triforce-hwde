@@ -1,0 +1,148 @@
+Map {
+  "1.0.0.0" => "Das muss das Schattenreich aus der
+Legende sein.",
+  "1.0.1.0" => "Diese unheimlichen Wände...
+So finden wir das Seelenportal nicht.",
+  "1.0.2.0" => "Wir können den Feind in der Dunkelheit nicht
+ausfindig machen! Seid vorsichtig!",
+  "1.0.4.0" => "Huch! Jetzt stecke ich aber in der Patsche!",
+  "1.0.5.0" => "Ein Hilferuf? Dem müssen wir nachgehen!",
+  "1.0.6.0" => "Zu Hilfe!",
+  "1.0.7.0" => "Wir sind gleich da! Halte durch!",
+  "1.0.8.0" => "Bericht: Die Dunkelheit ist voller Monster.
+Höchste Vorsicht ist geboten!",
+  "1.0.9.0" => "Es ist aus mit mir...",
+  "1.0.10.0" => "Schnell, zum Dorf! Bevor es zu spät ist!",
+  "1.0.11.0" => "Ohne ihre Hilfe kommen wir nicht an den
+Schatten vorbei. Wir müssen sie beschützen!",
+  "1.0.13.0" => "Schmetterlingchen sagt, wir müssen
+dort entlang! Also los!",
+  "1.0.14.0" => "Die Tore sind verschlossen...
+Aber ich kümmere mich darum!",
+  "1.0.15.0" => "Ich wäre eine tolle Einbrecherin!",
+  "1.0.17.0" => "Schmetterlingchen hat Angst... Könnten wir die
+Dunkelheit aus dieser Festung vertreiben?",
+  "1.0.19.0" => "Wenn wir diesen großen Fiesling besiegen,
+kann uns Schmetterlingchen den Weg zeigen!",
+  "1.0.20.0" => "Schmetterlingchen freut sich!
+Er wird uns weiter den Weg zeigen!",
+  "1.0.21.0" => "In der Dunkelheit treiben Monster ihr Unwesen.
+Sie könnten zu unserem Hauptquartier schleichen.",
+  "1.0.22.0" => "Ich kümmere mich um diese schwarze Hexe!
+Haltet mir ihre Schergen hier vom Leib!",
+  "1.0.23.0" => "Die gemeine Katze hat Schmetterlingchen
+erschreckt, und jetzt ist er weggeflogen...",
+  "1.0.24.0" => "Ich hole den Schmetterling zurück. Geh du
+ins Dorf, Agnetha. Hier ist es nicht sicher.",
+  "1.0.25.0" => "N-n-na gut...
+Bitte bring Schmetterlingchen in Sicherheit!",
+  "1.0.26.0" => "Höre ich da ein kleines Kätzchen nach mir
+heulen? Suchst du eine Spielgefährtin?",
+  "1.0.27.0" => "Ich habe zu tun.
+Spiel doch stattdessen mit denen da!",
+  "1.0.28.0" => "So viele Feinde! Erobere ihre Festungen,
+um ihre Verstärkung zu stoppen!",
+  "1.0.29.0" => "Achtung, unser Hauptquartier wird
+angegriffen!",
+  "1.0.31.0" => "Willkommen im Schattenreich!
+Für eine Führung habe ich leider keine Zeit...",
+  "1.0.32.0" => "Hab ich dich! Jetzt nimmst du sofort
+diesen faulen Zauber von mir!",
+  "1.0.33.0" => "Wegen dir konnte sie entkommen!
+Du bist also auf ihrer Seite, ja?",
+  "1.0.34.0" => "Warte! Wir sind nicht deine Feinde!
+Gib uns einfach den Schmetterling zurück!",
+  "1.0.35.0" => "Halt die Klappe!
+Ich bin jetzt nicht in der Stimmung!",
+  "1.0.36.0" => "Wenn du uns dazu zwingst, werden wir dir den
+Schmetterling einfach abnehmen.",
+  "1.0.37.0" => "Puh... Sie ist ziemlich mächtig...
+Im direkten Kampf ist sie uns überlegen.",
+  "1.0.38.0" => "In der Dunkelheit werde ich stärker...
+Schließlich komme ich aus dem Schattenreich.",
+  "1.0.39.0" => "Du hast also diese Dunkelheit erschaffen?
+Du willst das Licht aus dieser Welt vertreiben?",
+  "1.0.40.0" => "Pah! Ich sehe zwar nicht danach aus, aber du
+sprichst mit der Prinzessin des Schattenreichs!",
+  "1.0.41.0" => "Würde sie schwächer, wenn wir die Festungen
+erobern, aus denen die Dunkelheit kommt?",
+  "1.0.42.0" => "Ich kann nicht anders... Ich werde
+Schmetterlingchen zurückholen!",
+  "1.0.44.0" => "Sie ist nicht im Dorf geblieben?! Aber wir
+können sie auch nicht im Stich lassen.",
+  "1.0.45.0" => "Warum werde ich schwächer? Die Macht der
+Schatten lässt nach...",
+  "1.0.46.0" => "Wir müssen die Dunkelheit weiter
+zurückdrängen, um sie zu schwächen!",
+  "1.0.47.0" => "Oh, du hast die Schatten vertrieben?
+Du bist schlauer, als du aussiehst.",
+  "1.0.48.0" => "Ich ziehe mich zurück.
+Meine Zeit wird schon noch kommen.",
+  "1.0.49.0" => "Die gemeine Katze läuft weg! Hinterher!
+Wir müssen Schmetterlingchen retten!",
+  "1.0.50.0" => "Ihr könnt mich einfach nicht in Ruhe lassen, oder?
+Wenn ihr einen Kampf wollt, dann bitte sehr!",
+  "1.0.51.0" => "Ich bin geschlagen...
+Tu, was du tun musst.",
+  "1.0.52.0" => "Wie konnte ich trotz der Macht der Schatten
+verlieren?!",
+  "1.0.53.0" => "Könntest du bitte Schmetterlingchen
+zurückgeben?",
+  "1.0.54.0" => "Hier... Ihr steckt also wirklich nicht mit der
+Hexe unter einer Decke?",
+  "1.0.55.0" => "Nein. Wir versuchen, sie aufzuhalten.
+Dafür müssen wir zum Seelenportal.",
+  "1.0.56.0" => "Ich komme mit, denn ich habe da noch ein
+paar Dinge mit ihr zu klären...",
+  "1.0.58.0" => "Ohne unser Hauptquartier können wir den
+Kampf nicht fortführen...",
+  "1.0.59.0" => "Ich kann mich nicht bewegen...",
+  "1.0.60.0" => "Ich konnte dich nicht retten... Vergib mir.",
+  "1.0.61.0" => "Das tut weh...",
+  "1.0.62.0" => "Ich konnte dich nicht retten... Vergib mir.",
+  "1.0.63.0" => "Aus dem Weg! Ich habe eine Rechnung mit
+der schwarzen Zauberin zu begleichen!",
+  "1.0.64.0" => "Diese Gestalt steht dir! Aber ich muss leider
+gehen, du putziges kleines Ungeheuer!",
+  "1.0.65.0" => "Ich kann mich nicht bewegen...",
+  "1.0.66.0" => "Hilfe!",
+  "1.0.67.0" => "Oho! Bis hierher hast du mich verfolgt?
+Gut, dann will ich etwas mit dir spielen...",
+  "1.0.68.0" => "Die Mittelfestung wurde geöffnet. Da geht
+irgendetwas vor sich... Seid vorsichtig!",
+  "1.0.69.0" => "Solange diese Schatten über dem Land liegen,
+sind wir im Nachteil. Wir müssen sie vertreiben...",
+  "1.0.70.0" => "Das ist kein gewöhnliches Monster... Wenn wir es
+besiegen, verschwinden vielleicht die Schatten!",
+  "1.0.71.0" => "Wenn wir die Festungen in den Schatten
+erobern, wird die Dunkelheit vertrieben!",
+  "1.0.72.0" => "Na dann los! Erobern wir die Festungen!",
+  "1.0.73.0" => "Diesen Schmetterling gebe ich nicht her.
+Ergreift das Mädchen!",
+  "1.0.74.0" => "Ich hole den Schmetterling zurück.
+Warte du im Dorf, Agnetha!",
+  "1.0.75.0" => "Oh, das ist nett von dir!",
+  "1.0.76.0" => "Ich bin noch immer zu schwach... Wir
+müssen die Schatten weiter ausbreiten!",
+  "1.0.77.0" => "Je mehr Schatten über dem Land liegen,
+desto stärker wird sie!",
+  "1.0.78.0" => "Oh, dann müssen wir die Feinde vertreiben,
+die es auf die Festungen abgesehen haben!",
+  "1.0.79.0" => "Jetzt können wir erst mal aufatmen!",
+  "1.0.80.0" => "Puh! Damit sollten sie uns erst mal
+in Ruhe lassen.",
+  "13.0.0.0" => "Wir übernehmen die Arbeit hier! Ihr solltet euch zur
+Siedlung begeben.",
+  "13.0.1.0" => "Ähm... Da wäre nur eine Kleinigkeit... Ich suche
+mein Schmetterlingchen...",
+  "13.0.2.0" => "Es ist ganz einfach. Ich will ihn wiederhaben...
+Also kriege ich ihn auch wieder!",
+  "13.0.3.0" => "Die gemeine Katze ist stärker, als sie aussieht!
+Bitte, bitte, seid auf der Hut!",
+  "13.0.4.0" => "Es ist ziemlich finster in dieser Festung...
+Ob das auch die Macht der Schatten ist?",
+  "13.0.5.0" => "Dieses Monster ist anders... Wenn wir es
+besiegen, wird die Dunkelheit hier weichen!",
+  "13.0.6.0" => "Das Seelenportal... Wo ist es?",
+  "13.0.7.0" => "Eine Frau ruft nach Hilfe? Wir müssen ihr helfen!",
+}

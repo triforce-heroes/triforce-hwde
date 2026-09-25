@@ -1,0 +1,285 @@
+Map {
+  "1.0.0.0" => "Ganondorf has stolen Hyrule Castle from us.
+We will not let him do the same with Hyrule!",
+  "1.0.1.0" => "The awakening ritual needs more time...
+Argoroks! Stall them!",
+  "1.0.2.0" => "Battling two dragons would be reckless!
+Defeating them individually is smarter!",
+  "1.0.3.0" => "Leave the Argorok in the north to us.
+If we do this together, it'll be easy!",
+  "1.0.4.0" => "Our allies are meeting us here! Everyone,
+hold your ground!",
+  "1.0.5.0" => "We can handle the Argorok to the south.
+Strike together and we will succeed!",
+  "1.0.6.0" => "Just a little more patience, brothers! We've
+got weapons heading to the North Square!",
+  "1.0.7.0" => "There's a weak spot in the castle wall!
+A Bombchu should break through easily!",
+  "1.0.8.0" => "Excellent! Now take care of the other
+Argorok!",
+  "1.0.9.0" => "The two Argoroks have been defeated! That
+should give us a moment to catch our breath.",
+  "1.0.10.0" => "Argoroks! Show the Hyrulean Forces just
+how terrifying Twilit dragons can be!",
+  "1.0.11.0" => "The pair have teamed up... If we can't defeat
+them, we'll keep losing soldiers!",
+  "1.0.12.0" => "Advance and protect the Bombchu!",
+  "1.0.13.0" => "The Argorok's targeting the Bombchu!
+We have to take care of that dragon fast!",
+  "1.0.14.0" => "The enemy is growing restless... We must do
+something soon, or else we may be done for!",
+  "1.0.15.0" => "Protect the Bombchu! We need it if we wanna
+break through that wall!",
+  "1.0.16.0" => "The Bombchu managed to open a hole!
+Hurry! We have to press on!",
+  "1.0.17.0" => "The plan was a failure! But how...?
+There must be another way.",
+  "1.0.18.0" => "Ha! Their plan failed--now's our chance!
+All forces, advance! Crush them in one attack!",
+  "1.0.19.0" => "I'll personally cut down the Hyrulean Forces
+at their roots!",
+  "1.0.20.0" => "Ganondorf himself has entered the fray!
+Everyone, keep your focus!",
+  "1.0.21.0" => "Lightning! Don't touch it or you'll be
+electrocuted!",
+  "1.0.22.0" => "Watch out for his lightning attacks!
+Ganondorf is extremely dangerous!",
+  "1.0.23.0" => "The Dark Power is growing too strong...
+Ganondorf's strength is too much!",
+  "1.0.24.0" => "The east side of the castle is weak!
+Enter the castle and take it!",
+  "1.0.25.0" => "If we capture the castle, our foe's morale will
+drop, causing the Dark Power to wane!",
+  "1.0.26.0" => "Now! Take the castle!",
+  "1.0.27.0" => "We have taken back Hyrule Castle!
+Ganondorf, you have lost!",
+  "1.0.28.0" => "Arrrgh. My base is taken, and with it
+goes my minions' morale...",
+  "1.0.29.0" => "Taking the castle while I was away? Clever.
+You even managed to drain my power.",
+  "1.0.30.0" => "This moment decides everything!
+You must defeat Ganondorf!",
+  "1.0.31.0" => "A single misstep will cost us everything!
+Take the castle as fast as you can!",
+  "1.0.32.0" => "Ha. You may have defeated this form...
+But my true power has already awakened!",
+  "1.0.33.0" => "Hyrule Castle is still controlled by our enemy,
+but at least Ganondorf is no more!",
+  "1.0.34.0" => "Ha... HA! You've succeeded at NOTHING!
+This body fails, but my true power is awoken!",
+  "1.0.35.0" => "Ganondorf is beaten! Now is the time to take
+back the castle!",
+  "1.0.36.0" => "They've taken my base?! Curse them! This is
+what I get for having WORTHLESS soldiers!",
+  "1.0.37.0" => "Ganondorf is defeated, and the castle is
+under our control! We are victorious!",
+  "1.0.38.0" => "Heh. As long as my true power is awakened...
+I CAN NEVER BE DEFEATED!",
+  "1.0.39.0" => "I...am...GANON!",
+  "1.0.40.0" => "Be brave! If we defeat Ganon, light will return
+to Hyrule and this war will be at an end!",
+  "1.0.41.0" => "Defeating Ganon will stop the lightning!
+Hurry! Before the castle is burned to cinders!",
+  "1.0.42.0" => "The castle is suffering some heavy lightning
+damage! We have to defeat Ganon right away!",
+  "1.0.43.0" => "The lightning damage has become severe!
+The castle will crumble any minute now...",
+  "1.0.44.0" => "The castle is in serious danger! We have to
+defeat Ganon immediately!",
+  "1.0.45.0" => "Watch Ganon's movements closely! I'm sure
+we've encountered patterns like those before!",
+  "1.0.46.0" => "You must have an item that can damage
+Ganon! Don't give up!",
+  "1.0.47.0" => "Here--take the Light Arrows! Use them to
+deliver the finishing blow to Ganon!",
+  "1.0.48.0" => "The Light Arrows' power is weak... 
+We must not have very many allies left...",
+  "1.0.49.0" => "If only more had survived, the Light Arrows
+could have gathered more energy...",
+  "1.0.50.0" => "The Light Arrows have gathered enough
+energy! Finish Ganon off once and for all!",
+  "1.0.51.0" => "I'll put all the energy I've got into the
+arrows!",
+  "1.0.52.0" => "All the energy I have...I place in the Light
+Arrows!",
+  "1.0.53.0" => "The Light Arrows can have all my energy too!",
+  "1.0.54.0" => "Any magic I have left...
+The Light Arrows can have it!",
+  "1.0.55.0" => "I, too, place my energy and trust in the Light
+Arrows. May they help us restore peace!",
+  "1.0.56.0" => "Urgh... I have to give them credit...",
+  "1.0.57.0" => "It looks like it's working!",
+  "1.0.58.0" => "Fight until the battle's end!",
+  "1.0.59.0" => "Why... Why do they keep resisting me...?
+Why don't they just give up...?",
+  "1.0.60.0" => "Just a little bit more!",
+  "1.0.61.0" => "Victory is a step away! Finish him!",
+  "1.0.62.0" => "HA HA HA! Hyrule...is...MINE!",
+  "1.0.63.0" => "No... We came so close... How could we
+lose...?",
+  "1.0.64.0" => "Hyrule...is...MINE! Now, bow to your Demon
+King!",
+  "1.0.65.0" => "Our base has fallen... This battle is lost...",
+  "1.0.66.0" => "I think...this is where King Dodongo broke
+through during a previous battle!",
+  "1.0.67.0" => "Link, I'm sending your strength to the Light
+Arrows as well!",
+  "1.0.68.0" => "Yes, yes! The enemy's lost its will to fight!",
+  "1.0.69.0" => "I'm not afraid of Ganondorf! I'll bring the
+pain while you take the castle back!",
+  "1.0.70.0" => "I'll hold out against Ganondorf as long as I
+can. In the meantime, recapture the castle!",
+  "1.0.71.0" => "Focus on taking the castle! I can hold my
+own against Ganondorf, no problem!",
+  "1.0.72.0" => "I'll try and buy you some time! That means
+you have to take the castle! Hurry!",
+  "1.0.73.0" => "No, not yet... I require more time to reach
+my full strength...",
+  "1.0.74.0" => "Just a little while longer... I can feel my power
+beginning to surge...",
+  "1.0.75.0" => "My true power has awoken! Now there's
+no one, hero or goddess, who can defeat me!",
+  "1.0.76.0" => "The enemy is approaching from behind!
+Protect the princess!",
+  "1.0.77.0" => "Do they mean to harm the princess?",
+  "1.0.78.0" => "The enemy's forces are closing in on the
+princess from the north! I must help her!",
+  "1.0.79.0" => "What should we do? Enemies are everywhere!",
+  "1.0.80.0" => "Calm down! Our first and most important
+mission is to keep the princess safe!",
+  "1.0.81.0" => "There. The immediate threat is taken care of.",
+  "1.0.82.0" => "Leave the rest of the enemies to me!",
+  "1.0.83.0" => "Keep at it! We'll extinguish that foolish light!",
+  "1.0.84.0" => "How can they...have so much strength...?",
+  "1.0.85.0" => "If we defeat those enemies, we should be
+able to restore power to the Light Arrows!",
+  "1.0.86.0" => "We defeated one, but there are two more!",
+  "1.0.87.0" => "The second one's down!",
+  "1.0.88.0" => "Just one more, and the Light Arrows will
+be at full strength!",
+  "1.0.89.0" => "The Light Arrows have been restored to their
+former glory! Now, Ganon will surely fall!",
+  "1.0.90.0" => "I took down all the enemies over here!",
+  "1.0.91.0" => "I'll keep the princess safe.",
+  "1.0.92.0" => "The enemy forces are dwindling! Now's
+our chance to stop Ganondorf!",
+  "1.0.93.0" => "If we all work together, victory is assured!",
+  "1.0.94.0" => "Oh no... Protect the Bombchu! Don't let
+them destroy it!",
+  "13.0.0.0" => "Attacking two dragons at once is foolish!
+We need to defeat them before they join up!",
+  "13.0.1.0" => "Leave the north dragon to us! If we attack it
+together, it will fall in no time!",
+  "13.0.2.0" => "Help is on the way! Just hold out until
+it arrives!",
+  "13.0.3.0" => "The dragon of the south is ours! If we attack
+it together, it will surely perish!",
+  "13.0.4.0" => "Have patience, everyone! We'll have a
+powerful weapon in the North Square soon!",
+  "13.0.5.0" => "There's a weak spot on the castle wall!
+Let's use a Bombchu to knock it down!",
+  "13.0.6.0" => "Excellent! Now you just need to take care
+of the other dragon!",
+  "13.0.7.0" => "Perfect! Both dragons have been defeated!
+That should give us some breathing room!",
+  "13.0.8.0" => "Drat, the dragons have rendezvoused...
+Defeat them now, before it gets worse!",
+  "13.0.9.0" => "March forward while protecting the Bombchu!",
+  "13.0.10.0" => "My goodness, our enemies just won't let up...
+We'll be finished if we don't do something!",
+  "13.0.11.0" => "Defend the Bombchu! We can't break through
+the castle's wall without it!",
+  "13.0.12.0" => "Wonderful! Now, into the opening the
+Bombchu created for us!",
+  "13.0.13.0" => "The Bombchu plan failed... Now what do
+we do...?",
+  "13.0.14.0" => "Ganondorf himself has appeared! Proceed with
+extreme caution, but don't lose focus!",
+  "13.0.15.0" => "The Dark Power is growing... Ganondorf is
+becoming more dangerous every second!",
+  "13.0.16.0" => "The east side of the castle is weak!
+We can enter from there!",
+  "13.0.17.0" => "If we capture the castle, Ganondorf's power
+will wane and his army's morale will fall!",
+  "13.0.18.0" => "This moment decides everything!
+Defeat Ganondorf!",
+  "13.0.19.0" => "Hyrule Castle may still be standing, but
+at least Ganondorf has been defeated!",
+  "13.0.20.0" => "Ganondorf is defeated! Now is the time to take
+back the castle!",
+  "13.0.21.0" => "Don't fear the Ganon beast! It's powerful,
+but it's still mortal! Strike it down!",
+  "13.0.22.0" => "You'll need the Light Arrows! Here--use them
+to finish Ganon off!",
+  "13.0.23.0" => "The Light Arrows have gathered enough
+energy! Let's rid the world of Ganon!",
+  "13.0.24.0" => "I'm putting all my strength into the arrow!",
+  "13.0.25.0" => "I'm putting all my strength into this arrow!",
+  "13.0.26.0" => "I'll pour my strength into the arrow as well!",
+  "13.0.27.0" => "Don't waste the strength I've given you!",
+  "13.0.28.0" => "All of my strength has been placed in that
+arrow! You'd better make this one count!",
+  "13.0.29.0" => "We've used up every last ounce of our
+strength...",
+  "13.0.30.0" => "We've lost our base! Without it, how
+can we continue...?",
+  "13.0.31.0" => "Hmm... This looks like the place where
+King Dodongo once broke through!",
+  "13.0.32.0" => "Watch Ganon's movements closely! I'm sure
+you've fought a similar enemy before!",
+  "13.0.33.0" => "There must be some way to damage Ganon...
+Have you tried all your weapons?",
+  "13.0.34.0" => "The Light Arrows are so weak... Is it
+because so many allies have fallen?",
+  "13.0.35.0" => "If only all of our friends were still with us...
+Then maybe we'd have succeeded...",
+  "13.0.36.0" => "If we defeat Ganon, those thunderbolts will
+stop! Take him out before it's too late!",
+  "13.0.37.0" => "The lightning strikes are too much for the
+castle! We have to do something!",
+  "13.0.38.0" => "It's now or never! Quickly, capture the keep!",
+  "13.0.39.0" => "I'll distract Ganondorf! You go capture the keep!",
+  "13.0.40.0" => "You have to capture the castle! I can keep
+Ganondorf preoccupied while you do!",
+  "13.0.41.0" => "Let me distract Ganondorf while you capture
+the keep! Hurry! I won't last long!",
+  "13.0.42.0" => "I'll make Ganondorf my top priority while
+you focus on taking that keep. But hurry!",
+  "13.0.43.0" => "We've finally recaptured Hyrule Castle!
+Ganondorf, you are defeated!",
+  "13.0.44.0" => "I'll attack Ganondorf while he's in Hyrule Castle!
+There's no time to argue! Let's go!",
+  "13.0.45.0" => "Ganondorf has fallen and we've recaptured the
+castle! Victory belongs to us!",
+  "13.0.46.0" => "We've recaptured Hyrule Castle! Ganondorf,
+you've lost! Deal with the shame!",
+  "13.0.47.0" => "The Light Arrows have been restored to their
+former glory! Ganon will soon meet his doom!",
+  "13.0.48.0" => "The Light Arrows are restored! There's no way
+Ganon will be able to defeat us now!",
+  "13.0.49.0" => "There are enemies behind us as well!
+We need to keep Zelda safe!",
+  "13.0.50.0" => "Enemies are attacking Zelda from the north!
+We have to help her!",
+  "13.0.51.0" => "Stay calm, everyone! The princess's safety
+is our main concern!",
+  "13.0.52.0" => "It appears that we're safe, for now,
+anyway.",
+  "13.0.53.0" => "Leave the rest of our foes to me!",
+  "13.0.54.0" => "I've taken care of a handful of our attackers!",
+  "13.0.55.0" => "Leave Zelda's safety to me!",
+  "13.0.56.0" => "Unbelievable. I can't believe that they still
+have some fight left in them!",
+  "13.0.57.0" => "They still have enough strength to fight?
+That's incredible...and worrisome.",
+  "13.0.58.0" => "Still, if we defeat those enemies, the Light Arrows
+will regain their former strength!",
+  "13.0.59.0" => "But we can't let that stop us! If we defeat those
+enemies, the Light Arrows will regain their power!",
+  "13.0.60.0" => "If we all work together, then nothing will stand
+between us and victory!",
+  "13.0.61.0" => "Enemies from behind as well...
+Princess Ruto is in trouble!",
+  "13.0.62.0" => "Enemies are attacking Princess Ruto from
+the north! We need to protect her!",
+}

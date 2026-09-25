@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "A0%1sF6R rejoint le champ de bataille !",
+  "0.2.0" => "A0%1sF4R prépare une attaque puissante contre A0%2sF0R !",
+  "0.3.0" => "Éliminez immédiatement A0%1sF0R !",
+  "0.4.0" => "A0%1sF4R continue à préparer une attaque puissante contre A0%2sF0R !",
+  "0.5.0" => "A0%1sF4R bat en retraite pour préparer son attaque contre A0%2sF0R !",
+  "0.6.0" => "A0%1sF4R lance une attaque puissante sur A0%2sF0R !",
+  "0.7.0" => "A0%1sF4R ne doit pas tomber aux mains de l'ennemi !",
+  "0.8.0" => "A0%1sF4R n'a pas pu poursuivre son attaque !",
+  "0.9.0" => "A0%1sF4R attaque A0%2sF0R !",
+}

@@ -1,0 +1,185 @@
+Map {
+  "1.0.0.0" => "Me preocupa la princesa, pero primero
+debemos rescatar a Ruto.",
+  "1.0.1.0" => "¡Nadie pasará por aquí!",
+  "1.0.2.0" => "No parecen muy dispuestos a cooperar,
+así que solo nos queda abrirnos paso.",
+  "1.0.3.0" => "Si dan un paso más, ¡les lanzaremos
+rocas grandes y pesadas!",
+  "1.0.4.0" => "Debemos impedir que sigan lanzando rocas.
+¡Por los bastiones del centro de la montaña!",
+  "1.0.5.0" => "Si capturamos los bastiones del centro de
+la montaña tal vez paren de lanzar rocas...",
+  "1.0.6.0" => "¡Escalaremos la montaña y tomaremos
+los bastiones de las rocas!",
+  "1.0.7.0" => "¡Las rocas nos impiden avanzar!",
+  "1.0.8.0" => "Y yo que pensaba que los goron
+eran agradables...",
+  "1.0.9.0" => "Darunia, su líder, siempre ha sido bueno,
+pero desde que conoció a esa tal Zelda...",
+  "1.0.10.0" => "¡La princesa Zelda nunca haría nada malo!
+¿Qué puede haber pasado?",
+  "1.0.11.0" => "¡Este bastión también será nuestro!",
+  "1.0.12.0" => "¡Fantástico! ¡Solo nos falta un bastión
+de las rocas!",
+  "1.0.13.0" => "Bien, solo queda otro bastión de las rocas.",
+  "1.0.14.0" => "Si no tomamos los bastiones de las rocas,
+nuestra base estará perdida.",
+  "1.0.15.0" => "La única forma de evitar que la base caiga
+es tomar los bastiones de las rocas.",
+  "1.0.16.0" => "¡Hemos sido más rápidos que el enemigo!",
+  "1.0.17.0" => "¡Bien! Ahora solo nos falta el otro.",
+  "1.0.18.0" => "Solo queda otro bastión de las rocas.",
+  "1.0.19.0" => "¡Debemos conquistar los bastiones de
+las rocas! La base está en peligro.",
+  "1.0.20.0" => "Debemos volver a conquistar los bastiones
+de las rocas, o la base estará en apuros...",
+  "1.0.21.0" => "¡Tomen los bastiones de las rocas! ¡Si no,
+la base estará acabada!",
+  "1.0.22.0" => "¡Están atacando la base! Debemos tomar
+los bastiones de las rocas cuanto antes.",
+  "1.0.23.0" => "¡Capturen los bastiones de las rocas!
+¡La base no resistirá mucho más!",
+  "1.0.24.0" => "¡Rápido, tomen los bastiones de las rocas!
+La base tiene los segundos contados...",
+  "1.0.25.0" => "Si fuéramos por ahí, adelantaríamos mucho
+tiempo.",
+  "1.0.26.0" => "Si fuéramos por ahí, atajaríamos mucho...",
+  "1.0.27.0" => "¡Fantástico! Ya no caen más rocas.
+La base estará a salvo por el momento.",
+  "1.0.28.0" => "¿Quién osa atacarnos? Quienquiera que
+sea, deberá enfrentarse al gran jefe goron.",
+  "1.0.29.0" => "¡Es Darunia! ¡Tenemos que hacer
+que recupere la cordura!",
+  "1.0.30.0" => "Vaya, Darunia ha dado la cara...
+Debemos acabar con esto cuanto antes.",
+  "1.0.31.0" => "Hay que calmarlo para poder interrogarlo.
+Tal y como está ahora es imposible...",
+  "1.0.32.0" => "¡Nosotros nos ocuparemos, Darunia!",
+  "1.0.33.0" => "¡Qué fuerza! ¡Si sigue así, el bastión
+caerá rápidamente!",
+  "1.0.34.0" => "¡Darunia ha entrado en la base
+de los aliados!",
+  "1.0.35.0" => "Darunia intenta destruir nuestra base.
+¡Debemos impedirlo!",
+  "1.0.36.0" => "¡Hay que detener a Darunia! ¡Está
+destrozando la base!",
+  "1.0.37.0" => "¡Rápido, detengan a Darunia
+o la base caerá!",
+  "1.0.38.0" => "Bien, me retiraré por el momento,
+¡pero volveré a atacar!",
+  "1.0.39.0" => "¡Rayos, no hemos podido apresarlo!",
+  "1.0.40.0" => "Mmm, ¡qué rico! Empiezo a recuperar
+las fuerzas...",
+  "1.0.41.0" => "¡He recuperado mi fuerza! Compañeros
+goron, volvamos al ataque.",
+  "1.0.42.0" => "¡Parece recuperado del todo! Si sigue así,
+¡esto no acabará nunca!",
+  "1.0.43.0" => "Ha recuperado todas sus fuerzas.
+No parece que esto vaya a terminar nunca.",
+  "1.0.44.0" => "¿Cómo logrará recuperar fuerzas? ¿Estará
+ocultando algún secreto en su base?",
+  "1.0.45.0" => "¿Cómo ha podido recuperar sus fuerzas?
+Puede que la respuesta esté en su base.",
+  "1.0.46.0" => "¡Tengo una idea! Primero debemos ir
+a ese bastión.",
+  "1.0.47.0" => "Bien, tengo una idea. Vayamos primero
+a ese bastión.",
+  "1.0.48.0" => "¡Tomen ese bastión! Es vital si queremos
+que mi plan funcione.",
+  "1.0.49.0" => "¡Tomen ese bastión, rápido! Todo mi plan
+depende de ello.",
+  "1.0.50.0" => "¡Conquisten ese bastión!",
+  "1.0.51.0" => "¡Deben tomar el control de este bastión!",
+  "1.0.52.0" => "¡Fuera de mi camino!",
+  "1.0.53.0" => "¡Quita de en medio!",
+  "1.0.54.0" => "¡Enseñémosles cuál es la verdadera
+fuerza goron!",
+  "1.0.55.0" => "¡Vamos por ellos!",
+  "1.0.56.0" => "Al intentar dispersar a las tropas de
+Darunia solo hemos empeorado la situación.",
+  "1.0.57.0" => "Será mejor retirarse por el momento.",
+  "1.0.58.0" => "¡Vuelvo a estar en forma! ¡Al ataque!",
+  "1.0.59.0" => "¡Vamos, démosles una buena lección!",
+  "1.0.60.0" => "Ya está todo listo.
+¡Pongamos en marcha el plan!",
+  "1.0.61.0" => "Empecemos.",
+  "1.0.62.0" => "¿Qué ocurre?",
+  "1.0.63.0" => "¡El bistec de roca que había escondido
+en mi sala se ha estropeado!",
+  "1.0.64.0" => "¡Esto es imperdonable! ¡Tropas, avancen!",
+  "1.0.65.0" => "¡Vamos!",
+  "1.0.66.0" => "Ahora Darunia ya no podrá recuperar
+fuerzas. ¡Es el momento de acabar con él!",
+  "1.0.67.0" => "¡Volaremos su base con
+los bombchus!",
+  "1.0.68.0" => "Los famosos bombchus goron... Si no los
+detenemos, la base estará en un aprieto.",
+  "1.0.69.0" => "¡Un bombchu se acerca a la base!",
+  "1.0.70.0" => "¡Hemos recibido un buen golpe!
+¿Estará a salvo la base?",
+  "1.0.71.0" => "Alguien está dirigiendo los bombchus.
+¡Encuéntrenlos y acaben con ellos!",
+  "1.0.72.0" => "¡Vamos, bombchu! ¡Al bastión goron!",
+  "1.0.73.0" => "Todo ha ido bien.",
+  "1.0.74.0" => "Creo que la hechicera está detrás de esto.
+¿Controlarán sus aliados a los goron?",
+  "1.0.75.0" => "Me siento raro...",
+  "1.0.76.0" => "¡Nos rendimos!",
+  "1.0.77.0" => "Siento mucho lo ocurrido... No sé en qué
+estábamos pensando.",
+  "1.0.78.0" => "¿Les importaría dejar en libertad a
+la princesa Ruto?",
+  "1.0.79.0" => "¡Oh! ¡Por supuesto! Nos hemos portado
+muy mal con ella...",
+  "1.0.80.0" => "Ha sido una experiencia espantosa.
+Soy Ruto, la princesa zora.",
+  "1.0.81.0" => "¿No querían saber más sobre la princesa
+Zelda? Pues hace unos días...",
+  "1.0.83.0" => "¡La base ha caído! Todo ha terminado...",
+  "1.0.84.0" => "La base ha caído. No tenemos más remedio
+que rendirnos.",
+  "1.0.85.0" => "Qué pena, ahora que íbamos a saber
+qué había pasado con la princesa Zelda...",
+  "1.0.86.0" => "Hemos estado a punto de conseguir
+una pista. Lo siento...",
+  "1.0.87.0" => "Protejan ese bastión; es necesario
+para que el plan salga bien.",
+  "1.0.88.0" => "Hemos conseguido un bombchu.
+¡Ahora podremos atacar su bastión!",
+  "1.0.89.0" => "Si usamos un bombchu, podremos
+conquistar fácilmente el bastión.",
+  "13.0.0.0" => "Debemos frenar la avalancha de rocas...
+La clave está en los bastiones de las rocas.",
+  "13.0.1.0" => "¡Bien! Vayamos por el otro bastión de las rocas.",
+  "13.0.2.0" => "Si no capturamos los bastiones
+de las rocas, la base caerá.",
+  "13.0.3.0" => "Debemos capturar también el otro bastión.",
+  "13.0.4.0" => "A menos que recuperemos ese bastión
+de las rocas, la base aliada caerá.",
+  "13.0.5.0" => "¡Rápido, por los bastiones de las rocas!
+La base está sufriendo muchos daños.",
+  "13.0.6.0" => "¡Capturemos los bastiones de las rocas!
+La base está a punto de ser destruida.",
+  "13.0.7.0" => "Tomemos este atajo; llegaremos más rápido.",
+  "13.0.8.0" => "¿Ha aparecido Darunia? Tenemos que detenerlo.",
+  "13.0.9.0" => "Darunia quiere tomar nuestra base...
+Nunca pensé que ocurriría algo así.",
+  "13.0.10.0" => "¡Detengan a Darunia! Si no, acabará con la base.",
+  "13.0.11.0" => "No tiene ni un rasguño... ¿Es que esto no va
+a acabar nunca?",
+  "13.0.12.0" => "¿Cómo puede recuperarse? Quizás la clave
+esté en la base.",
+  "13.0.13.0" => "Tengo una idea. Vayamos primero a ese bastión.",
+  "13.0.14.0" => "Capturen ese bastión, ¡rápido! Es necesario para
+llevar a cabo mi plan.",
+  "13.0.15.0" => "¡Capturaré el bastión!",
+  "13.0.16.0" => "¡Apártate de mi camino!",
+  "13.0.17.0" => "Ya está todo listo. Pongamos en marcha mi plan.",
+  "13.0.18.0" => "¡Han acabado con nuestra base! Ya no hay nada
+que podamos hacer.",
+  "13.0.19.0" => "Creí que aún había algo de esperanza... Parece
+que me equivocaba.",
+  "13.0.20.0" => "¿Podrías defender ese bastión?
+Lo necesito para ejecutar mi plan.",
+}

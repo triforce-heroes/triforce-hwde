@@ -1,0 +1,5 @@
+Map {
+  "0.0.0" => "A0%1sF0R appeared!",
+  "0.1.0" => "A0%1sF0R is advancing to heal the wounded A0%2sF5R!",
+  "0.2.0" => "A0%2sF1R surrounding A0%1sF4R have been fully healed!",
+}

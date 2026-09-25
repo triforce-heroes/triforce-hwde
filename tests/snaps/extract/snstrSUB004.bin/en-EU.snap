@@ -1,0 +1,15 @@
+Map {
+  "0.1.0" => "A0%1sF0R is about to call for A2Scout TroopsR!",
+  "0.2.0" => "Defeat A0%1sF0R before A2Scout TroopsR can be called!",
+  "0.3.0" => "A0%1sF0R has temporarily retreated!",
+  "0.4.0" => "A0%1sF0R has summoned A2Scout TroopsR to the battlefield!",
+  "0.5.0" => "A0%1sF0R is preparing to retreat again!",
+  "0.6.0" => "A0%1sF0R has finished requesting reinforcements!",
+  "0.7.0" => "You defeated A0%1sF0R!",
+  "0.8.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.9.0" => "A2Scout TroopsR will arrive any moment!",
+  "0.10.0" => "Defeat A0%1sF0R to stop the A2Scout TroopsR from appearing!",
+  "0.11.0" => "A0%1sF0R is calling for support!",
+  "0.12.0" => "A0%1sF0R has reappeared!",
+  "0.13.0" => "A0%1sF0R is going to call for A2Scout TroopsR!",
+}

@@ -1,0 +1,7 @@
+Map {
+  "0.0.0" => "Prepare for an unexpected bombardment!",
+  "0.1.0" => "A0%1sF1R have appeared on the battlefield!",
+  "0.2.0" => "The A0%1sF1R are targeting you with a A2seed attackR!",
+  "0.3.0" => "Defeat the A0%1sF3R to stop the A2seed attackR!",
+  "0.4.0" => "You defeated the A0%1sF3R! The A2seed attackR stopped!",
+}

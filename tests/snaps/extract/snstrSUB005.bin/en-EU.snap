@@ -1,0 +1,6 @@
+Map {
+  "0.1.0" => "A0%1sF1R have appeared on the battlefield!",
+  "0.2.0" => "A0%1sF1R started a A2seed attackR on the A1Allied BaseR!",
+  "0.3.0" => "Defeat the A0%1sF3R and stop the A2seed attackR!",
+  "0.4.0" => "You defeated the A0%1sF3R and stopped the A2seed attackR!",
+}

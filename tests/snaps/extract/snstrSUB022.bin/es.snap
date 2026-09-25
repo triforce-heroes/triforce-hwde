@@ -1,0 +1,9 @@
+Map {
+  "0.0.0" => "¡Se han cerrado las puertas A0%1sF6R!",
+  "0.1.0" => "¡Las A0%1sF1R han aparecido en A0%1sF2R!",
+  "0.2.0" => "¡Has vencido A0%1sF4R!",
+  "0.3.0" => "¡Vence A0%1sF4R y huye A0%2sF6R!",
+  "0.4.0" => "¡Se han abierto las puertas A0%1sF6R!",
+  "0.5.0" => "¡Ha empezado la caza del objeto!",
+  "3.100.0" => "A2R",
+}

@@ -1,0 +1,17 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡Impide que A0%1sF2R se acerque!",
+  "0.3.0" => "¡A0%1sF0R te ha robado un objeto!",
+  "0.4.0" => "¡Vence A0%1sF4R y recupera lo que te ha robado!",
+  "0.5.0" => "¡A0%1sF0R se dirige hacia A0%2sF2R!",
+  "0.6.0" => "¡A0%1sF0R te ha robado las A6bombasR!",
+  "0.7.0" => "¡A0%1sF0R te ha robado el A6bumeránR!",
+  "0.8.0" => "¡A0%1sF0R te ha robado el A6ganchoR!",
+  "0.9.0" => "¡A0%1sF0R te ha robado el A6arco y las flechasR!",
+  "0.10.0" => "¡A0%1sF0R se ha retirado temporalmente!",
+  "0.11.0" => "¡A0%1sF0R ha vuelto a aparecer en A0%2sF2R!",
+  "0.12.0" => "¡Has vencido A0%1sF4R!",
+  "0.13.0" => "¡Has recuperado lo que te habían robado!",
+  "0.14.0" => "¡A0%1sF0R te ha robado el A6martilloR!",
+  "0.15.0" => "¡A0%1sF0R te ha robado la A6ocarinaR!",
+}

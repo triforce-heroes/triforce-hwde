@@ -1,0 +1,214 @@
+Map {
+  "1.0.0.0" => "Es nuestra última oportunidad para salvar Hyrule
+de las tinieblas... ¡Acabemos con Zant y Grahim!",
+  "1.0.1.0" => "Pocos enemigos veréis como yo... ¡No lograréis
+vencerme jamás!",
+  "1.0.2.0" => "El enemigo es demasiado poderoso. Basta
+con que uno de nosotros caiga para perder.",
+  "1.0.3.0" => "No os preocupéis, no caeré tan fácilmente.",
+  "1.0.4.0" => "¡Y Link tampoco!",
+  "1.0.5.0" => "Deberíamos ir primero al sur,
+a por Grahim.",
+  "1.0.6.0" => "Aunque debemos tener mucho cuidado. Hace
+mucho calor, y eso nos hará perder energía.",
+  "1.0.7.0" => "El calor del desierto me está debilitando, y
+además hay enemigos por doquier. ¡Ayuda!",
+  "1.0.8.0" => "¡Un oasis! Es justo lo que necesitaba.",
+  "1.0.9.0" => "Controlar los oasis en el desierto es importante.
+¡Los podemos usar para reponer fuerzas!",
+  "1.0.10.0" => "Si logramos controlar el oasis, podremos
+resistir las inclemencias del desierto.",
+  "1.0.11.0" => "¿Qué pasa? ¿A qué estáis esperando?",
+  "1.0.12.0" => "Me temo que sois más fuertes de lo que
+pensaba. Si no os importa, creo que huiré.",
+  "1.0.13.0" => "¿Grahim está tratando de huir?",
+  "1.0.14.0" => "No me da buena espina... ¿Deberíamos ir tras él?",
+  "1.0.15.0" => "¡Grahim ha caído! Aunque diría que ha sido
+demasiado fácil...",
+  "1.0.17.0" => "Las tropas enemigas se han dividido. ¡Cerrad
+las puertas y aislad a los rezagados!",
+  "1.0.18.0" => "¡Me he quedado aislada! Creo que he caído
+en su trampa.",
+  "1.0.19.0" => "Quedarse sola en el desierto es muy
+peligroso. ¡Debes volver con nosotros!",
+  "1.0.20.0" => "¡Hay demasiados enemigos! Ojalá no
+estuviese sola...",
+  "1.0.21.0" => "¡No es momento para lamentarse! Debo volver
+con los demás.",
+  "1.0.22.0" => "No sé cuánto más podré aguantar... Tengo que
+buscar un modo de salir de aquí.",
+  "1.0.23.0" => "Me han rodeado por completo.
+¿Qué puedo hacer?",
+  "1.0.24.0" => "¡Los enemigos han rodeado a Lana!",
+  "1.0.25.0" => "El enemigo nos ha rodeado. ¿Qué podemos hacer?",
+  "1.0.26.0" => "¡Debemos salvar a Link!",
+  "1.0.27.0" => "No quiero tener que rendirme mientras todos
+luchan. ¡Tengo que salir de aquí!",
+  "1.0.28.0" => "De poco sirve que luchéis. Acabaréis vagando
+por el desierto... o muertos.",
+  "1.0.29.0" => "¡El enemigo se acerca! Cerrad la entrada
+a la aldea para defender la base.",
+  "1.0.30.0" => "Las tropas que se encuentran en el oasis del
+norte deben volver a la base cuanto antes.",
+  "1.0.31.0" => "Si consigues vencerme, dejaré que vuelvas con
+tus amiguitos. ¿Crees que serás capaz?",
+  "1.0.32.0" => "Es como si quisiese evitar un combate directo...
+¡Rápido, acabad con él!",
+  "1.0.33.0" => "Las tropas de Hyrule no tienen nada que hacer
+frente al poder de las tinieblas. ¡Morirán todos!",
+  "1.0.34.0" => "No podemos perder el tiempo. ¡Rápido,
+acabad con Zant!",
+  "1.0.35.0" => "¡Esto no puede acabar aquí!",
+  "1.0.36.0" => "Algo no va bien. Hemos acabado con Zant y
+Grahim, pero el enemigo aún es muy fuerte...",
+  "1.0.37.0" => "Esto no me gusta nada... ¡Hay que reagruparse!",
+  "1.0.38.0" => "Al fin estamos a salvo... ¡Ahora
+debemos darles una lección!",
+  "1.0.39.0" => "Las probabilidades de ganar son escasas, pero no
+me agradaría sufrir una derrota.",
+  "1.0.40.0" => "Mientras pueda ayudar, el enemigo
+no será un problema.",
+  "1.0.41.0" => "No me apetece nada luchar, pero si no me queda
+otra...",
+  "1.0.42.0" => "El enemigo viene del norte. ¡Esto va a ser muy
+divertido!",
+  "1.0.43.0" => "¡También se acercan por el sur! No pasa nada,
+yo me ocuparé de ellos.",
+  "1.0.44.0" => "Incluso sin Grahim ni Zant, el enemigo parece
+estar muy organizado...",
+  "1.0.45.0" => "Me imagino que alguien les está dando órdenes.",
+  "1.0.46.0" => "Es probable... Pero lo primero es detener a
+los enemigos que vienen hacia aquí.",
+  "1.0.47.0" => "¡Han cruzado la puerta! Son demasiados...",
+  "1.0.48.0" => "¡Siguen viniendo! Creo que alguien está detrás
+de todo esto...",
+  "1.0.49.0" => "Al vencer a Zant y a Grahim parece que
+el número de enemigos ha aumentado.",
+  "1.0.50.0" => "Grahim y Zant se comportaban de una forma
+extraña...",
+  "1.0.51.0" => "Creo que se trataba de un par de impostores.
+Los auténticos tienen que estar en alguna parte.",
+  "1.0.52.0" => "Debo proteger la base a toda costa. ¡Localizad a
+los auténticos Grahim y Zant y derrotadlos!",
+  "1.0.53.0" => "¡Buscad por otra parte! No se les habrá ocurrido
+esconderse donde estaban sus dobles.",
+  "1.0.54.0" => "Seguramente nos hayan estado vigilando
+desde algún sitio.",
+  "1.0.55.0" => "Creo que han descubierto nuestro plan.",
+  "1.0.56.0" => "Acabemos con ellos. ¡Atacad!",
+  "1.0.57.0" => "¡Están atacando nuestra base! Rápido,
+debemos acabar con Zant y Grahim.",
+  "1.0.58.0" => "Al fin me habéis encontrado, inútiles. ¿De verdad
+creéis que podéis ganar con semejante ejército?",
+  "1.0.59.0" => "Veo que os estáis divirtiendo... Siento tener que
+aguaros la fiesta.",
+  "1.0.60.0" => "Si acabamos con los dos, la victoria será nuestra.",
+  "1.0.61.0" => "¿Cómo han podido darle la vuelta a la situación?",
+  "1.0.62.0" => "¡Aún nos queda Grahim! Vamos a por él.",
+  "1.0.63.0" => "Es imposible que unos simples mortales me
+hayan vencido.",
+  "1.0.64.0" => "¡Aún nos queda Zant! Vamos a por él.",
+  "1.0.65.0" => "¡Hemos derrotado a las tropas enemigas!
+Aún hay esperanza para Hyrule.",
+  "1.0.66.0" => "Están atacando la base. ¡No podemos dejar
+que caiga!",
+  "1.0.67.0" => "La base está a punto de caer. ¡Defendedla!",
+  "1.0.68.0" => "Necesito ayuda... No puedo encargarme
+de esto yo sola.",
+  "1.0.69.0" => "No podré resistir mucho más... ¡Ayudadme!",
+  "1.0.70.0" => "Os ruego que me disculpéis. El enemigo era
+demasiado poderoso...",
+  "1.0.71.0" => "La base ha caído... De nada sirve seguir luchando.",
+  "1.0.72.0" => "No puedo seguir luchando.",
+  "1.0.73.0" => "Debemos tener más cuidado en la próxima batalla.",
+  "1.0.74.0" => "Perfecto; el sol del desierto los debilita.
+¡Esbirros, acabad con el enemigo del norte!",
+  "1.0.75.0" => "¡Acaba con los enemigos del bastión
+y las puertas se abrirán!",
+  "1.0.76.0" => "Hay otro oasis al norte; si nos hacemos con
+ambos no tendremos nada que temer.",
+  "1.0.77.0" => "Mis informes confirman que el enemigo
+se dirige al bastión. Lo interceptaré.",
+  "1.0.78.0" => "¡Tenemos que defender el bastión!
+¡Vamos a ayudar a Fay!",
+  "1.0.79.0" => "Percibo acciones sospechosas.
+Recomiendo un ataque inmediato.",
+  "1.0.80.0" => "Entonces hay que atacar todo cuanto nos
+parezca sospechoso, ¿no? ¡Vamos, Midna!",
+  "1.0.81.0" => "Tendré que echar una mano. ¡No me
+quedaré tranquila si Darunia va solo!",
+  "1.0.82.0" => "Ya no percibo acciones sospechosas.
+Nuestra defensa se ha reforzado.",
+  "1.0.83.0" => "La verdad es que no me ha resultado
+demasiado difícil ocuparme del enemigo.",
+  "1.0.84.0" => "¡Eh, que si no hubiera sido por mí,
+habríais caído!",
+  "1.0.85.0" => "¡Se ha reducido el número de enemigos!
+¡Es el momento perfecto para atacar!",
+  "1.0.86.0" => "Misión finalizada. Yo continuaré
+ocupándome del enemigo.",
+  "13.0.0.0" => "Es nuestra última oportunidad de salvar Hyrule.
+¡Acabemos con Zant y Grahim cuanto antes!",
+  "13.0.1.0" => "Estamos en desventaja... Basta con que caiga
+uno de nosotros para asegurar la derrota.",
+  "13.0.2.0" => "Haré lo que pueda por mantenerme con vida.
+¡Luchad con prudencia!",
+  "13.0.3.0" => "Grahim está en el desierto del sur. ¡A por él!",
+  "13.0.4.0" => "De acuerdo, pero habrá que tener mucho cuidado.
+El calor del desierto puede ser muy traicionero.",
+  "13.0.5.0" => "¡Que alguien ayude a Link! Entre los monstruos
+y el calor, no podrá resistir mucho más.",
+  "13.0.6.0" => "Si capturamos un oasis, no tendremos que
+preocuparnos por el calor del desierto.",
+  "13.0.7.0" => "Al sur del desierto hay otro oasis. Si nos
+hacemos con los dos, tendremos ventaja.",
+  "13.0.8.0" => "Algo no encaja... Pero no importa,
+¡no podemos dejar que Grahim escape!",
+  "13.0.9.0" => "Si no unimos nuestras fuerzas, no podremos
+ganar. ¡Ayudemos a Lana!",
+  "13.0.10.0" => "Hay demasiados... Tenemos que dar con
+una forma de avanzar.",
+  "13.0.11.0" => "¡No es momento para rendirse! Tenemos que
+hacer frente al enemigo.",
+  "13.0.12.0" => "El enemigo está cerca. Cerraré las puertas
+de la aldea para defender la base.",
+  "13.0.13.0" => "¡Las tropas que se encuentran al norte
+deben volver a la base cuanto antes!",
+  "13.0.14.0" => "¿Adónde cree Zant que va?
+¡Acabemos con él!",
+  "13.0.15.0" => "¿Qué hace Zant correteando
+por ahí? ¡A por él!",
+  "13.0.16.0" => "Hemos derrotado a Zant y a Grahim, pero
+parece que a los enemigos les da igual...",
+  "13.0.17.0" => "Por lo menos hemos abierto las puertas.
+¡Vamos con los demás!",
+  "13.0.18.0" => "Hemos derrotado a Zant y a Grahim, pero
+parece que a los enemigos les da igual...",
+  "13.0.19.0" => "No podemos perder el tiempo; hay que detener
+al enemigo.",
+  "13.0.20.0" => "Grahim y Zant han caído, pero parece que
+los enemigos son incluso más fuertes...",
+  "13.0.21.0" => "A lo mejor se trataba de dos dobles... ¡Puede
+que los auténticos aún estén vivos!",
+  "13.0.22.0" => "Nosotros nos ocuparemos de la base; tú ve
+a por los auténticos Zant y Grahim.",
+  "13.0.23.0" => "¿Y si miras en otros lugares? No creo que
+estén en el mismo sitio que los dobles.",
+  "13.0.24.0" => "¡Hemos derrotado a las tropas enemigas!
+Puede que logremos salvar Hyrule.",
+  "13.0.25.0" => "¡Cuidado, están atacando la base!",
+  "13.0.26.0" => "Si no hacemos algo, la base no aguantará.
+¡Id para allá cuanto antes!",
+  "13.0.27.0" => "Link está en apuros... ¡Alguien debería ayudarlo!",
+  "13.0.28.0" => "Link no podrá aguantar mucho más... ¡Ayudadlo!",
+  "13.0.29.0" => "¡Link ha caído! Ya no hay nada que hacer...",
+  "13.0.30.0" => "La base ha caído. De nada sirve seguir luchando.",
+  "13.0.31.0" => "¡Han derrotado a Link! Esto es el fin...",
+  "13.0.32.0" => "¡No pasa nada! Yo me ocuparé
+de defender el bastión.",
+  "13.0.33.0" => "Todo está bien, ¿verdad, Link?",
+  "13.0.34.0" => "Si logramos derrotar a los enemigos que hay en
+el interior del bastión, las puertas se abrirán.",
+  "13.0.35.0" => "Al norte del desierto hay otro oasis. Si nos
+hacemos con ambos, todo será más fácil.",
+}

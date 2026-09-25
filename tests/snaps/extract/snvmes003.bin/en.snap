@@ -1,0 +1,251 @@
+Map {
+  "1.0.0.0" => "Ooh, has the hero come to see me at last?
+Well then, Link, don't keep me waiting...",
+  "1.0.1.0" => "Cia's at the top of the ruins. Let's take her out
+and stop her from summoning more monsters!",
+  "1.0.2.0" => "If we capture the ruin keeps, it will provide
+a foothold against the Enemy Base.",
+  "1.0.3.0" => "Good idea! We might also have better success
+if we split into two groups. Who's with me?",
+  "1.0.4.0" => "Impa and I will attack from the east.
+That leaves the west to you two!",
+  "1.0.5.0" => "Sheik, my apologies, but I feel I'd be better
+used elsewhere. You're on your own.",
+  "1.0.6.0" => "Worthless... These vermin will barely qualify
+as exercise!",
+  "1.0.7.0" => "That dragon knight has appeared! We're not
+going to last long against his strength!",
+  "1.0.8.0" => "He's fighting hard. We'll have to fight
+harder.",
+  "1.0.9.0" => "Pah. You're no fun. Don't you have a
+stronger warrior for me to duel?",
+  "1.0.10.0" => "The enemies have me pinned down...
+Somebody needs to assist our ally!",
+  "1.0.11.0" => "Why don't you cool down? It's embarrassing
+to see you talk so big and perform so poorly.",
+  "1.0.12.0" => "I was careless... Next time it won't end
+like this!",
+  "1.0.13.0" => "It's time to strike!",
+  "1.0.14.0" => "I've got the east under control.
+Capture that keep in the west!",
+  "1.0.15.0" => "Leave the east-side keep to me!",
+  "1.0.16.0" => "We are ready to strike.",
+  "1.0.17.0" => "Is that all you have to show me? Such a
+disappointment...",
+  "1.0.18.0" => "All right! The west keep is ours!",
+  "1.0.19.0" => "Let's ride this momentum and take the
+keep in the east as well!",
+  "1.0.20.0" => "Don't worry, everyone! We can take it
+back!",
+  "1.0.21.0" => "Yes! We took back the keep in the west!",
+  "1.0.22.0" => "The keep in the east is ours. This is
+excellent news.",
+  "1.0.23.0" => "Don't stop now! We've got to take the
+west keep as well!",
+  "1.0.24.0" => "It's a minor setback! We can take it back!",
+  "1.0.25.0" => "We took back the east keeps! That's great!",
+  "1.0.26.0" => "Good job, everyone! Now, what say we
+tackle those ruins?",
+  "1.0.27.0" => "There's a Wall of Vines blocking our path!
+Isn't there some way to get rid of it...?",
+  "1.0.28.0" => "Come now! I don't like people dawdling at my
+doorstep! You want a welcoming party? Fine!",
+  "1.0.29.0" => "The front's blocked. We need another way.
+Maybe we can lower the bridge in the east!",
+  "1.0.30.0" => "We'll keep the enemies preoccupied in the
+front while you get that bridge down!",
+  "1.0.31.0" => "Hey! That enemy's spawning more monsters
+right here in the middle of the battlefield!",
+  "1.0.32.0" => "He thinks he can summon a powerful
+beast? Ha ha ha! How quaint!",
+  "1.0.33.0" => "I'm from the Hyrulean Engineering Corps!
+Bridges are my specialty!",
+  "1.0.34.0" => "The Engineer is leaving our base!
+Escort him to the east side of the ruins!",
+  "1.0.35.0" => "Why do you make me wait? Fine! I'll just
+have to come knocking at your base!",
+  "1.0.36.0" => "I'll take care of the enemies in the west.
+Use that time to get that bridge down!",
+  "1.0.37.0" => "In that case, I'll hold the center.",
+  "1.0.38.0" => "Careful! The enemies coming from the west
+are after our base!",
+  "1.0.39.0" => "What are you planning...? Well, whatever it
+may be, I'll have a counterstrategy!",
+  "1.0.40.0" => "Be watchful. There are monsters headed
+for our Engineer.",
+  "1.0.41.0" => "Hyrulean Engineering Corps here!
+I'm under attack!",
+  "1.0.42.0" => "Hyrulean Engineering Corps here! I could
+really use some help!",
+  "1.0.43.0" => "Hyrulean Engineering Corps here! The
+bridge is down! I'm withdrawing!",
+  "1.0.44.0" => "Woo! Let's cross the bridge into the ruins!",
+  "1.0.45.0" => "We lost the Engineer...",
+  "1.0.46.0" => "All that hard work, only to fail. My, my.
+Isn't that a pity. Oh well.",
+  "1.0.47.0" => "Ah ha ha! What a wasted effort! Be thankful
+I am so kind as to give you a bridge anyway!",
+  "1.0.48.0" => "Let's go, quick! Cia is at the summit!",
+  "1.0.49.0" => "We've got vines blocking the summit path
+as well!",
+  "1.0.50.0" => "I've heard tell of some sort of item in the
+ruins that can help. We have to find it!",
+  "1.0.51.0" => "It's bad manners not to greet your guests.",
+  "1.0.52.0" => "Hey! Listen! With that boomerang, I bet we'd
+be able to cut down those vines, no problem!",
+  "1.0.53.0" => "Wait until that monster is exposed, and
+then hit it with your boomerang!",
+  "1.0.54.0" => "Agh! That tentacled monstrosity! Why don't
+the bow and arrows do anything?!",
+  "1.0.55.0" => "Hold on! This isn't over yet! The creature
+burrowed underground, but it'll be back!",
+  "1.0.56.0" => "Keep calm! If you hit the correct stalk,
+the body should pop back out!",
+  "1.0.57.0" => "Fine. I'll attack the nearest visible part of
+the monster!",
+  "1.0.58.0" => "What is this, hide-and-seek? Grrr...",
+  "1.0.59.0" => "Our base is under attack! We have to
+defeat the monster right away!",
+  "1.0.60.0" => "If we don't kill that monster, our base
+won't last! We have to hurry!",
+  "1.0.61.0" => "Our base can't take much more of
+this! C'mon, hurry and kill that thing!",
+  "1.0.62.0" => "The rest of the monster isn't there...",
+  "1.0.63.0" => "It won't escape this time! We've got it
+right where we want it!",
+  "1.0.64.0" => "Good, we've annihilated it! Let's not waste
+any more time! Cia is next!",
+  "1.0.65.0" => "Everyone...I'm sorry...",
+  "1.0.66.0" => "Link and I will advance from the east!
+You advance from the west!",
+  "1.0.67.0" => "Sheik...you've got to help! You're the only
+one left with the strength to fight!",
+  "1.0.68.0" => "The gate to the ruins is closed? Oh no.
+That means we've failed.",
+  "1.0.69.0" => "Can Sheik really be trusted...?",
+  "1.0.70.0" => "Why go that far...?",
+  "1.0.71.0" => "Kya! Show our strength!
+Now you DIE!",
+  "1.0.72.0" => "Gya! Punish you!
+For Master Volga!",
+  "1.0.73.0" => "The enemy remains... Hurry, secure the
+area in front of the ruins!",
+  "1.0.74.0" => "Grah! Trouble! Help meeee!",
+  "1.0.75.0" => "Gyah! Humans, strong!",
+  "1.0.76.0" => "No...can...win...
+Fleeeeeeee!",
+  "1.0.77.0" => "Humansssss! They too ssssstrong!
+Retreatsssss!",
+  "1.0.78.0" => "Perhaps you'll enjoy these little fellows.
+They just love taking keeps.",
+  "1.0.79.0" => "Uh-oh! We can't let them get into our
+base! We have to beat them here and now!",
+  "1.0.80.0" => "Kya! Don't forgetsssss ussss!",
+  "1.0.81.0" => "Hya hya! Try and defeatssss usssss!",
+  "1.0.82.0" => "We have to eliminate the enemies in the
+rear before we can face Cia head-on.",
+  "1.0.83.0" => "Phew... There, that should shift things in
+our favor a bit.",
+  "1.0.84.0" => "Now, my scaly darlings! Crush those fools
+in front of the ruins! Mwa ha ha!",
+  "1.0.85.0" => "Such strength... You'll need my help with
+this.",
+  "1.0.86.0" => "Protect Masssster Volga!",
+  "1.0.87.0" => "Desssstroy humansssss!",
+  "1.0.88.0" => "Your presence is no longer required here.
+Go, protect our mistress.",
+  "1.0.89.0" => "The dragon knight is all that stands in our way.
+Defeat him so we can move into the ruins!",
+  "1.0.90.0" => "Enemies are coming from the west!
+We can't let them enter our base!",
+  "1.0.91.0" => "Yes! Our base is safe and secure!",
+  "1.0.92.0" => "The Allied Base is going to fall if we just stand
+around! Someone, hurry and do something!",
+  "1.0.93.0" => "Don't leave me waiting. I'll even leave the
+front door open for you!",
+  "1.0.94.0" => "I have an idea! Everyone gather around
+the threat!",
+  "1.0.95.0" => "I'll use my magic to pool together
+everyone's strength. We'll be unstoppable!",
+  "1.0.96.0" => "Wow, it's amazing what sort of magic I can
+tap into when I'm in the Valley of Seers!",
+  "1.0.97.0" => "We won, thanks to Lana's magic! Let's
+head up to that altar and knock Cia out!",
+  "1.0.98.0" => "Heh, pooling everyone's strength together is a
+pretty useful strategy. I'd better remember that!",
+  "1.0.99.0" => "We need to get back quickly. Our base
+will fall if we do nothing.",
+  "13.0.0.0" => "Let's take the two keeps in front of the ruins.
+That'll make it easier to attack Cia's base!",
+  "13.0.1.0" => "The road to the enemy keeps splits again...
+Let's split our group and take both at once!",
+  "13.0.2.0" => "The road splits again... Let's cut our team
+into two groups and take both keeps at once!",
+  "13.0.3.0" => "We meet again, boy. So have your skills
+improved since we last met? Show me!",
+  "13.0.4.0" => "Link! Are you OK? The dragon knight is
+really putting us in a bind!",
+  "13.0.5.0" => "Nicely done! But we can't stop now!
+We have to keep going!",
+  "13.0.6.0" => "Thanks! Link should be fine now. Can you
+take care of the keeps on the west side?",
+  "13.0.7.0" => "Thanks! Link should be fine!
+Leave the eastern keeps to him!",
+  "13.0.8.0" => "Nicely done! Let's follow this momentum
+and keep up the attack!",
+  "13.0.9.0" => "Good going! The western keep is ours!",
+  "13.0.10.0" => "I hope we can take the eastern keep just
+as quickly!",
+  "13.0.11.0" => "Ugh, the enemy retook that keep...
+Lana, can you help take it back for us?",
+  "13.0.12.0" => "Great! We got the western keeps back!",
+  "13.0.13.0" => "Yahoo! The eastern keeps are ours again!",
+  "13.0.14.0" => "I hope we can take the western ones
+without any trouble!",
+  "13.0.15.0" => "Ugh, the enemy retook one of the keeps...
+Lana, we need your help taking it back!",
+  "13.0.16.0" => "Great! We got the eastern keeps back
+again!",
+  "13.0.17.0" => "Great work, everyone! Now we can
+attack the ruins without further delay!",
+  "13.0.18.0" => "The entrance to the ruins is all blocked by
+these weird vines! I think we're stuck...",
+  "13.0.19.0" => "I've got an idea! Let's lure the enemies to
+the ruins and then lower a bridge elsewhere!",
+  "13.0.20.0" => "This keep is continually spawning monsters!
+We have to do something about it!",
+  "13.0.21.0" => "The Engineer is moving out from the Allied
+Base! Escort him to the East Ruins!",
+  "13.0.22.0" => "Link can stop the enemies in the west!
+Quickly, lower the bridge!",
+  "13.0.23.0" => "You should take care of the enemies in
+front of the ruins!",
+  "13.0.24.0" => "Watch out! The enemies coming from the
+west have their eyes on our base!",
+  "13.0.25.0" => "Great work! Let's cross the bridge into
+the ruins!",
+  "13.0.26.0" => "The Engineer is done for...",
+  "13.0.27.0" => "Cia is at the summit! Let's go!",
+  "13.0.28.0" => "That monster is still alive! It may have fled
+underground, but I just know it'll be back!",
+  "13.0.29.0" => "Not a problem--leave it to us!
+C'mon, Link! Let's go!",
+  "13.0.30.0" => "Okay, leave it to us!
+Link, strike hard!",
+  "13.0.31.0" => "The Allied Base is under attack!
+Quick, take care of that thing!",
+  "13.0.32.0" => "Oh no! The Allied Base is in serious trouble!
+We need to defeat that monster immediately!",
+  "13.0.33.0" => "The Allied Base is crumbling! Hurry, hurry!",
+  "13.0.34.0" => "Ah, what a shame! That was only a small
+part of the creature...",
+  "13.0.35.0" => "Good! Now we can get to Cia!
+To the altar at the top of the ruins!",
+  "13.0.36.0" => "Link! Did they get you?!",
+  "13.0.37.0" => "Look out! Some of the enemies are going
+after the Engineer!",
+  "13.0.38.0" => "Oh? The gates to the ruins are closed.
+Well, I guess we're not going in that way.",
+  "13.0.39.0" => "Link and I will push ahead on the east
+side. We'll leave the west to you!",
+}

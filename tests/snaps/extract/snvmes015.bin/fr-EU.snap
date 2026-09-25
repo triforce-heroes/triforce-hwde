@@ -1,0 +1,137 @@
+Map {
+  "1.0.0.0" => "Ils se sont cachés dans leur château et ont fermé
+solidement ses portes... Tss... Ridicule...",
+  "1.0.1.0" => "J'écraserai le Héros et la princesse ici même et
+je récupérerai les autres fragments de la Triforce !",
+  "1.0.2.0" => "Ce château est notre dernier rempart... Mais si
+nous restons unis, la victoire sera nôtre !",
+  "1.0.3.0" => "Si nous voulons remporter la victoire, nous devons
+viser la base de Ganondorf !",
+  "1.0.4.0" => "Je vais ouvrir les portes nord et garantir l'avancée
+de notre armée.",
+  "1.0.5.0" => "Ils visent les portes nord... ! À tous mes chefs
+d'unité ! Éliminez d'abord Xanto !",
+  "1.0.6.0" => "À vos ordres, Votre Altesse !",
+  "1.0.7.0" => "Elle a déjà tout compris... Il ne faut pas
+sous-estimer cette femme...",
+  "1.0.8.0" => "Ces humains ont trop d'énergie à revendre...
+Et elle semble augmenter à chaque monstre tué...",
+  "1.0.9.0" => "Aussi motivés qu'ils soient, ils ne pourront
+m'empêcher de réaliser mes ambitions... !",
+  "1.0.10.0" => "Nous avons le Héros de la légende de notre côté !
+Je suis sûre qu'on va gagner ! Pas vrai, Link ?",
+  "1.0.11.0" => "Ce gamin... Le Héros... Il est toujours là !
+Toujours en travers de mon chemin... !",
+  "1.0.12.0" => "Link ! Ne force pas trop ! N'oublie pas que
+tu peux aussi battre en retraite et te soigner !",
+  "1.0.13.0" => "Votre stratégie consiste à protéger votre Héros...
+Bien trouvé...",
+  "1.0.14.0" => "Link reviendra quand ses blessures
+auront été soignées !",
+  "1.0.15.0" => "Mission terminée... La voie est libre.",
+  "1.0.16.0" => "On a battu un ennemi puissant ! C'est bien,
+continuez à attaquer !",
+  "1.0.17.0" => "Vous pensez que je vais remettre en question mes
+plans de conquête parce que Xanto a été vaincu ?",
+  "1.0.18.0" => "Grâce à la grande fée, nous allons nous emparer
+de la victoire !",
+  "1.0.19.0" => "Ne les laissez pas aller à la fontaine ! On sera dans
+le pétrin s'ils demandent l'aide de la grande fée.",
+  "1.0.20.0" => "Je vais les arrêter, alors.",
+  "1.0.21.0" => "Nous ne pouvons rien faire... Ignorons Ghirahim et
+dirigeons-nous vers la fontaine !",
+  "1.0.22.0" => "For... Formidable ! Ghirahim a été vaincu !",
+  "1.0.23.0" => "Humains... Ne vous réjouissez pas trop vite !
+Je vous ferai regretter cette impudence !",
+  "1.0.24.0" => "Il ne nous reste plus qu'à accumuler de l'énergie
+magique et nous pourrons détruire la base ennemie.",
+  "1.0.25.0" => "Il faudra du temps avant qu'il y ait
+suffisamment d'énergie magique...",
+  "1.0.26.0" => "Bien ! Il y a beaucoup d'énergie magique... !",
+  "1.0.27.0" => "Il y a suffisamment d'énergie magique !
+Allez, prenez ça !",
+  "1.0.28.0" => "Hé hé... Comme c'est dommage.",
+  "1.0.29.0" => "Impa... ! Non... Dites-moi que je rêve... !",
+  "1.0.30.0" => "Allons-y, Link ! On ne peut pas perdre
+cette bataille !",
+  "1.0.31.0" => "Maintenant que Link est là, c'est notre chance !
+Que toutes les troupes passent à l'attaque !",
+  "1.0.32.0" => "Link ! Avançons, nous aussi !",
+  "1.0.33.0" => "Comme c'est pratique... Le Héros ET la princesse !
+Je vais leur prendre leurs fragments de Triforce !",
+  "1.0.34.0" => "Empêchez-les d'avancer ! Il faut protéger
+Son Altesse !",
+  "1.0.35.0" => "Je vais arrêter ce freluquet de Héros.",
+  "1.0.36.0" => "Je me charge de la princesse.",
+  "1.0.37.0" => "Non... Je ne peux pas m'avouer vaincue...",
+  "1.0.38.0" => "Le prochain, c'est toi, Héros !",
+  "1.0.39.0" => "Li... Link !!! Réveille-toi, Link !!!",
+  "1.0.40.0" => "C'est déjà fini ? Le combat est gagné d'avance,
+avec un Héros pareil.",
+  "1.0.41.0" => "La prochaine, c'est toi, princesse !",
+  "1.0.42.0" => "Link se bat avec acharnement... Je ne peux
+rester insensible à ses efforts... !",
+  "1.0.43.0" => "La princesse se bat avec tellement d'ardeur...
+Link ! On devrait en faire autant !",
+  "1.0.44.0" => "Il faut que je me débarrasse de ces deux cafards...
+Sinon, ça n'en finira pas.",
+  "1.0.45.0" => "Argh... Non... Je ne peux pas abandonner !",
+  "1.0.46.0" => "Je ne crois pas que tu puisses faire
+quoi que ce soit dans cet état...",
+  "1.0.47.0" => "Link ! Non, tu n'as pas le droit d'abandonner !",
+  "1.0.48.0" => "Vous aurez beau vous relever,
+ça ne servira à rien... !",
+  "1.0.49.0" => "Je dois y aller moi aussi... Je ne peux pas laisser
+Link s'occuper de tout... !",
+  "1.0.50.0" => "Link, il faut y aller ! Aidons la princesse !",
+  "1.0.51.0" => "J'utiliserai la Triforce qui repose en moi pour
+purifier tous les forts souillés par le mal !",
+  "1.0.52.0" => "Nous ne pouvons rester passifs plus longtemps...
+Dirigeons-nous vers la base de Ganondorf !",
+  "1.0.53.0" => "Link, utilise la Triforce du courage pour chasser le
+pouvoir des ténèbres qui enveloppe les forts !",
+  "1.0.54.0" => "On perd notre temps, ici ! Dirigeons-nous
+au plus vite vers la base ennemie !",
+  "1.0.55.0" => "La victoire sera nôtre si nous prenons
+le contrôle de ce fort... !",
+  "1.0.56.0" => "J'utiliserai le pouvoir de la Triforce pour chasser
+les âmes perverties de ce fort !",
+  "1.0.57.0" => "Link, ce fort, c'est la base ennemie ! Si on en
+prend le contrôle, la victoire est assurée !",
+  "1.0.58.0" => "Fais disparaître le pouvoir des ténèbres
+grâce à la Triforce, Link !",
+  "1.0.59.0" => "Grrr... C'est donc ça, le pouvoir de la Triforce...
+Il faut trouver un moyen d'arrêter ça.",
+  "1.0.60.0" => "Nous allons perdre la base si nous ne faisons rien.
+Il faut vite se débarrasser d'eux...",
+  "1.0.61.0" => "Nous ne nous soumettrons jamais
+à des monstres tels que vous !",
+  "1.0.62.0" => "Nous donnerons notre vie pour protéger
+notre belle terre d'Hyrule !",
+  "1.0.63.0" => "Mais qu'est-ce que vous faites ?!
+Protégez la base !",
+  "1.0.64.0" => "Enfin... J'aurai tous les fragments de la Triforce !",
+  "1.0.65.0" => "Ils se mettent toujours en travers de mon chemin...
+Remettons ceci à plus tard...",
+  "1.0.66.0" => "Si ça continue comme ça, je ne donne pas cher
+de notre peau... Je dois faire quelque chose !",
+  "1.0.67.0" => "Je viens vous aider ! Que toutes
+les troupes attaquent !",
+  "1.0.68.0" => "C'est pas le moment de flancher !
+Repoussez-les !",
+  "1.0.69.0" => "Laissez-moi m'occuper de la vermine.",
+  "1.0.70.0" => "Hu hu hu... Voilà, les ennemis
+au nord sont bloqués.",
+  "1.0.71.0" => "L'ennemi faiblit ! Continuez comme
+ça et attaquez leur base !",
+  "1.0.72.0" => "Pour qui se prennent-ils...
+Je ne les laisserai pas faire !",
+  "13.0.0.0" => "Ces humains ont trop d'énergie à revendre...
+Et elle semble augmenter à chaque monstre tué...",
+  "13.0.1.0" => "Morveux de Héros... Si nous l'éliminons, le moral
+de l'ennemi en prendra un coup.",
+  "13.0.2.0" => "Link reprendra le combat dès que
+ses blessures seront soignées !",
+  "13.0.3.0" => "Ils ne doivent pas continuer... Ne les laissez pas
+s'approcher de la fontaine !",
+}

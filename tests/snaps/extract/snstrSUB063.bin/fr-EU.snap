@@ -1,0 +1,7 @@
+Map {
+  "0.0.0" => "A0%1sF6R rejoint le champ de bataille !",
+  "0.1.0" => "A0%1sF4R avance !",
+  "0.2.0" => "A0%1sF4R encourage les troupes A0%2sF3R à proximité !",
+  "0.3.0" => "Le moral A0%1sF3R augmente !",
+  "0.4.0" => "A0%1sF4R semble s'approcher des troupes A0%2sF3R pour les encourager !",
+}

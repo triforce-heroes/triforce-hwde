@@ -1,0 +1,264 @@
+Map {
+  "1.0.0.0" => "These caves are crawling with monsters. But
+we have to get through them to find Zelda.",
+  "1.0.1.0" => "That's the exit over there. Though we'll have
+to take the long way around from the north...",
+  "1.0.2.0" => "The Hyrulean soldiers have marched toward
+the exit. Link, let's rendezvous with them.",
+  "1.0.3.0" => "There's lava blocking the way, and monsters
+have shown up! We're gonna get wiped out!",
+  "1.0.4.0" => "Monsters? Link and I will be right there.
+Stay alive until we can get to you!",
+  "1.0.5.0" => "General Impa! You've arrived!",
+  "1.0.6.0" => "Excellent. Link should be joining us here
+before long.",
+  "1.0.7.0" => "These caves... No matter how many
+monsters we cut down, more keep coming!",
+  "1.0.8.0" => "The monsters must be coming from a keep.
+Link, find the source and shut it down!",
+  "1.0.9.0" => "Link, have you discovered the keep?",
+  "1.0.10.0" => "Well done. But monsters are still spawning
+from other keeps.",
+  "1.0.11.0" => "The number of monsters is diminishing!
+We can finally do something!",
+  "1.0.12.0" => "There are just too many monsters!
+We can't hold out on our own!",
+  "1.0.13.0" => "This is bad... Link, get here quick!",
+  "1.0.14.0" => "Reinforcements are here!
+Oh, thank goodness!",
+  "1.0.15.0" => "We have to fall back! There are just too
+many!",
+  "1.0.16.0" => "We're too late... Forgive us...",
+  "1.0.17.0" => "That lava is stopping our progress.
+We need to find a way past it.",
+  "1.0.18.0" => "Hmm... If we break those stone spires,
+maybe we can get across the lava!",
+  "1.0.19.0" => "We'll help! Rocks are no match for a good
+ol' Bombchu!",
+  "1.0.21.0" => "Yes, perfect. Hurry!",
+  "1.0.22.0" => "Hiya ha ha! Getting you into these caves was
+so simple! Now they shall become your tomb!",
+  "1.0.23.0" => "Destroy that eyesore of a rat!
+Show these fools the depths of despair!",
+  "1.0.24.0" => "They're going after our Bombchu!",
+  "1.0.25.0" => "Link! Guard the Bombchu!",
+  "1.0.26.0" => "There are too many monsters. The Bombchu
+can't move unless some space is cleared!",
+  "1.0.27.0" => "Then I'll just have to cut a swath through the
+enemies to help the Bombchu reach the stone.",
+  "1.0.28.0" => "So many monsters... It'd have been smarter
+to take control of the spawning keeps first!",
+  "1.0.29.0" => "The Bombchu can't move forward until that
+gate is open!",
+  "1.0.30.0" => "Link, I can't reach that keep now.
+I need you to take care of it!",
+  "1.0.31.0" => "Great! Now the Bombchu can reach the
+stone!",
+  "1.0.32.0" => "Excellent, Link! Now we can proceed!",
+  "1.0.33.0" => "Head for the exit! Like we've been trying
+to do all this time!",
+  "1.0.34.0" => "Hurry, Link! We're marching on!",
+  "1.0.35.0" => "Oh no... The Bombchu has been destroyed!",
+  "1.0.36.0" => "It's OK! We've got more of 'em!
+We'll just launch another one!",
+  "1.0.37.0" => "This is the last Bombchu in this keep.
+Guard it extra closely!",
+  "1.0.38.0" => "Without the Bombchu, we're stuck...
+We have to keep that Bombchu safe!",
+  "1.0.39.0" => "Forward! Cut them down! Hiya ha ha!",
+  "1.0.40.0" => "They're really getting fierce, aren't they?
+C'mon. We've got to keep moving.",
+  "1.0.41.0" => "The southern gate of this keep leads to the exit.
+Let's capture it and be done with this cave.",
+  "1.0.42.0" => "Whoa! A chest appeared! Must be a reward
+for taking this keep. C'mon! Let's open it!",
+  "1.0.43.0" => "Wow! That weapon looks pretty deadly!",
+  "1.0.44.0" => "It's too early to celebrate. The gate won't
+open...",
+  "1.0.45.0" => "There's nowhere to run! Crush them! Beat
+them! Grind them to dust! Hiya ha ha!",
+  "1.0.46.0" => "With this many enemies pouring out, I'm ready
+to believe some sort of spirit is at work...",
+  "1.0.47.0" => "Defeating this "Spirit" might open the exit.
+Why don't you look in the deepest tunnels?",
+  "1.0.48.0" => "I can guard our outpost while you handle
+the search. Good luck!",
+  "1.0.49.0" => "I'll guard our rear from oncoming enemies.
+Don't worry--I'm prepared for anything...",
+  "1.0.50.0" => "Link! That monster must be the Spirit of
+the Caves we've been searching for!",
+  "1.0.51.0" => "We have to defeat that monster.
+It's our only chance of surviving!",
+  "1.0.52.0" => "Link! Search the deepest tunnels!",
+  "1.0.53.0" => "Well done! Now we can leave these infernal
+caverns behind!",
+  "1.0.54.0" => "Forgive me. This is as far as I can go.
+I wish you safe travels through the caves.",
+  "1.0.55.0" => "We have monsters trying to flank us! We'll
+be surrounded if we don't do something...",
+  "1.0.56.0" => "More stone spires in our way. Charming.",
+  "1.0.57.0" => "Blowing up stones is a cinch!",
+  "1.0.58.0" => "We need your help once more. A Bombchu
+is trapped in that keep.",
+  "1.0.59.0" => "The enemies in the keep are holding up the
+Bombchu! Recapture the keep right away!",
+  "1.0.60.0" => "Two big stones... One Bombchu's power
+won't be enough...",
+  "1.0.61.0" => "One of our brothers said he left a Bombchu
+in these caverns. Try looking around for it!",
+  "1.0.62.0" => "I'll protect the Gorons.
+You seek out the Bombchu!",
+  "1.0.63.0" => "There, that's it! You found it! Now we can
+blow up the other stone!",
+  "1.0.64.0" => "Link! Sweep the enemies in that keep! We
+must prepare the Bombchu for deployment.",
+  "1.0.65.0" => "Doesn't look like it's in that keep!",
+  "1.0.66.0" => "Nice one! Now we can deploy the
+Bombchu!",
+  "1.0.67.0" => "Preparations are complete!
+Deploy it, quickly!",
+  "1.0.68.0" => "You got it! Launching two Bombchus!
+It's a straight line to the stones!",
+  "1.0.69.0" => "Always something in my way... I'll smash
+these rats myself if I have to!",
+  "1.0.70.0" => "Gaaah! Keep the monsters away from the
+Bombchu!",
+  "1.0.71.0" => "We're ready to escape. Sheik, was it?
+Join us!",
+  "1.0.72.0" => "On my way.",
+  "1.0.73.0" => "The first explosion was a success!",
+  "1.0.74.0" => "The road should be open before long!
+Cover the second Bombchu!",
+  "1.0.75.0" => "Perfect! The way to the exit is clear!
+Thank you, Gorons! And you too, Link!",
+  "1.0.76.0" => "Hurry, Link! The exit is over here!",
+  "1.0.77.0" => "Impa, are you OK? We're waiting at the
+exit!",
+  "1.0.78.0" => "Now, to Faron Woods. I have heard rumors
+of a woman leading a resistance there.",
+  "1.0.79.0" => "I hope that woman is Princess Zelda...",
+  "1.0.80.0" => "Link, Impa, well done! If we combine our
+efforts, Hyrule may yet survive!",
+  "1.0.81.0" => "I've failed...",
+  "1.0.83.0" => "There are no more Bombchus left...",
+  "1.0.84.0" => "If we have no way to break those stones,
+then we're stuck.",
+  "1.0.85.0" => "We're out of spare Bombchus! It's all over
+if these two get destroyed!",
+  "1.0.86.0" => "I think there are still some keeps spawning
+monsters... Why didn't we stop those first?",
+  "1.0.87.0" => "Sorry we're late! We're here to help!",
+  "1.0.88.0" => "Maybe we should have taken the keeps where
+all those monsters were coming from first...",
+  "1.0.89.0" => "Ready for some Goron assistance?",
+  "1.0.90.0" => "Hyrulean soldiers are past here, but the gates
+are closed, so we're cut off from joining them...",
+  "1.0.91.0" => "There has to be a way to continue
+forward...",
+  "1.0.92.0" => "This wall looks cracked... We might be able
+to destroy it somehow!",
+  "1.0.93.0" => "If we capture the keep, we may be
+able to stop the flow of monsters.",
+  "1.0.94.0" => "Kiya ha! As long as we have a Summoner,
+we'll have all the monsters we want!",
+  "1.0.95.0" => "Too slow! Chase them down and commence
+the pincer attack!",
+  "1.0.96.0" => "I'll deal with the enemy to the east. Keep
+them from the square in the tunnel!",
+  "1.0.97.0" => "No...the enemy has pursued us all the
+way here!",
+  "1.0.98.0" => "I can't defend both at the same time!
+Link! I need your help guarding one!",
+  "1.0.99.0" => "More enemies, hm? Allow me to dispatch
+them.",
+  "1.0.100.0" => "Why do they keep heading for that keep...?
+There must be something there! Capture it!",
+  "13.0.0.0" => "Link is ready to help, Impa! I'm sure
+we'll get everyone out in one piece!",
+  "13.0.1.0" => "The exit is over there, but we'll have to go
+all the way around the north to get to it...",
+  "13.0.2.0" => "The Hyrulean soldiers went ahead
+without us! Impa, we have to catch up!",
+  "13.0.3.0" => "The soldiers are in trouble!
+We have to hurry!",
+  "13.0.4.0" => "Thanks, kid! You really saved our hides!",
+  "13.0.5.0" => "Here we are! And Impa is right behind us,
+so don't worry!",
+  "13.0.6.0" => "There must be a keep around here that's
+spawning monsters... We should capture it!",
+  "13.0.7.0" => "That's got to be the monsters' lair!",
+  "13.0.8.0" => "We did it, but monsters are still coming
+from another keep. Keep looking!",
+  "13.0.9.0" => "Please, we need help! Quick!",
+  "13.0.10.0" => "Oh no... I'm so sorry...",
+  "13.0.11.0" => "Thank you! Now, why don't we let the
+Bombchu do the hard part!",
+  "13.0.12.0" => "We have to guard the Bombchu!",
+  "13.0.13.0" => "Link! Defeat all the enemies around the spire
+to give the Bombchu a clear shot to blow it up!",
+  "13.0.14.0" => "Uh-oh! Link can't get to that keep...
+It's all up to you, Impa!",
+  "13.0.15.0" => "We weren't able to stop the monsters
+from coming!",
+  "13.0.16.0" => "We should've taken that monster keep first.
+There are just too many monsters...",
+  "13.0.17.0" => "Phew! Now the Bombchu can reach the
+stone spires!",
+  "13.0.18.0" => "Thank you, Impa! Let's keep going!",
+  "13.0.19.0" => "No! They destroyed the Bombchu!",
+  "13.0.20.0" => "We need that Bombchu to get out of the caves
+and find Princess Zelda. What will we do...?",
+  "13.0.21.0" => "Impa, please come quick!",
+  "13.0.22.0" => "The south gate of this keep leads to the exit.
+If we capture the keep, the gate might open!",
+  "13.0.23.0" => "Oh? The south gate didn't open...
+At least we captured the keep!",
+  "13.0.24.0" => "Enemies are coming out of the tunnels!
+Maybe some sort of spirit is in there...",
+  "13.0.25.0" => "Link can defend that keep! He won't give
+up, no matter what!",
+  "13.0.26.0" => "That ghostly guy is really suspicious...
+I bet he's our "Spirit of the Caves"!",
+  "13.0.27.0" => "I knew you could do it, Impa!
+Now we can all get out of the caves!",
+  "13.0.28.0" => "The boy covering our flank has fallen.
+If we do nothing, we'll be surrounded!",
+  "13.0.29.0" => "Drat! More stones in our way!",
+  "13.0.30.0" => "Good idea! We've got the Bombchu right
+here!",
+  "13.0.31.0" => "We can't launch the Bombchu with enemies
+in the keep. Quick, take it back!",
+  "13.0.32.0" => "Impa, we need another Bombchu! Link can
+defend the Gorons while you search!",
+  "13.0.33.0" => "Impa! Do you see the Bombchu there?
+That's exactly what we needed!",
+  "13.0.34.0" => "Everyone set? Then here we go!",
+  "13.0.35.0" => "Hey...uh...ninja person! We'll be out in
+no time! Just come with us!",
+  "13.0.36.0" => "Amazing! Success on the first try!",
+  "13.0.37.0" => "Great! Now we can get to the exit!
+Thanks a lot, everyone!",
+  "13.0.38.0" => "Great! Now we can head into Faron Woods and
+find this woman we've been hearing about!",
+  "13.0.39.0" => "I hope she's Princess Zelda...",
+  "13.0.40.0" => "Link, get a grip! Without the hero, this
+world is doomed...",
+  "13.0.41.0" => "We can't move ahead if the stone is still here...
+We should go back and rethink our strategy.",
+  "13.0.42.0" => "I can hear our soldiers up ahead! But the
+gates are closed, so we can't join them...",
+  "13.0.43.0" => "Impa! I think there's something suspicious
+down there in the caves!",
+  "13.0.44.0" => "Could we do something to open the way
+ahead...?",
+  "13.0.45.0" => "Hey, that wall looks a bit cracked! Maybe
+we can use something to destroy it...",
+  "13.0.46.0" => "Hurry up, Link! The exit is here!",
+  "13.0.47.0" => "Impa, are you all right? We'll be waiting at
+the exit!",
+  "13.0.48.0" => "Should we have taken control of the
+monsters' keeps first?",
+  "13.0.49.0" => "I'm sure that's where monsters
+are coming from!",
+  "13.0.50.0" => "Oh no! Here too!",
+}

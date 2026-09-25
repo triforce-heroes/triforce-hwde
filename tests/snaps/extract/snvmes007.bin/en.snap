@@ -1,0 +1,323 @@
+Map {
+  "1.0.0.0" => "The Gate of Souls is in the back of the palace.
+We'll have to defeat the enemies guarding it!",
+  "1.0.1.0" => "The Gate of Souls is in the back of the
+palace. We've got our work cut out for us!",
+  "1.0.2.0" => "Foolish Midna. Allow me to entomb you.
+May the Twilight scatter my foes!",
+  "1.0.3.0" => "Zant? What's that traitor doing protecting
+the Gate of Souls?",
+  "1.0.4.0" => "I know this palace inside and out, so it only
+makes sense for me to command our forces.",
+  "1.0.5.0" => "I'll protect the base. But I'm counting on
+your support if things get tough!",
+  "1.0.6.0" => "So...guard the base and fight alongside the
+commander... OK! I won't let you down!",
+  "1.0.7.0" => "Advance to the east first. We have to
+capture the enemy keeps!",
+  "1.0.8.0" => "Let's advance to the east and capture the
+enemy outpost!",
+  "1.0.9.0" => "I'll do my best!",
+  "1.0.10.0" => "Quit stalling! Hurry up and capture the
+keep in the east!",
+  "1.0.11.0" => "What's the holdup? You've got to capture
+the keeps in the east!",
+  "1.0.12.0" => "Good! Now, can you handle capturing the
+other keep to the north?",
+  "1.0.13.0" => "The time is nigh... Demolish the bridges!
+Cut them off from their base!",
+  "1.0.14.0" => "Don't let the bridge thing panic you!
+Just focus on capturing the keep!",
+  "1.0.15.0" => "The bridges may be gone, but we can handle it!
+For now, just get that keep right away!",
+  "1.0.16.0" => "So...just keep fighting? OK! Chaaaarge!",
+  "1.0.17.0" => "Oh goody! My team has captured the East
+Palace Keep!",
+  "1.0.18.0" => "We got a reward for taking the keep?
+Good! C'mon, let's open that up!",
+  "1.0.19.0" => "A chest, huh? Sure, I can live with that.",
+  "1.0.20.0" => "It's an item that lets you cross gaps?
+Huh. Convenient. Back to the fallen bridge!",
+  "1.0.21.0" => "None shall set foot near the Gate of
+Souls! The Twilight King commands it!",
+  "1.0.22.0" => "Wow, that's some dragon he just summoned...
+Say what you want, but he knows his magic...",
+  "1.0.24.0" => "Hey, get down here! No fair flying where
+we can't kill you!",
+  "1.0.25.0" => "It doesn't swoop down long enough to
+strike it, so how do we defeat it...?",
+  "1.0.26.0" => "Mister Dragon sure likes to fly way up there!
+I wish there was some way to reach him...",
+  "1.0.27.0" => "OK, how about a taste of my Twilight
+abilities!",
+  "1.0.28.0" => "I'll create a Magic Circle in the keep directly
+underneath him. Somebody give me a hand!",
+  "1.0.29.0" => "We'll have to use some clever thinking if
+we want to defeat that dragon midflight!",
+  "1.0.30.0" => "I'm going to create a Magic Circle in the
+keep underneath the dragon! Help me out!",
+  "1.0.31.0" => "Somebody help me out! I've got monsters
+blocking my way!",
+  "1.0.32.0" => "Monsters are in the way and keeping me
+from moving forward! Can someone help?",
+  "1.0.33.0" => "Will you be OK without me? If I leave,
+you'll be on your own.",
+  "1.0.34.0" => "Will you guys be OK without me? You know
+you'll be left alone on the front lines...",
+  "1.0.35.0" => "Our friends are doing everything they can,
+so I'd better do everything I can too!",
+  "1.0.36.0" => "How wonderful! Our enemy's base has thinned
+out! Send reinforcements and crush it!",
+  "1.0.37.0" => "Of course he'd attack the moment I step
+away... I need to finish that Magic Circle fast!",
+  "1.0.38.0" => "Oh no! He struck when I was gone! I need
+to finish that Magic Circle right away...",
+  "1.0.39.0" => "All right, the Magic Circle is done!
+Use it to strike down the dragon!",
+  "1.0.40.0" => "The Magic Circle is finished!
+Use it to attack the dragon!",
+  "1.0.41.0" => "How long are you going to leave that flying
+lizard out there? Use the Magic Circle!",
+  "1.0.42.0" => "Our base can't take much more!
+Hurry! Strike using the Magic Circle!",
+  "1.0.43.0" => "Good job! Would have been nice to bring
+it down...but oh well...",
+  "1.0.44.0" => "You may have chased away Argorok, but
+my plan doesn't end there! Oh no!",
+  "1.0.45.0" => "Yes! I hope we've seen the last of that
+dragon...",
+  "1.0.46.0" => "Witness the Twilight King's next stratagem!
+Capture the enemy commanders!",
+  "1.0.47.0" => "Oh? The baddies are running right up to
+me! Do they want to talk?",
+  "1.0.48.0" => "Where did you find this one...? Haaa...
+Just don't let the enemy get near her!",
+  "1.0.49.0" => "Oh no, they're trying to take Agitha!
+Don't let them get near her!",
+  "1.0.50.0" => "Hey, what do you think you're doing?!",
+  "1.0.51.0" => "She got herself kidnapped. Well, that's just
+great! That really weakens our eastern side.",
+  "1.0.52.0" => "Agitha has been captured! That'll really give
+the enemy an advantage on our east flank...",
+  "1.0.53.0" => "Whatever is the matter? That baddie invited
+me to a tea party! Has it been canceled?",
+  "1.0.54.0" => "Ah, your wounds appear to have healed...
+Good. Now strike their base again!",
+  "1.0.55.0" => "Not the dragon again... Grrrr! I'm so sick
+of it!",
+  "1.0.56.0" => "You gotta use the Magic Circle! Take the
+keep that's right below the dragon!",
+  "1.0.57.0" => "Same plan as last time! Got it!",
+  "1.0.58.0" => "You can attack the dragon with the Magic
+Circle in the Central Square!",
+  "1.0.59.0" => "Well, duh! I could have told you that!
+Just leave the dragon to me!",
+  "1.0.62.0" => "It's going for our base again...
+I'll chase it off in no time!",
+  "1.0.63.0" => "It's attacking our base again!
+We've got to repel that dragon quickly!",
+  "1.0.65.0" => "OK! The Magic Circle is ready!
+Take it down for good this time!",
+  "1.0.66.0" => "The Magic Circle is operational again! Use
+its magic to defeat the dragon for good!",
+  "1.0.67.0" => "How long are you gonna leave that thing
+out there?! Use the Magic Circle already!",
+  "1.0.68.0" => "I could really use one less dragon about now...
+Quick, defeat it using the Magic Circle!",
+  "1.0.69.0" => "Who let it get away?! If we could reach it,
+we could kill that thing and be done with it...",
+  "1.0.70.0" => "It got away again?!",
+  "1.0.71.0" => "Hmm... If we want to slay the dragon, we
+have to bring it down to our level...",
+  "1.0.73.0" => "Gah, this is the third time! I'm getting
+really fed up with this!",
+  "1.0.74.0" => "Hmm, third time... How long are we going
+to keep this cycle going?",
+  "1.0.75.0" => "We drive him off, and he comes right back...
+He's just as stubborn as some flies I know!",
+  "1.0.76.0" => "The Magic Circle isn't getting the job done.
+We need a new strategy...",
+  "1.0.77.0" => "Attacking with the Magic Circle is getting
+us nowhere... Is there some other way...?",
+  "1.0.78.0" => "Li'l Butterfly has something to say! Yes?
+Hmm... She wants to lead us somewhere!",
+  "1.0.81.0" => "OK, let's follow the butterfly. It should
+know where the Fairy Fountain is!",
+  "1.0.82.0" => "The butterfly flew to the building in the
+southeast! We'll just have to trust it again!",
+  "1.0.84.0" => "The Magic Circle in the Fairy Fountain
+should help us kill that cursed dragon!",
+  "1.0.85.0" => "The Magic Circle in the Fairy Fountain
+should help us defeat the dragon!",
+  "1.0.86.0" => "Strike alongside Argorok! Make them draw
+their last ragged breaths!",
+  "1.0.87.0" => "All we've got left is our base! If we can't
+hold that, we'll lose the battle!",
+  "1.0.88.0" => "Only our base is left standing...
+Protect it through sheer will if we have to!",
+  "1.0.89.0" => "They've grown too weak to fight back!
+Wear them down...and extinguish them!",
+  "1.0.90.0" => "Zant, that snake... He thinks he's on a
+roll...",
+  "1.0.91.0" => "He won't make a fool of us! Let's take one
+of his outposts and see how he likes it!",
+  "1.0.92.0" => "Look!",
+  "1.0.93.0" => "How's that, Zant?! Next time I'll take more
+than just your outpost!",
+  "1.0.94.0" => "See? We have the will to pull through this!",
+  "1.0.95.0" => "Grr... You dare mock my forces?
+MY forces?!",
+  "1.0.96.0" => "Look! The Magic Circle worked! The
+dragon's been pulled low to the ground!",
+  "1.0.97.0" => "Our attacks should finally be able to reach it!
+Now's our chance to finish that dragon off!",
+  "1.0.98.0" => "How did they manage to pull Argorok down
+to their level?!",
+  "1.0.99.0" => "I'll lead you myself if I have to! Charge!
+Your king will show you how it's done!",
+  "1.0.100.0" => "The dragon's down, and Zant's moving in.
+If we defeat them both, we've won this!",
+  "1.0.101.0" => "If we kill both the dragon and Zant, we've
+won this. We can do it!",
+  "1.0.102.0" => "You...worthless...wretches... I am the Twilight
+King! I will not be mocked by yooooooooou!",
+  "1.0.103.0" => "Your greed was your downfall. Now go find a
+shadow so deep you'll never see light again!",
+  "1.0.104.0" => "Your greed corrupted you...
+You and Cia both...",
+  "1.0.106.0" => "We finally beat it... Third time's the
+charm, eh?",
+  "1.0.107.0" => "Finally, we won... Nice teamwork, everyone!",
+  "1.0.108.0" => "We beat the enemy commander! The Gate
+of Souls should be left unguarded now!",
+  "1.0.109.0" => "We beat all the strongest foes! Now we
+should be able to seal the Gate of Souls!",
+  "1.0.110.0" => "Our base is in trouble!
+Tighten the defenses!",
+  "1.0.111.0" => "Enemies are swarming our base!
+We've got to defend it!",
+  "1.0.112.0" => "We'll lose if the base falls! Someone has
+to defend it immediately, and it can't be me!",
+  "1.0.113.0" => "Our base is on the brink of falling!
+Someone has to do something to save it!",
+  "1.0.114.0" => "I messed up... I'm sorry...everyone...",
+  "1.0.115.0" => "How could I lose... I let everyone down...",
+  "1.0.117.0" => "Our base fell? That's it. It's over.",
+  "1.0.118.0" => "We lost the base...?
+Then we've lost...",
+  "1.0.119.0" => "Huh? We control the keep, but the gate won't
+budge! Guess we need an alternate route...",
+  "1.0.120.0" => "But the bridge we used is out now!
+What are we going to do? Hmm...",
+  "1.0.121.0" => "Midna, are you friends with that eccentric
+person in the freaky mask?",
+  "1.0.122.0" => "Friends? HA! That's Zant, the traitor who
+stole my throne in the Twilight Realm!",
+  "1.0.123.0" => "That big lizard really did a number on our
+allies... But we can't let that stop us!",
+  "1.0.124.0" => "Looks like we squeaked by, huh?",
+  "1.0.125.0" => "Hey! Someone's got to do something;
+otherwise our base is going to fall!",
+  "1.0.126.0" => "Go! Reclaim our keeps! Do it for your
+one and rightful king!",
+  "1.0.127.0" => "I don't think so! Don't let the enemy take
+ANYTHING back! Shut them down!",
+  "1.0.128.0" => "Were you talking to me? Oh! Then I'd
+better help, hadn't I? Ha ha, OK!",
+  "1.0.129.0" => "Such brazenness from that little girl... She
+offends me! Someone! Take care of her!",
+  "1.0.130.0" => "Hee hee! I'm ever so happy to have helped!",
+  "1.0.131.0" => "I'll mow through the enemies coming from
+the west, so someone, defend our base!",
+  "1.0.132.0" => "Oh! I'd better stop the enemies coming
+from the middle, hadn't I?",
+  "1.0.133.0" => "I'll wipe out the dragon, so go show
+Zant who's boss!",
+  "1.0.134.0" => "They've practically hand delivered their base
+to us. Ha ha! Someone, go retrieve it for us!",
+  "1.0.135.0" => "Grrrr... Zant... Hey, somebody!
+Go keep our base safe!",
+  "1.0.136.0" => "We'll defeat that thing for sure this time!
+Everyone, gather near the Argorok!",
+  "1.0.137.0" => "Grr... If I don't get back quickly, the
+base will be lost!",
+  "13.0.0.0" => "The Gate of Souls is in the back of the palace.
+Let's defeat the one guarding it and close it!",
+  "13.0.1.0" => "I'll protect the base, but I'll need your
+help if things get rough!",
+  "13.0.2.0" => "We should go to the east first and capture
+the enemy keeps. Ready? Let's go!",
+  "13.0.3.0" => "Oh, come on! Hurry and capture the Eastern
+Keep! You didn't get distracted, did you?",
+  "13.0.4.0" => "The bridge is down, but don't worry about
+it! You just focus on getting that keep!",
+  "13.0.5.0" => "A chest? Heh, don't mind if I do...",
+  "13.0.6.0" => "We're being attacked from the air! How are
+we supposed to combat that...?",
+  "13.0.7.0" => "We'll have to use magic if we want to
+damage the dragon in midflight!",
+  "13.0.8.0" => "I'll create a Magic Circle in the keep
+underneath the dragon! Buy some time!",
+  "13.0.9.0" => "Monsters are in my way! Can someone do
+me a favor and get rid of them?",
+  "13.0.10.0" => "Will you dainty little flowers be OK without
+me holding your hands on the front lines?",
+  "13.0.11.0" => "He struck when I was gone! Darn! I need
+to finish that Magic Circle immediately...",
+  "13.0.12.0" => "The Magic Circle is finished! Use it to really
+give that dragon something to roar about!",
+  "13.0.13.0" => "Our base can't take much more!
+Hurry--someone use the Magic Circle!",
+  "13.0.14.0" => "Wonderful! I hope that's the last we'll
+hear from our friend the dragon...",
+  "13.0.15.0" => "Oh no, they're trying to take Agitha!
+Keep the monsters away from her!",
+  "13.0.16.0" => "Agitha's been taken! Dang... That'll really
+please the enemies in the east...",
+  "13.0.17.0" => "The Magic Circles are key! Capture the
+keep that's directly below the dragon!",
+  "13.0.18.0" => "Same plan as last time? Too easy!",
+  "13.0.19.0" => "It wants to attack the base again...
+We have to hit it hard and hit it fast!",
+  "13.0.20.0" => "The Magic Circle is ready! Make this one
+really count!",
+  "13.0.21.0" => "That's about all I can do... Quick, defeat
+that dragon with the Magic Circle!",
+  "13.0.22.0" => "Look! The magic attack worked! We should
+be able to hit the dragon with normal attacks!",
+  "13.0.23.0" => "Third time, huh? Haaaa... How many times
+will we have to go through this?",
+  "13.0.24.0" => "The Magic Circle doesn't seem to have the
+effect we want, but what else can we do?",
+  "13.0.25.0" => "Let's just follow the butterfly to the building
+in the southeast! Trust it knows something!",
+  "13.0.26.0" => "A Magic Circle in the Fairy Fountain...
+That should help us take down Argorok!",
+  "13.0.27.0" => "Our base is the last building standing!
+DO NOT LET IT FALL!",
+  "13.0.28.0" => "See? We can pull through this!",
+  "13.0.29.0" => "We just need to defeat Argorok and Zant...
+Hey, that won't be too hard, right?",
+  "13.0.30.0" => "You're a product of your own greed... You
+and Cia both.",
+  "13.0.31.0" => "Yes! Nice work, everyone!",
+  "13.0.32.0" => "We cleared out anyone in our way!
+Now let's seal the Gate of Souls!",
+  "13.0.33.0" => "We've got enemies swarming the base!
+Someone defend it!",
+  "13.0.34.0" => "Our base is on the brink of falling!
+It needs someone to defend it immediately!",
+  "13.0.35.0" => "I've let everyone down... I'm so sorry...",
+  "13.0.36.0" => "Our base fell...? Then this fight is over...",
+  "13.0.37.0" => "That dragon wounded our friends at the
+Allied Base! We can't let the base fall!",
+  "13.0.38.0" => "Wow. Looks like we did it somehow.",
+  "13.0.39.0" => "Oh no! If we don't do something fast,
+our base is done for!",
+  "13.0.40.0" => "I'll do something about that dragon if you
+promise to take care of Zant!",
+  "13.0.41.0" => "We can't let our base fall! Someone, hurry
+and protect it!",
+  "13.0.42.0" => "We need to get back, or the base is in
+trouble!",
+}

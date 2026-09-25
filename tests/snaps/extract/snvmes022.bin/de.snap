@@ -1,0 +1,216 @@
+Map {
+  "1.0.0.0" => "Uaaah! Wie können immer noch so
+viele Monster übrig sein!?",
+  "1.0.1.0" => "Wir sind die Einzigen, die zwischen Schloss
+Hyrule und dieser Horde stehen!",
+  "1.0.2.0" => "Endlich am Ziel!
+Ich muss sie alle retten!",
+  "1.0.3.0" => "Wer bist du? Du möchtest uns helfen?",
+  "1.0.4.0" => "Ich heiße Linkle! Ich bin die legendäre
+Heldin, die Hyrule retten wird!",
+  "1.0.5.0" => "Heldin?! ...Deine Hilfe ist jedenfalls
+willkommen! Ich übernehme den Norden!",
+  "1.0.6.0" => "Du kannst dich auf mich verlassen!",
+  "1.0.7.0" => "Ich ziehe mich zurück. Sobald meine
+Wunden versorgt sind, komme ich zurück!",
+  "1.0.8.0" => "Ich muss mich kurzzeitig zurückziehen.
+Vielleicht ist dir das hier nützlich!",
+  "1.0.9.0" => "Verzeih mir, aber ich kann nicht mehr...
+Ich kehre aber zurück, versprochen!",
+  "1.0.10.0" => "Ich ziehe mich erst einmal zurück!
+Viel Glück in der Schlacht!",
+  "1.0.11.0" => "Ich brauche eine kurze Ruhepause...
+Kannst du das hier gebrauchen?",
+  "1.0.12.0" => "Ich lasse mich zeitweise zurückfallen.
+Nimm das hier, wenn du es brauchst!",
+  "1.0.13.0" => "Ich muss die Front verlassen... Aber ich
+werde bald zurückkehren! Ehrenwort!",
+  "1.0.14.0" => "Mich hat's erwischt...
+Ihr müsst es ohne mich schaffen!",
+  "1.0.15.0" => "Haltet durch! Wir dürfen nicht nachgeben!",
+  "1.0.16.0" => "Ich... kann nicht mehr...",
+  "1.0.17.0" => "Mit jedem Soldaten, der flüchtet,
+verschlimmert sich unsere Situation...",
+  "1.0.18.0" => "Gebt alles! Ich verspreche, ich lasse
+euch nicht im Stich!",
+  "1.0.19.0" => "Sie lassen uns keine Atempause...
+Von Norden kommen immer mehr Monster!",
+  "1.0.20.0" => "Ich kümmere mich um den Nordwesten.
+Fangt ihr die anderen Monster ab!",
+  "1.0.21.0" => "Nicht verzagen, Männer!
+Wir dürfen sie nicht durchlassen!",
+  "1.0.22.0" => "Wir dürfen sie nicht im Stich lassen...
+Ich bin schon unterwegs!",
+  "1.0.23.0" => "Sie kommen aus diesen Festungen... Wenn wir
+sie nicht einnehmen, werden es immer mehr!",
+  "1.0.24.0" => "Unsere Soldaten sind erschöpft! Ohne
+Hilfe halten sie nicht mehr lange durch!",
+  "1.0.25.0" => "Gut! Treiben wir sie Stück für Stück zurück!",
+  "1.0.26.0" => "Alles klar!",
+  "1.0.27.0" => "Der Strom reißt nicht ab.
+Wir dürfen uns nicht überrennen lassen!",
+  "1.0.28.0" => "Es werden immer mehr...
+Nimmt das denn nie ein Ende?!",
+  "1.0.29.0" => "Schon wieder neue Monster...
+Passt auf, da ist eine Horde im Anmarsch!",
+  "1.0.30.0" => "Jetzt sollten keine neuen Monster mehr
+auftauchen!",
+  "1.0.31.0" => "Jippie! Wir haben alle gerettet!",
+  "1.0.32.0" => "Unglaublich, Linkle!
+Dein Heldenmut ist beeindruckend!",
+  "1.0.33.0" => "Jetzt sind wir dran!",
+  "1.0.34.0" => "Dank dir sind unsere Verluste gering.
+Los, zum Gegenangriff!",
+  "1.0.35.0" => "Ich wünschte, ich hätte mehr
+von ihnen retten können...",
+  "1.0.36.0" => "Du hast tapfer gekämpft, Linkle! Ich bin
+sicher, dein Mut hat die Soldaten beflügelt.",
+  "1.0.37.0" => "Der Feind nähert sich dem Schloss!
+Wir müssen es verteidigen!",
+  "1.0.38.0" => "Jetzt müssen wir irgendetwas gegen diese
+Festungen tun, aus denen die Monster strömen!",
+  "1.0.39.0" => "Wa... Was ist das für ein Viech?!",
+  "1.0.40.0" => "König Dodongo... Er ist rasend!
+Wir müssen ihn irgendwie aufhalten!",
+  "1.0.41.0" => "Der König der Monster? Das ist
+ein Fall für die legendäre Heldin!",
+  "1.0.42.0" => "Schon wieder neue Feinde...!
+Wir müssen Schloss Hyrule beschützen!",
+  "1.0.43.0" => "Seltsam... Meine Angriffe scheinen ihm
+gar nichts anhaben zu können?!",
+  "1.0.44.0" => "Das ist nicht gut... Setzen wir uns zuerst
+mit den anderen Feinden auseinander!",
+  "1.0.45.0" => "Das war's erst mal... Jetzt können wir
+uns endlich König Dodongo widmen!",
+  "1.0.46.0" => "Das gibt's doch nicht! Noch mehr Monster?!",
+  "1.0.47.0" => "Das ist eine ganze Armee!
+Wir sind verloren...",
+  "1.0.48.0" => "Da sind wir wieder! Tut mir leid,
+dass ihr warten musstet!",
+  "1.0.49.0" => "Das ist mal ein schönes Wiedersehen!",
+  "1.0.50.0" => "Wir zeigen diesen Monstern, dass mit der
+Armee von Hyrule nicht zu spaßen ist!",
+  "1.0.51.0" => "Nanu! Der Kompass?!",
+  "1.0.52.0" => "Was ist passiert? Dein Kompass hat König
+Dodongos rasende Wut abgemildert?",
+  "1.0.53.0" => "Ich WUSSTE es! Der Kompass zeigt, dass
+ich wirklich der legendäre Held bin!",
+  "1.0.54.0" => "Der Kampf hat gerade erst begonnen...",
+  "1.0.55.0" => "Ich danke euch allen!",
+  "1.0.56.0" => "Also los! Wir verschonen kein
+einziges dieser Monster!",
+  "1.0.57.0" => "Die Horde im Osten schlagen wir zurück!
+Kümmert ihr euch um König Dodongo!",
+  "1.0.58.0" => "Keine Angst, ich werde ihn bezwingen! Das
+ist die Bestimmung des legendären Helden!",
+  "1.0.59.0" => "Wir halten die Monster im Osten auf!
+Kümmert ihr euch solange um König Dodongo!",
+  "1.0.60.0" => "Wir können die Monster eine Weile aufhalten.
+Kümmert ihr euch um König Dodongo!",
+  "1.0.61.0" => "König Dodongo nähert sich dem Schloss!
+Was sollen wir nur tun!?",
+  "1.0.62.0" => "Wenn wir uns in die Enge treiben lassen, sind
+wir verloren. Zuerst die anderen Monster!",
+  "1.0.63.0" => "Geschafft! Dann bleibt nur noch der
+König der Monster... König Dodongo!",
+  "1.0.64.0" => "Nein! Schloss Hyrule ist gefallen!
+Wie konnte das nur geschehen?!",
+  "1.0.65.0" => "Aber... der legendäre Held kann nicht
+versagen! ...Oder?",
+  "1.0.66.0" => "Ich muss mich zurückziehen... Aber sobald
+ich wieder kann, komme ich zurück!",
+  "1.0.67.0" => "Ich bin dabei! Besiegen wir ihn mit
+vereinten Kräften!",
+  "1.0.68.0" => "Nein! Aber das Schloss darf nicht fallen!
+Besiegen wir zuerst die Monster vor uns!",
+  "1.0.69.0" => "Im Moment ist es aussichtslos... Kümmern
+wir uns erst um die anderen Feinde!",
+  "1.0.70.0" => "Wenn es so weitergeht, sind wir
+geliefert! Wir müssen sie besiegen!",
+  "1.0.71.0" => "Sie werden zurückkommen, sobald sie bereit
+sind. Bis dahin müssen wir durchhalten!",
+  "13.0.2.0" => "Unsere Verbündeten sind auf dem Weg zu uns.
+Bis dahin müssen wir durchhalten!",
+  "13.0.3.0" => "Ich übernehme den Argorok im Süden!",
+  "13.0.4.0" => "Wir müssen noch eine Weile durchhalten! Ich bin
+bei der Krabbelmine, die zum Nordplatz geht!",
+  "13.0.5.0" => "Es gibt eine Schwachstelle in der Schlossmauer.
+Wir könnten sie mit einer Krabbelmine sprengen!",
+  "13.0.6.0" => "Wunderbar! Fehlt uns nur noch
+der andere Argorok!",
+  "13.0.7.0" => "Die Argoroks sind erledigt! Gute Arbeit! Für den
+Augenblick sollten wir sicher sein.",
+  "13.0.8.0" => "Oh nein! Die Argoroks... Sie sind zusammen!
+Jetzt sind sie noch gefährlicher! Halten wir sie auf!",
+  "13.0.9.0" => "Beschützt die Krabbelmine!",
+  "13.0.10.0" => "Unser Feind kennt kein Erbarmen... Wir müssen
+etwas unternehmen, sonst ist alles aus!",
+  "13.0.11.0" => "Verteidigt die Krabbelmine! Sonst kommen
+wir nicht durch die Schlossmauer!",
+  "13.0.12.0" => "Hurra! Durch die Bresche, die uns die Krabbelmine
+geschlagen hat, dringen wir tief ins Schloss vor!",
+  "13.0.13.0" => "Die Krabbelmine hat uns nichts genützt...
+Was bleibt uns jetzt noch?",
+  "13.0.14.0" => "Ganondorf zeigt sein schreckliches Antlitz! Erinnert
+euch an alles, wofür es sich zu kämpfen lohnt!",
+  "13.0.15.0" => "Die dunkle Macht will alles verschlingen...
+Wie es aussieht, sind wir Ganondorf ausgeliefert!",
+  "13.0.16.0" => "Der Ostteil des Schlosses ist schlecht geschützt!
+Erobern wir das Schloss von dort aus!",
+  "13.0.17.0" => "Wenn wir das Schloss einnehmen,
+wird das die ganze Schlacht entscheiden!",
+  "13.0.18.0" => "Es wird Zeit... Zeit, dass dieser Albtraum
+namens Ganondorf endet!",
+  "13.0.19.0" => "In Ganons Schloss gibt es noch Widerstand, doch
+wenigstens sind wir Ganondorf los!",
+  "13.0.20.0" => "Ganondorf ist besiegt! Jetzt müssen wir das
+Schloss einnehmen!",
+  "13.0.21.0" => "Fürchtet nicht diesen Dämon! Er ist nichts weiter
+als eine verängstigte Bestie! Seid ohne Furcht!",
+  "13.0.22.0" => "Benutze die Lichtpfeile! Jetzt!
+Das ist Ganons Ende!",
+  "13.0.23.0" => "Die Lichtpfeile sind stark genug!
+Mit ihnen besiegst du Ganon!",
+  "13.0.24.0" => "Ich gebe den Lichtpfeilen all meine Macht!",
+  "13.0.25.0" => "All meine Kraft soll in die Lichtpfeile übergehen!",
+  "13.0.26.0" => "Und auch ich übertrage meine Kraft auf die Pfeile!",
+  "13.0.27.0" => "Meine Kraft wirst du auch brauchen!",
+  "13.0.28.0" => "Ich verleihe den Lichtpfeilen meine Macht!
+Du musst es schaffen!",
+  "13.0.29.0" => "Ich fasse es nicht... Die letzte, die entscheidende
+Schlacht... Und ich verliere sie...",
+  "13.0.30.0" => "Unser Hauptquartier...
+Jetzt ist alles verloren...",
+  "13.0.31.0" => "Ein Ort wie dieser ist die perfekte letzte Ruhestätte
+für eine Kreatur wie König Dodongo...",
+  "13.0.32.0" => "Behalte Ganon im Auge! Hast du nicht früher
+schon gegen ähnliche Feinde gekämpft?",
+  "13.0.33.0" => "Du führst einen Gegenstand mit dir,
+der ungeheuer wirksam ist gegen Ganon!",
+  "13.0.34.0" => "Du hast nicht genug Freunde um dich versammelt.
+Die Lichtpfeile sind auf ihre Kraft angewiesen...",
+  "13.0.35.0" => "Wenn es nur mehr von uns geschafft hätten...
+Die Lichtpfeile hätten mehr Macht...",
+  "13.0.36.0" => "Wenn wir Ganon besiegen, haben die Blitze ein
+Ende! Schnell, bevor das Schloss zerstört wird!",
+  "13.0.37.0" => "Die Blitze richten großen Schaden an! Das
+Schloss wird zerstört, wenn wir nicht handeln!",
+  "13.0.38.0" => "Jetzt oder nie! Schnell, wir
+müssen die Festung erobern!",
+  "13.0.39.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.40.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.41.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.42.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.43.0" => "Wir haben Schloss Hyrule zurückerobert!
+Es ist vorbei, Ganondorf!",
+  "13.0.44.0" => "Ich werde Ganondorf im Schloss angreifen!
+Es wird Zeit, das Licht zurückzubringen!",
+  "13.0.45.0" => "Wir haben Ganondorf besiegt und das Schloss
+zurückerobert! Der Sieg ist unser!",
+  "13.0.46.0" => "Wir haben Schloss Hyrule zurückerobert!
+Es ist vorbei, Ganondorf!",
+}

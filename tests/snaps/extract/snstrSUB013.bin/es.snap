@@ -1,0 +1,14 @@
+Map {
+  "0.1.0" => "¡Las A0%1sF1R han aparecido en el campo de batalla!",
+  "0.2.0" => "¡Acércate A0%1sF4R y consigue que se alíe contigo!",
+  "0.3.0" => "¡Te has acercado A0%1sF4R!",
+  "0.4.0" => "¡Las A0%1sF1R se han aliado con las A0%2sF1R!",
+  "0.5.0" => "¡Las A0%1sF1R se han acercado A0%2sF4R!",
+  "0.6.0" => "¡Las A0%1sF1R se dirigen hacia las A0%2sF1R!",
+  "0.7.0" => "¡Llega hasta A0%2sF2R antes de que las A0%1sF1R caigan!",
+  "0.8.0" => "¡Las A0%1sF1R se han aliado con las A0%2sF1R!",
+  "0.9.0" => "¡Las A0%1sF1R han vencido A0%2sF4R!",
+  "0.10.0" => "¡Las A0%1sF1R se han aliado con las A0%3sF1R!",
+  "0.11.0" => "¡A0%1sF0R ha huido!",
+  "0.12.0" => "¡Todas las A0%1sF1R se han retirado del campo de batalla!",
+}

@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "Beginn der Episode „Kundschafter“!",
+  "0.1.0" => "A0%1sF0R sucht A0%2sF6R!",
+  "0.3.0" => "Wenn A0%1sF5R A0%2sF6R findet, wird Verstärkung gerufen!",
+  "0.4.0" => "A0%1sF0R nähert sich!",
+  "0.5.0" => "A0%1sF0R hat A0%2sF6R entdeckt!",
+  "0.6.0" => "A0%1sF0R will Verstärkung rufen!",
+  "0.7.0" => "Besiege A0%1sF6R, bevor Verstärkung eintrifft!",
+  "0.8.0" => "A0%1sF1R wurden von A0%2sF4R gerufen!",
+  "0.9.0" => "A0%1sF0R hat sich zurückgezogen!",
+  "0.10.0" => "A0%1sF0R hat die Suche nach A0%2sF4R aufgegeben!",
+  "0.11.0" => "A0%1sF0R wurde besiegt!",
+  "0.12.0" => "Der Ruf nach Verstärkung wurde verhindert!",
+}

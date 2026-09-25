@@ -1,0 +1,40 @@
+Map {
+  "0.0.0" => "Vous avez dépassé le temps limite! La bataille est perdue!",
+  "0.1.0" => "Vous avez collecté les A610 000 rubisR nécessaires!",
+  "0.2.0" => "Le temps est écoulé. La bataille est perdue!",
+  "0.3.0" => "Ce questionnaire comprend 3 énigmes! Éliminez A2le bon ennemiR!",
+  "0.4.0" => "Première énigme!",
+  "0.5.0" => "Deuxième énigme!",
+  "0.6.0" => "Troisième énigme!",
+  "0.7.0" => "Vous avez éliminé A2le bon ennemiR!",
+  "0.8.0" => "Vous n'avez pas éliminé A2le bon ennemiR!",
+  "0.9.0" => "Vous avez résolu les 3 énigmes!",
+  "0.10.0" => "Vous avez résolu 2 énigmes sur 3!",
+  "0.11.0" => "Vous avez résolu 1 énigme sur 3!",
+  "0.12.0" => "Vous n'avez résolu aucune des 3 énigmes!",
+  "0.13.0" => "Rendez-vous A6au fort de destinationR!",
+  "0.14.0" => "Rendez-vous A6au fort suivantR!",
+  "0.15.0" => "Résultats!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Éliminez A2l'adversaire qui
+a parfois la tête qui tourneR!",
+  "3.1.0" => "Éliminez A2l'adversaire qui
+se cache dans un cadreR!",
+  "3.2.0" => "Éliminez A2l'adversaire qui
+fait rouler des bombesR!",
+  "3.3.0" => "Éliminez A2l'adversaire véritablement
+loyal au Roi DémonR!",
+  "3.4.0" => "Éliminez A2l'adversaire
+qui gère une boutiqueR!",
+  "3.5.0" => "Éliminez A2l'adversaire
+qui ne jure que par la beautéR!",
+}

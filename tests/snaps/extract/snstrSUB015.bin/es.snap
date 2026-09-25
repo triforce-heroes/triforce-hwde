@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡Las A0%2sF1R están atacando A0%1sF4R!",
+  "0.3.0" => "¡Vence A0%1sF4R y rescata A0%2sF4R!",
+  "0.4.0" => "¡Has vencido A0%1sF5R!",
+  "0.5.0" => "¡A0%1sF0R ha escapado de las A0%2sF1R!",
+  "0.6.0" => "¡Has rescatado A0%1sF4R!",
+  "0.7.0" => "¡A0%1sF0R está ayudando a las A0%2sF1R en señal de agradecimiento!",
+}

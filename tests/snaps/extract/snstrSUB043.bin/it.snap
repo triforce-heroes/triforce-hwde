@@ -1,0 +1,8 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "Evocatore di Coccò"!",
+  "0.1.0" => "Appare A0%1sF2R!",
+  "0.2.0" => "A0%1sF0R ha evocato i A2CoccòR!",
+  "0.3.0" => "A0%1sF0R controlla i A2CoccòR!",
+  "0.4.0" => "A0%1sF0R perde e i A2CoccòR passano all'A0%2sF7R!",
+  "0.5.0" => "A0%1sF0R ha perso!",
+}

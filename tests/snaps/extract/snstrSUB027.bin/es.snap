@@ -1,0 +1,7 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R y A0%2sF2R han aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R y A0%2sF2R avanzan comandando las A0%3sF1R!",
+  "0.3.0" => "¡A0%1sF0R y A0%2sF2R están a punto de encontrarse!",
+  "0.4.0" => "¡Vence A0%3sF4R antes de que aparezcan A0%1sF2R y A0%2sF2R!",
+  "0.5.0" => "¡A0%1sF0R ha solicitado refuerzos!",
+}

@@ -1,0 +1,7 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R se ha enfurecido y se dispone a contratacar!",
+  "0.3.0" => "¡Han aparecido refuerzos A0%1sF6R en el campo de batalla!",
+  "0.4.0" => "¡Han aparecido más refuerzos A0%1sF6R en el campo de batalla!",
+  "0.5.0" => "¡Impide que A0%1sF2R contrataque!",
+}

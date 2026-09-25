@@ -1,0 +1,2735 @@
+Map {
+  "0.0.0" => "Ottimo lavoro, Link!",
+  "0.1.0" => "Fantastico! Link, sei il più grande
+guerriero di Hyrule!",
+  "0.2.0" => "Tutto a posto?
+Il nemico sta avanzando...",
+  "0.3.0" => "Ah! La base è sotto assedio!",
+  "0.4.0" => "Oh, no! La nostra base
+sta per essere conquistata!",
+  "0.5.0" => "Ben fatto, Link!",
+  "0.6.0" => "Che c'è, Link?
+Non sei in forma...",
+  "0.7.0" => "Link! Combatteremo anche noi!",
+  "0.8.0" => "Link, ritiriamoci!",
+  "0.9.0" => "Link...? Link!",
+  "0.10.0" => "I nemici non hanno speranze!
+Ci pensi tu, vero Link...?",
+  "0.11.0" => "Non abbiamo alcuna speranza!
+Scappiamo, Link!",
+  "0.12.0" => "Link?! Sei ancora vivo? Link!",
+  "0.13.0" => "Link! I nostri alleati sono stati sconfitti!",
+  "0.14.0" => "Forza, andiamo!",
+  "0.15.0" => "Link, conquistiamo il presidio!",
+  "0.16.0" => "Ci penserà Link a proteggere il presidio!",
+  "0.17.0" => "Evviva! Abbiamo conquistato il presidio!",
+  "0.18.0" => "Conquistiamo la base nemica!",
+  "0.19.0" => "Forza, Link! Tieni duro!",
+  "0.20.0" => "Link, abbiamo vinto!",
+  "0.21.0" => "Accidenti... abbiamo perso...",
+  "0.22.0" => "Link! La tua forza è incredibile!",
+  "0.30.0" => "Non permetterò che si commettano
+malefatte!",
+  "0.31.0" => "Sono Zelda, la principessa di Hyrule! Non
+lascerò che il mio regno cada nel caos!",
+  "0.32.0" => "N-Non possiamo perdere...!",
+  "0.33.0" => "La base è in pericolo!
+Qualcuno deve difenderla!",
+  "0.34.0" => "Se continua così, la nostra base...!
+Servono rinforzi!!!",
+  "0.35.0" => "Possiamo vincere questa battaglia!",
+  "0.36.0" => "Forse non ha più senso combattere...",
+  "0.37.0" => "Scusate l'attesa!
+Ribaltiamo le carte in tavola!",
+  "0.38.0" => "Non posso fare più niente...",
+  "0.39.0" => "Che la luce... risplenda su Hyrule...",
+  "0.40.0" => "Sono Zelda, principessa di Hyrule!
+Cominciamo la sfida!",
+  "0.41.0" => "Uh... che forza incredibile...",
+  "0.42.0" => "La battaglia non è ancora
+finita, ma...",
+  "0.43.0" => "Che cosa?!",
+  "0.44.0" => "Andiamo avanti!",
+  "0.45.0" => "Attacchiamo il presidio nemico!",
+  "0.46.0" => "Un attacco nemico!
+Potenziamo le difese!",
+  "0.47.0" => "Abbiamo conquistato questo presidio!",
+  "0.48.0" => "Poniamo fine a questa battaglia!",
+  "0.49.0" => "Dobbiamo vincere a tutti i costi
+per far tornare la luce su Hyrule!",
+  "0.50.0" => "Abbiamo dato tutti il meglio!
+La vittoria è nostra!",
+  "0.51.0" => "Abbiamo perso...",
+  "0.52.0" => "Sento un potere divino scorrere in me...",
+  "0.60.0" => "Stiamo andando bene! Avanziamo!",
+  "0.61.0" => "Voi che desiderate la fine del mio regno...
+udite il requiem che domerà i vostri spiriti.",
+  "0.62.0" => "Se continua così...",
+  "0.63.0" => "La base è in pericolo!",
+  "0.64.0" => "Presto, dobbiamo aiutare la nostra base!",
+  "0.65.0" => "Porterò la mia armata alla vittoria...!",
+  "0.66.0" => "Allora... non sono di alcun aiuto?",
+  "0.67.0" => "Adesso ci sarò anche io a combattere
+con voi!",
+  "0.68.0" => "Per ora devo ritirarmi...",
+  "0.69.0" => "Mi spiace... non posso fare più niente...",
+  "0.70.0" => "Combatterò finché respiro!",
+  "0.71.0" => "Non pensavo che il nemico fosse così
+forte...",
+  "0.72.0" => "Allora è questo che vogliono gli dei...?",
+  "0.73.0" => "Non abbiamo potuto fermare le tenebre...",
+  "0.74.0" => "Forza, andiamo!",
+  "0.75.0" => "Dovremmo conquistare quest'area.",
+  "0.76.0" => "Non possiamo lasciare questo
+presidio al nemico.",
+  "0.77.0" => "Siamo riusciti a conquistarlo...",
+  "0.78.0" => "Forza, dobbiamo porre fine
+a questa battaglia!",
+  "0.79.0" => "Per riportare la luce su Hyrule, dobbiamo
+vincere questa battaglia a tutti i costi.",
+  "0.80.0" => "La vittoria è nostra...",
+  "0.81.0" => "La brama dei nostri nemici è troppo
+grande...",
+  "0.82.0" => "Sento la forza scorrere nelle mie vene...",
+  "0.90.0" => "Il nemico è sconfitto!",
+  "0.91.0" => "Userò questo potere per proteggere
+chi mi sta a cuore!",
+  "0.92.0" => "Non posso perdere proprio adesso!",
+  "0.93.0" => "A quanto pare bisogna proteggere la base...",
+  "0.94.0" => "La base è nei guai... dobbiamo proteggerla!",
+  "0.95.0" => "Sento di poter affrontare qualsiasi nemico!",
+  "0.96.0" => "Non ho più tanta fiducia in me...",
+  "0.97.0" => "Lasciate che mi unisca alla battaglia!",
+  "0.98.0" => "Mi spiace... dovrete continuare
+senza di me...",
+  "0.99.0" => "Posso... posso ancora... combattere...",
+  "0.100.0" => "Dovrete vedervela con me!",
+  "0.101.0" => "Prima o poi... ti eliminerò!",
+  "0.102.0" => "Cadere così... sul campo di battaglia...",
+  "0.103.0" => "Che onta... non sono riuscita a difendere
+i miei compagni in battaglia...",
+  "0.104.0" => "Questo è il momento giusto
+per metterci in marcia!",
+  "0.105.0" => "Vale la pena conquistare quest'area!",
+  "0.106.0" => "Il mio compito è proteggere questo posto
+a costo della mia stessa vita.",
+  "0.107.0" => "Ora sarà facile decidere la nostra strategia.",
+  "0.108.0" => "Dobbiamo conquistare la base nemica!
+Forza!",
+  "0.109.0" => "All'attaccooo!!! Per il bene della nostra
+bella terra, Hyrule!!!",
+  "0.110.0" => "Per lo meno, il grosso è fatto...",
+  "0.111.0" => "Com'è possibile?",
+  "0.112.0" => "Cosa...?
+Percepisco una forza misteriosa...",
+  "0.120.0" => "Il nemico è fuori gioco!",
+  "0.121.0" => "Con questo potere... governerò l'intera
+terra di Hyrule!!!",
+  "0.122.0" => "Io... il grande Ganondorf... messo
+alle strette?!",
+  "0.123.0" => "La nostra base è infastidita da
+alcuni insetti... Schiacciateli!!!",
+  "0.124.0" => "La nostra base sta per cadere?!
+Impossibile!!!",
+  "0.125.0" => "Sento la forza scorrere dentro di me!",
+  "0.126.0" => "Mpf... ho perso l'entusiasmo...",
+  "0.127.0" => "Dovrai vedertela con me!",
+  "0.128.0" => "Io me ne vado... fate come vi pare!",
+  "0.129.0" => "Possibile... che sia stato sconfitto?",
+  "0.130.0" => "Siete pronti alla fine?!",
+  "0.131.0" => "Incredibile... ma tornerò ancora più forte!",
+  "0.132.0" => "È un grande onore riuscire a sconfiggermi.",
+  "0.133.0" => "I miei soldati sono stati sconfitti da voi?!",
+  "0.134.0" => "Forza... seguitemi!",
+  "0.135.0" => "Conquisterò questa zona!!!",
+  "0.136.0" => "Prova a conquistare il mio presidio,
+se ci riesci!",
+  "0.137.0" => "Abbiamo conquistato l'area.",
+  "0.138.0" => "Schiacciate la base nemica!",
+  "0.139.0" => "Vi farò vedere il potere assoluto!",
+  "0.140.0" => "Questo è il potere assoluto del
+prescelto dagli dei!",
+  "0.141.0" => "Non pensate che sia finita qui...",
+  "0.142.0" => "Sento che i miei poteri... si stanno
+risvegliando!",
+  "0.150.0" => "Per tutte le rocce, ce l'ho fatta.",
+  "0.151.0" => "Avete visto che potenza rocciosa?!",
+  "0.152.0" => "Arciroccia... siamo in difficoltà...",
+  "0.153.0" => "La base è in pericolo...",
+  "0.154.0" => "Attenzione! La base è in pericolo!!!",
+  "0.155.0" => "Acciroccia, la situazione si sta scaldando.",
+  "0.156.0" => "Mi sento debole come un sassolino...",
+  "0.157.0" => "Ci ho messo un po', ma ora potete
+contare anche sui miei muscoli di pietra!",
+  "0.158.0" => "Aaah... non ce la faccio più...
+Acciroccia...",
+  "0.159.0" => "Mi hanno frantumato...",
+  "0.160.0" => "Fatti sotto, per tutte le rocce!",
+  "0.161.0" => "Chiuderò un occhio, ma solo per
+questa roccia.",
+  "0.162.0" => "Mi dispiace... devo rotolarmene via...",
+  "0.163.0" => "Come osate ferire i miei alleati?
+La pagherete cara, arciroccia!",
+  "0.164.0" => "Rotoliamo all'attacco!",
+  "0.165.0" => "Conquisteremo il presidio nemico!",
+  "0.166.0" => "Ci penso io a difendere questo posto!",
+  "0.167.0" => "Il presidio è nelle nostre rocce!",
+  "0.168.0" => "Li frantumeremo!",
+  "0.169.0" => "Nessuno può fermarmi!!!",
+  "0.170.0" => "Sì! La vittoria è nostra!!!",
+  "0.171.0" => "Abbiamo perso...?",
+  "0.172.0" => "Wooo! Vai vai vai!!!",
+  "0.180.0" => "Visto che talento?",
+  "0.181.0" => "Sono Ruto, la principessa degli Zora!
+Non dimenticartelo!",
+  "0.182.0" => "Non sono mai stata messa in difficoltà
+in battaglia prima d'ora... assurdo!",
+  "0.183.0" => "La base è in pericolo!",
+  "0.184.0" => "Stanno per conquistare la base!",
+  "0.185.0" => "Nessuno può fermarmi!",
+  "0.186.0" => "Mi sto scoraggiando...",
+  "0.187.0" => "Cosa posso fare adesso?",
+  "0.188.0" => "Non ne posso più...",
+  "0.189.0" => "Padre... madre...",
+  "0.190.0" => "Che succede?!",
+  "0.191.0" => "È troppo forte... persino per me...",
+  "0.192.0" => "Ci sono ancora così tante cose
+che voglio fare...",
+  "0.193.0" => "Come hai osato ferire i miei compagni?",
+  "0.194.0" => "Andiamo!",
+  "0.195.0" => "Dobbiamo conquistare questo presidio!",
+  "0.196.0" => "Ci penso io a difendere questo posto!",
+  "0.197.0" => "Abbiamo conquistato il presidio!",
+  "0.198.0" => "All'attacco! Seguitemi tutti!",
+  "0.199.0" => "Combatterò anche io per difendere
+la pace!",
+  "0.200.0" => "Abbiamo ottenuto una grande vittoria!",
+  "0.201.0" => "Io non posso perdere... non posso...",
+  "0.202.0" => "Sento il potere degli antenati Zora
+scorrere nelle mie vene!",
+  "0.210.0" => "Ehi, caro nemico... respiri ancora?",
+  "0.211.0" => "Sono così felice!",
+  "0.212.0" => "C'è qualcuno che può aiutarmi? Grazie...",
+  "0.213.0" => "I cattivi stanno circondando la nostra base!",
+  "0.214.0" => "Ah! La nostra base non ce la fa proprio
+più!",
+  "0.215.0" => "Mi sento così infervorata che potrei
+cantare!",
+  "0.216.0" => "Non mi va più di combattere...
+Voglio giocare con gli insettini!",
+  "0.217.0" => "Siete stati bravi!
+Ma adesso ci sono anche io!",
+  "0.218.0" => "Io ce l'ho messa tutta, ma adesso
+me ne torno a casa...",
+  "0.219.0" => "A-Addio... vi auguro tanta felicità...",
+  "0.220.0" => "Mi raccomando, andateci piano con me...",
+  "0.221.0" => "Come si fa a prendersela
+con una bambina?!",
+  "0.222.0" => "Farfalline, farfalline... perché siete
+così tristi?",
+  "0.223.0" => "I miei amici... come sono triste...",
+  "0.224.0" => "Uh uh... andiamo!",
+  "0.225.0" => "Adesso ci penso io a conquistare
+questo bel presidio!",
+  "0.226.0" => "Questo presidio è la casa di tanti insettini...
+Non posso lasciarvelo!",
+  "0.227.0" => "Questo posto è mio e dei miei insettini!",
+  "0.228.0" => "Adesso vi faccio vedere di cosa
+sono capace!",
+  "0.229.0" => "Combatterò per far tornare felici
+i miei insettini!",
+  "0.230.0" => "Odo il canto di vittoria dei miei insettini!",
+  "0.231.0" => "Ah... ho perso...",
+  "0.232.0" => "Uh uh uh... mi sto proprio divertendo!",
+  "0.240.0" => "Che ti aspettavi? Così finisce chi mi
+intralcia!",
+  "0.241.0" => "Sono proprio ostinati. Ma non hanno capito
+che non hanno speranze contro di me.",
+  "0.242.0" => "Uh... le cose si mettono male...",
+  "0.243.0" => "Oooh... la base è in pericolo!",
+  "0.244.0" => "Ehi! Se conquistano la nostra base,
+è la fine!",
+  "0.245.0" => "Ci sto prendendo gusto!",
+  "0.246.0" => "Mi è passata la voglia!",
+  "0.247.0" => "Scusate il ritardo!
+Rimbocchiamoci le maniche!",
+  "0.248.0" => "Che stanchezza... basta...",
+  "0.249.0" => "Non può... non può finire così...",
+  "0.250.0" => "Basta con questa follia!",
+  "0.251.0" => "Mi ricorderò di te!",
+  "0.252.0" => "Come ho potuto perdere contro di te...?",
+  "0.253.0" => "Hai perso...? Che vergogna...",
+  "0.254.0" => "Forza... avanti!",
+  "0.255.0" => "Questo presidio... sarà mio!",
+  "0.256.0" => "Devo proteggere questo posto!",
+  "0.257.0" => "Che bel presidio... quasi quasi
+me lo prendo!",
+  "0.258.0" => "Ci penserò io a porre fine a tutto questo!",
+  "0.259.0" => "Li spazzerò via!",
+  "0.260.0" => "Evviva! Abbiamo vinto noi!",
+  "0.261.0" => "Se perdiamo adesso... è la fine...",
+  "0.262.0" => "Sento nuova forza scorrere
+nelle mie vene!",
+  "0.270.0" => "Faih a rapporto.
+Numero obiettivi eliminati: 1.",
+  "0.271.0" => "Risultato battaglia: numerosi nemici
+eliminati. Fine del rapporto.",
+  "0.272.0" => "Le mie probabilità di sopravvivenza
+stanno diminuendo...",
+  "0.273.0" => "Probabilità di perdita della base: 55%.
+Richiedo soccorsi.",
+  "0.274.0" => "Base alleata in grave pericolo.",
+  "0.275.0" => "Spirito combattivo: +50%!",
+  "0.276.0" => "Spirito combattivo: -50%.",
+  "0.277.0" => "Assistenza in battaglia: approvata.",
+  "0.278.0" => "Pericolo. Situazione richiede
+ritiro immediato.",
+  "0.279.0" => "Non posso... andare avanti...",
+  "0.280.0" => "Probabilità di vittoria: 80%.",
+  "0.281.0" => "Rilevato eccessivo livello di danni.
+Ritiro immediato.",
+  "0.282.0" => "La mia coscienza... è costretta a
+ritirarsi in fase di riposo...",
+  "0.283.0" => "Rilevato indebolimento forze alleate.",
+  "0.284.0" => "Obiettivo confermato.
+Marcia avviata.",
+  "0.285.0" => "La conquista di questo presidio farà alzare
+del 25% le nostre probabilità di vittoria.",
+  "0.286.0" => "Compito assunto: difesa area attuale.",
+  "0.287.0" => "Presidio conquistato.
+Si prega di verificare.",
+  "0.288.0" => "Si consiglia di procedere all'attacco
+della base nemica.",
+  "0.289.0" => "Potenza al massimo.",
+  "0.290.0" => "Confermo vittoria battaglia.",
+  "0.291.0" => "Confermo sconfitta. Probabilità di salvare
+questo mondo fortemente diminuite...",
+  "0.292.0" => "Conferma misterioso fenomeno.
+Potenza aumentata.",
+  "0.300.0" => "Non mi lascerò ostacolare!",
+  "0.301.0" => "Non sai chi sono?
+Puoi chiamarmi Sua Eccellenza Ghiraim.",
+  "0.302.0" => "Bah... forse non sei così male...",
+  "0.303.0" => "Uhm... la base è in pericolo...",
+  "0.304.0" => "Ehi! Ho detto che la base è in pericolo!!!",
+  "0.305.0" => "Uhm... è arrivato il momento
+di fare sul serio.",
+  "0.306.0" => "Non so... non mi sento in forma...",
+  "0.307.0" => "Forse è arrivato il mio turno...",
+  "0.308.0" => "Ho perso? Com'è possibile?",
+  "0.309.0" => "Non ci posso credere... ho perso...",
+  "0.310.0" => "Ehi... sono venuto a onorarvi
+della mia presenza...",
+  "0.311.0" => "Maledizione! Ricorderò per sempre
+questa umiliazione!",
+  "0.312.0" => "Assurdo... Io, il patriarca dei maghi...",
+  "0.313.0" => "Mpf... è naturale che i deboli
+soccombano.",
+  "0.314.0" => "È il momento di avanzare.",
+  "0.315.0" => "Questo presidio sarà presto mio.",
+  "0.316.0" => "Non lascerò il mio presidio
+nelle vostre mani.",
+  "0.317.0" => "Questo presidio adesso è MIO.",
+  "0.318.0" => "Questo è il momento giusto per
+conquistare la base nemica.",
+  "0.319.0" => "Vi farò assaporare l'inferno!!!",
+  "0.320.0" => "Possiamo ben dire... che la vittoria è mia.",
+  "0.321.0" => "Ho perso?! Sono furioso!!! Indignato!!!
+",
+  "0.322.0" => "Che bella sensazione... sento la forza
+scorrere nelle mie vene...",
+  "0.330.0" => "Non esiste la parola "fallimento"
+nel mio vocabolario!",
+  "0.331.0" => "Ammirate il mio potere!
+Il crepuscolo ingoierà questa terra!",
+  "0.332.0" => "A... Ahi! Ahi!",
+  "0.333.0" => "La nostra base è in pericolo...",
+  "0.334.0" => "La nostra base sta per essere
+conquistata? Assurdo!",
+  "0.335.0" => "Che la brama che arde dentro di me...
+si tramuti in forza!!!",
+  "0.336.0" => "Anf... anf... sono stanco...",
+  "0.337.0" => "Stupidi nemici... vi eliminerò!",
+  "0.338.0" => "Poveri illusi... io ritornerò!
+Arrivederci!",
+  "0.339.0" => "N-Non mi era mai successo prima...",
+  "0.340.0" => "Vi opponete a me? Sul serio?!",
+  "0.341.0" => "Come ha osato sconfiggermi
+una creatura infima come te?!",
+  "0.342.0" => "Che disonore, essere sconfitto
+da una creatura come te...",
+  "0.343.0" => "Posso fidarmi solo di me stesso!",
+  "0.344.0" => "Forza, avanziamo!",
+  "0.345.0" => "Quest'area sarà mia!",
+  "0.346.0" => "Non vi lascerò la mia terra!",
+  "0.347.0" => "Questo posto ora è mio!",
+  "0.348.0" => "Priverò i miei nemici dell'ultimo
+spiraglio di speranza!",
+  "0.349.0" => "Provate a sfidarmi, folli!",
+  "0.350.0" => "Per me non esiste la sconfitta!",
+  "0.351.0" => "Che cosa...? Ho perso davvero?",
+  "0.352.0" => "Oooh... ho ricevuto un potere divino!",
+  "0.390.0" => "Ho sconfitto il nemico!",
+  "0.391.0" => "Non c'è maga più potente di me a Hyrule!",
+  "0.392.0" => "Non credo... di farcela...",
+  "0.393.0" => "La base è in pericolo!",
+  "0.394.0" => "Accidenti!
+La base sta per essere conquistata!",
+  "0.395.0" => "Bene! La situazione si è scaldata!",
+  "0.396.0" => "Mi sento così pesante...",
+  "0.397.0" => "Ho fatto in tempo? State bene?",
+  "0.398.0" => "Mi spiace... non ho potuto aiutarvi...",
+  "0.399.0" => "Addio... a tutti...",
+  "0.400.0" => "Sono Lana e porterò a termine
+il mio dovere!",
+  "0.401.0" => "Uh... troppo forte per me...",
+  "0.402.0" => "Vi prego... non fate male ai miei amici...",
+  "0.403.0" => "Oh, no... i miei amici sono stati sconfitti...",
+  "0.404.0" => "Forza, andiamo!",
+  "0.405.0" => "Se conquistiamo questo posto
+sarà tutto più facile!",
+  "0.406.0" => "Ci penserò io a difendere questo posto!",
+  "0.407.0" => "Questo presidio è mio adesso!",
+  "0.408.0" => "Questa battaglia è finita!",
+  "0.409.0" => "Vincerò a tutti i costi!",
+  "0.410.0" => "Evviva! State tutti bene?",
+  "0.411.0" => "Non posso permettermi... di perdere...",
+  "0.412.0" => "Mi sento... molto più forte...!",
+  "0.420.0" => "Ho sconfitto il nemico!",
+  "0.421.0" => "Con chi credi di avere a che fare?
+Sono Cia, la più grande maga di Hyrule!",
+  "0.422.0" => "Sono davvero sorpresa...!",
+  "0.423.0" => "La base è sotto assedio?",
+  "0.424.0" => "Se continua così, la base
+verrà conquistata!",
+  "0.425.0" => "Che sensazione fantastica!
+Mi sento rinvigorita!",
+  "0.426.0" => "Che pesantezza... non mi va di fare niente.",
+  "0.427.0" => "Fate largo... ci penso io!",
+  "0.428.0" => "Che nemico ostinato... devo diventare più
+forte.",
+  "0.429.0" => "N-Non può finire così...",
+  "0.430.0" => "Uh uh uh... ti va di giocare con me?",
+  "0.431.0" => "Non mi resta che la ritirata...",
+  "0.432.0" => "C-Com'è possibile?!",
+  "0.433.0" => "Oh, che peccato...",
+  "0.434.0" => "È ora di andare...",
+  "0.435.0" => "Quasi quasi mi prendo questo presidio...",
+  "0.436.0" => "Non vi lascerò il mio presidio!",
+  "0.437.0" => "Questo presidio è MIO!",
+  "0.438.0" => "Se perdiamo adesso, sarà la fine!",
+  "0.439.0" => "Uh uh... cominciamo?",
+  "0.440.0" => "La vittoria è mia... ma tanto si sapeva già.",
+  "0.441.0" => "Com'è possibile? Ho perso?!",
+  "0.442.0" => "Uh uh uh... sento una nuova forza
+dentro di me!",
+  "0.450.0" => "Non ho tempo per i perdenti!",
+  "0.451.0" => "Fatevi sotto, vi carbonizzerò tutti insieme!",
+  "0.452.0" => "Non ne posso più di te...",
+  "0.453.0" => "Ehi, la base è sotto assedio!",
+  "0.454.0" => "Che state facendo?
+Dobbiamo difendere la base!",
+  "0.455.0" => "Sento dentro di me tutta
+la potenza di un drago!",
+  "0.456.0" => "Ho perso tutto il mio spirito combattivo...",
+  "0.457.0" => "Lasciate fare a me!",
+  "0.458.0" => "Mpf... ci siamo divertiti, eh?",
+  "0.459.0" => "Mi vergogno di me stesso...",
+  "0.460.0" => "Ho voglia di battermi con uno forte!",
+  "0.461.0" => "Non ho speranze, devo ritirarmi...",
+  "0.462.0" => "Come posso perdere...?",
+  "0.463.0" => "Che figura miserabile...",
+  "0.464.0" => "Ci penso io!",
+  "0.465.0" => "Conquisterò questo presidio!",
+  "0.466.0" => "Ci penso io a difendere questo presidio!",
+  "0.467.0" => "Ho conquistato il presidio!",
+  "0.468.0" => "Annientiamo la loro base!",
+  "0.469.0" => "Comincia la battaglia...",
+  "0.470.0" => "Mpf... la vittoria è mia.",
+  "0.471.0" => "Ho perso... ma mi rifarò la prossima volta.",
+  "0.472.0" => "Oooh... sento nuova energia dentro di me!",
+  "0.480.0" => "Sconfiggermi?
+Tsk, è un'impresa impossibile!",
+  "0.481.0" => "Con il mio potere magico, posso affrontare
+anche un esercito da solo!",
+  "0.482.0" => "Chi osa ostacolarmi?!
+Qualcuno mi tolga dai guai!",
+  "0.483.0" => "Aumentate le difese della base!",
+  "0.484.0" => "Ehi! Se perdiamo la base è la fine!",
+  "0.485.0" => "Ah ah ah! Ora sì che mi diverto!",
+  "0.486.0" => "Non c'è più divertimento...",
+  "0.487.0" => "Posso dare una mano?!",
+  "0.488.0" => "Non ce la faccio più... devo ritirarmi...",
+  "0.489.0" => "Nooo! Ho perso!!!",
+  "0.490.0" => "Chi vuole giocare un po' con me?",
+  "0.491.0" => "Non mi va più di stare qui!",
+  "0.492.0" => "No... non voglio scomparire...",
+  "0.493.0" => "Tsk! Tanto non servivano a niente...",
+  "0.494.0" => "Bene, è il momento di metterci
+in marcia.",
+  "0.495.0" => "Questo presidio sarà mio!",
+  "0.496.0" => "Difenderò io questo posto!",
+  "0.497.0" => "Non ci vuole niente a prendere
+un presidio.",
+  "0.498.0" => "È il momento di attaccare
+la base nemica!",
+  "0.499.0" => "Cominciamo! Annientate tutti i nemici!",
+  "0.500.0" => "Avete compreso la mia potenza?!",
+  "0.501.0" => "C-Come ho potuto perdere
+contro queste creature?",
+  "0.502.0" => "Ah ah ah! Che potenza incredibile!!!",
+  "0.510.0" => "Non sopporto di essere intralciata!",
+  "0.511.0" => "Già fatto? Non c'era nemmeno bisogno che
+mi scomodassi per così poco!",
+  "0.512.0" => "Sono in difficoltà...",
+  "0.513.0" => "La nostra base è in pericolo!",
+  "0.514.0" => "Ehi! La nostra base sta per essere
+conquistata!",
+  "0.515.0" => "Uh uh uh... ci sto prendendo gusto!",
+  "0.516.0" => "Uhm... mi sento così poco motivata...",
+  "0.517.0" => "Ci ho messo tanto? Mi spiace.",
+  "0.518.0" => "Al resto dovrai pensarci tu...",
+  "0.519.0" => "Mi spiace, non ce la faccio a continuare...",
+  "0.520.0" => "Vuoi sfidarmi? Molto volentieri!",
+  "0.521.0" => "Ho perso... che rabbia...",
+  "0.522.0" => "Ormai... è davvero tutto finito?!",
+  "0.523.0" => "Non ho fatto in tempo...",
+  "0.524.0" => "Bene, avanziamo!",
+  "0.525.0" => "Questo presidio sarà mio in un baleno!",
+  "0.526.0" => "Questo posto è sotto la mia protezione!",
+  "0.527.0" => "Questo presidio è mio!",
+  "0.528.0" => "Ci penserò io a concludere questa
+faccenda!",
+  "0.529.0" => "Bene, ci andrò leggera...",
+  "0.530.0" => "Uh uh uh... la vittoria è nostra!",
+  "0.531.0" => "Non ci posso credere, ho perso...",
+  "0.532.0" => "La forza scorre nelle mie vene!",
+  "0.540.0" => "Ottimo lavoro, Link!",
+  "0.541.0" => "Fantastico! Link, sei il più grande
+guerriero di Hyrule!",
+  "0.542.0" => "Tutto a posto?
+Il nemico sta avanzando...",
+  "0.543.0" => "Ah! La base è sotto assedio!",
+  "0.544.0" => "Oh, no! La nostra base
+sta per essere conquistata!",
+  "0.545.0" => "Ben fatto, Link!",
+  "0.546.0" => "Che c'è, Link?
+Non sei in forma...",
+  "0.547.0" => "Link! Combatteremo anche noi!",
+  "0.548.0" => "Link, ritiriamoci!",
+  "0.549.0" => "Link...? Link!",
+  "0.550.0" => "I nemici non hanno speranze!
+Ci pensi tu, vero Link...?",
+  "0.551.0" => "Non abbiamo alcuna speranza!
+Scappiamo, Link!",
+  "0.552.0" => "Link?! Sei ancora vivo? Link!",
+  "0.553.0" => "Link! I nostri alleati sono stati sconfitti!",
+  "0.554.0" => "Forza, andiamo!",
+  "0.555.0" => "Link, conquistiamo il presidio!",
+  "0.556.0" => "Ci penserà Link a proteggere il presidio!",
+  "0.557.0" => "Evviva! Abbiamo conquistato il presidio!",
+  "0.558.0" => "Conquistiamo la base nemica!",
+  "0.559.0" => "Forza, Link! Tieni duro!",
+  "0.560.0" => "Link, abbiamo vinto!",
+  "0.561.0" => "Accidenti... abbiamo perso...",
+  "0.562.0" => "Link! La tua forza è incredibile!",
+  "0.570.0" => "Yuppi! Visto come sono forte?!",
+  "0.571.0" => "Sono Tingle, reincarnazione di un folletto!
+Il mio segreto? 35 anni di esperienza!",
+  "0.572.0" => "Ohi ohi! Sono in pericolo!",
+  "0.573.0" => "Ohi... la base è in pericolo!",
+  "0.574.0" => "Ohi ohi... la base sta per cadere!",
+  "0.575.0" => "Mi sento strapieno di energie!",
+  "0.576.0" => "Uffi... voglio andare a casa!",
+  "0.577.0" => "Yuppi! Qualcuno mi ha chiamato?!",
+  "0.578.0" => "Meglio andarsene da qui...",
+  "0.579.0" => "Buona... fortuna!",
+  "0.580.0" => "M-Ma che cosa...?!",
+  "0.581.0" => "Siete tutti cattivi, uffa!!!",
+  "0.582.0" => "N-Non ho... rimpianti...",
+  "0.583.0" => "Sbaglio o i miei amichetti se ne vanno?",
+  "0.584.0" => "Dovrò andare da quella parte...?",
+  "0.585.0" => "Oh oh! Ma che bel presidiuccio!",
+  "0.586.0" => "Non te lo do questo presidio!
+È mio! Tutto mio!!!",
+  "0.587.0" => "Ohi ohi, mi manca il fiato...
+Ma almeno ho preso il presidio!",
+  "0.588.0" => "Voglio la base nemica! La voglio
+tutta per me!",
+  "0.589.0" => "Su su! Avanti!",
+  "0.590.0" => "Evviva! Ho vinto... no?",
+  "0.591.0" => "Uffaaa!!!",
+  "0.592.0" => "Wooow! Mi sento pieno di energie!",
+  "0.600.0" => "La prossima volta ci penseranno
+due volte prima di sfidarmi!",
+  "0.601.0" => "Sono Linkle, la reincarnazione
+di un eroe leggendario!",
+  "0.602.0" => "Sono nei guai...",
+  "0.603.0" => "La base è in pericolo!",
+  "0.604.0" => "Stanno per conquistare la mia
+base... E ora cosa faccio?!",
+  "0.605.0" => "Mi sento ancora più in forma!",
+  "0.606.0" => "Sono un po' stanca...",
+  "0.607.0" => "Scusa il ritardo! Sono venuta
+ad aiutarti!",
+  "0.608.0" => "Oh, no... ho perso...",
+  "0.609.0" => "Oh... che sonno...",
+  "0.610.0" => "Ciao a tutti! Eccomi qua!",
+  "0.611.0" => "È ora di andarmene a casa...",
+  "0.612.0" => "Addio...",
+  "0.613.0" => "Nessun problema! Resto io
+a combattere!",
+  "0.614.0" => "Forza, all'attacco!",
+  "0.615.0" => "Devo conquistare questo presidio,
+giusto?!",
+  "0.616.0" => "Ci penso io a difendere il presidio!",
+  "0.617.0" => "Il presidio adesso è mio!",
+  "0.618.0" => "Se conquistiamo questo presidio
+la vittoria sarà nostra!",
+  "0.619.0" => "Diamoci da fare!",
+  "0.620.0" => "Evviva! Abbiamo vinto!",
+  "0.621.0" => "Oh, no! Un vero eroe non può
+perdere così...",
+  "0.622.0" => "Sento il potere eroico scorrere
+dentro di me!",
+  "0.630.0" => "Se non ci penso io a sconfiggere
+i nemici, chi ci pensa?!",
+  "0.631.0" => "Siete proprio debolucci, eh?!",
+  "0.632.0" => "Non mi piace più questo gioco...",
+  "0.633.0" => "Eh, no! Qualcuno vuole portarmi
+via la base!",
+  "0.634.0" => "Non posso lasciare che conquistino
+la mia base!",
+  "0.635.0" => "Adesso sì che ci divertiamo!",
+  "0.636.0" => "Mi è passata la voglia di giocare...",
+  "0.637.0" => "Qualcuno mi ha chiamato?
+A cosa giochiamo?!",
+  "0.638.0" => "Ahi ahi ahi...
+Me la pagherai cara!",
+  "0.639.0" => "Cattivi! Siete tutti brutti e cattivi!",
+  "0.640.0" => "Chi vuole giocare con me?!",
+  "0.641.0" => "Gioco di mano, gioco da villano...",
+  "0.642.0" => "Volevo solo giocare un po' con voi...",
+  "0.643.0" => "Uhm... Ce la farò anche senza di te!",
+  "0.644.0" => "Forza, alla carica!",
+  "0.645.0" => "Devo conquistare il presidio!",
+  "0.646.0" => "Non permetterò a nessuno di toccare
+il mio presidio!",
+  "0.647.0" => "Voglio questo presidio! Lo voglio!
+Lo voglio! Lo voglio!",
+  "0.648.0" => "Comincio ad annoiarmi!
+Finiamola al più presto!",
+  "0.649.0" => "Dai, gioca un po' con me!",
+  "0.650.0" => "Siamo troppo forti per te!",
+  "0.651.0" => "Tanto me ne volevo andare lo stesso...",
+  "0.652.0" => "Mi sento pieno di energia!",
+  "0.660.0" => "Ce l'hai fatta, Link!",
+  "0.661.0" => "Link, hai tolto di mezzo un bel
+po' di nemici!",
+  "0.662.0" => "Link, tutto bene?!",
+  "0.663.0" => "Link, attento! La base è in pericolo!",
+  "0.664.0" => "Link, devi difendere la base!",
+  "0.665.0" => "Link, ti vedo in forma!",
+  "0.666.0" => "Link, non abbatterti...",
+  "0.667.0" => "Link, devi dare una mano ai
+tuoi alleati!",
+  "0.668.0" => "Andiamocene, Link!",
+  "0.669.0" => "Fratellinooo!!!",
+  "0.670.0" => "Con l'aiuto di Link, non c'è
+niente da temere!",
+  "0.671.0" => "Link, abbiamo perso...",
+  "0.672.0" => "Ma... fratellino?!",
+  "0.673.0" => "Qualcuno aiuti il mio povero
+fratellino!!!",
+  "0.674.0" => "Dai Link, andiamo!",
+  "0.675.0" => "Coraggio, non farti scappare
+quel presidio!",
+  "0.676.0" => "Link, proteggi il presidio!",
+  "0.677.0" => "Bravo Link! Hai conquistato
+il presidio!",
+  "0.678.0" => "Link, guarda! Quella è la base nemica!",
+  "0.679.0" => "Coraggio, Link!",
+  "0.680.0" => "Sei troppo forte, Link!",
+  "0.681.0" => "Abbiamo perso...",
+  "0.682.0" => "Link, mi sembri ancora più forte
+del solito!",
+  "0.690.0" => "Ho tolto di mezzo il nemico!",
+  "0.691.0" => "Fatevi pure sotto tutti insieme, così
+vi elimino più comodamente!",
+  "0.692.0" => "Mi hanno messa alle strette...",
+  "0.693.0" => "La base è in pericolo!",
+  "0.694.0" => "Se continua così, conquisteranno
+la mia base!",
+  "0.695.0" => "Sono in gran forma!!!",
+  "0.696.0" => "Non mi sento tanto bene...",
+  "0.697.0" => "Scusate il ritardo!",
+  "0.698.0" => "Ugh... Ho perso...",
+  "0.699.0" => "Avrei voluto... fare molto di più...",
+  "0.700.0" => "Chi devo far pentire di essere nato?!",
+  "0.701.0" => "Accidenti... Sei più forte di quanto
+pensassi...",
+  "0.702.0" => "Non ci posso credere...
+Mi hai sconfitta...",
+  "0.703.0" => "Ohi... Ho un alleato in meno?",
+  "0.704.0" => "All'arrembaggio!",
+  "0.705.0" => "Questo presidio sarà mio!",
+  "0.706.0" => "Ci penso io a difendere il presidio!",
+  "0.707.0" => "Ho conquistato il presidio!",
+  "0.708.0" => "Mi prenderò la vittoria finale!",
+  "0.709.0" => "Cominciamo!",
+  "0.710.0" => "Evviva, ho vinto!!!",
+  "0.711.0" => "Oh, no! Sono stata sconfitta...",
+  "0.712.0" => "Cos'è questo potere che sento
+dentro di me?!",
+  "0.720.0" => "Ho sconfitto il capo dei nemici!",
+  "0.721.0" => "Concedete un futuro e la grazia della
+speranza ai bambini di questo regno!",
+  "0.722.0" => "Uhm... Sono circondato...",
+  "0.723.0" => "La base è in pericolo!
+Dobbiamo difenderla!",
+  "0.724.0" => "Continuando così, perderemo la base!",
+  "0.725.0" => "Niente è impossibile!",
+  "0.726.0" => "Che senso ha continuare a
+combattere...?",
+  "0.727.0" => "Ora potete contare anche su di me!",
+  "0.728.0" => "Non c'è più niente che possa fare...",
+  "0.729.0" => "Addio... Giovani eroi...",
+  "0.730.0" => "Non lascerò che continuiate con
+le vostre malefatte!",
+  "0.731.0" => "Non immaginavo che foste
+così potenti...",
+  "0.732.0" => "Per me è la fine... Ma questi giovani
+eroi continueranno a combattere...",
+  "0.733.0" => "Mi spiace, non sono stato in grado
+di proteggerti...",
+  "0.734.0" => "È giunto il momento di darci
+da fare!",
+  "0.735.0" => "Orsù, conquistiamo il presidio!",
+  "0.736.0" => "Difenderò questo presidio a costo
+di sacrificare la mia stessa vita!",
+  "0.737.0" => "Il presidio adesso è mio!",
+  "0.738.0" => "Questo è il momento giusto per
+conquistare il presidio!",
+  "0.739.0" => "Forza e coraggio, amici miei!",
+  "0.740.0" => "Siamo riusciti a sconfiggere il male!
+L'unione fa la forza!",
+  "0.741.0" => "Abbiamo perso...",
+  "0.742.0" => "Sento un potere sacro scorrere nelle
+mie vene...",
+  "0.750.0" => "Ho sistemato un nemico!",
+  "0.751.0" => "Sono stata d'aiuto, vero?
+Visto? So badare a me stessa!",
+  "0.752.0" => "P... Posso fare di meglio...",
+  "0.753.0" => "Stanno puntando alla nostra base!",
+  "0.754.0" => "La base è in pericolo!
+Dobbiamo fare qualcosa!",
+  "0.755.0" => "Ora sì che si ragiona!",
+  "0.756.0" => "I-Io... Sono esausta...",
+  "0.757.0" => "Voglio dare una mano anch'io!",
+  "0.758.0" => "Non sono stata d'aiuto... Mi dispiace...",
+  "0.759.0" => "È davvero la fine? Non ci credo...",
+  "0.760.0" => "Vi farò tutti a fettine!
+Almeno credo...",
+  "0.761.0" => "Ho ancora tante cose da imparare...",
+  "0.762.0" => "Ho perso... Ahi ahi...",
+  "0.763.0" => "Non ti preoccupare per me!
+Ce la farò, in qualche modo!",
+  "0.764.0" => "Si comincia!",
+  "0.765.0" => "E se mi impossessassi di questo presidio?",
+  "0.766.0" => "Rimango io di guardia!",
+  "0.767.0" => "Il presidio ora è mio!",
+  "0.768.0" => "Mettiamo fine alla battaglia!",
+  "0.769.0" => "Date tutti il massimo!",
+  "0.770.0" => "Ho davvero vinto?! Non ci credo!",
+  "0.771.0" => "No... Abbiamo perso...",
+  "0.772.0" => "Avverto una scarica di energia dentro di me!",
+  "0.780.0" => "Ho vinto io!",
+  "0.781.0" => "Che forzaaa!!! Sono un turbine
+travolgente!!!",
+  "0.782.0" => "N-Non riesco a muovermi...",
+  "0.783.0" => "Oh, no! Hanno preso di mira
+la base alleata! Che siano dei ladri?!",
+  "0.784.0" => "Dobbiamo difendere la nostra
+base a ogni costo!",
+  "0.785.0" => "Mi viene voglia di cantare!!!",
+  "0.786.0" => "Che stanchezza...",
+  "0.787.0" => "Adesso ci sono anche io!",
+  "0.788.0" => "Ho perso... Mi dispiace...",
+  "0.789.0" => "Non dimenticate la mia melodia... o me...",
+  "0.790.0" => "Chi è che non ha fatto il bravo?!",
+  "0.791.0" => "Eh? Ho perso?",
+  "0.792.0" => "Io... Io...",
+  "0.793.0" => "È brutto perdere un alleato...!",
+  "0.794.0" => "In marcia!",
+  "0.795.0" => "Devo conquistare il presidio, giusto?",
+  "0.796.0" => "Difenderò questo posto con tutte
+le mie energie!",
+  "0.797.0" => "Ho conquistato il presidio!",
+  "0.798.0" => "All'attaccooo!!!",
+  "0.799.0" => "Si comincia!",
+  "0.800.0" => "Abbiamo vinto!
+State tutti bene?!",
+  "0.801.0" => "No... Abbiamo perso...",
+  "0.802.0" => "Sento il potere che scorre dentro di me...",
+  "0.810.0" => "Ho sconfitto il nemico!",
+  "0.811.0" => "Se non l'avete capito, sono Zelda,
+la principessa di un regno intero!",
+  "0.812.0" => "Non posso tenerli a bada ancora
+a lungo...",
+  "0.813.0" => "Oh, no! Il nemico vuole assaltare
+la nostra base!",
+  "0.814.0" => "Qualcuno mi aiuti! La base
+sta per cadere!",
+  "0.815.0" => "Ora bisogna fare sul serio...
+Giocherò il tutto per tutto!",
+  "0.816.0" => "Proprio non posso fare niente
+per migliorare la situazione?!",
+  "0.817.0" => "Scusate l'attesa! Forza,
+insieme possiamo farcela!",
+  "0.818.0" => "Ugh... Non ci posso credere...",
+  "0.819.0" => "Piangere non servirà a niente...",
+  "0.820.0" => "Chi vuole affrontarmi?!",
+  "0.821.0" => "Ugh... Niente male...",
+  "0.822.0" => "Stavolta... ho perso...",
+  "0.823.0" => "Hanno eliminato uno dei nostri alleati!",
+  "0.824.0" => "Diamoci dentro!",
+  "0.825.0" => "Devo solo conquistare questo presidio?
+Tsk, sarà una passeggiata!",
+  "0.826.0" => "Lasciate questo presidio a me!
+Lo proteggerò a costo della mia vita!",
+  "0.827.0" => "Questo presidio è nostro!",
+  "0.828.0" => "È la nostra occasione! Dobbiamo
+puntare alla base del nemico!",
+  "0.829.0" => "Andiamo!",
+  "0.830.0" => "Ce l'abbiamo fatta! Tutti insieme!
+È una grande vittoria!",
+  "0.831.0" => "Non ci credo... Abbiamo perso...",
+  "0.832.0" => "M-Ma... Sento un'energia esplosiva
+crescere dentro di me!",
+  "0.840.0" => "Il nemico è sistemato!",
+  "0.841.0" => "Ti ringrazio, ma non sono un eroe.
+Sono solo un semplice mercante.",
+  "0.842.0" => "Mmmh, le cose si mettono male...",
+  "0.843.0" => "La nostra base è nei guai!",
+  "0.844.0" => "La nostra base cadrà se non facciamo
+subito qualcosa!",
+  "0.845.0" => "Non so perché, ma sento di poter
+occuparmene io senza problemi!",
+  "0.846.0" => "Temo che questa cosa sia più grande
+di me...",
+  "0.847.0" => "E va bene! Cercherò di dare il meglio!",
+  "0.848.0" => "Non ce la faccio più...",
+  "0.849.0" => "Forse anch'io volevo essere un eroe!
+Nah! Sto scherzando...",
+  "0.850.0" => "Eh? Ho forse un'aria sospetta?",
+  "0.851.0" => "Ahia! Ohi! Ahi!
+Ehi, ne ho abbastanza!",
+  "0.852.0" => "Promettimi... che recupererai...
+i miei oggetti...",
+  "0.853.0" => "Non avrei mai pensato che i miei
+amici potessero essere sconfitti...",
+  "0.854.0" => "Poche storie, facciamoci sotto!",
+  "0.855.0" => "Tutto ciò che devo fare è conquistare
+questo presidio? Davvero?",
+  "0.856.0" => "Fate spazio, ci penso io!",
+  "0.857.0" => "Presidio conquistato!
+Ehi, non sento l'applauso!",
+  "0.858.0" => "Ehi, se conquistiamo quella zona,
+vinceremo la battaglia!",
+  "0.859.0" => "Molto bene, diamo il via alle danze!",
+  "0.860.0" => "Abbiamo vinto! Sono proprio contento!",
+  "0.861.0" => "È il momento di dare il tutto per tutto e...
+Oh, abbiamo già finito?",
+  "0.862.0" => "Ma... Cos'è questa strana forza che
+sento crescere in me?",
+  "0.870.0" => "Il nemico è sistemato! Ah ah ah!",
+  "0.871.0" => "Mi chiamo Yuga e viaggio per il mondo
+in cerca della vera bellezza.",
+  "0.872.0" => "Ehi, fate strada!",
+  "0.873.0" => "Eh? La nostra base è sotto attacco?!",
+  "0.874.0" => "Ehi! Se non facciamo nulla, la nostra
+base cadrà!",
+  "0.875.0" => "Ah ah ah... Ora che sto iniziando
+a scaldarmi mi sto quasi divertendo!",
+  "0.876.0" => "Oggi non mi sento per nulla ispirato...",
+  "0.877.0" => "Io, Yuga, vi darò una mano, se gradite.",
+  "0.878.0" => "Se continuo a combattere, perderò
+via via la mia sensibilità artistica...",
+  "0.879.0" => "Non può finire così... Com'è potuto
+succedere?",
+  "0.880.0" => "Dov'è quel bellissimo motivo?",
+  "0.881.0" => "Per stavolta lascerò correre, va bene?",
+  "0.882.0" => "N-Non doveva finire così...",
+  "0.883.0" => "Tsk, finché ci sono io, non avremo
+nessun tipo di problema.",
+  "0.884.0" => "È tempo di fare a modo nostro.",
+  "0.885.0" => "Conquistare quel presidio sarà
+una passeggiata!",
+  "0.886.0" => "Lasciate che mi occupi io di questo
+presidio e accadranno solo belle cose.",
+  "0.887.0" => "Il presidio è nostro! Che bellezza!",
+  "0.888.0" => "E così questa è la base nemica...
+Che ne dite di raderla al suolo?",
+  "0.889.0" => "Vi dispiace se comincio io?",
+  "0.890.0" => "La vittoria non è mai stata in discussione!",
+  "0.891.0" => "Perdere così... non è per niente bello...",
+  "0.892.0" => "Questa forza straripante è... bellissima!",
+  "0.3182.0" => "Accidenti, siamo accerchiati!",
+  "0.3185.0" => "Forza! Ce la possiamo fare!",
+  "0.3186.0" => "N-Non so se ce la faremo...",
+  "0.3187.0" => "Ci sono anche io!",
+  "0.3188.0" => "Non ce l'ho fatta...",
+  "0.3189.0" => "Non ho speranze...",
+  "0.3190.0" => "Dovrete prima passare su di me!",
+  "0.3191.0" => "Ri... ritirata!!!",
+  "0.3192.0" => "Ah... è tutto inutile...",
+  "0.3194.0" => "Forza, mettiamoci in marcia!",
+  "0.3195.0" => "Conquisteremo questo presidio!",
+  "0.3196.0" => "Ci penseremo noi a proteggere
+questo presidio!",
+  "0.3197.0" => "Abbiamo conquistato il presidio!",
+  "0.3198.0" => "Attacchiamo la base nemica!",
+  "0.3202.0" => "Oooh... sento nuova forza dentro di me!",
+  "0.3212.0" => "Il nemico ci sa fare, arciroccia!",
+  "0.3215.0" => "Ehi, mi sento forte come una montagna!",
+  "0.3216.0" => "Mi sento debole come un sassolino...",
+  "0.3217.0" => "Ci siamo qui noi, siete in una botte di roccia!",
+  "0.3218.0" => "Acciroccia, abbiamo perso...",
+  "0.3219.0" => "A-Addio...",
+  "0.3220.0" => "Ve la dovrete vedere con noi,
+per tutte le rocce!",
+  "0.3221.0" => "Dobbiamo rotolarci... ehm, ritirarci...",
+  "0.3222.0" => "Abbiamo perso...",
+  "0.3224.0" => "Partenza!",
+  "0.3225.0" => "Questo presidio sarà nostro!",
+  "0.3226.0" => "Non lasceremo questo presidio!",
+  "0.3227.0" => "Questo presidio adesso è nostro!",
+  "0.3228.0" => "Attacchiamo la base nemica!",
+  "0.3232.0" => "Sento una nuova forza
+rotolare dentro di me!",
+  "0.3302.0" => "I nemici stanno prendendo il sopravvento...",
+  "0.3303.0" => "La base è in pericolo...",
+  "0.3304.0" => "Se continua così, la nostra base
+verrà conquistata!",
+  "0.3308.0" => "Mi dispiace...",
+  "0.3311.0" => "Non ce l'ho fatta...",
+  "0.3317.0" => "Abbiamo conquistato il presidio!",
+  "0.3332.0" => "Non pensavo che sarebbe stata così dura...",
+  "0.3333.0" => "La base è in grave pericolo...",
+  "0.3334.0" => "Se conquistano la nostra base, per noi
+sarà la fine!!!",
+  "0.3338.0" => "Ho perso...",
+  "0.3341.0" => "Non ce la faccio...",
+  "0.3347.0" => "Questo presidio è nostro!!!",
+  "0.4470.0" => "Ehi! Gli alleati si stanno dando da fare!",
+  "0.4471.0" => "Wow! Che abilità!",
+  "0.4472.0" => "Ehi, Link! Ti hanno fatto un complimento!",
+  "0.4473.0" => "Per fortuna ho degli alleati su cui fare
+affidamento!",
+  "0.4474.0" => "Link! Andiamo anche noi!",
+  "0.4475.0" => "Link, combattiamo anche noi!",
+  "0.4476.0" => "Per fortuna sono arrivati i rinforzi!",
+  "0.4477.0" => "Guarda, Link! I tuoi alleati sono contenti
+di vederti!",
+  "0.4478.0" => "Link! Sono arrivati i rinforzi!",
+  "0.4479.0" => "Qualcuno aiuti Link!",
+  "0.4480.0" => "Accidenti! Andiamo in soccorso!",
+  "0.4481.0" => "Per fortuna possiamo sempre contare
+sui nostri alleati!",
+  "0.4482.0" => "Appena in tempo!",
+  "0.4483.0" => "Attacchiamo la base anche noi!",
+  "0.4484.0" => "Link, se superiamo questa, la vittoria
+è nostra!",
+  "0.4485.0" => "Link! Diamo una mano anche noi!",
+  "0.4490.0" => "Wow! Che agilità!",
+  "0.4491.0" => "Niente male! Riesco a vedere
+uno spiraglio di luce su Hyrule!",
+  "0.4492.0" => "Da sola non ce l'avrei mai fatta!
+Grazie per il vostro aiuto!",
+  "0.4493.0" => "Che potenza incredibile!
+Sei la speranza di Hyrule!",
+  "0.4494.0" => "Siamo pronti per partire all'attacco!
+Forza, andiamo!",
+  "0.4495.0" => "Lasciate fare a me!",
+  "0.4496.0" => "Cerca di fare attenzione!",
+  "0.4497.0" => "Non c'è da preoccuparsi! Andiamo al
+contrattacco!",
+  "0.4498.0" => "Benissimo! Adesso tocca a noi!",
+  "0.4499.0" => "Ci servono rinforzi!!!",
+  "0.4500.0" => "Ricevuto!
+Cerca di resistere fino al mio arrivo!",
+  "0.4501.0" => "Grazie! Insieme riusciremo a cavarcela!",
+  "0.4502.0" => "Unendo le nostre forze riusciremo a
+sconfiggere qualsiasi nemico!",
+  "0.4503.0" => "Vengo anche io!",
+  "0.4504.0" => "Ci penserò io a finire l'opera!",
+  "0.4505.0" => "Fate attenzione! Arrivo subito in aiuto!",
+  "0.4510.0" => "Tu sarai la chiave della nostra vittoria!",
+  "0.4511.0" => "Che potenza... non per niente gli dei hanno
+puntato su di te!",
+  "0.4512.0" => "Se ce l'ho fatta io, potete farcela anche
+voi!",
+  "0.4513.0" => "Conduci le truppe con il tuo coraggio!",
+  "0.4514.0" => "Farò quello che devo fare!",
+  "0.4515.0" => "Ci penso io qui...",
+  "0.4516.0" => "Ho fiducia nelle tue possibilità...",
+  "0.4517.0" => "Devo purificare questa corrente maligna...",
+  "0.4518.0" => "Finalmente... una luce che illumina
+la nostra via...",
+  "0.4519.0" => "Qualcuno può venire ad aiutarci...?",
+  "0.4520.0" => "Vado io...",
+  "0.4521.0" => "Ti ringrazio...",
+  "0.4522.0" => "Non mancherò di collaborare con voi...",
+  "0.4523.0" => "La situazione è difficile... lasciate
+che vi aiuti...",
+  "0.4524.0" => "Reciderò questa sventura alla radice...!",
+  "0.4525.0" => "Bisogna avere pazienza... sto arrivando...!",
+  "0.4530.0" => "Io non sarò da meno!",
+  "0.4531.0" => "Che meraviglia!
+Questa abilità non ha pari a Hyrule!",
+  "0.4532.0" => "Non posso prendermi tutto il merito...",
+  "0.4533.0" => "Che prode combattente...
+Hai superato le mie aspettative!",
+  "0.4534.0" => "Anche io devo imparare a controllarmi
+di più!",
+  "0.4535.0" => "Abbi fiducia in me... ci penso io!",
+  "0.4536.0" => "Che ognuno di noi faccia il proprio dovere!",
+  "0.4537.0" => "Prendiamoci insieme questa vittoria!",
+  "0.4538.0" => "Il momento che stavamo aspettando...
+è arrivato!",
+  "0.4539.0" => "Vi prego... qualcuno mi aiuti!",
+  "0.4540.0" => "Ci penso io! Non posso perdere
+un'alleanza preziosa!",
+  "0.4541.0" => "Grazie per l'aiuto...",
+  "0.4542.0" => "Non c'è tempo per i ringraziamenti...
+Concentriamoci sulla battaglia!",
+  "0.4543.0" => "Ci sono anche io!
+Gli alleati non sono mai troppi!",
+  "0.4544.0" => "Mi occuperò io del comandante nemico!",
+  "0.4545.0" => "Che decisione coraggiosa... conta su
+di me!",
+  "0.4550.0" => "Impressionante!",
+  "0.4551.0" => "Senza potere non si può conquistare
+il mondo.",
+  "0.4552.0" => "Non mi serve il tuo apprezzamento.",
+  "0.4553.0" => "Oooh, non sei poi così inutile... forse...",
+  "0.4554.0" => "Farò come mi pare!",
+  "0.4555.0" => "Trasformerò questa terra in un cimitero...",
+  "0.4556.0" => "Sei in forma, eh?",
+  "0.4557.0" => "Sono venuto ad annientare gli stolti!",
+  "0.4558.0" => "Giù le mani dalle mie prede!",
+  "0.4559.0" => "C'è qualcuno che può venire a...
+darmi una mano?",
+  "0.4560.0" => "Tsk... non vi si può lasciare soli un attimo.",
+  "0.4561.0" => "Mpf... troppo tardi.",
+  "0.4562.0" => "Pensa a combattere, non perdere tempo
+con i ringraziamenti.",
+  "0.4563.0" => "Prendiamo la base nemica e affondiamo
+le loro speranze!",
+  "0.4564.0" => "Ci penserò io ad annientare
+il comandante nemico!",
+  "0.4565.0" => "Abbi pazienza...
+Arriverò quando lo crederò opportuno.",
+  "0.4570.0" => "Sei più forte di una roccia!",
+  "0.4571.0" => "Ben fatto! Rotoliamo verso la vittoria!",
+  "0.4572.0" => "Ah ah! Riesci a far arrossire anche
+le pietre!",
+  "0.4573.0" => "Potresti diventare un Goron anche tu!",
+  "0.4574.0" => "Arrivo anche iooo!!!",
+  "0.4575.0" => "Lasciate fare a me, arciroccia!",
+  "0.4576.0" => "Acciroccia, mi serviva proprio una mano!",
+  "0.4577.0" => "Che ne dici di farti aiutare da un grande
+leader Goron?!",
+  "0.4578.0" => "Ti stavo aspettando, per tutte le rocce!",
+  "0.4579.0" => "Qualcuno mi aiuti! Arciroccia!",
+  "0.4580.0" => "Aiuto roccioso in arrivo!",
+  "0.4581.0" => "Ci avete salvato i sassi! Grazie!",
+  "0.4582.0" => "Siamo amici, non c'è bisogno di
+ringraziare!",
+  "0.4583.0" => "Ti seguo a rotolo!",
+  "0.4584.0" => "Ti sconfiggerò io e porrò fine a questa
+battaglia!",
+  "0.4585.0" => "Non siete soli! Ci sono anche io!",
+  "0.4590.0" => "Niente male, ci sai fare.",
+  "0.4591.0" => "Wow! Non posso fare altro che ammirarti!",
+  "0.4592.0" => "Mpf... qualcuno aveva dubbi per caso?",
+  "0.4593.0" => "Wow! Devo esprimere tutta
+la mia ammirazione!",
+  "0.4594.0" => "Sto arrivando!",
+  "0.4595.0" => "A quanto pare potrebbe servirti
+una mano, eh?",
+  "0.4596.0" => "Posso davvero affidarmi a te?",
+  "0.4597.0" => "Uhm... lasciate che dia una mano anche io.",
+  "0.4598.0" => "Finalmente siete arrivati...
+Quanto mi avete fatta aspettare?",
+  "0.4599.0" => "Aiutooo! Ho bisogno di aiuto!!!",
+  "0.4600.0" => "Vengo io in soccorso!",
+  "0.4601.0" => "Vi ringrazio per il vostro supporto.",
+  "0.4602.0" => "Mpf... non c'è problema.",
+  "0.4603.0" => "Verrò anche io!",
+  "0.4604.0" => "Questo è davvero un degno avversario...",
+  "0.4605.0" => "Lasciate che dia una mano anche io!",
+  "0.4610.0" => "Sei proprio forte!",
+  "0.4611.0" => "Il regno degli insetti tramanderà le tue
+gesta nei secoli a venire!",
+  "0.4612.0" => "Non farmi complimenti...
+Mi fai arrossire...",
+  "0.4613.0" => "Solo negli scarafaggi ho visto una
+potenza del genere...",
+  "0.4614.0" => "Farò del mio meglio!",
+  "0.4615.0" => "Lasciate fare a me, ci penso io!",
+  "0.4616.0" => "Capisco... fai del tuo meglio!",
+  "0.4617.0" => "Combattiamo insieme? Ottima idea!",
+  "0.4618.0" => "Grazie... mi sento protetta come
+dagli scarafaggi!",
+  "0.4619.0" => "Non ce la faccio più... qualcuno mi aiuti!",
+  "0.4620.0" => "Sto arrivando! Ancora un po' di pazienza!",
+  "0.4621.0" => "Oooh... pensavo che non ce l'avrei fatta...",
+  "0.4622.0" => "Non c'è bisogno di ringraziarmi...
+Così mi fai arrossire!",
+  "0.4623.0" => "Vado all'attacco anche io!!!",
+  "0.4624.0" => "Ci penso io a sistemare il
+generale cattivo!!!",
+  "0.4625.0" => "Un momento! Raduniamoci come
+le formichine e andiamo all'attacco!",
+  "0.4630.0" => "Niente male davvero!",
+  "0.4631.0" => "Ehi! Come hai fatto a fare tutto senza
+aiuto?!",
+  "0.4632.0" => "Uh uh uh, non era niente di che...",
+  "0.4633.0" => "Wow... per fortuna che è dalla mia parte...",
+  "0.4634.0" => "Voglio dare una mano anche io!",
+  "0.4635.0" => "Lasciate che vi aiuti!",
+  "0.4636.0" => "Grande! Fammi vedere cosa sai fare!",
+  "0.4637.0" => "Le cose si sono messe male, eh?
+Ci penso io!",
+  "0.4638.0" => "Ehi, quanto ci hai messo a venire?",
+  "0.4639.0" => "Qualcuno venga in soccorso!",
+  "0.4640.0" => "E va bene... non mi resta che dare
+una mano...",
+  "0.4641.0" => "Mi hai salvata! Per fortuna posso contare
+su di te nel momento del pericolo!",
+  "0.4642.0" => "Non perdere tempo a chiacchierare!
+Pensa a combattere!",
+  "0.4643.0" => "Ci sono anche io!",
+  "0.4644.0" => "Dobbiamo eliminare questo nemico
+e la vittoria sarà nostra!",
+  "0.4645.0" => "Ehi, non preoccuparti...
+sto venendo in soccorso!",
+  "0.4650.0" => "Ottima prestazione.",
+  "0.4651.0" => "Intercettazione eroe di Hyrule: confermata.",
+  "0.4652.0" => "Complimento ricevuto.",
+  "0.4653.0" => "Probabilità salvezza del mondo con questa
+potenza: 95%.",
+  "0.4654.0" => "Faih è in procinto di compiere il proprio
+dovere.",
+  "0.4655.0" => "Si consiglia di lasciare fare a Faih.",
+  "0.4656.0" => "Si consiglia di fare attenzione.",
+  "0.4657.0" => "Si consiglia di seguire Faih.",
+  "0.4658.0" => "Potenziamento forze alleate: +30%.",
+  "0.4659.0" => "Si richiedono rinforzi immediati. Passo.",
+  "0.4660.0" => "Faih si dirige verso l'obiettivo.",
+  "0.4661.0" => "Probabilità di ritirata: estremamente
+diminuite.",
+  "0.4662.0" => "Conferma compito portato a termine.",
+  "0.4663.0" => "Grazie a Faih, le probabilità di conquistare
+la base aumentano sensibilmente.",
+  "0.4664.0" => "Probabilità di vittoria dopo sconfitta
+comandante nemico: 95%.",
+  "0.4665.0" => "Richiesta accordo di partecipazione
+alla battaglia.",
+  "0.4670.0" => "Niente male, viste le tue limitate possibilità!",
+  "0.4671.0" => "Non mi sarei mai aspettato una
+mossa del genere!",
+  "0.4672.0" => "Una cosa del genere è del
+tutto normale per me.",
+  "0.4673.0" => "Sei la persona che si sta dando più da
+fare qui, a parte me ovviamente.",
+  "0.4674.0" => "Beh... è il momento di scendere in campo.",
+  "0.4675.0" => "Lasciate che ci pensi io a questi qua.",
+  "0.4676.0" => "Sono lieto di accettare la proposta.",
+  "0.4677.0" => "A quanto pare serve il mio aiuto.",
+  "0.4678.0" => "Finalmente siete arrivati!
+Adesso nessuno ci fermerà.",
+  "0.4679.0" => "Qualcuno venga ad aiutarmi! Subito!",
+  "0.4680.0" => "E va bene... andrò anche io...",
+  "0.4681.0" => "Oh, i rinforzi... devo proprio ringraziarti!",
+  "0.4682.0" => "Pensa alle cose serie, diamoci da fare!",
+  "0.4683.0" => "Non posso lasciarti andare senza di me.",
+  "0.4684.0" => "Finalmente ho trovato qualcuno alla mia
+altezza.",
+  "0.4685.0" => "Beh, non vorrai mica rubarmi la scena?",
+  "0.4690.0" => "Uhm, fai bene a darti da fare per me.",
+  "0.4691.0" => "Con il tuo aiuto, riusciremo a diffondere
+il crepuscolo!",
+  "0.4692.0" => "Beh, è vero... sono proprio forte!",
+  "0.4693.0" => "Voglio anche io... un potere del genere...",
+  "0.4694.0" => "Mi rifiuto di indietreggiare!",
+  "0.4695.0" => "Questo è un lavoro per il re delle tenebre!",
+  "0.4696.0" => "Mi sbaglio o colgo un barlume nei tuoi
+occhi?",
+  "0.4697.0" => "Senza di me non si comincia, a quanto
+pare.",
+  "0.4698.0" => "Ti stavo aspettando!",
+  "0.4699.0" => "Qu-Qualcuno mi aiutiiii!",
+  "0.4700.0" => "Va bene. Sarò lì a breve.",
+  "0.4701.0" => "Oooh, mi vuoi aiutare?",
+  "0.4702.0" => "Non dimenticare mai il mio aiuto.",
+  "0.4703.0" => "E va bene, ti darò il mio aiuto.",
+  "0.4704.0" => "La testa del comandante nemico sarà mia.",
+  "0.4705.0" => "Molto interessante! Voglio partecipare
+anche io!",
+  "0.4730.0" => "Niente male! Devo continuare a darmi
+da fare per stare al tuo passo!",
+  "0.4731.0" => "Collaborando possiamo salvare il mondo
+di Hyrule!",
+  "0.4732.0" => "Oooh... mi fai arrossire...",
+  "0.4733.0" => "Sapevo di poter contare su di te!",
+  "0.4734.0" => "Devo avere più fiducia nelle mie abilità!",
+  "0.4735.0" => "Lasciate combattere anche me!",
+  "0.4736.0" => "Fai attenzione a non ferirti.",
+  "0.4737.0" => "Ci sono anche io ad aiutare!",
+  "0.4738.0" => "Ti stavo aspettando! Ero un po'
+preoccupata!",
+  "0.4739.0" => "Vi prego! Aiutatemi!",
+  "0.4740.0" => "Resisti! Sto arrivando!",
+  "0.4741.0" => "Le mie preghiere sono arrivate a
+te... grazie!",
+  "0.4742.0" => "Non voglio perdere coloro a cui tengo!",
+  "0.4743.0" => "Combatterò anch'io fino alla fine!",
+  "0.4744.0" => "Porrò fine a questa battaglia!",
+  "0.4745.0" => "Attenzione! Il nemico è molto forte!",
+  "0.4750.0" => "Beh, devo riconoscere... che non sei
+niente male.",
+  "0.4751.0" => "Ottimo lavoro...
+Ecco cosa si può chiamare "invincibile".",
+  "0.4752.0" => "Non è niente di speciale.",
+  "0.4753.0" => "Mpf! Oltre a parlare sai passare anche ai fatti.",
+  "0.4754.0" => "Non mi intralciare.",
+  "0.4755.0" => "Che ne dici di stare indietro e guardare?",
+  "0.4756.0" => "Impegnarsi è importante... ma bisogna
+avere un minimo di talento!",
+  "0.4757.0" => "Cerca di non fare troppo affidamento su di
+me. Bisogna cavarsela anche da soli.",
+  "0.4758.0" => "Finalmente, era ora!
+Forza, al lavoro. Subito!",
+  "0.4759.0" => "Qualcuno mi aiuti! Immediatamente!",
+  "0.4760.0" => "Ma insomma... Come al solito, mi tocca
+fare tutto da sola. Sto arrivando!",
+  "0.4761.0" => "Finalmente sei qui! La prossima volta,
+vedi di non farmi aspettare.",
+  "0.4762.0" => "Io ti ho dato una mano, ma ora vedi
+di darti da fare.",
+  "0.4763.0" => "Uhm... ma devo proprio andare anche io?",
+  "0.4765.0" => "Niente panico. Sto arrivando.",
+  "0.4770.0" => "Ci sai proprio fare!",
+  "0.4771.0" => "Non ho mai visto tanta bravura prima d'ora.",
+  "0.4772.0" => "Non ho fatto niente di particolare.",
+  "0.4773.0" => "Uhm... non posso essere da meno...",
+  "0.4774.0" => "Ce la metterò tutta anche io!",
+  "0.4775.0" => "Posso farcela da solo, non intrometterti.",
+  "0.4776.0" => "Fa' come ti pare.",
+  "0.4777.0" => "Penso sia arrivato il momento di far vedere
+cosa so fare!",
+  "0.4778.0" => "Cerca di non intralciarmi.",
+  "0.4779.0" => "Ho abbassato la guardia... qualcuno mi
+aiuti...",
+  "0.4780.0" => "Eccomi, sto arrivando.",
+  "0.4781.0" => "Ugh... g... grazie...",
+  "0.4782.0" => "Inutile perdere tempo in chiacchiere.
+Ora pensiamo a sistemarli!",
+  "0.4783.0" => "Sto arrivando, lasciatemi qualche preda.",
+  "0.4785.0" => "Hai bisogno di una mano... ci penso io!",
+  "0.4790.0" => "Oh oh, anche tu servi a qualcosa...",
+  "0.4791.0" => "Oooh! Hai la forza di un esercito!",
+  "0.4792.0" => "Impressionante, vero? Ah ah ah!",
+  "0.4793.0" => "Ih ih ih! Sono solo parole!",
+  "0.4794.0" => "Mpf... togliti dai piedi.",
+  "0.4795.0" => "Puah! Lascia fare a me!",
+  "0.4796.0" => "Io ho altro da fare, che ognuno
+pensi per sé.",
+  "0.4797.0" => "Devo sempre pensare a tutto io, eh?",
+  "0.4798.0" => "Finalmente, era un pezzo che aspettavo!",
+  "0.4799.0" => "Iiih! Qualcuno venga a soccorrermi!",
+  "0.4800.0" => "Che scena patetica...
+Arrivo, ci penserò io.",
+  "0.4801.0" => "G-Grazie... c'è mancato poco...",
+  "0.4802.0" => "Perché il piano funzioni c'è bisogno
+anche di te.",
+  "0.4803.0" => "Lascia fare a me qui.",
+  "0.4805.0" => "Ih ih ih! Ti darò una mano!",
+  "0.4810.0" => "Continua così!",
+  "0.4811.0" => "Insieme siamo imbattibili!",
+  "0.4812.0" => "Era solo un assaggio del mio
+vero potere...",
+  "0.4813.0" => "La sua potenza non è da sottovalutare...",
+  "0.4814.0" => "Darò una mano anche io.",
+  "0.4815.0" => "Qui ci penso io!",
+  "0.4816.0" => "Non fare pazzie!",
+  "0.4817.0" => "Sono venuta a dare una mano!",
+  "0.4818.0" => "Fiuuu... adesso va meglio, grazie.",
+  "0.4819.0" => "Qualcuno venga ad aiutarmi!",
+  "0.4820.0" => "Aspetta, sto arrivando!",
+  "0.4821.0" => "Grazie! Ci si può fidare di te!",
+  "0.4822.0" => "Facciamo un po' di ordine qua.",
+  "0.4823.0" => "Ci sono anche io!",
+  "0.4824.0" => "Chi sconfiggerà il comandante nemico
+se non ci penso io?!",
+  "0.4825.0" => "Non fare pazzie! Aspetta il mio arrivo!",
+  "0.4830.0" => "Ehi! Gli alleati si stanno dando da fare!",
+  "0.4831.0" => "Wow! Che abilità!",
+  "0.4832.0" => "Ehi, Link! Ti hanno fatto un complimento!",
+  "0.4833.0" => "Per fortuna ho degli alleati su cui fare
+affidamento!",
+  "0.4834.0" => "Link! Andiamo anche noi!",
+  "0.4835.0" => "Link, combattiamo anche noi!",
+  "0.4836.0" => "Per fortuna sono arrivati i rinforzi!",
+  "0.4837.0" => "Guarda, Link! I tuoi alleati sono contenti
+di vederti!",
+  "0.4838.0" => "Link! Sono arrivati i rinforzi!",
+  "0.4839.0" => "Qualcuno aiuti Link!",
+  "0.4840.0" => "Accidenti! Andiamo in soccorso!",
+  "0.4841.0" => "Per fortuna possiamo sempre contare
+sui nostri alleati!",
+  "0.4842.0" => "Appena in tempo!",
+  "0.4843.0" => "Attacchiamo la base anche noi!",
+  "0.4844.0" => "Link, se superiamo questa, la vittoria
+è nostra!",
+  "0.4845.0" => "Link! Diamo una mano anche noi!",
+  "0.4850.0" => "Mica male!",
+  "0.4851.0" => "Anche tu per caso... sei la reincarnazione
+di un folletto?!",
+  "0.4852.0" => "Evviva! La mia popolarità andrà alle stelle!",
+  "0.4853.0" => "Ehi, sei molto abile!",
+  "0.4854.0" => "Non lasciarmi qui!!!",
+  "0.4855.0" => "Sei nei guai? Vuoi una manina?",
+  "0.4856.0" => "Secondo me te la puoi cavare anche
+senza di me!",
+  "0.4857.0" => "Sei tu che mi hai chiamato?",
+  "0.4858.0" => "Oh, capiti al momento giusto! Aiutooo!!!",
+  "0.4859.0" => "Qualcuno mi aiutiii!!!",
+  "0.4860.0" => "Uhm... odo una voce che mi chiama...",
+  "0.4861.0" => "Grazie millemila!",
+  "0.4862.0" => "Alla mia età bisogna comportarsi
+da gentil folletti!",
+  "0.4863.0" => "Uhm... dovrei andare anche io?",
+  "0.4864.0" => "Se riesco a batterti, potrò tornarmene
+a casa mia, finalmente...",
+  "0.4865.0" => "Serve un aiutino?",
+  "0.4870.0" => "Wow! Complimenti!",
+  "0.4871.0" => "Incredibile! Non ti ferma nessuno!",
+  "0.4872.0" => "Come darti torto?!",
+  "0.4873.0" => "Da te c'è solo da imparare!",
+  "0.4874.0" => "Ora che ci sono io, tutto andrà bene!",
+  "0.4875.0" => "Contate su di me!",
+  "0.4876.0" => "Diamoci da fare!",
+  "0.4877.0" => "Sono arrivati i rinforzi!",
+  "0.4878.0" => "Ti stavo aspettando! Diamoci da fare!",
+  "0.4879.0" => "Sono nei guai! Qualcuno mi aiuti!",
+  "0.4880.0" => "Aspettami! Sto arrivando!",
+  "0.4881.0" => "Grazie! La prossima volta conta
+pure su di me!",
+  "0.4882.0" => "Figurati, è il mestiere dell'eroe!",
+  "0.4883.0" => "Ci sono anche io!",
+  "0.4884.0" => "Alla caricaaa!!!",
+  "0.4885.0" => "Il nemico è molto forte!
+Ma non dobbiamo scoraggiarci!",
+  "0.4890.0" => "Ih ih, sei forte anche tu, eh!",
+  "0.4891.0" => "Che bello giocare con te!
+Complimenti!",
+  "0.4892.0" => "Ma che ci vuole?!",
+  "0.4893.0" => "Tu sì che sai come ci si diverte!",
+  "0.4894.0" => "Fate giocare anche me!",
+  "0.4895.0" => "Ci penso io! Io! Faccio tutto io!",
+  "0.4896.0" => "Allora lascio fare a te!",
+  "0.4897.0" => "Puoi contare su di me!",
+  "0.4898.0" => "Ce ne hai messo per arrivare, eh?!
+Ti stavi scordando di me?!",
+  "0.4899.0" => "Ehi! Non vorrete mica lasciarmi
+qui da solo?!",
+  "0.4900.0" => "Aspettami! Arrivo!",
+  "0.4901.0" => "Grazie... dell'aiuto...",
+  "0.4902.0" => "Un giorno potrai ricambiare...",
+  "0.4903.0" => "Vengo anche io!",
+  "0.4904.0" => "Sei tu che comandi?
+Non mi fai paura!",
+  "0.4905.0" => "Sembra bello forte!
+Dovrò dare una mano anche io!",
+  "0.4910.0" => "Link, hai visto che forte?!",
+  "0.4911.0" => "Link, meno male che abbiamo
+alleati così forti!",
+  "0.4912.0" => "Eh eh! Link, ti hanno fatto i complimenti!",
+  "0.4913.0" => "Link, con alleati così forti siamo
+più tranquilli, vero?",
+  "0.4914.0" => "Link, metticela tutta!",
+  "0.4915.0" => "Link, dai una mano anche tu!",
+  "0.4916.0" => "Vuoi dare una mano a Link?",
+  "0.4917.0" => "Qui ci pensa Link!",
+  "0.4918.0" => "Link, hai sentito? Ha detto
+che ci dà una mano!",
+  "0.4919.0" => "Aiuto! Link è in pericolo!",
+  "0.4920.0" => "È terribile, Link! Corri in aiuto!",
+  "0.4921.0" => "Grazie per aver aiutato il mio
+fratellino Link!",
+  "0.4922.0" => "Eh eh, mio fratello è
+forte e gentile...",
+  "0.4923.0" => "Link, vai anche tu! Coraggio!",
+  "0.4924.0" => "Coraggio, Link!
+Sconfiggi il nemico!",
+  "0.4925.0" => "Link, questo è un lavoro per te!",
+  "0.4930.0" => "Ehi, non sei niente male!",
+  "0.4931.0" => "Fantastico! Avevo visto nei tuoi occhi
+con quanta passione combatti!",
+  "0.4932.0" => "Non è stato difficile per me.",
+  "0.4933.0" => "Davvero incredibile quello che sai fare!",
+  "0.4934.0" => "Ci sono anche io ad aiutare!",
+  "0.4935.0" => "Ci penso io!",
+  "0.4936.0" => "Lascio fare a te, mi raccomando!",
+  "0.4937.0" => "Contate su di me!",
+  "0.4938.0" => "Finalmente sei qui! Ti stavo aspettando!",
+  "0.4939.0" => "Qualcuno mi tiri fuori dai guai!",
+  "0.4940.0" => "Non disperare! Sto arrivando!",
+  "0.4941.0" => "Grazie! Sapevo di poter contare
+su di te!",
+  "0.4942.0" => "Forza, andiamo all'attacco!",
+  "0.4943.0" => "All'arrembaggiooo!!!",
+  "0.4944.0" => "Dobbiamo sconfiggere il nemico!
+Facciamolo a fettine!",
+  "0.4945.0" => "Mi piace il tuo entusiasmo!
+Diamoci da fare!",
+  "0.4950.0" => "Che magnifica impresa!",
+  "0.4951.0" => "Si può superare qualsiasi ostacolo,
+basta volerlo con tutto il cuore.",
+  "0.4952.0" => "Non sono certo forte quanto te.",
+  "0.4953.0" => "Ooh...! Provo grande ammirazione
+per te!",
+  "0.4954.0" => "Cercherò di fare tutto il possibile!",
+  "0.4955.0" => "Lasciate che mi occupi io di
+questo posto.",
+  "0.4956.0" => "Mi raccomando, fai attenzione!",
+  "0.4957.0" => "Mi stavi aspettando? Ora puoi
+contare anche su di me.",
+  "0.4958.0" => "È bello vederti qui.
+Insieme ce la faremo!",
+  "0.4959.0" => "Vi prego... qualcuno venga in
+mio aiuto...",
+  "0.4960.0" => "Non ti arrendere! Sto arrivando!",
+  "0.4961.0" => "Grazie mille del tuo aiuto!",
+  "0.4962.0" => "Sono lieto di essere stato utile.",
+  "0.4963.0" => "All'attacco!",
+  "0.4964.0" => "Sconfiggiamo anche questo nemico
+e poniamo fine alla battaglia.",
+  "0.4965.0" => "È bello sentirti così entusiasta!
+Infondi coraggio anche a me!",
+  "0.4970.0" => "Fantastico! Ottimo lavoro!",
+  "0.4971.0" => "Sono quasi commossa dalla tua bravura!",
+  "0.4972.0" => "Sono felice di essere stata d'aiuto!",
+  "0.4973.0" => "È stato incredibile! Una vera ispirazione!",
+  "0.4974.0" => "Farò del mio meglio, così potrò
+essere d'aiuto!",
+  "0.4975.0" => "Corro subito a dare una mano!",
+  "0.4976.0" => "Diamoci da fare!",
+  "0.4977.0" => "Ci sono anche io a dare una mano!",
+  "0.4978.0" => "Evviva, sono arrivati i rinforzi!",
+  "0.4979.0" => "Q-Qualcuno mi aiuti...",
+  "0.4980.0" => "Ma è terribile! Aspettate, sto arrivando!",
+  "0.4981.0" => "Grazie davvero! Ora dovrei
+essere a posto.",
+  "0.4982.0" => "Sono così contenta di essere
+stata utile!",
+  "0.4983.0" => "Oh! Verrò anche io!",
+  "0.4984.0" => "E ora cosa faccio?
+Ah, sì! Sistemerò quel nemico!",
+  "0.4985.0" => "Non serve che fai tutto tu!
+Arrivo ad aiutarti!",
+  "0.4990.0" => "Troppo forte!!!",
+  "0.4991.0" => "Mi emoziono a vedere queste
+imprese incredibili!",
+  "0.4992.0" => "Mi fai arrossire!",
+  "0.4993.0" => "Facciamoli a pezzi!
+Ehm... io? Non ho detto nulla...",
+  "0.4994.0" => "Diamoci da fare!",
+  "0.4995.0" => "Tutto a posto?
+Ti aiuto io!",
+  "0.4996.0" => "Grazie!",
+  "0.4997.0" => "Stai bene? Sono venuta
+in tuo soccorso!",
+  "0.4998.0" => "Grazie! Ti stavo aspettando!",
+  "0.4999.0" => "Qualcuno mi aiutiii!!!",
+  "0.5000.0" => "Sto arrivando! Aspettami!",
+  "0.5001.0" => "Grazie... Pensavo di essere spacciata.",
+  "0.5002.0" => "Prego, figurati!",
+  "0.5003.0" => "Ci sono anche io!",
+  "0.5004.0" => "Basta sconfiggere quel nemico
+per vincere?",
+  "0.5005.0" => "Attenzione! Non fare pazzie!",
+  "0.5010.0" => "Ce l'hai fatta! Fantastico!",
+  "0.5011.0" => "Hai spazzato via tutti quei nemici...
+Pazzesco!",
+  "0.5012.0" => "Non ho fatto niente di speciale. Davvero!",
+  "0.5013.0" => "Ottimo lavoro! Dovrò darmi
+da fare per arrivare al tuo livello!",
+  "0.5014.0" => "Ci sono anche io, adesso! Spero di
+poter dare una mano!",
+  "0.5015.0" => "Lasciate fare a me e andrà tutto bene!",
+  "0.5016.0" => "E va bene, occupatene tu!",
+  "0.5017.0" => "Voglio dare una mano anch'io!",
+  "0.5018.0" => "Ti stavo aspettando!",
+  "0.5019.0" => "Aaaaaah! Aiutooo!!!",
+  "0.5020.0" => "Tieni duro! Sto arrivando!",
+  "0.5021.0" => "Grazie di cuore!",
+  "0.5022.0" => "Insieme ce la faremo!",
+  "0.5023.0" => "Ti raggiungo subito!",
+  "0.5024.0" => "Quindi basta abbattere quel nemico
+per vincere la battaglia?",
+  "0.5025.0" => "Sembra un nemico molto forte...
+Dovrà vedersela anche con me!",
+  "0.5030.0" => "Oooh! Certo che sei veramente forte!",
+  "0.5031.0" => "Se continui a combattere così, diventerò
+il tuo fan numero uno!",
+  "0.5032.0" => "Ma... è una mia impressione o le mie
+abilità in battaglia oggi sono super?",
+  "0.5033.0" => "Veramente impressionante!",
+  "0.5034.0" => "È tempo che ti dia una mano.
+Combattiamo insieme!",
+  "0.5035.0" => "Oh, ciao! Ehm... Serve una mano?",
+  "0.5036.0" => "In questo caso, lascio tutto a te.",
+  "0.5037.0" => "Qualcosa non va? Se ti serve aiuto,
+lascia che ci pensi io!",
+  "0.5038.0" => "Guarda chi si vede! Era ora!",
+  "0.5039.0" => "Il buon vecchio Lavio è qui per aiutarti!",
+  "0.5040.0" => "Ehi, qualcuno li aiuti! O forse... quel
+qualcuno dovrei essere io?!",
+  "0.5041.0" => "Fiuuu... Per un attimo ho pensato
+di essere spacciato...",
+  "0.5042.0" => "Felice di esserti d'aiuto!",
+  "0.5043.0" => "Ehi, aspetta un attimo! Vengo con te!",
+  "0.5044.0" => "Beh, pare che non resti altro da fare
+che spazzare via il nemico!",
+  "0.5045.0" => "Ehi, ho detto di aspettarmi! Vengo con te!",
+  "0.5050.0" => "Ah ah ah... Che bellezza!",
+  "0.5051.0" => "Che bellezza! La tua sola presenza
+è appagante come un'opera d'arte.",
+  "0.5052.0" => "Il mio talento naturale è quasi
+spaventoso, non sei d'accordo?",
+  "0.5053.0" => "Fantastico! Una vera opera d'arte!",
+  "0.5054.0" => "Avere in dono il mio aiuto...
+Consideralo un privilegio!",
+  "0.5055.0" => "Lascia che me ne occupi io, d'accordo?",
+  "0.5056.0" => "Ah ah ah, molto bene, allora!",
+  "0.5057.0" => "Sei tu ad aver chiesto l'aiuto del prode
+Yuga?",
+  "0.5058.0" => "Mi stavano già prudendo le mani.
+È tempo di combattere!",
+  "0.5059.0" => "Qualcuno venga in mio soccorso, subito!",
+  "0.5060.0" => "Se proprio insisti...
+Aspettami, sto arrivando.",
+  "0.5061.0" => "Ho apprezzato molto essere salvato
+in siffatto modo.",
+  "0.5062.0" => "Passavo di qua per caso...",
+  "0.5063.0" => "Sei in viaggio verso la base nemica, vero?
+Ti dispiace se mi aggrego?",
+  "0.5064.0" => "Una volta finito con quel nemico, possiamo
+lasciarci il campo di battaglia alle spalle.",
+  "0.5065.0" => "La tua sola presenza basterà a sistemare
+le cose. Se così non fosse, verrò con te.",
+  "0.6590.0" => "Oooh! Che prodezza!",
+  "0.6591.0" => "Questi sono i veri eroi!",
+  "0.6599.0" => "Servono... rinforzi!!!",
+  "0.6601.0" => "Meno male...!",
+  "0.6610.0" => "Wow! Arciroccia!",
+  "0.6611.0" => "Sei imbattibile come una roccia!",
+  "0.6619.0" => "Mi serve aiuto...",
+  "0.6621.0" => "Grazie dell'aiuto!",
+  "0.6679.0" => "Qualcuno mi aiuti!",
+  "0.6681.0" => "Meno male...",
+  "0.6699.0" => "Ehi! Mandatemi dei rinforzi!",
+  "0.6701.0" => "Grazie dell'aiuto!",
+  "0.7450.0" => "Link, è un nemico!
+Fallo fuori!",
+  "0.7451.0" => "Uhm... Link, occupatene tu!",
+  "0.7452.0" => "Link, sei grande!!! Ti sei liberato di un
+nemico del genere come se niente fosse!",
+  "0.7460.0" => "Non mi scapperai!!!",
+  "0.7461.0" => "Non ho intenzione di ritirarmi!
+Combatti!",
+  "0.7462.0" => "Non posso perdere!",
+  "0.7470.0" => "Ascolta la mia melodia che scaccia
+gli spiriti malvagi!",
+  "0.7471.0" => "Te la devi vedere con me...",
+  "0.7472.0" => "Creatura abominevole, torna nelle tenebre!",
+  "0.7480.0" => "Detto francamente, non sei alla mia altezza.",
+  "0.7481.0" => "Ti insegnerò io le buone maniere!",
+  "0.7482.0" => "Le creature pericolose devono essere
+eliminate in fretta!",
+  "0.7490.0" => "Pensi di potermi battere con questa
+fiacchezza?",
+  "0.7491.0" => "Mi stai provocando? Vuoi davvero morire
+qui?!",
+  "0.7492.0" => "Addio! Il tuo coraggio rasenta la follia!",
+  "0.7500.0" => "Non hai avuto molta fortuna a incontrarmi
+sulla tua strada.",
+  "0.7501.0" => "Vuoi che ti schiacci come un moscerino?",
+  "0.7502.0" => "Oooh! Per tutte le montagne! Che roccia!",
+  "0.7510.0" => "Pensi di potermi battere? Che illusione...",
+  "0.7511.0" => "Sarebbe questo il modo di trattare
+una principessa?",
+  "0.7512.0" => "Ehi, non sono tanti quelli che oserebbero
+sfidare una principessa Zora.",
+  "0.7520.0" => "Uuuh! Ma che moscerino deboluccio!",
+  "0.7521.0" => "Che suono fastidioso...",
+  "0.7522.0" => "Mi faccio paura da sola!",
+  "0.7530.0" => "Pensi di potermi sconfiggere?",
+  "0.7531.0" => "Uh uh uh, vuoi sfidarmi?",
+  "0.7532.0" => "Uh uh uh, non si scherza con me.",
+  "0.7540.0" => "Probabilità di battere Faih: 0%.",
+  "0.7541.0" => "Questa è ciò che chiamate... rabbia?",
+  "0.7542.0" => "Sopravvissuta a una battaglia con il 15% di
+probabilità di vittoria.",
+  "0.7550.0" => "Eh? Un essere misero come te vuole
+ostacolare una creatura bella come me?",
+  "0.7551.0" => "Capisco, non posso biasimarti per averci
+provato. Ma posso punirti.",
+  "0.7552.0" => "Già finito...? Mi aspettavo un po'
+più di resistenza.",
+  "0.7560.0" => "Hai un bel coraggio a sfidarmi...",
+  "0.7561.0" => "Come osi?! Non ho pietà per chi
+cerca di umiliarmi!",
+  "0.7562.0" => "Sei forte... ma hai incontrato
+l'avversario sbagliato.",
+  "0.7580.0" => "Beh? Hai paura di me?",
+  "0.7581.0" => "Eh? Aspetta un momento!",
+  "0.7582.0" => "È stata dura... c'è mancato poco.",
+  "0.7590.0" => "Pensi di battermi con questo livello infimo?",
+  "0.7591.0" => "Chi non mi piace è destinato
+a sparire, quindi... Addio!",
+  "0.7592.0" => "Pensavi di potermi battere?
+Che idiozia!",
+  "0.7600.0" => "Puoi anche sfidarmi, ma non pensare
+di uscirne incolume!",
+  "0.7601.0" => "Mpf... giochiamo un po' insieme?",
+  "0.7602.0" => "La vittoria è mia.",
+  "0.7610.0" => "Pensi di potermi battere?
+Facciamo una prova, ih ih ih!",
+  "0.7611.0" => "Taci e fatti annientare come meriti!",
+  "0.7612.0" => "Ho faticato più di quanto pensassi...",
+  "0.7620.0" => "Se vuoi sfidarmi, fai pure... ma ti
+assicuro che te ne pentirai!",
+  "0.7621.0" => "Fatti sotto! Ti farò vedere io!",
+  "0.7622.0" => "Hai visto tutta la mia potenza?",
+  "0.7630.0" => "Link, è un nemico!
+Fallo fuori!",
+  "0.7631.0" => "Uhm... Link, occupatene tu!",
+  "0.7632.0" => "Link, sei grande!!! Ti sei liberato di un
+nemico del genere come se niente fosse!",
+  "0.7640.0" => "Pensi di poter sconfiggere la reincarnazione
+di un vero folletto?!",
+  "0.7641.0" => "Potresti... chiudere un occhio?",
+  "0.7642.0" => "Sono troppo bravo! Troppo!",
+  "0.7650.0" => "Hai davvero intenzione di sfidarmi?!",
+  "0.7651.0" => "D'accordo, ma sappi che non
+mi tratterrò!",
+  "0.7652.0" => "Lo sapevo, è stata una passeggiata!",
+  "0.7660.0" => "Ehi, vuoi giocare con me?",
+  "0.7661.0" => "Ma dai... Pensi davvero di potermi battere?
+Che ingenuità!",
+  "0.7662.0" => "Ben ti sta! Ah ah ah!",
+  "0.7670.0" => "Fai attenzione, Link!
+Il nemico è vicino!",
+  "0.7671.0" => "Non c'è storia contro Link!",
+  "0.7672.0" => "Visto? Lo sapevo che mio fratello
+è il più forte di tutti!",
+  "0.7680.0" => "Va bene, mi batterò con te.
+Ma vediamo di fare presto, intesi?",
+  "0.7681.0" => "Visto che insisti, ti darò una
+bella lezione!",
+  "0.7682.0" => "Pensaci due volte, la prossima volta
+che vuoi affrontarmi!",
+  "0.7690.0" => "E così vorresti sfidarmi, eh?",
+  "0.7691.0" => "E sia, ti affronterò in tenzone!",
+  "0.7692.0" => "Non mi sono nemmeno
+dovuto impegnare...",
+  "0.7700.0" => "Te la vedrai con me!",
+  "0.7701.0" => "Non mi tirerò indietro!",
+  "0.7702.0" => "In qualche modo ce l'ho fatta!
+Che bello!",
+  "0.7710.0" => "È di te che si stanno lamentando tutti?",
+  "0.7711.0" => "Te la faccio vedere io!",
+  "0.7712.0" => "Te l'avevo detto che sarebbe finita male!
+Eh? Non te l'avevo detto?",
+  "0.7720.0" => "Non perderò mai con qualcuno come te!",
+  "0.7721.0" => "Ne ho abbastanza! Ora te la
+faccio vedere io!",
+  "0.7722.0" => "Volevi vedermi arrabbiata, no?
+Ecco fatto!",
+  "0.7730.0" => "Ho un'aria sospetta? Ti rivelo un segreto:
+qui chi ha l'aria sospetta SEI TU!",
+  "0.7731.0" => "Lasciami indovinare, non hai tempo da
+dedicarmi, vero? Oh, invece sì?!",
+  "0.7732.0" => "Fiuuu... Lo ammetto, ho avuto un attimo
+di panico puro, ma alla fine ho vinto!",
+  "0.7740.0" => "Se mi punti l'arma contro, significa che
+non hai idea del rischio che corri...",
+  "0.7741.0" => "Uff... Sei veramente una seccatura...",
+  "0.7742.0" => "Mmmh... Le tue doti belliche non meritano
+nemmeno di essere menzionate...",
+  "0.8510.0" => "Devi prima battere me!",
+  "0.8520.0" => "Dovrai vedertela con me, acciroccia!",
+  "0.8550.0" => "Fatti sotto!",
+  "0.8560.0" => "Te la dovrai vedere con me!",
+  "0.8940.0" => "Link, sei sicuro di voler continuare?",
+  "0.8941.0" => "Non dobbiamo mollare! Combattiamo fino
+alla fine!",
+  "0.8942.0" => "Guarda! Tutti ti stanno aspettando!",
+  "0.8943.0" => "Link, devi credere in te stesso!
+Non mollare!",
+  "0.8944.0" => "Sembra molto forte... Link, credi di poter
+vincere?",
+  "0.8945.0" => "Sbrighiamoci, stanno aspettando il nostro
+aiuto!",
+  "0.8946.0" => "Inseguiamoli! Se non ci sbrighiamo,
+ci sfuggiranno!",
+  "0.8947.0" => "Dobbiamo respingerli!",
+  "0.8948.0" => "Presto, Link! Scappiamo!",
+  "0.8955.0" => "Tutto qui...?",
+  "0.8956.0" => "Link, abbiamo vinto! Fammi un sorriso!",
+  "0.8957.0" => "Sei stato bravissimo.
+Proprio come un vero eroe!",
+  "0.8964.0" => "Ci sono sfuggiti... Peccato.",
+  "0.8965.0" => "C'è qualcosa che non va, Link?",
+  "0.8970.0" => "A questo punto, Link...
+non ci resta che una cosa!",
+  "0.8971.0" => "Link, procediamo pure con quel piano!",
+  "0.8972.0" => "Link, è il momento di giocare
+la nostra ultima carta!",
+  "0.8973.0" => "Bene, mettiamoci all'opera!",
+  "0.8975.0" => "Ci hanno fermati! Questa non ci voleva.",
+  "0.8976.0" => "Che peccato, tanta fatica sprecata!",
+  "0.8977.0" => "Perfetto, ha funzionato!",
+  "0.8978.0" => "Non pensi che sia abbastanza?",
+  "0.8979.0" => "Forza, Link! Uniamo le forze con
+i nostri alleati e facciamogliela vedere!",
+  "0.8980.0" => "Link, guarda! I tuoi alleati sono qui!",
+  "0.9000.0" => "So che è difficile...
+Ma dobbiamo resistere e combattere.",
+  "0.9001.0" => "Piangere non serve a niente.
+Dobbiamo attaccare la fonte della sventura.",
+  "0.9002.0" => "A volte bisogna solo fare un respiro
+profondo e rilassarsi.",
+  "0.9003.0" => "So che ce la faremo!
+Dobbiamo solo credere in noi!",
+  "0.9004.0" => "Combatti con tutte le tue forze,
+senza rimpianti!",
+  "0.9005.0" => "Verrò in tuo soccorso, a qualsiasi costo!",
+  "0.9006.0" => "Se ce li lasciamo sfuggire, ritorneranno.
+Dobbiamo fermarli adesso!",
+  "0.9007.0" => "È nostro dovere proteggere questa zona
+dall'oscurità incombente!",
+  "0.9008.0" => "Ci siamo lasciati sfuggire ogni possibilità
+di vittoria. Non ci resta che scappare!",
+  "0.9015.0" => "Dobbiamo dare un senso a questa vittoria...",
+  "0.9016.0" => "Dobbiamo andare avanti o Hyrule
+cadrà in rovina!",
+  "0.9017.0" => "Non possiamo più battere la fiacca...
+Avanti, mettiamoci di nuovo in marcia!",
+  "0.9024.0" => "Ci sono sfuggiti...
+Non dovrà succedere più!",
+  "0.9025.0" => "Stavolta ce l'abbiamo fatta...
+Ma sarà abbastanza?",
+  "0.9030.0" => "È il momento per mettere in atto
+il nostro piano!",
+  "0.9031.0" => "Forse ora potremmo dare il via
+al nostro piano...",
+  "0.9032.0" => "È tutto pronto. Possiamo mettere
+in atto il nostro piano!",
+  "0.9033.0" => "Sembra essere tutto pronto... Iniziamo!",
+  "0.9035.0" => "Ci hanno fermati...",
+  "0.9036.0" => "Il nostro piano è fallito...",
+  "0.9037.0" => "È andato tutto come previsto!",
+  "0.9038.0" => "Non ci possiamo lamentare dei risultati
+ottenuti.",
+  "0.9039.0" => "Coraggio! Se uniamo le forze
+possiamo sconfiggere il nemico!",
+  "0.9040.0" => "Davanti a noi c'è il nemico...
+Non molliamo e avremo la meglio!",
+  "0.9060.0" => "Vinceremo questa battaglia che non
+ha voluto nessuno!",
+  "0.9061.0" => "Il destino a volte può essere davvero
+spietato...",
+  "0.9062.0" => "Devi godertela finché puoi.",
+  "0.9063.0" => "Forza, facciamo in fretta.",
+  "0.9064.0" => "Se restiamo uniti, vinceremo.",
+  "0.9065.0" => "Sbrighiamoci, stanno aspettando
+il nostro aiuto.",
+  "0.9066.0" => "Non possiamo lasciarceli sfuggire!",
+  "0.9067.0" => "Non permetterò a nessuno di violare
+questo luogo!",
+  "0.9068.0" => "Ci vuole coraggio anche nella ritirata...",
+  "0.9075.0" => "Era la nostra unica scelta...",
+  "0.9076.0" => "Questa vittoria farà sì che ritorni la pace...",
+  "0.9077.0" => "Questa vittoria è soltanto l'inizio...",
+  "0.9084.0" => "Fuggi pure...
+La speranza è dalla nostra parte!",
+  "0.9085.0" => "Chissà perché, sento una grande
+malinconia...",
+  "0.9090.0" => "È giunta l'ora di mettere in atto quel piano...",
+  "0.9091.0" => "Adesso è il momento adatto per
+mettere in atto il nostro piano...",
+  "0.9092.0" => "Forza, mettiamoci all'opera.",
+  "0.9093.0" => "Ascoltate: suonerò una melodia che
+ci condurrà alla vittoria.",
+  "0.9095.0" => "Come ha potuto fallire il nostro piano...?",
+  "0.9096.0" => "Ci hanno fermato subito...",
+  "0.9097.0" => "Il nostro piano è stato un successo.",
+  "0.9098.0" => "Ora basta così...",
+  "0.9099.0" => "È il momento di unire le nostre forze!",
+  "0.9100.0" => "Se combattiamo insieme, possiamo
+vincere!",
+  "0.9120.0" => "Che senso ha questa battaglia?",
+  "0.9121.0" => "Non voglio combattere,
+ma questo è il mio destino.",
+  "0.9122.0" => "Non ho tempo per giocare, ma se
+proprio insisti...",
+  "0.9123.0" => "Siamo in vantaggio, ma se non stiamo
+attenti potremmo anche essere sconfitti.",
+  "0.9124.0" => "Il mio compito è quello di trasformare una
+situazione svantaggiosa in una a favore!",
+  "0.9125.0" => "Il mio obiettivo è soccorrere gli alleati!",
+  "0.9126.0" => "Dobbiamo eliminare il nemico per evitare
+ulteriori sciagure in futuro!",
+  "0.9127.0" => "Dobbiamo concentrarci sulla difesa!",
+  "0.9128.0" => "È inutile fare gli eroi. Meglio battere
+in ritirata!",
+  "0.9135.0" => "Che senso ha prendere parte a una
+battaglia cui non ho chiesto di partecipare?",
+  "0.9136.0" => "Il tempo curerà tutte le ferite...",
+  "0.9137.0" => "Non fraintendetemi, non mi sto divertendo...",
+  "0.9144.0" => "Ci siamo fatti scappare un pesce grosso...",
+  "0.9145.0" => "C'è qualcosa che non quadra in
+questa vittoria...",
+  "0.9150.0" => "Questo è l'unico modo per cambiare
+il corso della battaglia.",
+  "0.9151.0" => "Prova pure a fermarmi, se ci riesci!",
+  "0.9152.0" => "Adesso è il momento per attuare
+il nostro piano!",
+  "0.9153.0" => "Ora potremmo mettere in atto
+il nostro piano!",
+  "0.9155.0" => "Il piano non ha funzionato...
+Dobbiamo provare qualcos'altro.",
+  "0.9156.0" => "Hanno smascherato la nostra strategia!",
+  "0.9157.0" => "Il piano è stato un successo!",
+  "0.9158.0" => "La situazione è cambiata.
+Dobbiamo fermare il nostro piano.",
+  "0.9159.0" => "Se lottiamo insieme, non c'è nulla
+che possa fermarci!",
+  "0.9160.0" => "Forza! La vittoria è nostra!",
+  "0.9180.0" => "Sto solo sprecando il mio tempo in questa
+battaglia...",
+  "0.9181.0" => "Uh... Ho avuto un attimo di esitazione.",
+  "0.9182.0" => "Ora sì che ci sarà da divertirsi...",
+  "0.9183.0" => "Ma tu guarda. Un esserino così debole che
+decide di affrontarmi. Ah ah ah!",
+  "0.9184.0" => "Ah, un vero avversario...
+Si prospetta una battaglia interessante!",
+  "0.9185.0" => "Potrebbe ancora essermi utile...
+Per ora farò in modo che non muoia...",
+  "0.9186.0" => "Non pensare di potermi voltare le spalle
+in questo modo!",
+  "0.9187.0" => "Benvenuto. Ora lascia che ti mostri il luogo
+in cui i tuoi giorni avranno fine!",
+  "0.9188.0" => "Che cosa spiacevole essere costretti
+a voltare le spalle al nemico...",
+  "0.9195.0" => "Che spreco di tempo...",
+  "0.9196.0" => "Non mi lascio provocare facilmente.
+Ma quando accade, ottengo vendetta!",
+  "0.9197.0" => "Ora basta con questi giochetti.
+Che il vero divertimento abbia inizio!",
+  "0.9204.0" => "Mi sono sfuggiti... Ma la prossima volta
+non sarò così clemente.",
+  "0.9205.0" => "Se vinco, la leggenda di Ganondorf
+verrà tramandata ai posteri per l'eternità!",
+  "0.9210.0" => "È il momento giusto per portare a termine
+il mio piano!",
+  "0.9211.0" => "Oltre a essere molto potente, sono anche
+bravo a pianificare strategie.",
+  "0.9212.0" => "Con questa strategia potrò finalmente
+dominare il mondo!",
+  "0.9213.0" => "Prova a fermarmi, se ci riesci!",
+  "0.9215.0" => "Miserabili insetti... Che seccatura...",
+  "0.9216.0" => "Non crederti così astuto solo perché sei
+riuscito a mandare all'aria il mio piano.",
+  "0.9217.0" => "La mia strategia ha funzionato! Sì!",
+  "0.9218.0" => "E con questo, la mia vittoria è garantita!",
+  "0.9219.0" => "Unitevi a me, fedeli alleati!
+Datemi il vostro potere!",
+  "0.9220.0" => "Tutta questa lentezza mi esaspera!
+Forza, è ora di chiudere i conti!",
+  "0.9240.0" => "Non ho tanta voglia di combattere...
+Ma c'è poco da fare, arciroccia!",
+  "0.9241.0" => "Non c'è tempo per piangere.
+È ora di rotolare in battaglia!",
+  "0.9242.0" => "Ora ti mostro ciò di cui un Goron
+è capace!",
+  "0.9243.0" => "Vincere sarà facile come sbriciolare
+una pietra di tufo.",
+  "0.9244.0" => "Arciroccia, non abbiamo alcuna possibilità.
+Ma non per questo dobbiamo arrenderci!",
+  "0.9245.0" => "Devo aiutare i miei compagni!",
+  "0.9246.0" => "Non lascerò che mi scappi!",
+  "0.9247.0" => "Per tutte le rocce, li eliminerò uno a uno!",
+  "0.9248.0" => "Forza, andiamocene!",
+  "0.9255.0" => "Una vittoria è pur sempre una vittoria!",
+  "0.9256.0" => "Non c'è bisogno di piagnucolare!",
+  "0.9257.0" => "Per tutti i massi, hai visto cos'ho
+combinato? Ah ah ah!",
+  "0.9264.0" => "Oh, no! Sono scappati!",
+  "0.9265.0" => "Mi sembra di avere la testa piena di ghiaia...",
+  "0.9270.0" => "Ho atteso a lungo per poter mettere in atto
+questo piano!",
+  "0.9271.0" => "Forza, è giunta l'ora di dare il via
+al nostro piano!",
+  "0.9272.0" => "Ora ti mostrerò il mio piano segreto!",
+  "0.9273.0" => "State a guardare! Ecco che ha inizio
+il mio piano!",
+  "0.9275.0" => "Per tutti i massi, ho fallito...
+Fratelli, è andato tutto a monte!",
+  "0.9276.0" => "Il mio piano... è andato in frantumi!",
+  "0.9277.0" => "Evviva! Sapevo che il mio piano avrebbe
+funzionato!",
+  "0.9278.0" => "Ecco, questo dovrebbe bastare!",
+  "0.9279.0" => "Uniamo le forze e diventeremo
+inarrestabili!",
+  "0.9280.0" => "Che piacere vedervi tutti qui!
+Forza, chiudiamo il discorso!",
+  "0.9300.0" => "Devo proprio combattere? Che disdetta...",
+  "0.9301.0" => "Non otterremo nulla se ci lasciamo
+prendere dalla disperazione.",
+  "0.9302.0" => "Combattere contro di me è un
+grande onore!",
+  "0.9303.0" => "Spero proprio che non ti dispiaccia
+perdere contro una principessa Zora.",
+  "0.9304.0" => "Questo è davvero troppo...",
+  "0.9305.0" => "Eccomi, sono pronta a prestare soccorso!",
+  "0.9306.0" => "Non devono sfuggirci. Inseguiamoli!",
+  "0.9307.0" => "Farò del mio meglio per proteggere questa
+terra!",
+  "0.9308.0" => "Non ci resta altro da fare qui.
+Forza, scappiamo!",
+  "0.9315.0" => "Mi sa che ho vinto. Avevate qualche
+dubbio?",
+  "0.9316.0" => "È difficile da accettare, ma non ho scelta...",
+  "0.9317.0" => "Perdere contro una principessa
+come me è un onore!",
+  "0.9324.0" => "Ci sono sfuggiti. Che delusione...",
+  "0.9325.0" => "C'è qualcosa che non mi quadra...",
+  "0.9330.0" => "Mmh... Questo piano potrebbe
+davvero funzionare.",
+  "0.9331.0" => "Forse è il momento di svelare
+il mio piano segreto.",
+  "0.9332.0" => "Ormai è tutto pronto... Forza, si comincia!",
+  "0.9333.0" => "Sta andando tutto alla perfezione...
+È ora di iniziare!",
+  "0.9335.0" => "Come? Il piano è fallito...?",
+  "0.9336.0" => "Uhm... Non ha funzionato.",
+  "0.9337.0" => "È andata proprio come pensavo!",
+  "0.9338.0" => "Sì, penso che basti così.",
+  "0.9339.0" => "Se uniamo le forze, al nemico non
+rimarrà altra scelta che la resa!",
+  "0.9340.0" => "Eccovi, finalmente! Mi stavo giusto
+chiedendo dove foste finiti!",
+  "0.9360.0" => "Anche gli insetti non vogliono combattere...",
+  "0.9361.0" => "Questa battaglia mi rende così triste!",
+  "0.9362.0" => "Divertente? Andare a caccia di insetti,
+forse!",
+  "0.9363.0" => "E così questo moscerino sarebbe il mio
+avversario? Allora sì che c'è da divertirsi!",
+  "0.9364.0" => "Un nemico potente?
+Sembra pericoloso come una vespa...",
+  "0.9365.0" => "Eccomi, arrivo subito in soccorso!",
+  "0.9366.0" => "Uh uh uh! Nessuno può sfuggire
+al mio retino!",
+  "0.9367.0" => "Dobbiamo proteggerci!
+Appallottoliamoci nel nostro guscio!",
+  "0.9368.0" => "Via, via! Veloci come una libellula!",
+  "0.9375.0" => "Gli unici a capirmi sono gli insetti...",
+  "0.9376.0" => "A volte si è tristi anche dopo una vittoria...",
+  "0.9377.0" => "È stato davvero divertente!
+Ho anche trovato un insetto raro!",
+  "0.9384.0" => "Sono riusciti a strisciare via...",
+  "0.9385.0" => "Ho vinto, ma... mi sento confusa...",
+  "0.9390.0" => "Sta' a vedere cosa ho preparato!",
+  "0.9391.0" => "Spero vada tutto bene...",
+  "0.9392.0" => "Facciamogli vedere la nostra sorpresa!",
+  "0.9393.0" => "Cari insettini, aiutatemi a far funzionare
+il mio piano!",
+  "0.9395.0" => "Oh no... Il mio piano è stato un fallimento
+totale...",
+  "0.9396.0" => "Come hanno potuto scoprire
+il nostro piano?",
+  "0.9397.0" => "La mia idea ha funzionato!
+Oh, come sono felice!",
+  "0.9398.0" => "Mi è venuta voglia di provare
+qualcos'altro!",
+  "0.9399.0" => "Coraggio! Se combattiamo insieme,
+cosa ci potrà fermare? Nulla!",
+  "0.9400.0" => "Siete qui! Che sollievo vedervi!
+Se collaboriamo, la vittoria sarà nostra!",
+  "0.9420.0" => "Vuoi davvero combattere?
+Non credo ne valga la pena.",
+  "0.9421.0" => "Non c'è tempo per lamentarsi.
+Dobbiamo andare avanti!",
+  "0.9422.0" => "E va bene, giocherò un po' con te!",
+  "0.9423.0" => "E questo sarebbe il mio avversario?
+Vincere sarà un gioco da ragazzi.",
+  "0.9424.0" => "Stavolta sarà dura...
+Dovrò fare molta attenzione.",
+  "0.9425.0" => "Sarà meglio che corra ad aiutarli, prima che
+sia troppo tardi.",
+  "0.9426.0" => "Non lasciateli sfuggire!
+Altrimenti sarà difficile ritrovarli!",
+  "0.9427.0" => "Il nemico ci sta attaccando!
+Dobbiamo respingerlo!",
+  "0.9428.0" => "È inutile combattere, so già come andrà a
+finire. Dobbiamo andarcene da qui!",
+  "0.9435.0" => "Non riesco a gioire di questa vittoria...",
+  "0.9436.0" => "Tutto ciò che possiamo fare è andare
+avanti un passo alla volta.",
+  "0.9437.0" => "Quanto mi sono divertita! Beh, alla
+prossima!",
+  "0.9444.0" => "È inutile continuare a seguirli.
+Che peccato...",
+  "0.9445.0" => "Ho vinto, ma non mi sento per niente
+sollevata...",
+  "0.9450.0" => "Allora proviamo il mio piano?",
+  "0.9451.0" => "Non mi resta che mostrare il mio
+asso nella manica...",
+  "0.9452.0" => "Ehi, mi è appena venuta in mente
+un'ottima strategia!",
+  "0.9453.0" => "E adesso proviamo QUELLO.",
+  "0.9455.0" => "Il mio piano è fallito. Non c'è altro
+da fare, vero?",
+  "0.9456.0" => "Ehi! Hai rovinato il mio piano!",
+  "0.9457.0" => "Eh eh eh, è andato tutto alla perfezione!",
+  "0.9458.0" => "Questo dovrebbe bastare...",
+  "0.9459.0" => "Coraggio! Facciamo vedere a questi
+mostri cosa siamo capaci di fare!",
+  "0.9460.0" => "Oh, eccovi qui! Giusto in tempo!",
+  "0.9480.0" => "Probabilità di inutilità della battaglia: 85%.",
+  "0.9481.0" => "Possibilità di esito tragico: 90%.",
+  "0.9482.0" => "Riposo...? Faih non ne ha bisogno.",
+  "0.9483.0" => "Probabilità di vittoria della battaglia: 75%.",
+  "0.9484.0" => "Probabilità di vittoria della battaglia: 15%.",
+  "0.9485.0" => "Propongo soccorso immediato agli alleati.",
+  "0.9486.0" => "Consigliato inseguimento nemico in ritirata.",
+  "0.9487.0" => "Faih è ora pronta alla difesa.",
+  "0.9488.0" => "Ritirarsi immediatamente per evitare
+ulteriori pericoli.",
+  "0.9495.0" => "Confermata inutilità della battaglia
+precedente.",
+  "0.9496.0" => "Temo che quello che provo
+sia un sentimento di dispiacere...",
+  "0.9497.0" => "Suppongo che tutti si siano divertiti.",
+  "0.9504.0" => "Confermo mancata cattura del nemico.",
+  "0.9505.0" => "Scopo della battaglia: sconosciuto.",
+  "0.9510.0" => "Il piano verrà portato a termine
+come programmato.",
+  "0.9511.0" => "Probabile successo del piano.",
+  "0.9512.0" => "Probabilità di riuscita del piano: 70%.",
+  "0.9513.0" => "Avvio l'esecuzione del piano.",
+  "0.9515.0" => "Il piano è stato ostacolato.",
+  "0.9516.0" => "Confermo fallimento del piano...",
+  "0.9517.0" => "Piano portato a termine con successo.",
+  "0.9518.0" => "Piano interrotto.",
+  "0.9519.0" => "Suggerisco di unire le forze
+per avere la meglio sul nemico.",
+  "0.9520.0" => "Il vostro arrivo ha aumentato le
+nostre percentuali di vittoria.",
+  "0.9540.0" => "Come hanno osato chiamarmi a combattere
+una battaglia così insignificante...?",
+  "0.9541.0" => "Che qualcuno venga a battersi con me!
+Devo sfogare la mia ira!",
+  "0.9542.0" => "Vorrà dire che giocherò un po' con te.",
+  "0.9543.0" => "Uhm... Non credo di dover fare sul serio.",
+  "0.9544.0" => "Uhm... A quanto pare è meglio darsi da
+fare in questa battaglia.",
+  "0.9545.0" => "Ti metterò in salvo dal nemico...
+Credo di poterlo fare solo io.",
+  "0.9546.0" => "Credi davvero di potermi sfuggire?",
+  "0.9547.0" => "Sono venuti ad attaccarci... Ci penso io
+a intrattenerli.",
+  "0.9548.0" => "Non c'è più niente da fare qui.
+Meglio ritirarsi.",
+  "0.9555.0" => "Questa vittoria non significa niente per me.
+Ho soltanto sprecato del tempo prezioso.",
+  "0.9556.0" => "Che vittoria straordinaria.
+Ora mi sento molto meglio.",
+  "0.9557.0" => "Che divertimento.
+Bisogna rifarlo qualche altra volta!",
+  "0.9564.0" => "È così irritante quando mi sfuggono
+in questo modo...!",
+  "0.9565.0" => "È davvero necessario festeggiare
+questa vittoria...?",
+  "0.9570.0" => "Ho un piano di riserva... Eccolo!",
+  "0.9571.0" => "Che ne dici se ti mostro una piccola
+parte della mia forza?",
+  "0.9572.0" => "Penso sia giunto il momento di mettere
+in atto il mio piano.",
+  "0.9573.0" => "Scelgo questo piano...",
+  "0.9575.0" => "Il mio piano è fallito...? Che nervi! ",
+  "0.9576.0" => "Mi hanno intralciato...
+Tutto ciò mi fa andare su tutte le furie!",
+  "0.9577.0" => "Bene, bene. Il mio piano è andato a
+buon fine.",
+  "0.9578.0" => "Eccellente. Il mio piano sembra riuscire
+alla perfezione.",
+  "0.9579.0" => "Con il mio potere unito al vostro
+non c'è nemico che possa fermarci!",
+  "0.9580.0" => "Ora che vi siete uniti a me,
+l'esito della battaglia è scontato!",
+  "0.9600.0" => "Mi chiedo perché debba combattere
+questa battaglia!",
+  "0.9601.0" => "Oh... Mi si stringe il cuore!",
+  "0.9602.0" => "Che buffo! È ora di divertirci.",
+  "0.9603.0" => "Stupidi parassiti! Vi eliminerò uno per uno!",
+  "0.9604.0" => "Non mi sottovalutare o te ne pentirai!",
+  "0.9605.0" => "Sarò io a soccorrere i miei alleati.",
+  "0.9606.0" => "Nessuno mi sfuggirà dalle mani!",
+  "0.9607.0" => "Io sono il re!
+Posso respingere qualsiasi attacco!",
+  "0.9608.0" => "Me la caverò, qualsiasi cosa faranno!",
+  "0.9615.0" => "Perché un portento della magia come
+me deve combattere una tale battaglia?!",
+  "0.9616.0" => "Questa tristezza fa così male...",
+  "0.9617.0" => "Questo sì che è stato un bel passatempo.",
+  "0.9624.0" => "A quanto pare sono scappati.
+Che tipi fortunati!",
+  "0.9625.0" => "Solo gli dei sanno chi ha ragione in
+questa battaglia...",
+  "0.9630.0" => "Ecco a voi! Siete nella morsa del re!",
+  "0.9631.0" => "Ora il mio piano funzionerà alla grande!",
+  "0.9632.0" => "Questo piano farà disperare gli stolti!",
+  "0.9633.0" => "Ecco, queste sono le tattiche di un vero re!",
+  "0.9635.0" => "Ho... ho fallito?!",
+  "0.9636.0" => "Non ci posso credere!
+Hai smascherato i miei piani!",
+  "0.9637.0" => "Il mio piano doveva restare segreto!",
+  "0.9638.0" => "Per oggi ti risparmio altro dolore...",
+  "0.9639.0" => "Unitevi a me! Datemi la vostra
+energia per aumentare la mia forza!",
+  "0.9640.0" => "I nemici dovranno inchinarsi
+di fronte alla nostra potenza!",
+  "0.9720.0" => "È questo il mio compito?",
+  "0.9721.0" => "Non voglio combattere una tale battaglia...",
+  "0.9722.0" => "È giusto che mi diverta a combattere?",
+  "0.9723.0" => "Va tutto bene, lascia fare a me!",
+  "0.9724.0" => "Basta fare un solo passo falso
+in questa battaglia e... addio!",
+  "0.9725.0" => "Ehi, lascia stare i miei amici!",
+  "0.9726.0" => "Stanno scappando! Inseguiamoli!",
+  "0.9727.0" => "Se uniamo le nostre forze, riusciremo
+a proteggere questa terra!",
+  "0.9728.0" => "Chissà se riuscirò a cavarmela...",
+  "0.9735.0" => "Ho vinto, ma non mi sento del tutto sollevata.",
+  "0.9736.0" => "La mia unica consolazione è
+che questa battaglia è finita...",
+  "0.9737.0" => "Di tanto in tanto fa bene combattere.",
+  "0.9744.0" => "Ormai è troppo tardi per acciuffarli.",
+  "0.9745.0" => "Mi chiedo se è davvero questo che volevamo...",
+  "0.9750.0" => "Ho un piano, ma chissà se funzionerà...",
+  "0.9751.0" => "Bene, credo che ora quel piano
+potrebbe funzionare!",
+  "0.9752.0" => "Ho un piano... Forza, andiamo!",
+  "0.9753.0" => "Spero davvero che questo piano funzioni.",
+  "0.9755.0" => "Non ha funzionato...",
+  "0.9756.0" => "Perché mai non ha funzionato?!",
+  "0.9757.0" => "Il piano ha funzionato alla perfezione!
+Mi sento così sollevata!",
+  "0.9758.0" => "Uhm... Il piano non è stato un granché.",
+  "0.9759.0" => "Coraggio, è il momento di unire
+le nostre forze!",
+  "0.9760.0" => "Oh, eccovi qui! Che sollievo!
+Forza, è tempo di chiudere i conti!",
+  "0.9780.0" => "Devo proprio partecipare a questa battaglia...?",
+  "0.9781.0" => "Non è che io voglia combattere...",
+  "0.9782.0" => "Uh uh uh... E ora divertiamoci!",
+  "0.9783.0" => "Si prospetta una gran bella vittoria all'orizzonte.",
+  "0.9784.0" => "Con un avversario del genere devo
+fare molta attenzione...",
+  "0.9785.0" => "Mi secca alquanto, ma credo che farò
+meglio ad aiutarli.",
+  "0.9786.0" => "Mi spiace, ma non vi lascerò sfuggire.",
+  "0.9787.0" => "Hai forse intenzione di rubarmi qualcosa...?
+Quale imprudenza!",
+  "0.9788.0" => "Farò meglio a ritirarmi alla svelta...",
+  "0.9795.0" => "Una vittoria del genere non mi rende
+neanche felice.",
+  "0.9796.0" => "Non riesco a rallegrarmi
+solo perché abbiamo vinto.",
+  "0.9797.0" => "Almeno sono sfuggita per un attimo
+a questa noia mortale.",
+  "0.9804.0" => "Vedo che hai una certa abilità nella corsa...",
+  "0.9805.0" => "Ho vinto, ma ho come una strana sensazione...",
+  "0.9810.0" => "Sta' a guardare... Ne vedrai delle belle.",
+  "0.9811.0" => "Che ne pensi di questo piano...?",
+  "0.9812.0" => "Questo piano ti farà divertire...",
+  "0.9813.0" => "Ho tenuto in serbo questo piano fino ad ora!",
+  "0.9815.0" => "È fallito? Com'è potuto succedere...?",
+  "0.9816.0" => "Mi hanno ostacolata...? Che insolenti!",
+  "0.9817.0" => "Il piano è stato un successo...
+Uh uh uh! Questo sì che mi rende felice.",
+  "0.9818.0" => "Per ora basta così...",
+  "0.9819.0" => "Unitevi a me e sgominiamo questa
+banda di buoni a nulla!",
+  "0.9820.0" => "Odio aspettare, ma per questa
+volta sarò clemente con voi...",
+  "0.9840.0" => "Quale sarà mai il senso di questa battaglia?",
+  "0.9841.0" => "Tutto ciò mi lascia indifferente...",
+  "0.9842.0" => "È giunta l'ora di divertirsi.",
+  "0.9843.0" => "Non devo neanche sforzarmi più di tanto...",
+  "0.9844.0" => "Uhm... Gli avversari di certo non mancano.",
+  "0.9845.0" => "Una missione di soccorso...
+Direi che è un gioco da ragazzi.",
+  "0.9846.0" => "Argh! Non mi sfuggirai!",
+  "0.9847.0" => "Ci stanno attaccando...
+Gli faremo vedere con chi hanno a che fare.",
+  "0.9848.0" => "Meglio fuggire alla svelta...",
+  "0.9855.0" => "Questa vittoria non ha alcun senso.",
+  "0.9856.0" => "A quanto pare ho ancora un cuore...",
+  "0.9857.0" => "Questa battaglia non è stata poi così male.",
+  "0.9864.0" => "Sono fuggiti... Me ne farò una ragione.",
+  "0.9865.0" => "Sì, ho avuto la mia vittoria.
+Ma ciò non mi fa sentire più sereno.",
+  "0.9870.0" => "Anche questo piano sembra divertente...",
+  "0.9871.0" => "Mi chiedo come reagiranno
+a un piano del genere...",
+  "0.9872.0" => "Uhm... È giunta l'ora di procedere
+con quel piano...",
+  "0.9873.0" => "Il piano ha inizio... Buon divertimento.",
+  "0.9875.0" => "Il piano è fallito... Non ci resta che
+l'attacco frontale.",
+  "0.9876.0" => "Non credevo sarebbero stati in grado
+di ostacolare il mio piano...",
+  "0.9877.0" => "Sembra che sia andato tutto alla perfezione...",
+  "0.9878.0" => "Ora basta così. Abbiamo ottenuto
+ciò che volevamo.",
+  "0.9879.0" => "Un attacco congiunto è la migliore
+strategia per ottenere la vittoria!",
+  "0.9880.0" => "Uniamo le forze, ma vi avviso:
+non tollererò atti di codardia.",
+  "0.9900.0" => "Oh, no... Che senso ha per me
+scendere in campo?",
+  "0.9901.0" => "Non me la sento di combattere...
+Ma non ho scelta.",
+  "0.9902.0" => "Bene, ora ti farò divertire un po'.",
+  "0.9903.0" => "Chissà fin dove puoi spingerti contro di me...",
+  "0.9904.0" => "Non è che non riesca a batterli, ma...",
+  "0.9905.0" => "Non c'è motivo di prestare soccorso
+in territorio nemico.",
+  "0.9906.0" => "Scappa pure... Ti concederò un po' di vantaggio.",
+  "0.9907.0" => "Distruggerò questo ammasso di rifiuti.",
+  "0.9908.0" => "Riuscirò senz'altro a fuggire...",
+  "0.9915.0" => "Era ovvio che vincessimo...
+Non c'era bisogno del mio intervento.",
+  "0.9916.0" => "Neanche questa vittoria riesce a dissipare
+la mia tristezza...",
+  "0.9917.0" => "Ah ah! Che vittoria esaltante!",
+  "0.9924.0" => "Come ho potuto farmeli sfuggire...?",
+  "0.9925.0" => "Non so perché, ma questa vittoria mi lascia
+con l'amaro in bocca...",
+  "0.9930.0" => "Questo piano ti stupirà...!",
+  "0.9931.0" => "Ciò che più mi piace è tramare un piano
+nei minimi dettagli...",
+  "0.9932.0" => "Ih ih ih! È ora di mettere a punto il piano!",
+  "0.9933.0" => "Gliela farò pagare con questo piano.",
+  "0.9935.0" => "Ho fallito... È assurdo.",
+  "0.9936.0" => "Voi non siete altro che delle nullità.
+Non osate prendervi gioco di me!",
+  "0.9937.0" => "I successi rendono tutto più divertente...!",
+  "0.9938.0" => "Per ora basta così...",
+  "0.9939.0" => "Ora! Uniamo le forze e spazziamo
+via questo branco di mocciosi!",
+  "0.9940.0" => "La vittoria è vicina!",
+  "0.9960.0" => "Pazienza... non ho intenzione di scappare
+comunque.",
+  "0.9961.0" => "In momenti come questo bisogna guardare
+avanti e continuare a combattere.",
+  "0.9962.0" => "Ogni tanto bisogna anche divertirsi un po'!",
+  "0.9963.0" => "Con me in campo non si può perdere!",
+  "0.9964.0" => "Questa volta non abbasserò la guardia!",
+  "0.9965.0" => "Devo sbrigarmi, hanno bisogno di me.",
+  "0.9966.0" => "Nessuno deve sfuggirmi, o poi
+saranno seccature...",
+  "0.9967.0" => "Questo posto è sotto la mia protezione!",
+  "0.9968.0" => "Se non c'è speranza di vittoria, la scelta
+migliore è la fuga!",
+  "0.9975.0" => "Non c'era altro da fare, purtroppo...",
+  "0.9976.0" => "È inutile piangere sul latte versato,
+bisogna guardare avanti.",
+  "0.9977.0" => "Mi sono proprio divertita!
+Voglio rifarlo! Ah ah ah!",
+  "0.9984.0" => "Accidenti, mi sono fatta sfuggire la preda...",
+  "0.9985.0" => "Non sono del tutto soddisfatta...
+Ma una vittoria è sempre una vittoria.",
+  "0.9990.0" => "Proviamo a mettere in atto la nostra strategia?",
+  "0.9991.0" => "Ho qualche asso nella manica,
+ed è ora di usarlo!",
+  "0.9992.0" => "Vedrai che bel piano ho in mente!",
+  "0.9993.0" => "È giunto il momento di cominciare.",
+  "0.9995.0" => "Il piano è fallito... pazienza...",
+  "0.9996.0" => "Mi hanno messo i bastoni tra le ruote...",
+  "0.9997.0" => "Il piano ha funzionato senza problemi!",
+  "0.9998.0" => "Immagino che così possa bastare...",
+  "0.9999.0" => "Combattiamo insieme e chiudiamo
+i conti!",
+  "0.10000.0" => "Eccovi qua! Ora concentriamoci
+e mettiamo fine alla battaglia!",
+  "0.10020.0" => "Link, sei sicuro di voler continuare?",
+  "0.10021.0" => "Non dobbiamo mollare! Combattiamo fino
+alla fine!",
+  "0.10022.0" => "Guarda! Tutti ti stanno aspettando!",
+  "0.10023.0" => "Link, devi credere in te stesso! Non mollare!",
+  "0.10024.0" => "Sembra molto forte... Link, credi di poter
+vincere?",
+  "0.10025.0" => "Sbrighiamoci, stanno aspettando il nostro aiuto!",
+  "0.10026.0" => "Inseguiamoli! Se non ci sbrighiamo,
+ci sfuggiranno!",
+  "0.10027.0" => "Dobbiamo respingerli!",
+  "0.10028.0" => "Presto, Link! Scappiamo!",
+  "0.10035.0" => "Tutto qui...?",
+  "0.10036.0" => "Link, abbiamo vinto! Fammi un sorriso!",
+  "0.10037.0" => "Sei stato bravissimo.
+Proprio come un vero eroe!",
+  "0.10044.0" => "Ci sono sfuggiti... Peccato.",
+  "0.10045.0" => "C'è qualcosa che non va, Link?",
+  "0.10050.0" => "A questo punto, Link...
+non ci resta che una cosa!",
+  "0.10051.0" => "Link, procediamo pure con quel piano!",
+  "0.10052.0" => "Link, è il momento di giocare
+la nostra ultima carta!",
+  "0.10053.0" => "Bene, mettiamoci all'opera!",
+  "0.10055.0" => "Ci hanno fermati! Questa non ci voleva.",
+  "0.10056.0" => "Che peccato, tanta fatica sprecata!",
+  "0.10057.0" => "Perfetto, ha funzionato!",
+  "0.10058.0" => "Non pensi che sia abbastanza?",
+  "0.10059.0" => "Se uniamo le nostre forze, la vittoria
+non potrà sfuggirci!",
+  "0.10060.0" => "Link, guarda! Ora che i tuoi alleati
+sono qui, non possiamo perdere!",
+  "0.10080.0" => "C-Com'è possibile?!",
+  "0.10081.0" => "Io volevo solo farmi gli affari miei...",
+  "0.10082.0" => "Sarà qui il mio amico folletto?!",
+  "0.10083.0" => "Faccio io! Faccio tutto io!",
+  "0.10084.0" => "I miei poteri magici non bastano...",
+  "0.10085.0" => "Bisogna correre in aiuto degli amichetti!",
+  "0.10086.0" => "Giochiamo a rincorrerci? Ci sto! Ti prendo!",
+  "0.10087.0" => "Via! Via da qui! Uffa!",
+  "0.10088.0" => "Gambe in spalla! Me ne vado!",
+  "0.10095.0" => "Posso andare a casa adesso?",
+  "0.10096.0" => "Non ne posso proprio più...",
+  "0.10097.0" => "Yuppi! Che divertimento!",
+  "0.10104.0" => "Non posso acchiappare un nemico
+del genere...",
+  "0.10105.0" => "C'è qualcosa che non mi quadra...
+Ma non capisco cosa!",
+  "0.10110.0" => "Devo tirare fuori il mio asso nella manica!
+Tingle, Tingle! Kururìn-PA!",
+  "0.10111.0" => "Volete vedere il piano che ho ideato?",
+  "0.10112.0" => "Ci penso io qui! Anche se non si vede,
+ho 35 anni!",
+  "0.10113.0" => "Mi ero scordato di essere così bravo!",
+  "0.10115.0" => "Il mio piano non ha funzionato!
+Uffa uffa!",
+  "0.10116.0" => "Chi mi mette i bastoni tra le ruote?
+Volevo mettermi un po' in mostra!",
+  "0.10117.0" => "Evviva! Il piano ha funzionato!!!",
+  "0.10118.0" => "Sono stato proprio bravo... ma adesso basta!",
+  "0.10119.0" => "Qualcuno vuole darmi una mano?
+Non so se riesco a farcela da solo!",
+  "0.10120.0" => "Oh! Siete qui, che meraviglia!
+Sono il più fortunato del mondo!",
+  "0.10140.0" => "Tocca a me ora? Siamo sicuri?",
+  "0.10141.0" => "Beh, non posso starmene con le mani in
+mano. Devo passare ai fatti!",
+  "0.10142.0" => "Non ho ben chiaro cosa stia succedendo,
+ma penso che sarà divertente...",
+  "0.10143.0" => "Ci penso io!",
+  "0.10144.0" => "Sembra piuttosto impegnativo...
+Per fortuna ho molta fiducia in me.",
+  "0.10145.0" => "Pare che a qualcuno serva una mano!",
+  "0.10146.0" => "Bisogna abbatterli in fretta!",
+  "0.10147.0" => "Se devo solo difendere questo posto...
+beh, penso di potercela fare!",
+  "0.10148.0" => "Forza, leviamo le tende!",
+  "0.10155.0" => "Mmmh... Non c'è molto da festeggiare...",
+  "0.10156.0" => "Devo rimanere ottimista e proseguire!",
+  "0.10157.0" => "Tutto qua? È stato uno spasso!",
+  "0.10164.0" => "Oh, no... Sono fuggiti...",
+  "0.10165.0" => "C'è qualcosa che non mi convince...
+Non importa... andrà tutto bene!",
+  "0.10170.0" => "Ho un piano! Fidatevi di me!",
+  "0.10171.0" => "Ehi, mi è venuta un'idea! Guardate!",
+  "0.10172.0" => "Ho un piano! Vi va di vederlo?",
+  "0.10173.0" => "Mi è venuta un'idea che dovrebbe
+funzionare.",
+  "0.10175.0" => "Oh, no... Non ha funzionato...",
+  "0.10176.0" => "N-Non ce l'ho fatta...",
+  "0.10177.0" => "Un successo totale!",
+  "0.10178.0" => "Bene, così dovrebbe bastare!",
+  "0.10179.0" => "Coraggio, uniamo le nostre forze
+e avremo la meglio!",
+  "0.10180.0" => "Se combattiamo insieme, ce la faremo!",
+  "0.10200.0" => "Non sono molto convinto, però...",
+  "0.10201.0" => "E va bene, cominciamo, basta
+lamentarsi!",
+  "0.10202.0" => "Ah, qualcuno ha voglia di giocare, eh?
+E allora giochiamo!",
+  "0.10203.0" => "La vittoria sarà nostra in men che non
+si dica!",
+  "0.10204.0" => "Mmmh... Le cose non si stanno
+mettendo bene...",
+  "0.10205.0" => "Sono in attesa del mio aiuto, lo so.
+Devo raggiungerli!",
+  "0.10206.0" => "Ora è troppo tardi per fuggire!",
+  "0.10207.0" => "Siete già qui? È ora di entrare in azione!",
+  "0.10208.0" => "Ne ho abbastanza, meglio andare via!",
+  "0.10215.0" => "Abbiamo vinto, allora perché
+lamentarsi?!",
+  "0.10216.0" => "Meno chiacchiere e più concretezza!",
+  "0.10217.0" => "Che spasso! Facciamolo di nuovo!",
+  "0.10224.0" => "Che rabbia, me li sono lasciati
+scappare!",
+  "0.10225.0" => "Beh, pazienza...",
+  "0.10230.0" => "Ho un piano fenomenale!
+Vi va di sentirlo?",
+  "0.10231.0" => "Per questa battaglia ho la strategia
+giusta! Aspettate e vedrete...",
+  "0.10232.0" => "Meglio mettere in pratica il mio piano,
+altrimenti dopo sarà troppo tardi...",
+  "0.10233.0" => "Ho escogitato un piano davvero astuto...
+Eh eh eh...",
+  "0.10235.0" => "Le cose non sono andate come speravo...",
+  "0.10236.0" => "Il mio piano è andato in fumo.
+Che rabbia!",
+  "0.10237.0" => "Tutto è andato liscio come l'olio.
+Eh eh eh!",
+  "0.10238.0" => "Dovrei fermarmi ora...",
+  "0.10239.0" => "Voglio unirmi anch'io a voi, vi prego!",
+  "0.10240.0" => "Oh, ci siete anche voi! Fantastico!",
+  "0.10260.0" => "Ti lanci nella mischia anche tu, Link?",
+  "0.10261.0" => "Preferirei evitare, ma temo che
+dobbiamo continuare a combattere...",
+  "0.10262.0" => "Ehi Link, guarda! Sembra divertente!",
+  "0.10263.0" => "So che ce la puoi fare, Link!",
+  "0.10264.0" => "Uao, la situazione pare pericolosa!
+Fai attenzione, Link!",
+  "0.10265.0" => "Ehi, Link, hanno bisogno di te!
+Non deluderli!",
+  "0.10266.0" => "Forza, Link, non devi lasciarli scappare!",
+  "0.10267.0" => "Devi difendere questo posto dagli
+attacchi del nemico, Link!",
+  "0.10268.0" => "Corri, Link, corri!",
+  "0.10275.0" => "Non è necessario combattere sempre,
+Link...",
+  "0.10276.0" => "Uao, Link! Penso che adesso abbiano
+capito chi è che comanda davvero!",
+  "0.10277.0" => "Uao! È stato elettrizzante!",
+  "0.10284.0" => "M-Ma... li hai lasciati fuggire?",
+  "0.10285.0" => "Qualcosa non quadra... Stai attento, Link!",
+  "0.10290.0" => "Forza, Link! Mostra a tutti chi comanda!",
+  "0.10291.0" => "Ricordi quel piano di cui ti ho parlato?
+Bene, è ora di metterlo in pratica!",
+  "0.10292.0" => "Bisogna tentare qualcosa, Link! Che ne
+dici di quel piano di cui abbiamo parlato?",
+  "0.10293.0" => "Niente paura! Link ha un piano pronto!",
+  "0.10295.0" => "Il piano è fallito...",
+  "0.10296.0" => "Non ti disperare, Link!
+Tutti commettono errori...",
+  "0.10297.0" => "Bel lavoro, Link! Sapevo che ce
+l'avresti fatta!",
+  "0.10298.0" => "Meglio lasciar perdere...",
+  "0.10299.0" => "Forza, unitevi a Link e mettete
+al tappeto il nemico!",
+  "0.10300.0" => "Guarda, Link! Sono arrivati i rinforzi!",
+  "0.10320.0" => "Mmmh... Davvero vuoi che faccia questo?",
+  "0.10321.0" => "Lamentarsi non ci porterà da nessuna
+parte!",
+  "0.10322.0" => "Ehi, voglio divertirmi anch'io!",
+  "0.10323.0" => "Vedete di non deludermi ora, intesi?",
+  "0.10324.0" => "Questo posto sembra piuttosto
+pericoloso...",
+  "0.10325.0" => "Dobbiamo salvare i nostri alleati,
+non possiamo perdere nessuno!",
+  "0.10326.0" => "Ehi! Non lasciarteli sfuggire!",
+  "0.10327.0" => "Dobbiamo difendere questa zona
+a ogni costo!",
+  "0.10328.0" => "Dobbiamo scappare senza perdere tempo!",
+  "0.10335.0" => "Vittoria!
+Era prevedibile, vero?",
+  "0.10336.0" => "Non è stato un trionfo, ma alla fine
+abbiamo vinto. Niente lacrime!",
+  "0.10337.0" => "È stato divertente! Combattiamo ancora
+un po'? Così, per divertimento...",
+  "0.10344.0" => "Sono riusciti a fuggire!
+E ora cosa facciamo?",
+  "0.10345.0" => "Sì, abbiamo vinto, ma non abbiamo
+trionfato... Sono un po' delusa...",
+  "0.10350.0" => "Ho un piano. State a vedere!",
+  "0.10351.0" => "Datemi un attimo per esporvi il mio piano!",
+  "0.10352.0" => "Meglio escogitare un piano...
+Vediamo... Ci sono!",
+  "0.10353.0" => "Ho un piano che ha già funzionato in
+passato e sicuramente funzionerà ora.",
+  "0.10355.0" => "Sigh... Il piano non ha funzionato
+come speravo...",
+  "0.10356.0" => "Avrebbe funzionato perfettamente se
+qualcuno non avesse interferito...",
+  "0.10357.0" => "L'avevo detto che la mia strategia
+avrebbe funzionato!",
+  "0.10358.0" => "È tutto a posto ora...",
+  "0.10359.0" => "Molto bene, uniamo le forze e facciamo
+vedere chi comanda a questi furfanti!",
+  "0.10360.0" => "Eccovi qui! Un tempismo perfetto!",
+  "0.10380.0" => "Non dobbiamo vacillare davanti al nemico!
+Combattiamo fieramente!",
+  "0.10381.0" => "Non lasciamo che la tristezza prenda
+il sopravvento! Dobbiamo voltare pagina!",
+  "0.10382.0" => "Ai miei tempi ero un abile guerriero
+e posso ancora darvene un saggio!",
+  "0.10383.0" => "Non vedo alcun motivo perché la vittoria
+non possa essere nostra.",
+  "0.10384.0" => "Prevedo momenti difficili in battaglia.
+Voglio il vostro massimo impegno!",
+  "0.10385.0" => "Dobbiamo sbrigarci! La salvezza dei
+nostri alleati dipende solo da noi!",
+  "0.10386.0" => "Non possiamo far fuggire quei furfanti!
+Dobbiamo purificare questa terra!",
+  "0.10387.0" => "Dobbiamo unire le forze e proteggere
+questa terra e i suoi abitanti!",
+  "0.10388.0" => "Non ci rimane altra scelta che la ritirata...
+Presto, tutti con me!",
+  "0.10395.0" => "Combattere è sempre l'ultima opzione, ma
+in questo caso non abbiamo altra scelta!",
+  "0.10396.0" => "Oggi abbiamo vinto, ma non dobbiamo
+rilassarci. Un'altra battaglia ci attende!",
+  "0.10397.0" => "La luce della vittoria risplende su di noi!",
+  "0.10404.0" => "Il nemico è fuggito... Ma non dobbiamo
+arrenderci, né ora, né mai!",
+  "0.10405.0" => "Abbiamo vinto, ma nel mio cuore
+alberga una strana sensazione...",
+  "0.10410.0" => "Ho un piano. Lasciate che ve lo mostri.",
+  "0.10411.0" => "Finalmente è giunto il momento di
+rivelare la mia strategia.",
+  "0.10412.0" => "Spero che siate pronti per assistere
+alla rivelazione del mio piano.",
+  "0.10413.0" => "Da giovane, ideai un piano per uscire da
+situazioni del genere. È ora di riprovarci!",
+  "0.10415.0" => "Il mio piano... non è stato all'altezza...",
+  "0.10416.0" => "Provo una forte vergogna...",
+  "0.10417.0" => "Mi compiaccio del successo della
+mia strategia!",
+  "0.10418.0" => "Direi che abbiamo portato a termine
+il nostro compito.",
+  "0.10419.0" => "Orsù, è il momento di unire le nostre
+forze e combattere fianco a fianco!",
+  "0.10420.0" => "Sono lieto di vedervi!
+All'attacco, e non abbassate la guardia!",
+  "0.10440.0" => "Ho un brutto presentimento...",
+  "0.10441.0" => "Non facciamoci prendere dall'agitazione!",
+  "0.10442.0" => "Non so perché, ma la situazione
+sembra interessante!",
+  "0.10443.0" => "Andrà tutto bene, ne sono sicura!",
+  "0.10444.0" => "C-Ce la faremo... In qualche modo
+ne usciremo vincitori.",
+  "0.10445.0" => "Sto arrivando!",
+  "0.10446.0" => "Forza, all'inseguimento!",
+  "0.10447.0" => "Proteggiamo questo posto con tutte
+le forze!",
+  "0.10448.0" => "Meglio abbandonare il campo!",
+  "0.10455.0" => "Ooops! Sembra che abbia vinto!
+Eh eh eh!",
+  "0.10456.0" => "Non posso lasciarmi prendere dall'ansia.
+Devo concentrarmi sulla battaglia!",
+  "0.10457.0" => "È stato uno spasso! Rifacciamolo!",
+  "0.10464.0" => "Oh! Il nemico è scappato...",
+  "0.10465.0" => "Sono stata brava, no?",
+  "0.10470.0" => "È ora di mettere in pratica
+il mio piano!",
+  "0.10471.0" => "Devo tirare fuori il mio asso
+nella manica...",
+  "0.10472.0" => "Forza, proviamo QUELLA tattica segreta!",
+  "0.10473.0" => "Concentriamoci e facciamo
+del nostro meglio!",
+  "0.10475.0" => "Dannazione, il nemico ha mandato
+a monte il mio piano!",
+  "0.10476.0" => "Non è andata esattamente come
+speravo...",
+  "0.10477.0" => "Ce l'ho fatta! Il piano è stato un successone!",
+  "0.10478.0" => "A quanto pare il piano è terminato...",
+  "0.10479.0" => "Uniamo le nostre forze!",
+  "0.10480.0" => "Facciamo del nostro meglio, insieme!",
+  "0.10500.0" => "E adesso... che faccio?",
+  "0.10501.0" => "Ma che...
+Niente, non importa!",
+  "0.10502.0" => "Ah ah ah! Sembra divertente!
+Fate partecipare anche me!!!",
+  "0.10503.0" => "Con me in campo andrà tutto bene!",
+  "0.10504.0" => "Che paura... Ho tanta paura...",
+  "0.10505.0" => "Dobbiamo andare in soccorso!",
+  "0.10506.0" => "Attacchiamo il nemico!",
+  "0.10507.0" => "Ci penso io a proteggere il presidio!",
+  "0.10508.0" => "Presto, scappiamo!",
+  "0.10515.0" => "Mmmh... Poteva andare meglio...",
+  "0.10516.0" => "Sono costretta... ad andarmene...",
+  "0.10517.0" => "Ti ho trafitto con la mia melodia?!",
+  "0.10524.0" => "Accidenti! Ho lasciato scappare
+la mia preda!",
+  "0.10525.0" => "Forse è solo una mia impressione,
+ma qui c'è qualcosa che non va...",
+  "0.10530.0" => "È il momento di mettere in atto
+il piano segreto!",
+  "0.10531.0" => "Uh uh uh, inizia la strategia segreta!",
+  "0.10532.0" => "Ho una sorpresina! Volete sapere quale
+strategia? E io non ve lo dico!",
+  "0.10533.0" => "Userò il mio piano preferito!",
+  "0.10535.0" => "Non è andata come speravo...",
+  "0.10536.0" => "Oh, no! Il nemico ha rovinato i miei piani!",
+  "0.10537.0" => "Evviva! È andata alla grande!!!",
+  "0.10538.0" => "Credo che così possa bastare!",
+  "0.10539.0" => "Tutti all'attacco!",
+  "0.10540.0" => "Sono imbattibile!",
+  "0.10560.0" => "Non ci rimane altra scelta...
+Rimbocchiamoci le maniche e muoviamoci!",
+  "0.10561.0" => "Piangeremo dopo. Di gioia. Per aver
+vinto la battaglia!",
+  "0.10562.0" => "Ehi, cosa sono quei musi lunghi?
+Forza, è tempo di entrare in azione!",
+  "0.10563.0" => "Questa battaglia dovrebbe essere solo
+una formalità.",
+  "0.10564.0" => "Non ci resta altra scelta che dare
+tutto sul campo di battaglia!",
+  "0.10565.0" => "I nostri amici hanno bisogno di noi!
+Dobbiamo fare presto!",
+  "0.10566.0" => "Forza, inseguiamoli!",
+  "0.10567.0" => "Proteggeremo questo posto,
+costi quel che costi!",
+  "0.10568.0" => "Oh, no! Si salvi chi può!",
+  "0.10575.0" => "Abbiamo fatto ciò che dovevamo fare.
+Ora chiudiamo la questione!",
+  "0.10576.0" => "Fatevi un bel pianto liberatorio,
+poi concentratevi sul nuovo obiettivo!",
+  "0.10577.0" => "È stato inaspettatamente divertente!",
+  "0.10584.0" => "Ehi, voi! Non abbiamo mica finito!
+Ma... Sono fuggiti...",
+  "0.10585.0" => "Vincere così non è molto soddisfacente,
+ma... è pur sempre una vittoria, giusto?",
+  "0.10590.0" => "Mettiamo in atto il nostro piano!",
+  "0.10591.0" => "Se le cose stanno così, è tempo
+di sfoderare il nostro piano segreto!",
+  "0.10592.0" => "E sia! È tempo di svelare il mio
+piano geniale!",
+  "0.10593.0" => "Mmmh, che ne pensate di questo piano?",
+  "0.10595.0" => "Poteva andare meglio, vero?",
+  "0.10596.0" => "Sono più fastidiosi di quanto pensassi...",
+  "0.10597.0" => "Il piano è stato un successone!",
+  "0.10598.0" => "Così dovrebbe bastare. Per ora...",
+  "0.10599.0" => "Sistemiamo quei brutti ceffi!",
+  "0.10600.0" => "È ora di dare il tutto per tutto!",
+  "0.10620.0" => "Combattere così sarà davvero la cosa
+giusta da fare?",
+  "0.10621.0" => "Cerchiamo di mettere fine a queste
+battaglie. Portano solo sofferenza...",
+  "0.10622.0" => "Uh uh uh! Non vedo l'ora di divertirmi
+un po'!",
+  "0.10623.0" => "Di questo passo ci sconfiggeranno in un
+lampo... Ehi, sto scherzando!",
+  "0.10624.0" => "Io mi siedo qui, tanto il mio aiuto non
+ti serve, vero? Sto scherzando, dai!",
+  "0.10625.0" => "Forza, andiamo a salvare i nostri alleati!",
+  "0.10626.0" => "Dai, inseguiamoli prima che fuggano!",
+  "0.10627.0" => "Dobbiamo solo difendere questo posto?
+Iniziamo, allora, non sto più nella pelle!",
+  "0.10628.0" => "Forza, dobbiamo andarcene da qui!
+Subito!!!",
+  "0.10635.0" => "Questa vittoria mi lascia un po' di
+amaro in bocca, ma...",
+  "0.10636.0" => "Forza, su con il morale! Dobbiamo
+procedere!",
+  "0.10637.0" => "Era da tempo che non mi divertivo
+così tanto!",
+  "0.10644.0" => "Mmmh... A quanto pare sono fuggiti...",
+  "0.10645.0" => "Mmmh... C'è qualcosa che non quadra.
+Eppure sembra tutto a posto...",
+  "0.10650.0" => "Sento che sta per succedere qualcosa
+di grosso, ma non ho idea di cosa...",
+  "0.10651.0" => "Vuoi conoscere il mio piano segretissimo?
+Domanda inutile, lo vedrai tra poco!",
+  "0.10652.0" => "Oh, capisco... Beh... Allora che ne
+dici di quest'altro piano?",
+  "0.10653.0" => "Questo piano non l'ho rivelato a nessuno,
+nemmeno... a me stesso! Procediamo!",
+  "0.10655.0" => "Dannazione! Non è andata come speravo...",
+  "0.10656.0" => "Vedi di non disturbarmi mentre metto
+all'opera il mio piano geniale!",
+  "0.10657.0" => "È stato un successone, non credi?",
+  "0.10658.0" => "Forza, è tempo di mettere in atto
+il piano segreto!",
+  "0.10659.0" => "Questa battaglia la vinceremo tutti insieme!
+Come? Anch'io? Ehm... Va bene, arrivo!",
+  "0.10660.0" => "Vincere così è più gustoso!",
+  "0.10680.0" => "Ugh... Perché mi sono cacciato in uno
+scontro come questo?!",
+  "0.10681.0" => "Ma... non vedo alcuna bellezza in tutto
+questo... È così deprimente...",
+  "0.10682.0" => "Su questo campo di battaglia sorgeranno
+numerose opere d'arte!",
+  "0.10683.0" => "Mmmh... Sono un po' occupato...
+Ti dispiacerebbe soccombere in fretta?",
+  "0.10684.0" => "Combattere in un campo di battaglia arido
+come questo... Non è da me...",
+  "0.10685.0" => "Sembra che qualcuno abbia bisogno
+del mio aiuto!",
+  "0.10686.0" => "Pensi davvero di potermi sfuggire?!",
+  "0.10687.0" => "Concentrarsi sulla sola difesa suona
+terribilmente noioso...",
+  "0.10688.0" => "Grrr... Non posso credere di dover
+alzare bandiera bianca...",
+  "0.10695.0" => "Non riesco a essere completamente
+soddisfatto per questa vittoria...",
+  "0.10696.0" => "Un campo di battaglia senza un afflato
+estetico è uno spettacolo deprimente...",
+  "0.10697.0" => "Osserva e impara: questa è vera bellezza!",
+  "0.10704.0" => "Grrr... Per essere un verme, strisci
+piuttosto veloce!",
+  "0.10705.0" => "Che me ne faccio di una vittoria così?!",
+  "0.10710.0" => "Lascia che ti spieghi il vero significato
+della parola "arte"!",
+  "0.10711.0" => "Lascia che ti illustri il mio piano:
+è un'autentica opera d'arte.",
+  "0.10712.0" => "Metterò in piedi uno spettacolo
+mozzafiato!",
+  "0.10713.0" => "Fai attenzione: questo trucchetto ci
+permetterà di salvarci la pelle!",
+  "0.10715.0" => "Abbiamo perso... nonostante il mio
+talento senza pari...",
+  "0.10716.0" => "Che impudenza! Mettermi il bastone
+fra le ruote in questo modo...",
+  "0.10717.0" => "Ah ah ah! Il mio piano è veramente
+una meraviglia!",
+  "0.10718.0" => "Se proprio dobbiamo arrenderci, facciamolo
+con una certa estetica artistica...",
+  "0.10719.0" => "Serve anche il mio aiuto? E va bene...",
+  "0.10720.0" => "È tempo di mostrare a tutti la mia arte!",
+  "0.15339.0" => "C-Cosa?!",
+  "0.15340.0" => "Avevamo bisogno d'aiuto, e invece
+ci ignorano così!",
+  "0.15341.0" => "C-Cosa?!",
+  "0.15342.0" => "Avevamo bisogno d'aiuto, e invece
+ci ignorano così!",
+  "0.15399.0" => "Arrrgh! Per tutte le rocce!
+Un mostro!!!",
+  "0.15400.0" => "Avevamo bisogno d'aiuto...
+Ce la pagherete cara!",
+  "0.15401.0" => "Arrrgh! Per tutte le rocce!
+Un mostro!!!",
+  "0.15402.0" => "Avevamo bisogno d'aiuto...
+Ce la pagherete cara!",
+}

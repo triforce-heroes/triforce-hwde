@@ -1,0 +1,194 @@
+Map {
+  "1.0.0.0" => "Détruisez donc ces humains ennuyeux
+qui se dressent sur ma route.",
+  "1.0.1.0" => "Votre Altesse...! Non, la princesse Zelda ne
+nous attaquerait jamais de son plein gré.",
+  "1.0.2.0" => "Peu importent ses raisons, il faut la trouver.
+La porte des âmes ne devrait pas être très loin.",
+  "1.0.4.0" => "Hé! Au secours! Aidez-moi!",
+  "1.0.6.0" => "La princesse Ruto est la seule à savoir comment
+entrer dans le temple. Protégez-la à tout prix.",
+  "1.0.7.0" => "Éliminons ces ennemis d'abord! En contournant
+la falaise nord, on peut les prendre à revers!",
+  "1.0.10.0" => "Ils comptent attaquer de front?
+Quelle grave erreur...",
+  "1.0.13.0" => "Soldats d'Hyrule! Cessez le combat
+et suivez mes ordres!",
+  "1.0.15.0" => "D'abord, ces attaques... Maintenant, ça...
+Cela ne peut être la princesse Zelda!",
+  "1.0.16.0" => "Vous voilà! Le seul moyen d'entrer dans le
+temple est d'ouvrir les écluses! En avant!",
+  "1.0.17.0" => "Si ce n'est pas la princesse Zelda, je découvrirai
+son vrai visage... et je lui ferai payer!",
+  "1.0.18.0" => "Nous pourrions utiliser la loupe de vérité qui se
+trouve dans ce temple pour démasquer Zelda.",
+  "1.0.19.0" => "Soldats d'Hyrule, écoutez-moi! Fuyez ce temple!
+Posez vos armes et partez au plus vite!",
+  "1.0.21.0" => "Ne la laissez pas vous tromper! Ce n'est pas la
+princesse Zelda! N'écoutez pas ses mensonges!",
+  "1.0.22.0" => "L'ennemi se dirige vers nous!",
+  "1.0.23.0" => "Je vais aider nos alliés!
+Occupez-vous des écluses!",
+  "1.0.24.0" => "Les écluses sont ouvertes! Nous devrions
+pouvoir entrer dans le temple de l'eau.",
+  "1.0.25.0" => "C'est le moment de déferler sur le temple de
+l'eau! Ha! Vous avez compris? Déferler? L'eau?",
+  "1.0.26.0" => "Je vais passer sous l'eau pour aller chercher la
+loupe de vérité. Je vous rejoindrai plus tard.",
+  "1.0.27.0" => "Nous partons devant!",
+  "1.0.28.0" => "J'ai réussi à m'infiltrer. D'après ce qu'on dit,
+la loupe de vérité devrait se trouver par ici...",
+  "1.0.29.0" => "Je l'ai trouvée! C'est la loupe de vérité! On dit
+qu'elle révèle la véritable apparence des choses!",
+  "1.0.30.0" => "Quoi?! On dirait qu'ils avaient tendu un piège...
+Et que je suis tombée dedans...",
+  "1.0.31.0" => "Votre précieuse amie est entre nos mains. Si
+vous voulez la revoir vivante, rendez les armes!",
+  "1.0.33.0" => "Prendre un otage, quelle lâcheté... Vous n'avez
+de la princesse Zelda que l'apparence!",
+  "1.0.34.0" => "Calmez-vous!
+J'ai la loupe de vérité!",
+  "1.0.35.0" => "Mais si tu es prisonnière, ça nous avance
+pas beaucoup.",
+  "1.0.36.0" => "Vite! Ouvrez les écluses dans le temple!
+Si l'eau se retire, les portes devraient s'ouvrir!",
+  "1.0.38.0" => "Je vais chercher du côté est.
+Vous autres, occupez-vous de l'ouest.",
+  "1.0.39.0" => "Ils sont trop nombreux...
+Même pour un guerrier comme moi!",
+  "1.0.40.0" => "Maintenant, ça ira! Retournez dans le temple et
+trouvez les interrupteurs qui ouvrent les écluses!",
+  "1.0.41.0" => "Quand l'écluse s'est ouverte, le niveau
+de l'eau a un peu baissé!",
+  "1.0.42.0" => "Oui, mais l'eau ne s'est pas complètement
+retirée. Il faut ouvrir l'autre écluse!",
+  "1.0.43.0" => "Vous avez réussi!
+Je vais enfin pouvoir sortir d'ici!",
+  "1.0.44.0" => "Bien! Allez aider Ruto!",
+  "1.0.45.0" => "Je suis un peu fatiguée... Je vous laisse vous
+occuper du reste. Je compte sur vous.",
+  "1.0.46.0" => "Hein? Quoi? Comment? Le mur a disparu et
+un chemin s'est ouvert!",
+  "1.0.47.0" => "Comment avez-vous réussi à briser ce sortilège?
+Peu importe! Vous ne me laissez pas le choix...",
+  "1.0.48.0" => "Roi dodongo, mon fidèle serviteur!
+Réduis-les en cendres!",
+  "1.0.49.0" => "Le roi dodongo! Aïe!
+Réfugiez-vous tous dans le fort!",
+  "1.0.50.0" => "Je vois que vous ne pouvez rien faire sans moi...
+Je ne vais en faire qu'une bouchée de ce lézard.",
+  "1.0.51.0" => "Impertinents! Comment osez-vous vous dresser
+contre un membre de la famille royale d'Hyrule!",
+  "1.0.52.0" => "Silence, imposteur!
+Montre-nous ton vrai visage!",
+  "1.0.53.0" => "Seul un monstre peut appeler une telle créature!
+C'est tout ce qu'elle est... Un monstre!",
+  "1.0.54.0" => "Nous devons tenir!",
+  "1.0.55.0" => "Ha ha ha! On a réussi! Il ne reste plus qu'à
+s'occuper de cet imposteur dans le temple!",
+  "1.0.56.0" => "Gah! Ils... ils m'ont eu...! Dé... Désolé...",
+  "1.0.57.0" => "Je suis blessée... Je ne peux plus combattre...",
+  "1.0.58.0" => "Sans Ruto, on ne peut pas entrer
+dans le temple...",
+  "1.0.59.0" => "N'y a-t-il pas un Héros pour venir m'aider?",
+  "1.0.60.0" => "Youhou! Venez vite m'aider!",
+  "1.0.61.0" => "Ouvrez les écluses dans le temple.
+Cela devrait me libérer.",
+  "1.0.62.0" => "Vous devez trouver les forts où se trouvent les
+interrupteurs qui ouvrent les écluses... Compris?",
+  "1.0.63.0" => "On a pas le moral...",
+  "1.0.64.0" => "Excellent travail, mais il semble qu'on ait
+encore besoin de notre aide avec ces écluses.",
+  "1.0.65.0" => "Sauvé! Ha ha, merci! Maintenant, allez
+un peu faire la même chose pour Ruto!",
+  "1.0.66.0" => "Pfiou! De justesse! Merci pour le coup de
+main! Vous en faites pas, je vais bien!",
+  "1.0.67.0" => "Les préparations sont terminées!
+Ouvrez les écluses!",
+  "1.0.68.0" => "Dépêchez-vous! Nous devons tout
+faire pour sauver la princesse Ruto.",
+  "1.0.69.0" => "À présent, châtiez ces impertinents
+qui s'agitent devant le temple!",
+  "1.0.70.0" => "Nous ne pouvons pas les laisser sortir
+du temple! Séparez-vous et arrêtez-les!",
+  "1.0.71.0" => "Whoa! C'était super dangereux!",
+  "1.0.72.0" => "Ha ha! On dirait qu'on a semé
+le chaos dans leurs rangs!",
+  "1.0.73.0" => "Hé! Ne m'oubliez pas! J'ai toujours besoin
+de votre aide! Vous vous en souvenez?",
+  "1.0.74.0" => "Seuls quelques monstres persistent! Battez-les 
+et repoussez les forces de cet imposteur!",
+  "1.0.75.0" => "Ils ont vaincu le roi dodongo? Impossible!
+Servez votre reine! Détruisez-les!",
+  "1.0.76.0" => "L'ennemi est désorganisé et sans meneur.
+C'est notre chance de frapper un grand coup!
+",
+  "1.0.77.0" => "Gh... Non! C'est la fin pour moi!",
+  "1.0.78.0" => "Nous devons joindre nos forces
+pour repousser cette créature!",
+  "13.0.0.0" => "Seule la princesse Ruto sait comment entrer
+dans le temple. Nous devons la protéger!",
+  "13.0.1.0" => "Je vais aller aider nos alliés. Pendant ce temps,
+occupez-vous d'ouvrir les écluses...",
+  "13.0.2.0" => "Si cette femme est un imposteur, alors nous
+devons découvrir sa véritable identité!",
+  "13.0.3.0" => "Je vais chercher à l'est. Occupez-vous
+de l'ouest.",
+  "13.0.4.0" => "Elle prétend encore être la princesse Zelda...",
+  "13.0.5.0" => "Aah... L'ennemi est sur nous.",
+  "13.0.6.0" => "Très bon travail. À présent, préparons-nous
+à prendre d'assaut le temple de l'eau.",
+  "13.0.7.0" => "Allons-y...",
+  "13.0.8.0" => "Nous sommes attaqués.
+Nous devons faire quelque chose...",
+  "13.0.9.0" => "Merci, ça devrait aller, maintenant. Nous devons
+ouvrir les écluses à présent.",
+  "13.0.10.0" => "Intéressant... Le niveau de
+l'eau a un peu baissé...",
+  "13.0.11.0" => "Parfait. Nous allons pouvoir
+sauver la princesse Ruto...",
+  "13.0.12.0" => "Nous n'avons pas d'autre choix que
+d'attendre l'ennemi dans ce fort...",
+  "13.0.13.0" => "La voie est libre. Il ne nous reste plus
+qu'à nous occuper de cet imposteur!",
+  "13.0.14.0" => "Dé... Désolé...",
+  "13.0.15.0" => "Le chemin s'est ouvert tout seul...",
+  "13.0.16.0" => "Il est trop puissant! Allons
+nous réfugier dans le fort!",
+  "13.0.17.0" => "Elle a invoqué ces monstres? L'identité de
+notre imposteur est très claire à présent...",
+  "13.0.18.0" => "Sans la princesse Ruto, continuer
+cette bataille n'a pas de sens.",
+  "13.0.19.0" => "Nettoyons d'abord cette zone. Nous pourrons
+prendre l'ennemi à revers depuis la falaise nord.",
+  "13.0.20.0" => "Merci pour votre aide... Je vais bien maintenant.
+Je peux aller aider Ruto si c'est nécessaire.",
+  "13.0.21.0" => "Merci pour votre aide. Je me
+débrouillerai seul à présent.",
+  "13.0.22.0" => "Nous devons trouver un moyen
+de les arrêter.",
+  "13.0.23.0" => "Hum... Il semble que nous n'ayons fait
+que leur redonner courage.",
+  "13.0.24.0" => "Ça marche! Unissons nos forces pour
+nous débarrasser de cette créature!",
+  "13.0.25.0" => "Gh... J'ai manqué de prudence...",
+  "13.0.35.0" => "Sans la princesse Ruto, continuer
+cette bataille n'a pas de sens.",
+  "13.0.36.0" => "Nettoyons d'abord cette zone. Nous pourrons
+prendre l'ennemi à revers depuis la falaise nord.",
+  "13.0.37.0" => "Merci pour votre aide... Je vais bien maintenant.
+Je peux aller aider Ruto si c'est nécessaire.",
+  "13.0.38.0" => "Merci pour votre aide. Je me
+débrouillerai seul à présent.",
+  "13.0.39.0" => "Nous devons trouver un moyen
+de les arrêter.",
+  "13.0.40.0" => "Hum... Il semble que nous n'ayons fait
+que leur redonner courage.",
+  "13.0.41.0" => "Ça marche! Unissons nos forces pour
+nous débarrasser de cette créature!",
+  "13.0.42.0" => "Gh... J'ai manqué de prudence...",
+  "13.0.52.0" => "Sans la princesse Ruto, tous
+ces efforts sont vains.",
+  "13.0.53.0" => "Occupons-nous d'abord de ces ennemis. Nous
+prendrons les autres à revers depuis la falaise nord.",
+}

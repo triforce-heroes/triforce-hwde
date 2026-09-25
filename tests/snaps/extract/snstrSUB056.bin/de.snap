@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF1R wurden auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "Nähere dich einem A0%1sF3R, um mit ihm ins Geschäft zu kommen!",
+  "0.4.0" => "Du hast A0%1sF4R etwas abgekauft!",
+  "0.5.0" => "A0%1sF0R hat sich zurückgezogen!",
+  "0.6.0" => "Nähere dich dem anderen A0%1sF3R, um mit ihm ins Geschäft zu kommen!",
+  "0.8.0" => "A0%1sF0R ist geflohen!",
+  "0.9.0" => "A0%1sF0R wittert Gefahr und hat sich zurückgezogen!",
+  "0.11.0" => "A0%1sF0R hat seine Ware für dich abgelegt!",
+  "0.13.0" => "Du hast A0%1sF4R A61000 RubineR für eine A6LandurkundeR gezahlt!",
+  "0.14.0" => "Du hast A0%1sF4R die A6LandurkundeR für seine Ware gegeben!",
+}

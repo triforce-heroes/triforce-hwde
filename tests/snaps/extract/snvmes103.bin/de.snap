@@ -1,0 +1,137 @@
+Map {
+  "1.0.0.0" => "Dämonen und ein Riesenmonster... Ich würde sie
+gern alle zähmen, aber das wird selbst mir zu viel.",
+  "1.0.1.0" => "Warum setzen wir nicht die Einheimischen
+für diesen Zweck ein?",
+  "1.0.2.0" => "Wir sind hier, um euch zu helfen, mit diesen
+Dämonen kurzen Prozess zu machen.",
+  "1.0.3.0" => "Not used (103_vmes, 3)",
+  "1.0.4.0" => "Ich empfehle, das Besiegen des Riesenmonsters
+zur obersten Priorität zu machen.",
+  "1.0.5.0" => "Wer stellt sich dem Dunkelfürsten Ghirahim
+in den Weg? Das verlangt nach... Bestrafung.",
+  "1.0.6.0" => "Er kontrolliert also dieses Riesenmonster... Wir müssen
+ihn aufhalten und unser Hauptquartier beschützen!",
+  "1.0.7.0" => "Dieses Loch nennt ihr euer Hauptquartier? Ich tue der
+Welt einen Gefallen, wenn ich es von ihrem Antlitz tilge!",
+  "1.0.8.0" => "Beschützt unser Hauptquartier! Wenn es fällt,
+wird mein Zorn euch treffen!",
+  "1.0.9.0" => "Not used (103_vmes, 9)",
+  "1.0.10.0" => "Ich fühle eine seltsame Aura in dieser Zauberin.
+Aber das kann nicht sein...",
+  "1.0.11.0" => "Ich kann den Kampf nicht fortsetzen. Die Wahrscheinlichkeit
+für einen Sieg liegt damit bei 0 %.",
+  "1.0.12.0" => "Das lief ja genau nach Plan! Jetzt holen wir diesen
+gruseligen Monsterbändiger auf unsere Seite...",
+  "1.0.13.0" => "War er nicht vollständig wiedererweckt? Ich muss wohl
+ihr Hauptquartier erobern und das Ritual wiederholen...",
+  "1.0.14.0" => "Ich habe euch gerettet.",
+  "1.0.15.0" => "Not used (103_vmes, 15)",
+  "1.0.16.0" => "Ich habe euch wohl unterschätzt. Verehrte
+Zauberin, ich biete hiermit meine Dienste an!",
+  "1.0.17.0" => "Sich so einfach zum Diener machen zu
+lassen, welch Rückgratlosigkeit...",
+  "1.0.18.0" => "Die Dämonen haben wir damit unter Kontrolle.
+Die anderen hier brauchen wir nicht mehr.",
+  "1.0.19.0" => "Not used (103_vmes, 19)",
+  "1.0.20.0" => "Vielen Dank! Wir sind für jede Hilfe dankbar!",
+  "1.0.21.0" => "Not used (103_vmes, 21)",
+  "1.0.22.0" => "Dieser Geist ist alles, was sie zusammenhält. Ohne
+ihn wird ihr Widerstand leicht zu brechen sein.",
+  "1.0.23.0" => "Eine böse Aura wurde in der Zauberin entdeckt.
+Sofortige Eliminierung wird dringlichst empfohlen.",
+  "1.0.24.0" => "Sie haben von Anfang an Böses im Schild geführt!
+Wir müssen den Wolkenhort beschützen! Zum Angriff!",
+  "1.0.25.0" => "Sie haben von Anfang an Böses im Schild geführt!
+Wir müssen den Wolkenhort beschützen! Zum Angriff!",
+  "1.0.26.0" => "Sie sind schwach, könnten aber gefährlich werden,
+wenn wir nicht ihre Festungen erobern.",
+  "1.0.27.0" => "Sie wollen unsere Festungen. Dann ist ihr
+Hauptquartier ungeschützt! Das ist unsere Chance!",
+  "1.0.28.0" => "Wir werden zurückgedrängt...",
+  "1.0.29.0" => "Not used (103_vmes, 29)",
+  "1.0.30.0" => "Ich stelle eine Reduzierung der Kampfkraft der
+Truppen des Wolkenhorts fest.",
+  "1.0.31.0" => "Unser Hauptquartier wurde erobert.
+Es ist aus.",
+  "1.0.32.0" => "Hgh... Ich habe es dir zu leicht
+gemacht. Für mich ist der Kampf vorbei.",
+  "1.0.33.0" => "Feigling! Stell dich mir
+zum Kampf!",
+  "1.0.34.0" => "Einem ungehobelten Schläger wie dir
+fehlt der Sinn für subtiles Vorgehen.",
+  "1.0.35.0" => "Sie kämpfen beharrlich... Wir sollten ihnen ihre
+Festungen nehmen und ihren Kampfeswillen brechen.",
+  "1.0.36.0" => "Jetzt gehört das Land in den Wolken mir.",
+  "1.0.37.0" => "Erlaubt mir, diese Welt für Euch zu beherrschen.",
+  "1.0.38.0" => "Die Wahrscheinlichkeit für das Erscheinen des
+Helden beträgt 100 %. Ich werde warten.",
+  "1.0.39.0" => "Not used (103_vmes, 39)",
+  "1.0.40.0" => "Not used (103_vmes, 40)",
+  "1.0.41.0" => "Feigling! Stell dich mir
+zum Kampf!",
+  "1.0.42.0" => "Einem ungehobelten Schläger wie dir
+fehlt der Sinn für subtiles Vorgehen.",
+  "1.0.43.0" => "Mit diesen Dämonen werden wir fertig, aber
+das Riesenmonster ist ein Problem...",
+  "1.0.44.0" => "Es wäre unklug, es direkt anzugreifen. Wir sollten
+uns von den Einheimischen helfen lassen...",
+  "1.0.45.0" => "Mit diesen Dämonen werden wir fertig, aber
+das Riesenmonster ist ein Problem...",
+  "1.0.46.0" => "Warum sollen wir uns damit herumärgern?
+Lassen wir das die Einheimischen übernehmen!",
+  "1.0.47.0" => "Wir müssen ihr Vertrauen gewinnen.
+Erobert eine ihrer Festungen zurück!",
+  "1.0.48.0" => "Hm? Findet dort im Norden auch
+ein Kampf statt?",
+  "1.0.49.0" => "Ich empfehle, das Riesenmonster
+unverzüglich auszuschalten.",
+  "1.0.50.0" => "Eure Fähigkeiten als Zauberin
+sind wahrlich beeindruckend!",
+  "1.0.51.0" => "Was für eine schamlose Schmeichelei...
+Diesem Kerl ist nicht zu trauen.",
+  "1.0.52.0" => "Los! Wir erobern dieses Gebiet zurück!",
+  "1.0.53.0" => "Noch mehr von diesen Versagern...
+Los, nehmt schnell ihre Festungen ein!",
+  "1.0.54.0" => "War das schon alles? Aller Kampfgeist
+kann eure Schwäche nicht aufwiegen.",
+  "1.0.55.0" => "He, ihr da! Bringt das Material zur Front
+und helft unserer Herrin!",
+  "1.0.56.0" => "Diese Monster führen irgendetwas im Schilde...
+Wir müssen sie schnell besiegen!",
+  "1.0.57.0" => "Ein Glanzstück! Nun sollte die Schlacht
+ganz im Sinne unserer Herrin verlaufen!",
+  "1.0.58.0" => "Ihr habt euch schon besiegen lassen?
+Nutzlose Versager...",
+  "1.0.59.0" => "Dieser Schwertgeist kann uns gefährlich
+werden... Erobern wir seine Festung!",
+  "1.0.60.0" => "Ich begebe mich nun zum Riesenmonster.",
+  "1.0.61.0" => "Sammelt euch um das Riesenmonster!
+Das ist ein Befehl!",
+  "13.0.0.0" => "Ich habe verloren...
+Welch Schmach...",
+  "13.0.1.0" => "Einer von diesen hässlichen Gesellen nach
+dem anderen... Erobern wir die Festung!",
+  "13.0.2.0" => "Um die Leute hier auf unsere Seite zu ziehen,
+sollten wir ihre Festungen für sie zurückerobern.",
+  "13.0.3.0" => "Unser Hauptquartier droht zu fallen!
+Wir brauchen Hilfe!",
+  "13.0.4.0" => "Das lief doch ganz gut. Jetzt müssen wir den
+Monsterbändiger auf unsere Seite bekommen.",
+  "13.0.5.0" => "Das wäre erledigt. Jetzt können wir uns
+um das eigentliche Problem kümmern.",
+  "13.0.6.0" => "Aber gern.",
+  "13.0.7.0" => "Menschlein haben in meinem Reich
+nichts verloren. Radieren wir sie aus!",
+  "13.0.8.0" => "Dieser Geist hilft ihnen.
+Ohne ihn sind sie hilflos.",
+  "13.0.9.0" => "Vielleicht würde es ihnen einen Dämpfer verpassen,
+wenn wir ihnen eine Festung abnehmen...",
+  "13.0.10.0" => "Wie konnte unser Hauptquartier fallen?!",
+  "13.0.11.0" => "Ich habe verloren...
+Wie demütigend...",
+  "13.0.12.0" => "Dieses mickrige Wesen ist stärker als wir! Vielleicht
+sollten wir uns erst ihre Festungen vornehmen?",
+  "13.0.13.0" => "Wir sollten ihre Festungen zurückerobern,
+damit die Leute hier uns vertrauen.",
+}

@@ -1,0 +1,182 @@
+Map {
+  "1.0.0.0" => "Ihr elenden Wesen solltet wissen,
+wo eurer Platz ist.",
+  "1.0.1.0" => "Prinzessin Zelda! Nein... Prinzessin Zelda würde
+uns niemals angreifen!",
+  "1.0.2.0" => "Wir müssen das untersuchen... Vermutlich
+finden wir sie am Seelenportal.",
+  "1.0.4.0" => "Hi-Hilfe!",
+  "1.0.6.0" => "Nur Prinzessin Ruto kennt den Weg in den
+Tempel. Wir müssen auf sie aufpassen.",
+  "1.0.7.0" => "Kümmern wir uns um die Gegner in der Nähe.
+Fallen wir ihnen vom Norden her in den Rücken!",
+  "1.0.10.0" => "Ihr wollt einen Frontalangriff wagen?
+Wie närrisch...",
+  "1.0.13.0" => "Soldaten von Hyrule! Beendet das Kämpfen
+untereinander und folgt eurer Prinzessin!",
+  "1.0.15.0" => "Erst die Sache mit Darunia und jetzt das...
+Das ist niemals die echte Prinzessin Zelda!",
+  "1.0.16.0" => "Folgt mir! Wir kommen nur in den Wassertempel,
+wenn wir die Schleusen öffnen!",
+  "1.0.17.0" => "Wer immer sich da als Prinzessin Zelda ausgibt...
+Ich werde ihm die Maske vom Gesicht reißen!",
+  "1.0.18.0" => "Der Spiegel der Wahrheit soll sich im Tempel
+befinden. Er wird uns ihre wahre Gestalt zeigen.",
+  "1.0.19.0" => "Hört mich an, Soldaten von Hyrule!
+Kommt diesem Tempel nicht näher!",
+  "1.0.21.0" => "Lasst euch nicht täuschen!
+Hört nicht auf das, was sie sagt!",
+  "1.0.22.0" => "Der Feind nähert sich!",
+  "1.0.23.0" => "Ich unterstütze unsere Verbündeten!
+Kümmere du dich um die Schleusen!",
+  "1.0.24.0" => "Die Schleusen sind offen! Jetzt können wir den
+Wassertempel betreten.",
+  "1.0.25.0" => "Gut gemacht! Auf in den Wassertempel!",
+  "1.0.26.0" => "Ich gehe ins Wasser und hole den Spiegel.
+Ich stoße später wieder zu euch.",
+  "1.0.27.0" => "Wir rücken auch vor!",
+  "1.0.28.0" => "Wir sind gut hineingelangt. Der Spiegel der
+Wahrheit muss hier irgendwo sein... Aber wo?",
+  "1.0.29.0" => "Das ist er! Der Spiegel der Wahrheit! Er soll die
+wahre Natur der Dinge widerspiegeln...",
+  "1.0.30.0" => "Mhh... Sie haben uns entdeckt...
+Wir scheinen hier gefangen zu sein...",
+  "1.0.31.0" => "Ich werde mich um eure Freunde kümmern.
+Wenn ihr sie wiedersehen wollt... Ergebt euch!",
+  "1.0.33.0" => "Geiseln, wie feige... Du siehst zwar aus
+wie Zelda, aber deine Taten verraten dich!",
+  "1.0.34.0" => "Beruhige dich! Wir haben immerhin
+den Spiegel der Wahrheit!",
+  "1.0.35.0" => "Aber das hilft uns nicht, solange wir in
+Gefangenschaft sind...",
+  "1.0.36.0" => "Öffne die Schleusen im Tempel! Wenn das
+Wasser zurückgeht, öffnen sich diese Türen!",
+  "1.0.38.0" => "Ich nehme mir den Osten vor.
+Such du im Westen!",
+  "1.0.39.0" => "Das wird selbst mir etwas zu viel!
+Überall nur Feinde!",
+  "1.0.40.0" => "Alles wieder in Ordnung! Geh zurück in den
+Tempel! Finde die Hebel für die Schleusen!",
+  "1.0.41.0" => "Nachdem du die Schleusen geöffnet hast,
+ist das Wasser etwas zurückgegangen!",
+  "1.0.42.0" => "Das Wasser ist noch nicht ganz abgelaufen!
+Öffne auch die andere Schleuse!",
+  "1.0.43.0" => "Du hast es geschafft! Jetzt kommen
+wir endlich hier heraus!",
+  "1.0.44.0" => "Sehr gut! Jetzt hilf Ruto!",
+  "1.0.45.0" => "Ich bin etwas... müde.
+Den Rest überlasse ich dir.",
+  "1.0.46.0" => "Hä? Die Wand ist weg! Und da ist ein Gang!",
+  "1.0.47.0" => "Du hast meine Magie gebannt? Wer bist du?
+Ach, ist nicht wichtig. Mir bleibt nur eines...",
+  "1.0.48.0" => "Komm, mein treuer Diener! König Dodongo!
+Zertrampele diese Würmer!",
+  "1.0.49.0" => "Was für ein Brocken!
+Versteckt euch in der Festung!",
+  "1.0.50.0" => "Bei diesem Kampf darf ich nicht fehlen.
+Mit dieser Eidechse mache ich kurzen Prozess!",
+  "1.0.51.0" => "Unverschämter Pöbel! Ihr wollt euch
+mit mir anlegen? Mit Zelda?!",
+  "1.0.52.0" => "Schweig, elender Betrüger! Zeig dein wahres
+Gesicht!",
+  "1.0.53.0" => "Wenn sie Monster wie dieses beschwört, steht
+sie eindeutig mit dem Bösen im Bunde!",
+  "1.0.54.0" => "Wir müssen diese Festung halten!",
+  "1.0.55.0" => "Ha! Jetzt müssen wir nur noch diesen
+Hochstapler aus seinem Zelda-Kostüm prügeln!",
+  "1.0.56.0" => "Ich bin am Ende...
+Ihr müsst ohne mich auskommen!",
+  "1.0.57.0" => "Ich bin zu schwer verletzt...
+Für mich ist der Kampf vorbei...",
+  "1.0.58.0" => "Ohne Ruto finden wir uns im Tempel
+nicht zurecht...",
+  "1.0.59.0" => "Ist denn kein Held in der Nähe, der mich retten
+könnte?",
+  "1.0.60.0" => "Jemand muss mir helfen! Schnell!",
+  "1.0.61.0" => "Öffne die Schleusen im Tempel, um einen Weg
+hierher freizumachen.",
+  "1.0.62.0" => "Du musst zu allen Räumen, die einen Hebel für
+die Schleusen haben. Hast du das verstanden?",
+  "1.0.63.0" => "Die Moral unserer Soldaten sinkt...",
+  "1.0.64.0" => "Gute Arbeit. Aber bevor wir die Schleusen
+öffnen, braucht noch jemand unsere Hilfe...",
+  "1.0.65.0" => "Vielen Dank! Jetzt komme ich allein klar.
+Hilf bitte auch Ruto!",
+  "1.0.66.0" => "Vielen Dank! Jetzt komme ich allein klar.",
+  "1.0.67.0" => "Die Vorbereitungen sind abgeschlossen.
+Öffnen wir die Schleusen!",
+  "1.0.68.0" => "Wir müssen uns beeilen! Wenn wir alle
+zusammenarbeiten, können wir Ruto retten!",
+  "1.0.69.0" => "Jetzt! Vernichten wir diesen unverschämten
+Pöbel, der vor dem Tempel Radau macht!",
+  "1.0.70.0" => "Oh nein... Sie dürfen den Tempel nicht
+verlassen! Wir sollten uns aufteilen!",
+  "1.0.71.0" => "Oh weia! Das war knapp...",
+  "1.0.72.0" => "Oh nein! Wir haben sie erst richtig
+angestachelt...",
+  "1.0.73.0" => "Habt ihr mich etwa vergessen?
+Ich benötige immer noch Hilfe!",
+  "1.0.74.0" => "Nicht mehr viele Feinde übrig... Besiegen wir das
+große Monstrum, um sie in Zugzwang zu bringen!",
+  "1.0.75.0" => "König Dodongo ist gefallen? Wie ist das...?
+Egal! Stürzt euch in den Kampf, Untertanen!",
+  "1.0.76.0" => "Die Reihen unserer Feinde sind in Unordnung...
+Das ist unsere Chance!",
+  "1.0.77.0" => "Argh! Sie haben mich erwischt!",
+  "1.0.78.0" => "Alles klar. Mit vereinten Kräften bringen
+wir das Ungetüm zu Fall.",
+  "13.0.0.0" => "Nur Prinzessin Ruto kennt den Weg in den Tempel.
+Wir müssen sie um jeden Preis beschützen.",
+  "13.0.1.0" => "Ich werde unsere Verbündeten unterstützen. Das
+Öffnen der Schleusen obliegt euch.",
+  "13.0.2.0" => "Wenn dieses Wesen eine Imitation ist, müssen
+wir sein wahres Gesicht enthüllen!",
+  "13.0.3.0" => "Ich sehe mich im Osten um. Übernimm du den
+Westen.",
+  "13.0.4.0" => "Noch immer nennt sie sich Prinzessin...",
+  "13.0.5.0" => "Der Feind hat seinen Weg hierher gefunden.",
+  "13.0.6.0" => "Ausgezeichnet. Der Weg in den Wassertempel ist
+frei!",
+  "13.0.7.0" => "Schreiten wir voran...",
+  "13.0.8.0" => "Der Feind bedrängt uns... Wir benötigen Hilfe.",
+  "13.0.9.0" => "Verzeihung... Aber jetzt ist es ausgestanden. Du
+kannst dich wieder um die Schleusen kümmern.",
+  "13.0.10.0" => "Ah... Der Wasserspiegel ist etwas gesunken.",
+  "13.0.11.0" => "Jetzt kann ich Prinzessin Ruto retten.",
+  "13.0.12.0" => "Wir müssen sie an dieser Festung abfangen.",
+  "13.0.13.0" => "Jetzt können wir uns dieser Imitation widmen...",
+  "13.0.14.0" => "Es tut mir leid...",
+  "13.0.15.0" => "Der Weg ist frei...",
+  "13.0.16.0" => "Dieser Gegner ist zu stark. Wir sammeln uns am
+Hauptquartier!",
+  "13.0.17.0" => "Nach dem Erscheinen dieses Ungeheuers habe ich
+eine Vermutung, wer hinter dem Ganzen steckt.",
+  "13.0.18.0" => "Ohne Ruto ist es sinnlos, weiterzumachen...",
+  "13.0.19.0" => "Wir sollten dem Feind zuerst über die
+Nordklippe in den Rücken fallen.",
+  "13.0.20.0" => "Danke für die Hilfe... Von hier an
+komme ich klar. Bitte hilf auch Ruto!",
+  "13.0.21.0" => "Danke für die Hilfe...
+Von hier an komme ich klar.",
+  "13.0.22.0" => "Wir haben sie irgendwie aufgehalten...",
+  "13.0.23.0" => "Wir haben ihnen in die Hände gespielt...",
+  "13.0.24.0" => "Alles klar! Vereinen wir unsere Kräfte,
+um dieses Biest zu besiegen!",
+  "13.0.25.0" => "Argh... Ich war unvorsichtig!",
+  "13.0.35.0" => "Ohne Ruto ist es sinnlos, weiterzumachen...",
+  "13.0.36.0" => "Wir sollten dem Feind zuerst über die
+Nordklippe in den Rücken fallen.",
+  "13.0.37.0" => "Danke für die Hilfe... Von hier an
+komme ich klar. Bitte hilf auch Ruto!",
+  "13.0.38.0" => "Danke für die Hilfe...
+Von hier an komme ich klar.",
+  "13.0.39.0" => "Wir haben sie irgendwie aufgehalten...",
+  "13.0.40.0" => "Wir haben ihnen in die Hände gespielt...",
+  "13.0.41.0" => "Alles klar! Vereinen wir unsere Kräfte,
+um dieses Biest zu besiegen!",
+  "13.0.42.0" => "Argh... Ich war unvorsichtig!",
+  "13.0.52.0" => "Ohne Prinzessin Ruto können wir diesen Kampf
+nicht fortsetzen...",
+  "13.0.53.0" => "Besiegen wir zuerst die Gegner hier und fallen dem
+Feind dann über die Nordklippe in den Rücken!",
+}

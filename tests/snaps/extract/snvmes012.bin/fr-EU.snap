@@ -1,0 +1,347 @@
+Map {
+  "1.0.0.0" => "Nous sommes arrivés dans la vallée de la sorcière...
+Mais nos forces ont été divisées à l'est et à l'ouest...",
+  "1.0.1.0" => "Les forces des ténèbres grandissent...
+Je vais balayer l'armée d'Hyrule.",
+  "1.0.2.0" => "Ils ont pris les sanctuaires, la puissance sacrée
+est scellée et les monstres sont plus forts...",
+  "1.0.3.0" => "Les ennemis deviennent encore plus puissants...
+Mais je ne baisserai pas les bras !",
+  "1.0.6.0" => "Il faut restaurer la puissance sacrée...
+En route vers les sanctuaires de la Déesse !",
+  "1.0.7.0" => "Il faut restaurer la puissance sacrée...
+En route vers les sanctuaires de la Déesse !",
+  "1.0.8.0" => "C'est la bataille finale contre Cya... Nous devons la
+remporter pour la gloire de Son Altesse et d'Hyrule !",
+  "1.0.9.0" => "Impa, nous devons remporter cette bataille
+pour ramener la paix en Hyrule !",
+  "1.0.10.0" => "Vous voyez cette énergie magique monter vers
+le ciel ? Ce sont les sanctuaires de la Déesse.",
+  "1.0.11.0" => "Vous voyez cette énergie magique monter vers le
+ciel ? Ce sont les sanctuaires de la Déesse.",
+  "1.0.14.0" => "Je détecte des sanctuaires à l'est et à l'ouest. Je vous
+conseille d'atteindre celui dont vous êtes le plus proche.",
+  "1.0.15.0" => "Il y a des sanctuaires à l'est et à l'ouest. Allez
+prendre celui dont vous êtes le plus proche !",
+  "1.0.16.0" => "Je me charge de retenir les armées ennemies,
+occupez-vous des sanctuaires !",
+  "1.0.17.0" => "Je vais retenir les armées ennemies.
+Occupez-vous des sanctuaires.",
+  "1.0.18.0" => "Il y a aussi un sanctuaire là-bas !",
+  "1.0.19.0" => "On dirait qu'il y a aussi un sanctuaire par là-bas !",
+  "1.0.20.0" => "Nous avons pris le contrôle du sanctuaire ouest...
+Veuillez prendre le contrôle du sanctuaire est.",
+  "1.0.21.0" => "On a réussi à prendre le sanctuaire ouest !
+Il faut vite prendre le sanctuaire est aussi !",
+  "1.0.22.0" => "Nous avons pris les sanctuaires est et ouest mais
+la puissance des ténèbres n'a pas disparu... C'est étrange.",
+  "1.0.23.0" => "Les deux sanctuaires sont à nous et la puissance
+des ténèbres est toujours là... Ce n'est pas normal.",
+  "1.0.24.0" => "Ne vous relâchez pas. Il devrait y avoir
+un autre sanctuaire !",
+  "1.0.25.0" => "Maintenant que nous avons levé le sceau des
+sanctuaires, les ennemis semblent affaiblis !",
+  "1.0.26.0" => "Lana, où se trouve l'autre sanctuaire ?
+Tu te souviens ?",
+  "1.0.27.0" => "Une seconde... Il y a trois sanctuaires...
+Un à l'est, un à l'ouest et... un au sud !",
+  "1.0.28.0" => "Je vais le chercher ! Je crois que je me
+souviens d'où se trouve le sanctuaire.",
+  "1.0.29.0" => "Oui, c'était bien ici !
+Le sanctuaire est ici !",
+  "1.0.30.0" => "On a trouvé le sanctuaire !
+C'est super, Link !",
+  "1.0.31.0" => "Oh, nous avons trouvé le sanctuaire !
+C'est formidable !",
+  "1.0.32.0" => "La puissance des ténèbres faiblit. Nous
+allons pouvoir combattre plus facilement !",
+  "1.0.33.0" => "Ils ont réussi à récupérer tous les sanctuaires.
+Ils sont plus forts que je ne l'aurais pensé...",
+  "1.0.34.0" => "Ils ont pris le sanctuaire de l'ouest.
+Il faut le reprendre !",
+  "1.0.35.0" => "Le sanctuaire de l'ouest a été pris ?
+Reprenez-le !",
+  "1.0.36.0" => "Ils ont pris le sanctuaire de l'est.
+Reprenons-le !",
+  "1.0.37.0" => "Le sanctuaire de l'ouest a été pris ?
+Il faut le reprendre à ces impudents ennemis !",
+  "1.0.38.0" => "Ils ont pris le sanctuaire du sud.
+Reprenons-le encore une fois !",
+  "1.0.39.0" => "Le sanctuaire du sud a été pris ?
+Ne vous en faites pas ! Il suffit de le reprendre !",
+  "1.0.40.0" => "C'est moi qui remporterai cette bataille...
+Vous allez bientôt le comprendre !",
+  "1.0.41.0" => "C'est terrible !
+Les ennemis en ont après la princesse Zelda !",
+  "1.0.42.0" => "C'est terrible !
+Les ennemis en ont après la princesse Ruto !",
+  "1.0.43.0" => "Je vais vous écraser par le nombre.
+Deuxième troupe, à l'attaque !",
+  "1.0.44.0" => "J'ai conféré à cette troupe un pouvoir magique
+spécial. Hu hu, arriverez-vous à vous défendre ?",
+  "1.0.45.0" => "Une puissante troupe se dirige vers la princesse
+Zelda... Il faut la protéger !",
+  "1.0.46.0" => "Une puissante troupe se dirige vers la princesse
+Ruto... Il faut la protéger !",
+  "1.0.47.0" => "J'ai doté la prochaine troupe du plus puissant des
+pouvoirs magiques. L'armée d'Hyrule est finie.",
+  "1.0.48.0" => "Cya... Est-ce vraiment ce que tu désirais... ?",
+  "1.0.49.0" => "Pour obtenir un immense pouvoir... elle a
+laissé les ténèbres s'emparer de son cœur.",
+  "1.0.50.0" => "Pour obtenir un immense pouvoir... elle a laissé
+les ténèbres s'insinuer jusque dans son cœur.",
+  "1.0.51.0" => "Zelda... Le moment est venu de faire appel
+à moi. Viens me rejoindre.",
+  "1.0.52.0" => "Ruto... Le moment est venu de faire appel
+à moi. Viens me rejoindre.",
+  "1.0.54.0" => "J'ai entendu la voix d'une grande fée... Je me
+mets en route vers la fontaine de la Déesse !",
+  "1.0.55.0" => "J'ai entendu la voix d'une grande fée... Je me
+mets en route vers la fontaine de la Déesse !",
+  "1.0.56.0" => "Votre Altesse, c'est dangereux d'y aller
+seule. Je vous accompagne.",
+  "1.0.57.0" => "Tu ne devrais pas y aller seule.
+Je vais te tenir compagnie.",
+  "1.0.58.0" => "Je viens aussi !",
+  "1.0.59.0" => "Tu ne devrais pas y aller seule.
+Je vais te tenir compagnie.",
+  "1.0.60.0" => "J'y vais aussi.
+Plus on est de fous, plus on rit.",
+  "1.0.61.0" => "Tu ne devrais pas y aller seule.
+Je vais te tenir compagnie.",
+  "1.0.62.0" => "Selon les instructions données par la grande 
+fée, j'établis notre base ici !",
+  "1.0.63.0" => "Suivons les instructions de la grande fée...
+Établissons notre base ici à partir de maintenant !",
+  "1.0.64.0" => "Attirez autant d'ennemis que
+possible devant la fontaine.",
+  "1.0.65.0" => "Attirons autant d'ennemis que
+possible devant la fontaine !",
+  "1.0.66.0" => "En régénérant le cercle et en utilisant sa magie,
+nous pourrons vaincre tous les ennemis d'un coup !",
+  "1.0.67.0" => "En régénérant le cercle et en utilisant sa magie,
+nous pourrons vaincre tous les ennemis d'un coup !",
+  "1.0.68.0" => "Je m'occupe d'attirer les ennemis de l'est !",
+  "1.0.69.0" => "Je vais attirer les ennemis de l'est !",
+  "1.0.70.0" => "Attirez les ennemis de l'ouest !",
+  "1.0.71.0" => "Attirez les ennemis de l'ouest !",
+  "1.0.72.0" => "Les ennemis m'attaquent !
+Je ne peux plus bouger d'ici...",
+  "1.0.73.0" => "Je suis attaquée par l'armée ennemie !
+Je ne peux pas bouger d'ici...",
+  "1.0.74.0" => "Merci ! Je te dois une fière chandelle !",
+  "1.0.75.0" => "Te voilà ! Tu m'as sauvée !",
+  "1.0.76.0" => "Je vais retenir les renforts ennemis.
+Il ne faut pas qu'ils trouvent le cercle magique.",
+  "1.0.77.0" => "Je vais retenir les renforts ennemis. Il ne faut surtout
+pas qu'ils s'approchent du cercle magique de la fontaine !",
+  "1.0.78.0" => "Laissez-nous retenir les renforts ennemis.",
+  "1.0.79.0" => "Laissez-nous retenir les renforts ennemis.",
+  "1.0.80.0" => "L'armée ennemie est arrivée jusqu'ici...
+Dans ce cas, je serai le dernier rempart.",
+  "1.0.81.0" => "Je ne pensais pas que l'armée ennemie arriverait
+jusqu'ici... Je vais devoir être le dernier rempart.",
+  "1.0.82.0" => "Kh kh... Volga, je vais partager avec toi ce pouvoir
+magique ultime qui te laissera pulvériser tes adversaires !",
+  "1.0.83.0" => "Uh... OUAAAAARGH !",
+  "1.0.84.0" => "Qu'est-ce qui se passe ? Le chevalier dragon est
+bizarre ! Il dégage une énorme puissance...",
+  "1.0.85.0" => "Il vaut mieux ne pas s'approcher de ce chevalier
+dragon.",
+  "1.0.86.0" => "Il vaut mieux éviter de s'approcher de ce chevalier
+dragon.",
+  "1.0.87.0" => "La magie... Le flot de magie ne s'arrête pas...
+Volga... Prends encore de cette puissance...",
+  "1.0.88.0" => "Élimine vite... les hommes d'Hyrule...
+Volga... Vite... Viiite !",
+  "1.0.89.0" => "Gwoooh ! La puissance jaillit du plus profond de
+moi... ! Je suis enfin immortel !",
+  "1.0.90.0" => "On aura beau le vaincre, il ressuscitera toujours ?
+Mais qu'est-ce qu'on peut faire ?",
+  "1.0.91.0" => "Serait-il immortel ?
+Que devons-nous faire pour l'arrêter ?",
+  "1.0.92.0" => "Maintenant ! Activez le cercle magique !",
+  "1.0.93.0" => "Maintenant ! Activez le cercle magique !",
+  "1.0.94.0" => "Kya ha ha ! ... Qu'est-ce que tu attends ?
+Réduis les hommes d'Hyrule au silence !",
+  "1.0.95.0" => "Kya ha ha ! Pas mal...
+Mais vous allez me le payer !",
+  "1.0.96.0" => "Kya ha ha ! Vous appelez ça de la magie ?
+Vous avez juste réussi à nous mettre en colère !",
+  "1.0.97.0" => "Gwoooooh ! Vous allez me le payer !",
+  "1.0.98.0" => "Gwooooh ! Je vais éliminer le général en chef
+ennemi !",
+  "1.0.99.0" => "Seras-tu vraiment satisfait de remporter la victoire
+en ayant recours à la force des ténèbres ?",
+  "1.0.100.0" => "Ça te rend heureux de gagner grâce à la puissance
+des ténèbres ? Tu es pathétique...",
+  "1.0.101.0" => "Grrrr... Ne... m'insultez pas...",
+  "1.0.102.0" => "Ouvre les yeux ! N'étais-tu pas autrefois
+un guerrier plein d'honneur ?",
+  "1.0.103.0" => "Ouvre les yeux ! Tu es un guerrier d'honneur,
+oui ou non ?",
+  "1.0.104.0" => "Gwoooh ! Je ne me laisserai pas... dominer par...
+les ténèbres !",
+  "1.0.105.0" => "L'issue de ce combat approche... Je n'ai plus qu'à
+vous affronter comme un véritable guerrier !",
+  "1.0.106.0" => "Je vais vous montrer l'étendue de mes forces !",
+  "1.0.107.0" => "J'ai été vaincu mais je ne regrette rien... J'ai
+retrouvé ma fierté... C'est bien mieux ainsi.",
+  "1.0.108.0" => "Allez... Allez, allez, alleeeeez ! Massacrez les
+hommes d'Hyrule jusqu'au dernieeeeer !",
+  "1.0.109.0" => "Cya... Arrête... Je t'en prie...",
+  "1.0.110.0" => "Il ne reste plus que Cya.
+Le combat final est arrivé !",
+  "1.0.111.0" => "Il ne reste plus que Cya.
+Allons l'affronter !",
+  "1.0.112.0" => "Hu hu hu hu... Attendez un peu !
+Je vais vous distraire encore davantage !",
+  "1.0.113.0" => "Kya ha ha ha ha ! Plus rien ni
+personne ne peut m'arrêter !",
+  "1.0.114.0" => "Je m'occupe de protéger la base !
+Combattez de toutes vos forces !",
+  "1.0.115.0" => "Laissez-moi protéger la base !
+Combattez de toutes vos forces !",
+  "1.0.116.0" => "Reviens en vie. Si tu meurs...
+je te le pardonnerai pas !",
+  "1.0.117.0" => "Reviens en vie... Promis ?",
+  "1.0.118.0" => "Tu dois mettre fin à cette guerre...",
+  "1.0.119.0" => "Je crois en toi, tu peux la vaincre !",
+  "1.0.120.0" => "Vous pensez pouvoir me vaincre ? Kh kh kh...
+Disparaissez, disparaissez, disparaisseeeez !",
+  "1.0.121.0" => "Je vais... Je vais... te tueeeeeer !",
+  "1.0.122.0" => "Nous n'avions pas le droit à l'échec...
+Pardonnez-moi...",
+  "1.0.123.0" => "Être vaincus lors d'une bataille si cruciale...
+Je ne pourrai plus regarder quiconque en face...",
+  "1.0.124.0" => "Sans notre base... Nous ne pouvons plus
+combattre.",
+  "1.0.125.0" => "Notre base est tombée ? C'en est fini de nous...",
+  "1.0.126.0" => "Lana...
+C'est toi qui m'as arrêtée... ?",
+  "1.0.127.0" => "Cya... !",
+  "1.0.128.0" => "Link, tiens bon !
+Tu ne peux pas t'avouer vaincu maintenant !",
+  "1.0.129.0" => "Kh... Son Altesse Zelda a besoin de moi,
+je ne peux pas encore m'avouer vaincue !",
+  "1.0.130.0" => "La situation est critique... Mais c'est justement dans
+un moment pareil que je dois montrer ce que je sais faire !",
+  "1.0.131.0" => "Ouah, je suis dans le pétrin...
+Mais c'est pas le moment de pleurnicher.",
+  "1.0.132.0" => "Quoi qu'il puisse m'arriver,
+je remplirai ma mission...",
+  "1.0.133.0" => "Il faut arrêter Cya...
+Pour ça, je dois me battre !",
+  "1.0.134.0" => "Je ne fuirai pas ! Je n'abandonnerai pas !
+Je ne perdrai pas face à ces monstres !",
+  "1.0.135.0" => "Volga a été vaincu... ?
+Aaaaargh ! Quel bon à rien !!!",
+  "1.0.136.0" => "Tenez, je vais partager ma magie avec vous
+alors allez vite les empêchez d'avancer !",
+  "1.0.137.0" => "À la fontaine de la Déesse, c'est ça ?
+Moi aussi, je vais vous aider !",
+  "1.0.138.0" => "Bien ! Nous avons vaincu
+un des doubles de Cya !",
+  "1.0.139.0" => "Hmpf... Un de mes double a disparu...
+Et alors ? Ça ne change rien !",
+  "1.0.140.0" => "Je confirme l'élimination du
+deuxième double de Cya.",
+  "1.0.141.0" => "Gniiiiii ! Vous avez vraiment
+le don de m'agacer !",
+  "1.0.142.0" => "Vous ne manquer pas de culot ! Vous allez
+me le payer ! Je vais vous massacrer !",
+  "1.0.143.0" => "Cya... Je vais mettre fin
+à tout ça de mes mains !",
+  "13.0.0.0" => "Ils ont pris les sanctuaires, la puissance sacrée est
+scellée et les monstres sont plus forts.",
+  "13.0.1.0" => "Il faut restaurer la puissance sacrée... En route vers
+les sanctuaires de la Déesse !",
+  "13.0.2.0" => "Impa, nous devons remporter cette bataille pour
+ramener la paix en Hyrule !",
+  "13.0.3.0" => "Vous voyez cette énergie magique monter vers le
+ciel ? Ce sont les sanctuaires de la Déesse.",
+  "13.0.4.0" => "Il y a des sanctuaires à l'est et à l'ouest. Allez
+prendre celui dont vous êtes le plus proche !",
+  "13.0.5.0" => "Je vais retenir les armées ennemies.
+Occupez-vous des sanctuaires.",
+  "13.0.6.0" => "On dirait que la puissance des ténèbres s'est
+affaiblie. On va pouvoir combattre plus facilement !",
+  "13.0.7.0" => "On a réussi à prendre le sanctuaire ouest !
+Il faut vite prendre le sanctuaire est aussi !",
+  "13.0.8.0" => "Nous avons pris les sanctuaires est et ouest mais
+la puissance des ténèbres n'a pas disparu... Ce n'est pas normal.",
+  "13.0.9.0" => "On dirait que la puissance des ténèbres s'est
+affaiblie. On va pouvoir combattre plus facilement !",
+  "13.0.10.0" => "Le sanctuaire de l'ouest a été pris ?
+Reprenez-le !",
+  "13.0.11.0" => "Le sanctuaire de l'ouest a été pris ?
+Il faut le reprendre à ces impudents ennemis !",
+  "13.0.12.0" => "Le sanctuaire du sud a été pris ?
+Ne vous en faites pas ! Il suffit de le reprendre !",
+  "13.0.13.0" => "C'est terrible !
+Les ennemis en ont après la princesse Ruto !",
+  "13.0.14.0" => "Une puissante troupe se dirige vers la princesse
+Ruto... Il faut la protéger !",
+  "13.0.15.0" => "Pour obtenir un immense pouvoir... elle a laissé les
+ténèbres s'insinuer jusque dans son cœur.",
+  "13.0.16.0" => "Ruto... Le moment est venu de faire appel à moi.
+Viens me rejoindre.",
+  "13.0.17.0" => "J'ai entendu la voix d'une grande fée...
+Je me mets en route vers la fontaine de la Déesse !",
+  "13.0.18.0" => "Tu ne devrais pas y aller seule.
+Je vais te tenir compagnie.",
+  "13.0.19.0" => "Tu ne devrais pas y aller seule.
+Je vais te tenir compagnie.",
+  "13.0.20.0" => "Suivons les instructions de la grande fée...
+Établissons notre base ici à partir de maintenant !",
+  "13.0.21.0" => "Et... attirons autant d'ennemis
+que possible devant la fontaine !",
+  "13.0.22.0" => "En utilisant la magie du cercle de cette fontaine,
+nous pourrons vaincre tous les ennemis d'un coup !",
+  "13.0.23.0" => "Je vais attirer les ennemis de l'est !",
+  "13.0.24.0" => "Attirez les ennemis de l'ouest !",
+  "13.0.25.0" => "Je suis attaquée par l'armée ennemie !
+Je ne peux pas bouger d'ici...",
+  "13.0.26.0" => "Te voilà ! Tu m'as sauvée !",
+  "13.0.27.0" => "Je vais retenir les renforts ennemis. Il ne faut surtout
+pas qu'ils s'approchent du cercle magique de la fontaine !",
+  "13.0.28.0" => "Laissez-nous retenir les renforts ennemis.",
+  "13.0.29.0" => "Je ne pensais pas que l'armée ennemie arriverait
+jusqu'ici... Je vais devoir être le dernier rempart.",
+  "13.0.30.0" => "Il vaut mieux éviter de s'approcher de ce chevalier
+dragon.",
+  "13.0.31.0" => "Il est immortel... ?
+Comment faire pour l'arrêter... ?",
+  "13.0.32.0" => "Maintenant ! Activez le cercle magique !",
+  "13.0.33.0" => "Ça te rend heureux de gagner grâce à la puissance
+des ténèbres ? Tu es pathétique...",
+  "13.0.34.0" => "Ouvre les yeux ! Tu es un guerrier plein d'honneur,
+oui ou non ?",
+  "13.0.35.0" => "Il ne reste plus que Cya.
+C'est à toi de l'affronter !",
+  "13.0.36.0" => "Ça ira. Je sais que tu peux y arriver !",
+  "13.0.37.0" => "Laisse-moi m'occuper du menu fretin.
+Combats de toutes tes forces !",
+  "13.0.38.0" => "Reviens en vie... Promis ?",
+  "13.0.39.0" => "Je crois en nous, nous pouvons la vaincre !",
+  "13.0.40.0" => "Être vaincue lors d'une bataille si cruciale...
+Je ne pourrai plus vous regarder en face...",
+  "13.0.41.0" => "Notre base est tombée ? C'en est fini de nous...",
+  "13.0.42.0" => "Nous voilà dans la vallée de la sorcière... Mais nos
+forces ont été divisées à l'est et à l'ouest...",
+  "13.0.43.0" => "Il y a aussi un sanctuaire là-bas !",
+  "13.0.44.0" => "Oh, tu as trouvé le sanctuaire ?!
+Fantastique !",
+  "13.0.45.0" => "Tu ne devrais pas y aller seule.
+Je vais te tenir compagnie.",
+  "13.0.46.0" => "Je ne fuirai pas ! Je n'abandonnerai pas !
+Je ne perdrai pas face à ces monstres !",
+  "13.0.47.0" => "Je ne fuirai pas ! Je n'abandonnerai pas !
+Je ne perdrai pas face à ces monstres !",
+  "13.0.48.0" => "Je ne fuirai pas ! Je n'abandonnerai pas !
+Je ne perdrai pas face à ces monstres !",
+  "13.0.49.0" => "Je ne fuirai pas ! Je n'abandonnerai pas !
+Je ne perdrai pas face à ces monstres !",
+  "13.0.50.0" => "Je ne fuirai pas ! Je n'abandonnerai pas !
+Je ne perdrai pas face à ces monstres !",
+}

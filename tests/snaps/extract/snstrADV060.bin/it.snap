@@ -1,0 +1,47 @@
+Map {
+  "0.0.0" => "A0%1sF0R si muove in fretta! Attacca!",
+  "0.1.0" => "Hai sconfitto A61000 nemiciR!",
+  "0.2.0" => "Tempo scaduto! Hai perso!",
+  "0.3.0" => "A0%1sF0R incoraggia l'A2armata nemicaR, rendendola più forte!",
+  "0.4.0" => "Sono apparse A6unità di rifornimento giareR!",
+  "0.5.0" => "Sono apparsi dei A2messaggeri nemiciR!",
+  "0.6.0" => "Sconfiggi il nemico prima che chiami dei A2rinforziR!",
+  "0.7.0" => "Sono apparsi dei A2rinforzi nemiciR!",
+  "0.8.0" => "Hai fermato il piano A2nemicoR!",
+  "0.9.0" => "I A2messaggeri nemiciR lasciano le prime linee per chiamare rinforzi!",
+  "0.10.0" => "Hai sconfitto A6300 nemiciR!",
+  "0.11.0" => "Hai sconfitto A6400 nemiciR!",
+  "0.12.0" => "Hai sconfitto A6500 nemiciR!",
+  "0.13.0" => "Hai sconfitto A6600 nemiciR!",
+  "0.14.0" => "Hai sconfitto A6700 nemiciR!",
+  "0.15.0" => "Hai sconfitto A6800 nemiciR!",
+  "0.16.0" => "A0%1sF4R scende in campo!",
+  "0.17.0" => "A0%1sF4R e A0%2sF6R scendono in campo!",
+  "0.18.0" => "A0%1sF4R, A0%2sF6R e A0%3sF6R scendono in campo!",
+  "0.19.0" => "Sono apparsi dei rinforzi A2nemiciR!",
+  "0.20.0" => "L'A0%1sF1R ha perso la battaglia!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Sconfiggi A6300 nemiciR
+nel tempo limite!",
+  "3.1.0" => "Sconfiggi A6400 nemiciR
+nel tempo limite!",
+  "3.2.0" => "Sconfiggi A6500 nemiciR
+nel tempo limite!",
+  "3.3.0" => "Sconfiggi A6600 nemiciR
+nel tempo limite!",
+  "3.4.0" => "Sconfiggi A6700 nemiciR
+nel tempo limite!",
+  "3.5.0" => "Sconfiggi A6800 nemiciR
+nel tempo limite!",
+  "3.6.0" => "Sconfiggi A61000 nemiciR
+nel tempo limite!",
+}

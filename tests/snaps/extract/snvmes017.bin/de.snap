@@ -1,0 +1,285 @@
+Map {
+  "1.0.0.0" => "Wir werden Ganondorf aus Schloss Hyrule
+verjagen! Das Licht wird zurückkehren!",
+  "1.0.1.0" => "Ich brauche noch etwas Zeit.
+Beschäftigt sie, Argoroks!",
+  "1.0.2.0" => "Zwei Argoroks auf einmal sind kaum zu
+schlagen. Sie dürfen ihre Kräfte nicht vereinen!",
+  "1.0.3.0" => "Den Argorok im Norden nehme ich mir vor!",
+  "1.0.4.0" => "Unsere Verbündeten sind unterwegs hierher!
+Haltet diese Position!",
+  "1.0.5.0" => "Ich erledige den Argorok im Süden.",
+  "1.0.6.0" => "Nur noch etwas Geduld! Die Krabbelmine
+ist auf dem Weg zum Nordplatz!",
+  "1.0.7.0" => "Da ist eine Schwachstelle in der Mauer.
+Wir sprengen sie mit einer Krabbelmine!",
+  "1.0.8.0" => "Ausgezeichnet! Und jetzt noch
+den anderen Argorok!",
+  "1.0.9.0" => "Beide Argoroks sind besiegt! Jetzt
+können wir kurz durchatmen.",
+  "1.0.10.0" => "Argoroks! Lehrt diese hylianischen
+Würmer das Fürchten!",
+  "1.0.11.0" => "Wir konnten sie nicht aufhalten.
+Wenn wir sie nicht schnell besiegen...",
+  "1.0.12.0" => "Rückt vor und beschützt
+dabei die Krabbelmine!",
+  "1.0.13.0" => "Die Krabbelmine! Wir müssen diesen
+Argorok so schnell wie möglich erledigen!",
+  "1.0.14.0" => "Der Feind kennt kein Erbarmen...
+Wir müssen handeln, oder es ist aus mit uns!",
+  "1.0.15.0" => "Beschützt die Krabbelmine! Ohne sie
+kommen wir nicht durch die Mauer!",
+  "1.0.16.0" => "Die Krabbelmine hat den Weg freigemacht!
+Vorwärts!",
+  "1.0.17.0" => "Das hat nicht geklappt...
+Uns muss etwas anderes einfallen.",
+  "1.0.18.0" => "Ich habe ihren Plan zunichtegemacht! Jetzt
+gebe ich ihnen den Rest! Alles zum Angriff!",
+  "1.0.19.0" => "Ich werde ihre Kampfmoral
+persönlich brechen!",
+  "1.0.20.0" => "Ganondorf selbst ist hier! Lasst euch
+davon nicht aus der Ruhe bringen!",
+  "1.0.21.0" => "V-v-vorsicht vor den Blitzen!",
+  "1.0.22.0" => "Er setzt Blitze ein! Ganondorf
+ist mächtiger als je zuvor...",
+  "1.0.23.0" => "Die dunkle Macht wird stärker...
+Ganondorf ist im Augenblick sehr gefährlich.",
+  "1.0.24.0" => "Die Ostseite des Schlosses ist verwundbar!
+Dort können wir hinein, um es zu erobern!",
+  "1.0.25.0" => "Wenn wir das Schloss erobern, werden wir
+die Schlacht zu unseren Gunsten entscheiden!",
+  "1.0.26.0" => "Erobere die Festung!",
+  "1.0.27.0" => "Wir haben Schloss Hyrule zurück!
+Du bist besiegt, Ganondorf!",
+  "1.0.28.0" => "Das Hauptquartier ist verloren... und die
+Moral meiner Schergen schwindet zusehends!",
+  "1.0.29.0" => "Sie haben in meiner Abwesenheit das
+Schloss erobert... Meine Macht schwindet...",
+  "1.0.30.0" => "Jetzt oder nie! Besiegt Ganondorf!",
+  "1.0.31.0" => "Jetzt müssen wir aufs Ganze gehen! Erobere
+so schnell wie möglich das Schloss!",
+  "1.0.32.0" => "Ich bin fast beeindruckt von solcher Stärke...
+Doch meine wahre Macht ist längst erwacht!",
+  "1.0.33.0" => "In Schloss Hyrule regt sich noch Widerstand...
+Aber wir haben Ganondorf besiegt!",
+  "1.0.34.0" => "Ihr mögt mich besiegt haben... Doch
+meine wahre Macht ist bereits erwacht!",
+  "1.0.35.0" => "Ganondorf ist besiegt! Jetzt holen
+wir uns das Schloss zurück!",
+  "1.0.36.0" => "Das Hauptquartier ist verloren... und die
+Moral meiner Schergen schwindet zusehends!",
+  "1.0.37.0" => "Ganondorf ist geschlagen und wir haben das
+Schloss befreit! Wir haben gesiegt!",
+  "1.0.38.0" => "Ahahaha... Endlich... Die wahre Macht!",
+  "1.0.39.0" => "Ich bin der Dämon Ganon! Komm zu mir,
+hylianischer Abschaum...",
+  "1.0.40.0" => "Fürchtet euch nicht! Wenn wir ihn
+besiegen, ist der Albtraum vorbei!",
+  "1.0.41.0" => "Besiege Ganon, um die Blitze zu stoppen!
+Schnell, bevor das Schloss zerstört ist!",
+  "1.0.42.0" => "Das Schloss wird von den Blitzen getroffen!
+Wir müssen Ganon schnell besiegen!",
+  "1.0.43.0" => "Die Schäden sind gewaltig! Das Schloss
+wird bald einstürzen...",
+  "1.0.44.0" => "Das Schloss ist in Gefahr!
+Ganon muss besiegt werden!",
+  "1.0.45.0" => "Achte auf Ganons Bewegungen! Seine
+Angriffsmuster wirken vertraut...",
+  "1.0.46.0" => "Du hast doch sicher eine Waffe,
+mit der du Ganon verletzen kannst?",
+  "1.0.47.0" => "Ich gebe dir Lichtpfeile! Damit
+kannst du Ganon den Rest geben!",
+  "1.0.48.0" => "Der Lichtpfeil ist nicht sehr stark... Vielleicht,
+weil nicht mehr viele Verbündete übrig sind...",
+  "1.0.49.0" => "Wenn doch nur mehr unserer Freunde noch am
+Leben wären... Dann wären die Pfeile stärker.",
+  "1.0.50.0" => "Die Lichtpfeile sind jetzt stark genug!
+Halten wir Ganon auf!",
+  "1.0.51.0" => "Ich gebe den Pfeilen all meine Kraft!",
+  "1.0.52.0" => "Ich werde alle Kraft, die ich noch
+habe, in die Pfeile fließen lassen!",
+  "1.0.53.0" => "Ich leihe den Pfeilen meine Magie!",
+  "1.0.54.0" => "Meine Magie habt ihr!",
+  "1.0.55.0" => "Auch ich gebe den Pfeilen meine Energie!
+Auf dass in Hyrule wieder Frieden herrscht!",
+  "1.0.56.0" => "Urgh... Das war unerwartet...",
+  "1.0.57.0" => "Es funktioniert!",
+  "1.0.58.0" => "Kämpfe weiter!",
+  "1.0.59.0" => "Warum greifen sie weiter an?
+Warum geben sie nicht auf?",
+  "1.0.60.0" => "Er ist fast am Ende!",
+  "1.0.61.0" => "Der Sieg ist zum Greifen nah!
+Versetze ihm den Gnadenstoß!",
+  "1.0.62.0" => "Hah ha ha! Hyrule und
+die Welt gehören mir!",
+  "1.0.63.0" => "Ich kann nicht glauben, dass uns dieser Kampf
+am Ende all unsere Kraft gekostet hat...",
+  "1.0.64.0" => "Hah ha ha! Hyrule und
+die Welt gehören mir!",
+  "1.0.65.0" => "Unser Hauptquartier ist verloren...
+Und mit ihm dieser Kampf...",
+  "1.0.66.0" => "Hat hier nicht König Dodongo gewütet?",
+  "1.0.67.0" => "Ich werde den Pfeilen deine
+Stärke verleihen, Link!",
+  "1.0.68.0" => "Ihr Kampfeswille ist gebrochen!",
+  "1.0.69.0" => "Ich werde diesen Ganondorf in seine Schranken
+weisen! Geh du zurück zum Schloss!",
+  "1.0.70.0" => "Ich werde die Stellung halten, so lange ich
+kann! Erobere du Schloss Hyrule!",
+  "1.0.71.0" => "Ich werde diesen Kerl aufhalten, hol du dir
+das Schloss! Mach schon!",
+  "1.0.72.0" => "Ich werde uns etwas Zeit verschaffen!
+Nutze sie, um Schloss Hyrule zu erobern!",
+  "1.0.73.0" => "Ich habe noch nicht genug Kraft,
+um vollends zu erwachen...",
+  "1.0.74.0" => "Nur noch ein kleines bisschen...
+Dann bin ich endlich bereit...",
+  "1.0.75.0" => "Ich habe meine wahre Macht wiedererlangt!
+Jetzt kann mich nichts mehr aufhalten!",
+  "1.0.76.0" => "Es sind Feinde hinter uns...
+Prinzessin Zelda ist in Gefahr!",
+  "1.0.77.0" => "Haben sie es etwa auf die
+Prinzessin abgesehen?",
+  "1.0.78.0" => "Der Prinzessin nähern sich von Norden
+her Feinde. Wir müssen sie beschützen!",
+  "1.0.79.0" => "Was sollen wir nur tun?!
+Die Feinde sind überall!",
+  "1.0.80.0" => "Beruhige dich! Unsere oberste Priorität
+ist es, die Prinzessin zu beschützen!",
+  "1.0.81.0" => "Gut... Die größte Gefahr ist erst einmal
+vorüber.",
+  "1.0.82.0" => "Überlasst mir die übrigen Feinde!",
+  "1.0.83.0" => "Nur noch ein kleines bisschen...
+Dann wird euer Licht verlöschen!",
+  "1.0.84.0" => "Wie ist das möglich?!
+Hat er etwa immer noch Reserven?",
+  "1.0.85.0" => "Besiegen wir diese Feinde! Dann
+bekommen die Lichtpfeile ihre Kraft zurück.",
+  "1.0.86.0" => "Einer ist am Boden! Bleiben noch zwei...",
+  "1.0.87.0" => "Ja! Wir haben den zweiten erledigt!",
+  "1.0.88.0" => "Nur noch einer, dann haben die Lichtpfeile
+ihre Macht wiedererlangt!",
+  "1.0.89.0" => "Die Pfeile sind wieder mit der Kraft des Lichts
+erfüllt! Besiegen wir Ganon endgültig!",
+  "1.0.90.0" => "Um den Feind hier habe ich mich gekümmert!",
+  "1.0.91.0" => "Überlasst die Prinzessin mir!",
+  "1.0.92.0" => "Es sind nicht mehr so viele Feinde da!
+Schnell, jetzt können wir Ganondorf aufhalten!",
+  "1.0.93.0" => "Wenn wir unsere Kräfte vereinen, wird
+der Sieg sicher uns gehören!",
+  "1.0.94.0" => "Die wollen unsere Krabbelmine kaputt
+machen! Wir müssen sie beschützen!",
+  "13.0.0.0" => "Die beiden Argoroks dürfen nicht zueinander
+finden! Besiege sie, solange sie allein sind!",
+  "13.0.1.0" => "Ich halte den Argorok im Norden auf!",
+  "13.0.2.0" => "Unsere Verbündeten sind auf dem Weg zu uns.
+Bis dahin müssen wir durchhalten!",
+  "13.0.3.0" => "Ich übernehme den Argorok im Süden!",
+  "13.0.4.0" => "Wir müssen noch eine Weile durchhalten! Ich bin
+bei der Krabbelmine, die zum Nordplatz geht!",
+  "13.0.5.0" => "Es gibt eine Schwachstelle in der Schlossmauer.
+Wir könnten sie mit einer Krabbelmine sprengen!",
+  "13.0.6.0" => "Wunderbar! Fehlt uns nur noch
+der andere Argorok!",
+  "13.0.7.0" => "Die Argoroks sind erledigt! Gute Arbeit! Für den
+Augenblick sollten wir sicher sein.",
+  "13.0.8.0" => "Oh nein! Die Argoroks... Sie sind zusammen!
+Jetzt sind sie noch gefährlicher! Halten wir sie auf!",
+  "13.0.9.0" => "Beschützt die Krabbelmine!",
+  "13.0.10.0" => "Unser Feind kennt kein Erbarmen... Wir müssen
+etwas unternehmen, sonst ist alles aus!",
+  "13.0.11.0" => "Verteidigt die Krabbelmine! Sonst kommen wir nicht
+durch die Schlossmauer!",
+  "13.0.12.0" => "Hurra! Durch die Bresche, die uns die Krabbelmine
+geschlagen hat, dringen wir tief ins Schloss vor!",
+  "13.0.13.0" => "Die Krabbelmine hat uns nichts genützt...
+Was bleibt uns jetzt noch?",
+  "13.0.14.0" => "Ganondorf zeigt sein schreckliches Antlitz! Erinnert
+euch an alles, wofür es sich zu kämpfen lohnt!",
+  "13.0.15.0" => "Die dunkle Macht will alles verschlingen...
+Wie es aussieht, sind wir Ganondorf ausgeliefert!",
+  "13.0.16.0" => "Der Ostteil des Schlosses ist schlecht geschützt!
+Erobern wir das Schloss von dort aus!",
+  "13.0.17.0" => "Wenn wir das Schloss einnehmen,
+wird das die ganze Schlacht entscheiden!",
+  "13.0.18.0" => "Es wird Zeit... Zeit, dass dieser Albtraum namens
+Ganondorf endet!",
+  "13.0.19.0" => "In Schloss Hyrule gibt es noch Widerstand,
+doch wenigstens sind wir Ganondorf los!",
+  "13.0.20.0" => "Ganondorf ist besiegt! Jetzt müssen wir das
+Schloss einnehmen!",
+  "13.0.21.0" => "Fürchtet nicht diesen Dämon! Er ist nichts weiter
+als eine verängstigte Bestie! Seid ohne Furcht!",
+  "13.0.22.0" => "Benutze die Lichtpfeile! Jetzt!
+Das ist Ganons Ende!",
+  "13.0.23.0" => "Die Lichtpfeile sind stark genug!
+Mit ihnen besiegst du Ganon!",
+  "13.0.24.0" => "Ich gebe den Lichtpfeilen all meine Macht!",
+  "13.0.25.0" => "All meine Kraft soll in die Lichtpfeile übergehen!",
+  "13.0.26.0" => "Und auch ich übertrage meine Kraft auf die Pfeile!",
+  "13.0.27.0" => "Meine Kraft wirst du auch brauchen!",
+  "13.0.28.0" => "Ich verleihe den Lichtpfeilen meine Macht!
+Du musst es schaffen!",
+  "13.0.29.0" => "Ich fasse es nicht... Die letzte, die entscheidende
+Schlacht... Und ich verliere sie...",
+  "13.0.30.0" => "Unser Hauptquartier...
+Jetzt ist alles verloren...",
+  "13.0.31.0" => "Ein Ort wie dieser ist die perfekte letzte Ruhestätte
+für eine Kreatur wie König Dodongo...",
+  "13.0.32.0" => "Behalte Ganon im Auge! Hast du nicht früher
+schon gegen ähnliche Feinde gekämpft?",
+  "13.0.33.0" => "Du führst einen Gegenstand mit dir,
+der ungeheuer wirksam ist gegen Ganon!",
+  "13.0.34.0" => "Du hast nicht genug Freunde um dich versammelt.
+Die Lichtpfeile sind auf ihre Kraft angewiesen...",
+  "13.0.35.0" => "Wenn es nur mehr von uns geschafft hätten...
+Die Lichtpfeile hätten mehr Macht...",
+  "13.0.36.0" => "Wenn wir Ganon besiegen, haben die Blitze ein
+Ende! Schnell, bevor das Schloss zerstört wird!",
+  "13.0.37.0" => "Die Blitze richten großen Schaden an! Das
+Schloss wird zerstört, wenn wir nicht handeln!",
+  "13.0.38.0" => "Jetzt oder nie! Schnell, wir
+müssen die Festung erobern!",
+  "13.0.39.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.40.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.41.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.42.0" => "Ich lenke Ganondorf ab!
+Erobere du die Festung!",
+  "13.0.43.0" => "Wir haben Schloss Hyrule zurückerobert!
+Es ist vorbei, Ganondorf!",
+  "13.0.44.0" => "Ich werde Ganondorf im Schloss angreifen!
+Es wird Zeit, das Licht zurückzubringen!",
+  "13.0.45.0" => "Wir haben Ganondorf besiegt und das Schloss
+zurückerobert! Der Sieg ist unser!",
+  "13.0.46.0" => "Wir haben Schloss Hyrule zurückerobert!
+Es ist vorbei, Ganondorf!",
+  "13.0.47.0" => "Die Lichtpfeile sind wieder einsatzbereit!
+Ganons letztes Stündchen hat geschlagen!",
+  "13.0.48.0" => "Die Lichtpfeile sind wieder einsatzbereit!
+Ganons letztes Stündchen hat geschlagen!",
+  "13.0.49.0" => "Feinde von hinten!
+Wir müssen Zelda beschützen!",
+  "13.0.50.0" => "Feinde aus dem Norden haben es auf Zelda
+abgesehen! Wir müssen ihr helfen!",
+  "13.0.51.0" => "Ganz ruhig! Am allerwichtigsten ist es,
+die Prinzessin zu beschützen!",
+  "13.0.52.0" => "Gut, damit sind wir fürs Erste in Sicherheit.",
+  "13.0.53.0" => "Die übrigen Feinde übernehme ich!",
+  "13.0.54.0" => "Dieser Gegner ist ausgeschaltet!",
+  "13.0.55.0" => "Überlasst Zelda mir!",
+  "13.0.56.0" => "Was?! Es sind immer noch welche übrig?",
+  "13.0.57.0" => "Unglaublich... Sie haben immer noch Reserven.",
+  "13.0.58.0" => "Aber wenn wir sie besiegen, sollten die
+Lichtpfeile ihre Kraft zurückerlangen!",
+  "13.0.59.0" => "Aber wenn wir sie besiegen, sollten die
+Lichtpfeile ihre Kraft zurückerlangen!",
+  "13.0.60.0" => "Wenn wir alle zusammenarbeiten,
+ist der Sieg zum Greifen nah!",
+  "13.0.61.0" => "Feinde von hinten...
+Ruto ist in Gefahr!",
+  "13.0.62.0" => "Ruto wird von Feinden im Norden bedroht!
+Wir müssen sie beschützen!",
+}

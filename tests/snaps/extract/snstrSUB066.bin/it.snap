@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Preparati a incoraggiare le truppe!",
+  "0.1.0" => "L'A0%1sF1R si demoralizza perché l'A0%2sF1R è più forte!",
+  "0.2.0" => "Sconfiggi l'A0%1sF3R per incoraggiare l'A0%2sF3R!",
+  "0.3.0" => "L'intera A0%1sF5R si ferma!",
+  "0.4.0" => "A0%2sF0R galvanizza parte dell'A0%1sF5R!",
+  "0.5.0" => "Indebolisci l'A0%1sF3R per incoraggiare l'A0%2sF3R!",
+  "0.6.0" => "L'intera A0%1sF1R si esalta!",
+  "0.7.0" => "Hai incoraggiato l'A0%1sF5R!",
+  "0.8.0" => "Parte dell'A0%1sF5R avanza!",
+}

@@ -1,0 +1,214 @@
+Map {
+  "1.0.0.0" => "Quella non è la vera Cia... ma percepisco
+la sua presenza in questo posto!",
+  "1.0.1.0" => "È la sua anima imprigionata nelle
+tenebre. Eliminandola salveremo Cia!",
+  "1.0.2.0" => "Nonostante tutto quello che ha fatto,
+dobbiamo salvare Cia... fidiamoci di Lana!",
+  "1.0.3.0" => "Uhm... ricevono ancora rinforzi dal presidio!
+Dobbiamo fermarli!",
+  "1.0.4.0" => "Codardi! Se ne stanno comodi dentro al
+presidio e chiamano i rinforzi da lì!",
+  "1.0.5.0" => "Allora liberiamo Cia prima che
+arrivino troppi nemici!",
+  "1.0.6.0" => "I nemici stanno aumentando di nuovo?
+Ho un brutto presentimento...",
+  "1.0.7.0" => "Dobbiamo salvare Cia prima che arrivino
+troppi nemici!",
+  "1.0.8.0" => "Chiamiamo anche noi i rinforzi, così
+siamo pari!",
+  "1.0.9.0" => "Oh, no! Hanno preso di mira i nostri
+messaggeri!",
+  "1.0.10.0" => "Attenzione! Abbiamo ancora un
+solo messaggero!",
+  "1.0.11.0" => "Non siamo riusciti a proteggerli...",
+  "1.0.12.0" => "Bene! Almeno uno è arrivato
+sano e salvo!",
+  "1.0.13.0" => "Vado a chiamare i rinforzi!
+Tornerò presto con buone notizie!",
+  "1.0.14.0" => "Ah! Quella figura scura è scappata!",
+  "1.0.15.0" => "Lasciamo stare! Adesso la cosa più
+importante è trovare quella Cia!",
+  "1.0.18.0" => "Lana, vieni qui! Non possiamo salvare
+Cia senza di te!",
+  "1.0.19.0" => "Lana, infondi un po' della tua magia in Cia
+e riporta la sua anima dalle tenebre!",
+  "1.0.20.0" => "Bene, ci proverò! Cia... questa volta
+ti salverò a ogni costo!",
+  "1.0.21.0" => "Ma... dove sono? Lana...?
+Mi hai salvata?",
+  "1.0.22.0" => "Cia, finalmente siamo di nuovo insieme!
+Aiutatemi, Cia deve riposare!",
+  "1.0.23.0" => "Questa sarà la nostra base per un po'...
+Dovremo difenderla con tutte le forze!",
+  "1.0.24.0" => "I demoni si sono messi in marcia!
+Vorranno sicuramente prendere Cia!",
+  "1.0.25.0" => "Cia non è ancora in grado di muoversi...
+La difenderò io!",
+  "1.0.26.0" => "Anche io sono al tuo servizio!
+Dimmi solo che devo fare!",
+  "1.0.27.0" => "Percepisco una presenza... è la falsa
+Cia di prima. Vuole succhiare l'energia di Cia!",
+  "1.0.28.0" => "Se sconfiggiamo tutti i demoni, forse
+quella creatura si manifesterà di nuovo!",
+  "1.0.29.0" => "Allora dobbiamo proteggere Cia finché
+quella figura scura non si fa vedere?",
+  "1.0.30.0" => "Dobbiamo sconfiggere tutti i demoni
+più pericolosi!",
+  "1.0.31.0" => "Teniamo d'occhio anche quelli che
+fanno movimenti sospetti!",
+  "1.0.32.0" => "Cia non è ancora abbastanza forte per
+camminare... dobbiamo difenderla!",
+  "1.0.33.0" => "Cia, qualcuno sta cercando di spacciarsi
+per te... ne sai qualcosa?",
+  "1.0.34.0" => "Si tratta di Cia oscura...
+Ha rubato i miei poteri e la mia identità...",
+  "1.0.35.0" => "La tua identità?! Ci penserò io!",
+  "1.0.36.0" => "I demoni si stanno avvicinando a Cia!
+Proteggiamola con tutte le forze!",
+  "1.0.37.0" => "Grazie, Lana...",
+  "1.0.38.0" => "I nemici continuano ad aumentare!
+Dobbiamo trovare il modo di fermarli!",
+  "1.0.39.0" => "Beh, prima o poi dovranno finire i rinforzi!
+Ma conquistare i loro presidi sarà più veloce!",
+  "1.0.40.0" => "Conquistando il presidio abbiamo aperto
+le porte! Continuiamo così!",
+  "1.0.41.0" => "Fiu... finalmente pare che i rinforzi nemici
+si siano fermati.",
+  "1.0.42.0" => "Link...?! Mi aiuti persino tu?!",
+  "1.0.43.0" => "Link non ti considera più un'avversaria.
+Vuole aiutarti, come tutti gli altri.",
+  "1.0.44.0" => "Uh uh... fin troppo nobile ed eroico,
+come sempre...",
+  "1.0.45.0" => "Eh?! I rinforzi nemici hanno
+ripreso ad arrivare!",
+  "1.0.46.0" => "Non credo che i nemici siano finiti
+qui... aspettiamoci altre ondate!",
+  "1.0.47.0" => "Hanno ricominciato a chiamare i rinforzi?!
+Non se ne può più!",
+  "1.0.48.0" => "Dobbiamo fare qualcosa prima
+che arrivino altri rinforzi!",
+  "1.0.49.0" => "Bene, così dovremmo aver messo fine
+all'arrivo dei rinforzi!",
+  "1.0.50.0" => "Altri nemici?! Fate in modo che
+non si avvicinino a Cia!",
+  "1.0.51.0" => "Ha già il potere per controllare tutti quei
+demoni, ma vuole ancora catturare Cia!",
+  "1.0.52.0" => "Dobbiamo sconfiggere quell'avversario, altrimenti
+tutte le armate nemiche si potenzieranno!",
+  "1.0.53.0" => "Non posso starmene qui a girarmi
+i pollici! Forza, all'attacco!",
+  "1.0.54.0" => "Lana, se continua così...
+rischio di svanire nel nulla...",
+  "1.0.55.0" => "Svanire? Che cosa intendi?
+Come ti possiamo aiutare?!",
+  "1.0.56.0" => "Sconfiggi colei che ha assorbito la
+mia magia... Ridammi i miei poteri...",
+  "1.0.57.0" => "Oh! I nostri nemici sono ancora più
+forti di prima!",
+  "1.0.58.0" => "Urrà! Abbiamo fermato il piano nemico!",
+  "1.0.59.0" => "A-Ancora?!
+Siamo tutti già così stanchi...",
+  "1.0.60.0" => "Un ultimo sforzo, percepisco la presenza di
+Cia oscura... presto si manifesterà a noi.",
+  "1.0.61.0" => "Tenete duro ancora un po'!
+Non vi arrendete!",
+  "1.0.62.0" => "Stanno di nuovo chiamando i rinforzi!
+Non possiamo permetterlo!",
+  "1.0.63.0" => "Eliminiamoli al più presto possibile!
+Non devono aumentare più di così!",
+  "1.0.64.0" => "Evviva! Abbiamo fermato i rinforzi
+nemici!",
+  "1.0.65.0" => "Ora che abbiamo sconfitto tutti i suoi
+scagnozzi, dovrebbe apparire Cia oscura!",
+  "1.0.66.0" => "Percepisco la sua presenza che
+si avvicina. Tutti in guardia, amici!",
+  "1.0.67.0" => "Ehm... quelli sono Link oscuri!
+Che ci fanno qui?!",
+  "1.0.68.0" => "Fate attenzione! Vogliono di nuovo
+attaccare Cia!",
+  "1.0.69.0" => "Cia oscura non si fermerà fino a quando
+non eliminerà Cia e ne prenderà il posto...",
+  "1.0.70.0" => "Ma noi non glielo permetteremo!
+Cia, non ti preoccupare, vinceremo noi!",
+  "1.0.71.0" => "Deve essere stata Cia oscura
+a creare i Link oscuri...",
+  "1.0.72.0" => "Dobbiamo difendere Cia anche dai
+Link oscuri.",
+  "1.0.73.0" => "Ce l'abbiamo fatta! Continuiamo così!",
+  "1.0.74.0" => "Cia oscura... è arrivata...",
+  "1.0.75.0" => "Non aver paura, Cia. Ti prometto
+che la sconfiggerò!",
+  "1.0.76.0" => "E così ci siamo liberati di tutti
+i Link oscuri!",
+  "1.0.77.0" => "Sconfitta Cia oscura, resta solo colui che
+mi ha rubato la magia... Spettro Ganon!",
+  "1.0.78.0" => "Spettro Ganon... è quella creatura malvagia
+che viene dal mondo di Dazel, giusto?",
+  "1.0.79.0" => "Si è impossessato anche della tua Triforza,
+Lana. Si è servito di me per arrivare a te.",
+  "1.0.80.0" => "Ha sottratto la magia di Cia e la Triforza,
+minacciando così l'equilibrio del mondo.",
+  "1.0.81.0" => "Allora diamo una lezione a questo
+spettro e rimettiamo a posto il mondo!",
+  "1.0.82.0" => "Che potenza incredibile!
+Non possiamo abbassare la guardia!",
+  "1.0.83.0" => "Dobbiamo reagire, se non vogliamo
+soccombere!",
+  "1.0.84.0" => "Mi dispiace, amici... non sono stato in
+grado di assicurarvi un futuro migliore.",
+  "1.0.85.0" => "Non possiamo combattere in queste
+condizioni... non c'è speranza per Cia!",
+  "1.0.86.0" => "Non ce la faccio più... mi dispiace, Lana...",
+  "1.0.87.0" => "No, ti prego! Cia!",
+  "1.0.88.0" => "La base è sotto attacco!
+Allontanate i nemici dalla base!",
+  "1.0.89.0" => "Amici, la base sta per cadere!
+Dobbiamo difenderla!",
+  "1.0.90.0" => "Hanno conquistato la nostra base...
+Non possiamo più combattere...",
+  "1.0.91.0" => "Percepisco la presenza di Cia in questa
+sala... so che è qui!!!",
+  "1.0.92.0" => "Non ci dà un attimo di tregua... Ma
+continuerò a combattere al vostro fianco!",
+  "13.0.2.0" => "Un flusso magico collega i presidi magici.
+Da lì continuano ad apparire nemici molto forti.",
+  "13.0.3.0" => "Se conquistiamo i presidi magici, il flusso
+verrà interrotto e non potrà essere più usato.",
+  "13.0.4.0" => "Il lato ovest è a posto. Ora dobbiamo
+conquistare anche i presidi magici a est!",
+  "13.0.5.0" => "Il lato est è a posto. Ora dobbiamo
+conquistare anche i presidi magici a ovest!",
+  "13.0.6.0" => "Abbiamo spezzato due flussi magici in un colpo!
+Iniziare da quello al centro ha funzionato!",
+  "13.0.7.0" => "Sono apparsi altri Link oscuri...?
+Dobbiamo aiutare Link!",
+  "13.0.8.0" => "Se continua così, verremo circondati...
+Ritiriamoci!",
+  "13.0.9.0" => "I Link oscuri vengono rigenerati nella sala
+della maga e ostacolano la ritirata alleata!",
+  "13.0.10.0" => "Link! Sii prudente!",
+  "13.0.11.0" => "Link è a posto!
+Presto, cominciate la ritirata!",
+  "13.0.12.0" => "Uh... È dura...
+Non riusciremo a fuggire facilmente...",
+  "13.0.13.0" => "Vuol dire che... non c'è più speranza?",
+  "13.0.14.0" => "È già troppo tardi...?",
+  "13.0.15.0" => "Link! Fallo per me...",
+  "13.0.16.0" => "Link...! Se il nostro eroe viene sconfitto,
+non potremo combattere contro Cia...!",
+  "13.0.17.0" => "Era un peso troppo grande per me...",
+  "13.0.18.0" => "Se uno dei nostri compagni venisse meno,
+non avremmo alcuna speranza di vincere.",
+  "13.0.19.0" => "Era un peso troppo grande per me...",
+  "13.0.20.0" => "Era un peso troppo grande per me...",
+  "13.0.21.0" => "Era un peso troppo grande per me...",
+  "13.0.22.0" => "Era un peso troppo grande per me...",
+  "13.0.23.0" => "Metà dei Link oscuri è stata sconfitta!
+Ora occupiamoci degli altri due!",
+  "13.0.24.0" => "Forse potremmo fuggire attraverso
+il roseto a ovest...?",
+  "13.0.25.0" => "Mi... mi spiace...
+Non ce la faccio più...",
+  "13.0.26.0" => "Link... aspetta! Arrivo!",
+}

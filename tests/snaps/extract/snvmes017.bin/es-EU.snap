@@ -1,0 +1,283 @@
+Map {
+  "1.0.0.0" => "Echaremos a las tropas de Ganondorf del castillo y
+acabaremos con él. ¡Devolveremos la luz a Hyrule!",
+  "1.0.1.0" => "Necesito más tiempo... ¡Dragones, id a por ellos!",
+  "1.0.2.0" => "No tiene sentido enfrentarse a dos dragones
+a la vez. ¡Acabad con ellos por separado!",
+  "1.0.3.0" => "Nosotras nos encargaremos del dragón
+del norte. ¡Ataquemos a la vez!",
+  "1.0.4.0" => "Los aliados se dirigen hacia aquí; debemos
+resistir hasta que lleguen.",
+  "1.0.5.0" => "Nos ocuparemos del dragón del sur.
+¡Al atacar juntos, podremos con él!",
+  "1.0.6.0" => "¡Resistid un poco más! Los refuerzos se dirigen
+a la plaza norte con armas.",
+  "1.0.7.0" => "En el muro del castillo hay una grieta. Podemos
+derribarlo con un bombuchu.",
+  "1.0.8.0" => "¡Fantástico! Ahora id a por el otro dragón.",
+  "1.0.9.0" => "¡Habéis derrotado a los dos dragones!
+Hemos ganado un poco más de tiempo.",
+  "1.0.10.0" => "¡Dragones! ¡Mostrad a las tropas de Hyrule
+vuestro verdadero poder!",
+  "1.0.11.0" => "Se han aliado... Si no acabamos con ellos,
+la batalla se recrudecerá.",
+  "1.0.12.0" => "¡Avanzad y defended al bombuchu!",
+  "1.0.13.0" => "¡El dragón se dirige hacia el bombuchu!
+Tenemos que acabar con él cuanto antes.",
+  "1.0.14.0" => "El enemigo no nos da cuartel... Si no hacemos
+algo pronto, será nuestro fin.",
+  "1.0.15.0" => "¡Proteged al bombuchu! Es nuestra única
+opción de destruir el muro.",
+  "1.0.16.0" => "Ahora podemos avanzar a través del agujero
+que ha abierto el bombuchu.",
+  "1.0.17.0" => "El plan ha fracasado; tendremos que buscar
+una alternativa.",
+  "1.0.18.0" => "Hemos hecho fracasar su plan. ¡Ahora
+acabad con ellos de un solo golpe!",
+  "1.0.19.0" => "¡Acabaré con las tropas de Hyrule
+de un plumazo!",
+  "1.0.20.0" => "Ganondorf ha salido a luchar en persona.
+¡Que no cunda el pánico!",
+  "1.0.21.0" => "¡Son rayos! No los toquéis, o acabaréis
+electrocutados.",
+  "1.0.22.0" => "¿Rayos? Creo que es incluso más fuerte
+que de costumbre.",
+  "1.0.23.0" => "El poder oscuro está aumentando. Es muy
+peligroso ir tras Ganondorf ahora.",
+  "1.0.24.0" => "La parte este del castillo es vulnerable.
+Entrad por ahí y haceos con su control.",
+  "1.0.25.0" => "Si capturamos el castillo, le daremos al enemigo
+de su propia medicina.",
+  "1.0.26.0" => "¡A por el castillo!",
+  "1.0.27.0" => "Hemos logrado recuperar el Castillo de Hyrule.
+Seguro que Ganondorf no está nada contento.",
+  "1.0.28.0" => "¡Han capturado la base! Y con ello han hecho
+disminuir la moral de mis tropas.",
+  "1.0.29.0" => "Han sido capaces de arrebatarme el castillo en
+mi ausencia... Ahora mi poder decrecerá.",
+  "1.0.30.0" => "Estamos en un momento decisivo.
+¡Acabad con Ganondorf!",
+  "1.0.31.0" => "Tenemos que arriesgarlo todo. ¡A por el castillo,
+rápido!",
+  "1.0.32.0" => "Qué fuerza tan extraordinaria...
+¡Mi verdadero poder ha despertado!",
+  "1.0.33.0" => "El castillo está en manos del enemigo,
+¡pero al menos Ganondorf es historia!",
+  "1.0.34.0" => "Me habéis derrotado, pero es demasiado tarde.
+¡Mi verdadero poder ha despertado!",
+  "1.0.35.0" => "¡Hemos vencido a Ganondorf! Ahora solo nos
+queda recuperar el castillo.",
+  "1.0.36.0" => "Han tomado el control de la base...
+Y han hecho disminuir la moral de mis tropas.",
+  "1.0.37.0" => "Hemos vencido a Ganondorf y recuperado
+el castillo. ¡La victoria es nuestra!",
+  "1.0.38.0" => "No me vais a vencer con tanta facilidad ahora
+que mi verdadero poder ha despertado...",
+  "1.0.39.0" => "¡Soy Ganon! ¡Venid aquí, gusanos!",
+  "1.0.40.0" => "¡No os dejéis asustar! Tenemos que acabar con
+Ganon para que esta batalla llegue a su fin.",
+  "1.0.41.0" => "Si acabamos con Ganon, los rayos cesarán.
+¡Hacedlo antes de que destruya el castillo!",
+  "1.0.42.0" => "Los rayos están dañando el castillo.
+¡Tenemos que ir a por Ganon!",
+  "1.0.43.0" => "Los rayos están acabando con el castillo.
+No resistirá en pie mucho más...",
+  "1.0.44.0" => "El castillo peligra; ¡tenemos que vencer a Ganon!",
+  "1.0.45.0" => "Fijaos bien en Ganon. No se parece a ningún
+enemigo que hayamos visto antes.",
+  "1.0.46.0" => "Tiene que haber algún arma que consiga
+hacerle daño.",
+  "1.0.47.0" => "¡Usa estas flechas de luz para acabar con Ganon!",
+  "1.0.48.0" => "Las flechas de luz no han reunido mucho poder...
+Será que no hay bastantes aliados con vida.",
+  "1.0.49.0" => "Si hubiese más supervivientes, las flechas de luz
+habrían reunido más energía.",
+  "1.0.50.0" => "¡Las flechas de luz tienen suficiente energía!
+Acabemos con Ganon de una vez por todas.",
+  "1.0.51.0" => "¡He puesto toda mi energía en las flechas!",
+  "1.0.52.0" => "¡Pondré toda la energía que me queda
+en las flechas!",
+  "1.0.53.0" => "¡Yo también pondré mi energía en las flechas!",
+  "1.0.54.0" => "¡Tomad mi energía también!",
+  "1.0.55.0" => "Yo también pondré mi energía en las flechas
+de luz. ¡Ojalá traigan la paz a Hyrule!",
+  "1.0.56.0" => "Lo cierto es que no es un mal plan.
+No servirá de nada, pero es un buen plan.",
+  "1.0.57.0" => "¡Creo que funciona!",
+  "1.0.58.0" => "¡Luchad hasta el final!",
+  "1.0.59.0" => "¿Por qué me siguen atacando? ¿Es que no
+se van a rendir nunca?",
+  "1.0.60.0" => "¡Aguantad un poco más!",
+  "1.0.61.0" => "Ya casi puedo sentir la victoria... ¡Acabad con él!",
+  "1.0.62.0" => "¡Hyrule me pertenece!",
+  "1.0.63.0" => "Hemos usado todas nuestras fuerzas,
+pero no ha sido suficiente...",
+  "1.0.64.0" => "¡Hyrule me pertenece!",
+  "1.0.65.0" => "Hemos perdido la base... De nada sirve luchar ya.",
+  "1.0.66.0" => "Creo que por aquí escapó el rey dodongo...",
+  "1.0.67.0" => "¡Enviaré toda tu energía a las flechas!",
+  "1.0.68.0" => "¡Bien! El enemigo ya no es capaz de seguir
+luchando.",
+  "1.0.69.0" => "Yo le pararé los pies a ese canalla de
+Ganondorf. ¡Tú recupera el castillo!",
+  "1.0.70.0" => "Resistiré cuanto pueda. ¡Aprovecha para
+hacerte con el Castillo de Hyrule!",
+  "1.0.71.0" => "Mientras freno el avance de ese monstruo,
+debes dirigirte hacia el castillo. ¡Adelante!",
+  "1.0.72.0" => "¡Ve a por el Castillo de Hyrule! Yo
+retendré al enemigo para ganar tiempo.",
+  "1.0.73.0" => "Todavía no... No tengo el poder
+suficiente para despertar...",
+  "1.0.74.0" => "Ya queda poco...
+Pronto estaré preparado...",
+  "1.0.75.0" => "Al fin ha despertado mi verdadero poder.
+¡Ya no hay nadie que pueda detenerme!",
+  "1.0.76.0" => "¡El enemigo se aproxima por la retaguardia!
+¡Proteged a la princesa!",
+  "1.0.77.0" => "¿Su objetivo es la princesa?",
+  "1.0.78.0" => "El enemigo se acerca a la princesa por
+el norte. ¡Tenemos que ayudarla!",
+  "1.0.79.0" => "¿Qué podemos hacer? ¡El enemigo
+viene de todas partes!",
+  "1.0.80.0" => "¡Calma! ¡Nuestra prioridad es defender
+a la princesa!",
+  "1.0.81.0" => "Perfecto. De momento podemos
+respirar tranquilos...",
+  "1.0.82.0" => "¡Dejadme el resto de los enemigos a mí!",
+  "1.0.83.0" => "¡Aguantad! ¡Tenemos que extinguir
+esa luz!",
+  "1.0.84.0" => "¿Cómo es posible que aún les quedaran
+tantas fuerzas?",
+  "1.0.85.0" => "Si acabamos con estos enemigos,
+¡podremos restaurar las flechas de luz!",
+  "1.0.86.0" => "Hemos derrotado a uno, pero aún
+quedan dos...",
+  "1.0.87.0" => "¡Hemos derrotado al segundo!",
+  "1.0.88.0" => "¡Uno más y podremos restaurar el poder
+de las flechas de luz!",
+  "1.0.89.0" => "¡Las flechas de luz ya tienen todo su
+poder! ¡Ahora venceremos a Ganon!",
+  "1.0.90.0" => "¡Ya me he encargado de todos los
+enemigos por aquí!",
+  "1.0.91.0" => "Yo me ocuparé de defender a la princesa.",
+  "1.0.92.0" => "¡El enemigo se ha reducido en número!
+¡Es el momento de parar a Ganon!",
+  "1.0.93.0" => "¡Si nos mantenemos juntos, la victoria
+será nuestra!",
+  "1.0.94.0" => "Tenemos que proteger al bombuchu...
+¡antes de que acaben con él!",
+  "13.0.0.0" => "¡No podemos luchar con dos dragones a
+la vez! Debemos vencerlos por separado.",
+  "13.0.1.0" => "¡Detengamos al dragón del norte!
+¡Si atacamos a la vez, será fácil!",
+  "13.0.2.0" => "Los aliados se dirigen hacia aquí.
+Tenemos que aguantar solo un poco más...",
+  "13.0.3.0" => "Nos ocuparemos del dragón del sur.
+¡Si atacamos a la vez, será fácil!",
+  "13.0.4.0" => "¡Aguantad un poco más! Estoy llegando
+a la plaza norte con armas.",
+  "13.0.5.0" => "En el muro del castillo hay una grieta. Podríamos
+entrar si lo volamos con un bombuchu.",
+  "13.0.6.0" => "¡Fantástico! Ahora, a por el otro dragón.",
+  "13.0.7.0" => "Hemos acabado con los dragones, así que las
+cosas deberían calmarse durante un tiempo...",
+  "13.0.8.0" => "Hemos dejado que unan sus fuerzas... Si no los
+detenemos, cada vez serán más peligrosos.",
+  "13.0.9.0" => "¡Avanzad y proteged al bombuchu!",
+  "13.0.10.0" => "El enemigo ataca sin piedad... Si no hacemos
+algo, no saldremos de esta.",
+  "13.0.11.0" => "¡Defended al bombuchu! Si no, no podremos
+entrar en el castillo.",
+  "13.0.12.0" => "¡Estupendo! Podemos entrar en el castillo a través
+del agujero que ha abierto el bombuchu.",
+  "13.0.13.0" => "Ya no podemos utilizar el bombuchu...
+¿Qué alternativa tenemos?",
+  "13.0.14.0" => "¡Ganondorf en persona! ¡Y ha venido a luchar!
+Debemos ser fuertes y no perder el ánimo.",
+  "13.0.15.0" => "El poder oscuro está aumentando. Nunca podremos
+vencer a Ganondorf en su estado actual.",
+  "13.0.16.0" => "La parte este del castillo parece desprotegida.
+¡Ataquemos el castillo por ahí!",
+  "13.0.17.0" => "Debemos capturar el castillo para inclinar
+la balanza a nuestro favor.",
+  "13.0.18.0" => "¡Ha llegado el momento de acabar con Ganondorf!",
+  "13.0.19.0" => "El castillo está en manos enemigas, pero
+al menos hemos vencido a Ganondorf.",
+  "13.0.20.0" => "¡Ganondorf ha caído! Vayamos a por el castillo.",
+  "13.0.21.0" => "¡No tengáis miedo al rey demonio!
+¡Esta es la última batalla!",
+  "13.0.22.0" => "¡Usa las flechas de luz para rematar a Ganon!",
+  "13.0.23.0" => "Las flechas de luz están llenas de energía.
+¡Dispara a Ganon y acaba con él!",
+  "13.0.24.0" => "¡Depositaré todas mis energías en las flechas!",
+  "13.0.25.0" => "Confiaré toda mi energía a las flechas.",
+  "13.0.26.0" => "Yo también pondré toda mi energía en las flechas.",
+  "13.0.27.0" => "¡Contad también con mi energía!",
+  "13.0.28.0" => "He depositado toda mi energía en las flechas.",
+  "13.0.29.0" => "No me puedo creer que hayamos caído en
+la última batalla...",
+  "13.0.30.0" => "Ahora que la base ha caído, no tiene sentido
+seguir luchando.",
+  "13.0.31.0" => "Este parece un buen lugar para la tumba
+del rey dodongo.",
+  "13.0.32.0" => "¡Prestad mucha atención a Ganon! ¿No os habéis
+enfrentado nunca a nadie parecido?",
+  "13.0.33.0" => "¡Deberíais tener en vuestro poder un arma
+con la que se pueda derrotar a Ganon!",
+  "13.0.34.0" => "No quedan muchos supervivientes, por lo que las
+flechas de luz no han reunido suficiente energía.",
+  "13.0.35.0" => "Si quedasen más aliados con vida, podríamos
+haberles dado más energía a las flechas...",
+  "13.0.36.0" => "¡Si vencemos a Ganon, los relámpagos pararán!
+¡Acabemos con él antes de que el castillo arda!",
+  "13.0.37.0" => "¡Los relámpagos están causando muchos daños!
+¡Si no hacemos algo, el castillo no aguantará!",
+  "13.0.38.0" => "¡Ahora o nunca! ¡Conquistemos
+el castillo de inmediato!",
+  "13.0.39.0" => "Yo distraeré a Ganondorf, ¡te dejo
+a ti la conquista del castillo!",
+  "13.0.40.0" => "Yo distraeré a Ganondorf, ¡te dejo
+a ti la conquista del castillo!",
+  "13.0.41.0" => "Yo distraeré a Ganondorf, ¡te dejo
+a ti la conquista del castillo!",
+  "13.0.42.0" => "Yo distraeré a Ganondorf, ¡te dejo
+a ti la conquista del castillo!",
+  "13.0.43.0" => "¡Hemos recuperado el Castillo de Hyrule!
+¡Ganondorf ha sido derrotado!",
+  "13.0.44.0" => "Iré al Castillo de Hyrule a por Ganondorf.
+¡Traeremos la luz de vuelta a esta tierra!",
+  "13.0.45.0" => "Hemos vencido a Ganondorf y recuperado
+el castillo. ¡La victoria es nuestra!",
+  "13.0.46.0" => "¡Al fin hemos recuperado el castillo!
+Ganondorf, ¡admite tu derrota!",
+  "13.0.47.0" => "¡Las flechas de luz se han recuperado!
+¡Con ellas venceremos a Ganon!",
+  "13.0.48.0" => "¡Ya podemos usar de nuevo las flechas de
+luz! ¡Con ellas venceremos a Ganon!",
+  "13.0.49.0" => "Tenemos enemigos en la retaguardia...
+¡La princesa Zelda está en peligro!",
+  "13.0.50.0" => "¡El enemigo ataca a la princesa Zelda
+desde el norte! ¡Tenemos que ayudarla!",
+  "13.0.51.0" => "¡Calma! ¡Nuestra prioridad ahora
+es defender a la princesa!",
+  "13.0.52.0" => "Parece que, de momento,
+estamos a salvo...",
+  "13.0.53.0" => "¡Dejadme el resto a mí!",
+  "13.0.54.0" => "¡Ya me he ocupado de gran
+parte de nuestros enemigos!",
+  "13.0.55.0" => "¡Yo protegeré a la princesa Zelda!",
+  "13.0.56.0" => "No me lo puedo creer...
+¡aún les queda fuerza!",
+  "13.0.57.0" => "¿Aún tienen fuerza para seguir atacando?
+Increíble... y bastante inquietante.",
+  "13.0.58.0" => "¡Si derrotamos a esos enemigos,
+recuperaremos las flechas de luz!",
+  "13.0.59.0" => "Si derrotamos a esos enemigos,
+recuperaremos las flechas de luz.",
+  "13.0.60.0" => "¡Si aunamos nuestras fuerzas,
+la victoria será nuestra!",
+  "13.0.61.0" => "El enemigo se acerca por la retaguardia...
+¡Ruto está en peligro!",
+  "13.0.62.0" => "El enemigo se acerca a Ruto
+por el norte. ¡Debemos protegerla!",
+}

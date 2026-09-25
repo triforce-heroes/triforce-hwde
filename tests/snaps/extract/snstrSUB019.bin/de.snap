@@ -1,0 +1,16 @@
+Map {
+  "0.1.0" => "A0%1sF1R wurden auf dem Schlachtfeld gesichtet! Es sind zwei!",
+  "0.2.0" => "A0%1sF0R verstärkt eine A2feindliche FestungR!",
+  "0.3.0" => "Besiege A0%1sF7R!",
+  "0.4.0" => "A0%1sF1R rücken auf A2feindliche FestungenR vor, um sie zu verstärken!",
+  "0.5.0" => "A0%1sF0R hat die Verstärkung abgeschlossen!",
+  "0.6.0" => "A0%1sF0R hat eine feindliche Festung verstärkt!",
+  "0.7.0" => "Die Verstärkung der Festung wurde verhindert!",
+  "0.8.0" => "A0%1sF0R wurde beim Verstärken einer Festung beobachtet!",
+  "0.9.0" => "A0%1sF0R muss schnell besiegt werden!",
+  "0.10.0" => "A0%1sF0R wurde besiegt!",
+  "0.11.0" => "A0%1sF0R hat sich zurückgezogen!",
+  "0.12.0" => "Besiege den anderen A0%1sF3R!",
+  "0.13.0" => "A0%1sF0R hat eine A2feindliche FestungR erreicht!",
+  "0.14.0" => "A0%1sF0R beginnt mit der Verstärkung der Festung!",
+}

@@ -1,0 +1,50 @@
+Map {
+  "0.2.0" => "Die Zeit ist um! Du hast verloren!",
+  "0.5.0" => "Das Quiz besteht aus 3 Fragen! Besiege den richtigen A2FeindR!",
+  "0.6.0" => "Frage 1!",
+  "0.7.0" => "Frage 2!",
+  "0.8.0" => "Frage 3!",
+  "0.10.0" => "Du hast den richtigen A2FeindR besiegt!",
+  "0.11.0" => "Du hast den falschen A2FeindR besiegt!",
+  "0.12.0" => "Du hast alle Fragen richtig beantwortet!",
+  "0.14.0" => "Du hast 2 von 3 Fragen richtig beantwortet!",
+  "0.15.0" => "Du hast 1 von 3 Fragen richtig beantwortet!",
+  "0.16.0" => "Du hast alle Fragen falsch beantwortet!",
+  "0.17.0" => "Rücke Richtung A6ZielfestungR vor!",
+  "0.20.0" => "Begib dich zur nächsten A6FestungR!",
+  "0.21.0" => "Hier ist das Ergebnis!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Besiege den A2Feind, der
+keine Pfeile magR!",
+  "3.1.0" => "Besiege den A2Feind, der
+keine Bomben magR!",
+  "3.2.0" => "Besiege den A2Feind, der
+keine Bumerangs magR!",
+  "3.3.0" => "Besiege den A2Feind, der
+einen Hammer trägtR!",
+  "3.4.0" => "Besiege den A2Feind, der
+einen Stab schwingtR!",
+  "3.5.0" => "Besiege den A2Feind, der
+einen Schild trägtR!",
+  "3.6.0" => "Besiege den A2Feind, der sich
+in ein Schwert verwandeltR!",
+  "3.7.0" => "Besiege den A2Feind, der sich
+in einen Drachen verwandeltR!",
+  "3.8.0" => "Besiege den A2Feind, der
+als Kugel umherrollen kannR!",
+  "3.9.0" => "Besiege den A2Feind, der
+Wellen reitetR!",
+  "3.10.0" => "Besiege den A2Feind, der
+einen Wolf reitetR!",
+  "3.11.0" => "Besiege den A2Feind, der
+eine Lokomotive fährtR!",
+}

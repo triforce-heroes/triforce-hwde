@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Les troupes de l'ombre » !",
+  "0.1.0" => "A0%1sF6R et A0%2sF2R rejoignent le champ de bataille !",
+  "0.2.0" => "A0%1sF4R avance vers A0%2sF0R !",
+  "0.3.0" => "A0%1sF4R est K.-O. !",
+  "0.4.0" => "A0%1sF4R revient sur le champ de bataille !",
+  "0.5.0" => "A0%1sF4R semble faire revenir A0%2sF0R sur le champ de bataille !",
+  "0.6.0" => "Éliminez A0%1sF0R !",
+  "0.7.0" => "A0%1sF4R est K.-O. ! A0%2sF4R a disparu !",
+  "0.8.0" => "Vous avez éliminé A0%1sF0R !",
+}

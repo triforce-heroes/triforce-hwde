@@ -1,0 +1,9 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "L'evocatore"!",
+  "0.1.0" => "Un A2evocatoreR appare sul campo di battaglia!",
+  "0.2.0" => "L'A2evocatoreR evoca A0%2sF2R vicino a A0%1sF6R!",
+  "0.3.0" => "Presto, sconfiggi l'A2evocatoreR e impedisci l'evocazione!",
+  "0.4.0" => "L'A2evocatoreR abbandona il campo di battaglia!",
+  "0.5.0" => "Hai sconfitto l'A2evocatoreR!",
+  "0.6.0" => "L'A2evocatoreR evoca ancora A0%1sF6R!",
+}

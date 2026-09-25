@@ -1,0 +1,16 @@
+Map {
+  "0.1.0" => "A0%1sF5R appaiono sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R potenzia un A2presidio nemicoR!",
+  "0.3.0" => "Sconfiggi A0%1sF3R!",
+  "0.4.0" => "A0%1sF1R vanno verso un A2presidio nemicoR per potenziarlo!",
+  "0.5.0" => "A0%1sF0R ha finito di potenziare il presidio!",
+  "0.6.0" => "Un presidio nemico è stato potenziato da A0%1sF6R!",
+  "0.7.0" => "Hai impedito il potenziamento del presidio!",
+  "0.8.0" => "Hai scoperto A0%1sF6R che voleva potenziare un presidio!",
+  "0.9.0" => "Presto, sconfiggi A0%1sF2R!",
+  "0.10.0" => "Hai sconfitto A0%1sF2R!",
+  "0.11.0" => "A0%1sF0R si ritira dal campo di battaglia!",
+  "0.12.0" => "Sconfiggi ancora A0%1sF6R!",
+  "0.13.0" => "A0%1sF0R ha raggiunto un A2presidio nemicoR!",
+  "0.14.0" => "A0%1sF0R ha cominciato a potenziare il presidio!",
+}

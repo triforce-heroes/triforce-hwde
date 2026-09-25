@@ -1,0 +1,270 @@
+Map {
+  "1.0.0.0" => "Le caverne brulicano di mostri... dobbiamo
+farci strada per raggiungere la principessa!",
+  "1.0.1.0" => "Quella sembra essere l'uscita! Dobbiamo
+fare il giro lungo e raggiungerla da nord.",
+  "1.0.2.0" => "I soldati di Hyrule procedono verso
+l'uscita. Link, raggiungiamoli!",
+  "1.0.3.0" => "La strada è chiusa da una roccia e ci
+sono mostri ovunque. Facciamo qualcosa!",
+  "1.0.4.0" => "Cosa...?!
+Io e Link stiamo arrivando! Resistete!",
+  "1.0.5.0" => "Comandante Impa, ci avete salvato!",
+  "1.0.6.0" => "Ben fatto... tra poco dovrebbe arrivare
+anche Link.",
+  "1.0.7.0" => "Dalle caverne continuano a uscire mostri
+anche se li affettiamo uno dopo l'altro!",
+  "1.0.8.0" => "Bisogna sistemare il presidio che genera
+questi mostri! Link, ci pensi tu?",
+  "1.0.9.0" => "Link! Hai trovato il presidio dei mostri?!",
+  "1.0.10.0" => "Bene! Ma sembra ci siano ancora
+demoni provenienti da altri presidi!",
+  "1.0.11.0" => "I mostri stanno diminuendo!
+Finalmente possiamo combattere meglio!",
+  "1.0.12.0" => "L'assalto nemico è impetuoso!
+Non ce la possiamo fare da soli!",
+  "1.0.13.0" => "Accidenti... Link, presto! Aiuto!",
+  "1.0.14.0" => "Sono arrivati i rinforzi!
+Adesso diamoci da fare!",
+  "1.0.15.0" => "Chiedo perdono, ma dobbiamo ritirarci!",
+  "1.0.16.0" => "Non ho fatto in tempo... Perdonatemi...",
+  "1.0.17.0" => "Con questa roccia che blocca la strada,
+non possiamo andare avanti.",
+  "1.0.18.0" => "Uhm... non c'è un modo per distruggere
+questa roccia?",
+  "1.0.19.0" => "Vi aiutiamo noi! Non c'è niente di meglio
+di una radiomina per eliminare una roccia!",
+  "1.0.21.0" => "Oooh! Grazie!
+Allora fate al più presto!",
+  "1.0.22.0" => "A quanto pare siete riusciti a entrare...
+Ma questa caverna sarà la vostra tomba!",
+  "1.0.23.0" => "Distruggete quei fastidiosi ratti!
+Gettateli in un inferno di disperazione!",
+  "1.0.24.0" => "La radiomina è sotto attacco, mannaggia
+ai sassi!",
+  "1.0.25.0" => "Link! Difendi la radiomina!",
+  "1.0.26.0" => "Qui è ancora pieno di mostri! La radiomina
+non riuscirà a distruggere la roccia...",
+  "1.0.27.0" => "Cerchiamo di ripulire l'area, in modo che
+la radiomina possa distruggere la roccia!",
+  "1.0.28.0" => "Forse prima avremmo dovuto distruggere i
+presidi infestati dai demoni...",
+  "1.0.29.0" => "Se non apriamo la porta nord del presidio,
+la radiomina non può procedere! Arciroccia!",
+  "1.0.30.0" => "Link, non posso raggiungere quel presidio!
+Pensaci tu!",
+  "1.0.31.0" => "Evviva i sassi! Adesso la radiomina potrà
+raggiungere quella roccia!",
+  "1.0.32.0" => "Link, ce l'abbiamo fatta!
+Ora possiamo andare avanti!",
+  "1.0.33.0" => "Forza, raggiungiamo in fretta l'uscita!",
+  "1.0.34.0" => "Presto, Link!
+Vai avanti!",
+  "1.0.35.0" => "Oh, no! La radiomina è stata distrutta!",
+  "1.0.36.0" => "Abbiamo altre radiomine!
+La prossima riuscirà ad andare avanti!",
+  "1.0.37.0" => "Questa è l'ultima radiomina del presidio...
+Difendiamola a tutti i costi, arciroccia!",
+  "1.0.38.0" => "Senza radiomine non possiamo farci strada!
+Il mondo... sarà inghiottito dalle tenebre!",
+  "1.0.39.0" => "Avanti! Schiacciate quegli insetti!",
+  "1.0.40.0" => "L'assalto nemico è impetuoso... Forza,
+dobbiamo andare avanti a tutti i costi!",
+  "1.0.41.0" => "Pare che la porta sud di questo presidio
+porti all'uscita. Conquistiamolo subito!",
+  "1.0.42.0" => "È spuntato uno scrigno! Una ricompensa
+per aver conquistato il presidio? Apriamolo!",
+  "1.0.43.0" => "Wow, ci sarà sicuramente qualcosa di
+interessante lì dentro!",
+  "1.0.44.0" => "Troppo presto per festeggiare...
+La porta sud non si apre...",
+  "1.0.45.0" => "Non possono scappare da nessuna parte!
+Schiacciamoli tutti come insetti!!!",
+  "1.0.46.0" => "I nemici escono dalle caverne... allora...
+il signore delle caverne forse è lì in fondo!",
+  "1.0.47.0" => "Se sconfiggiamo il signore delle caverne,
+potremo andare avanti. Andiamo a cercarlo!",
+  "1.0.48.0" => "Io resterò di guardia.
+Pensaci tu alla ricerca nella caverna!",
+  "1.0.49.0" => "Io penserò ai nemici che ci attaccano dalle
+retrovie. Resisterò il più possibile!",
+  "1.0.50.0" => "Link! Quella creatura deve essere il signore
+delle caverne!",
+  "1.0.51.0" => "Dobbiamo sconfiggerlo!
+Possiamo farcela!",
+  "1.0.52.0" => "Link! Cerca in fondo alla caverna!",
+  "1.0.53.0" => "Ben fatto! Adesso possiamo andarcene da
+queste caverne!",
+  "1.0.54.0" => "Perdono... io mi devo fermare qui.
+Spero che voi riusciate a mettervi in salvo.",
+  "1.0.55.0" => "I nemici stanno cercando di bloccarci. Se
+non facciamo qualcosa saremo circondati!",
+  "1.0.56.0" => "La strada è ancora bloccata dalle rocce...",
+  "1.0.57.0" => "Nessuno fa saltare in aria le rocce
+come noi!",
+  "1.0.58.0" => "Ho bisogno di nuovo del tuo aiuto...
+In questo presidio c'è una radiomina.",
+  "1.0.59.0" => "I nemici nel presidio bloccano la radiomina.
+Dobbiamo conquistarlo di nuovo!",
+  "1.0.60.0" => "Due rocce... la potenza di fuoco di
+una sola radiomina non basterà...",
+  "1.0.61.0" => "Gli alleati hanno lasciato una radiomina
+in queste caverne. Se la trovassimo...",
+  "1.0.62.0" => "Io penso a difendere i Goron!
+Tu cerca la radiomina!",
+  "1.0.63.0" => "Proprio quella! L'hai trovata, arciroccia!
+Adesso potremo distruggere le rocce!",
+  "1.0.64.0" => "Link! Elimina i nemici di questo presidio!
+Dobbiamo pulire la strada per la radiomina!",
+  "1.0.65.0" => "Per tutte le rocce, non penso che
+si tratti di quel presidio!",
+  "1.0.66.0" => "Ben fatto! Adesso la radiomina potrà
+andare avanti!",
+  "1.0.67.0" => "I preparativi sono completati!
+Facciamola partire subito!",
+  "1.0.68.0" => "Ricevuto! Confermo lancio di due
+radiomine! Si dirigono verso la roccia!",
+  "1.0.69.0" => "Non fai altro che mettermi i bastoni tra le
+ruote... ma ti schiaccerò!",
+  "1.0.70.0" => "Aaah! Difendete la radiomina dai mostri!",
+  "1.0.71.0" => "Siamo pronti per la fuga...
+Sheik, vieni qui!",
+  "1.0.72.0" => "Va bene...",
+  "1.0.73.0" => "Il primo attacco è andato a buon fine!",
+  "1.0.74.0" => "Tra poco la strada dovrebbe essere aperta.
+Difendete anche l'altra, mi raccomando.",
+  "1.0.75.0" => "Perfetto! Abbiamo aperto la strada!
+Link, amici Goron... grazie!",
+  "1.0.76.0" => "Presto, Link, l'uscita è da quella parte!",
+  "1.0.77.0" => "Comandante Impa, tutto a posto?
+Vi aspettiamo all'uscita!",
+  "1.0.78.0" => "Alla foresta di Firone! Vediamo se c'è
+davvero una fanciulla che combatte!",
+  "1.0.79.0" => "Spero che si tratti della principessa Zelda...",
+  "1.0.80.0" => "Link... Impa... Ottimo lavoro! Voi sì che
+potete salvare il destino di Hyrule!",
+  "1.0.81.0" => "Che vergogna... perdere in questo modo...",
+  "1.0.83.0" => "Non abbiamo più radiomine...",
+  "1.0.84.0" => "Non c'è modo di andare avanti, se non
+distruggendo quella roccia. Riproviamo!",
+  "1.0.85.0" => "Non abbiamo radiomine di riserva!
+Se perdiamo queste, siamo in frantumi!",
+  "1.0.86.0" => "Ci sono ancora delle aree che generano
+mostri. Dobbiamo prima conquistarle tutte!",
+  "1.0.87.0" => "Scusate il ritardo!
+Ci siamo anche noi a combattere!",
+  "1.0.88.0" => "Prima avremmo dovuto conquistare le aree
+che generano i mostri!",
+  "1.0.89.0" => "È di nuovo il nostro turno!",
+  "1.0.90.0" => "Più avanti ci sono soldati di Hyrule, ma
+le porte chiuse ci dividono!",
+  "1.0.91.0" => "Dobbiamo trovare il modo di proseguire...",
+  "1.0.92.0" => "Ehi, c'è una crepa nel muro! Forse
+possiamo buttarlo giù in qualche modo...",
+  "1.0.93.0" => "Se conquistiamo il presidio, quei
+demoni smetteranno di apparire!",
+  "1.0.94.0" => "Ih ih ih! Ci basta un evocatore per
+evocare tutti i demoni che vogliamo!",
+  "1.0.95.0" => "Accerchiate quei poveri illusi e
+metteteli alle strette!",
+  "1.0.96.0" => "Io mi occuperò dei nemici a est! Non
+fateli avvicinare alla piazza nella caverna!",
+  "1.0.97.0" => "Uh?! Il nemico ci ha inseguiti fin qui!",
+  "1.0.98.0" => "Non posso difenderne due da sola!
+Link, dammi una mano!",
+  "1.0.99.0" => "Altri nemici...?
+A questi ci penso io!",
+  "1.0.100.0" => "Perché vanno verso quel presidio?
+Per scoprirlo dovremo conquistarlo!",
+  "13.0.0.0" => "Impa... Link farà del suo meglio!
+Di sicuro andrà tutto bene!",
+  "13.0.1.0" => "L'uscita è da quella parte.
+Ciò significa che dovremo passare da nord.",
+  "13.0.2.0" => "I soldati di Hyrule ci hanno preceduto.
+Impa, dobbiamo seguirli!",
+  "13.0.3.0" => "I soldati di Hyrule sono in difficoltà!
+Link, Impa... sbrighiamoci!",
+  "13.0.4.0" => "Grazie! Ci hai salvato!",
+  "13.0.5.0" => "Scusate per l'attesa! Impa era dietro
+di noi, quindi ora potete stare tranquilli!",
+  "13.0.6.0" => "Da queste parti ci deve essere un presidio
+da cui escono i demoni... conquistiamolo!",
+  "13.0.7.0" => "Impa, quello dev'essere il covo dei demoni!",
+  "13.0.8.0" => "Ottimo lavoro! Ma continuano ad arrivare,
+forse da un altro presidio.",
+  "13.0.9.0" => "Impa, per favore!
+Ci serve aiuto, presto!",
+  "13.0.10.0" => "Capitani... Mi dispiace...",
+  "13.0.11.0" => "Grazie! Lasciamo che la radiomina faccia
+il suo dovere!",
+  "13.0.12.0" => "Impa! Dobbiamo proteggere la radiomina!",
+  "13.0.13.0" => "Link! Attenzione alla radiomina! Sconfiggi
+i nemici sulla strada per il macigno!",
+  "13.0.14.0" => "Oh, no! Link non riesce ad arrivare a quel
+presidio. Impa, tocca a te adesso!",
+  "13.0.15.0" => "Non siete riusciti a fermare l'ondata
+di demoni?",
+  "13.0.16.0" => "Dovevamo attaccare prima il presidio da cui
+escono i demoni... ce ne sono troppi!",
+  "13.0.17.0" => "Ottimo! Ora la radiomina può
+raggiungere il macigno!",
+  "13.0.18.0" => "Ottimo lavoro, Impa!
+Ora possiamo procedere!",
+  "13.0.19.0" => "Cosa facciamo?
+Hanno distrutto la radiomina!",
+  "13.0.20.0" => "Senza la radiomina, proseguire e incontrare
+la principessa Zelda sarà impossibile!",
+  "13.0.21.0" => "Impa, presto!",
+  "13.0.22.0" => "La porta sud conduce all'uscita.
+Forse si aprirà conquistando il presidio?",
+  "13.0.23.0" => "Eh...? Abbiamo conquistato il presidio, ma
+la porta sud non si apre. Non è strano?",
+  "13.0.24.0" => "Dei nemici sono usciti dalle caverne!
+Forse il Signore delle Caverne è là dentro!",
+  "13.0.25.0" => "Impa! Lascia che Link si occupi del
+presidio! Lo proteggerà a ogni costo!",
+  "13.0.26.0" => "Questo demone ha qualcosa di sospetto!
+Impa, è il Signore delle Caverne!",
+  "13.0.27.0" => "Impa, sapevo che ce l'avresti fatta!
+Adesso possiamo uscire!",
+  "13.0.28.0" => "Quel ragazzino dietro di noi è in difficoltà.
+Se continua così, saremo circondati!",
+  "13.0.29.0" => "Oh! Dei macigni bloccano di nuovo
+la strada!",
+  "13.0.30.0" => "Una radiomina è proprio quello che
+ci serve!",
+  "13.0.31.0" => "Non possiamo azionare la radiomina con i
+nemici nel presidio. Forza, riprendiamocelo!",
+  "13.0.32.0" => "Impa, cerca la radiomina!
+Link proteggerà i Goron!",
+  "13.0.33.0" => "Impa! Sconfiggi i nemici in quel presidio!
+Così potremo azionare la radiomina!",
+  "13.0.34.0" => "Siete tutti pronti? Andiamo!",
+  "13.0.35.0" => "Sheik! Tra poco saremo fuori di qui!
+Risparmia le forze e raggiungici!",
+  "13.0.36.0" => "Fantastico! La prima ce l'ha fatta!",
+  "13.0.37.0" => "Bene, ora possiamo andare verso
+l'uscita! Impa, amici Goron: grazie!",
+  "13.0.38.0" => "Possiamo andare alla foresta di Firone e
+incontrare quella donna di cui tutti parlano!",
+  "13.0.39.0" => "Speriamo che si tratti della
+principessa Zelda!",
+  "13.0.40.0" => "Link, datti una mossa!
+Senza il nostro eroe, è la fine...",
+  "13.0.41.0" => "Non possiamo andare oltre se prima
+non distruggiamo quel macigno...",
+  "13.0.42.0" => "Laggiù ci sono dei soldati di Hyrule, ma la
+porta è chiusa, non possiamo raggiungerli.",
+  "13.0.43.0" => "Impa! C'è qualcosa di strano in
+quelle caverne!",
+  "13.0.44.0" => "Cosa possiamo fare per aprirci la strada?",
+  "13.0.45.0" => "Ehi, c'è una crepa nel muro! Forse
+possiamo usare qualcosa per buttarlo giù...",
+  "13.0.46.0" => "Link, sbrigati! L'uscita è da questa parte!",
+  "13.0.47.0" => "Impa, va tutto bene?
+Ti aspettiamo all'uscita!",
+  "13.0.48.0" => "Forse prima avremmo dovuto conquistare
+il presidio dei demoni...?",
+  "13.0.49.0" => "Quello dev'essere un covo di demoni!",
+  "13.0.50.0" => "Oh, no! Anche qui nemici in agguato!",
+}

@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "I ricognitori"!",
+  "0.1.0" => "A0%1sF0R appare sul campo per cercare A0%2sF2R!",
+  "0.3.0" => "Se A0%1sF2R trova A0%2sF2R, verranno chiamati i rinforzi!",
+  "0.4.0" => "A0%1sF0R non deve avvicinarsi troppo!",
+  "0.5.0" => "A0%1sF0R ha trovato A0%2sF2R!",
+  "0.6.0" => "A0%1sF0R comincia a chiamare i rinforzi!",
+  "0.7.0" => "Sconfiggi A0%1sF2R prima che i rinforzi vengano chiamati!",
+  "0.8.0" => "A0%2sF0R ha chiamato i rinforzi e appaiono A0%1sF7R!",
+  "0.9.0" => "A0%1sF0R abbandona il campo di battaglia!",
+  "0.10.0" => "A0%1sF0R ha smesso di cercare A0%2sF2R!",
+  "0.11.0" => "Hai sconfitto A0%1sF2R!",
+  "0.12.0" => "Hai impedito che venissero chiamati i rinforzi!",
+}

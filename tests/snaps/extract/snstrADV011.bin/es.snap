@@ -1,0 +1,23 @@
+Map {
+  "0.1.0" => "¡Has hecho salir al A2comandante enemigoR!",
+  "0.2.0" => "¡El A2comandante enemigoR ha aparecido en la A2base enemigaR!",
+  "0.3.0" => "¡Has vencido A0%1sF4R!",
+  "0.4.0" => "¡Ha aparecido la recompensa por completar el escenario!",
+  "0.5.0" => "¡A0%1sF0R ha huido! ¡Has perdido la batalla!",
+  "0.6.0" => "¡Se ha terminado el tiempo! ¡Has perdido!",
+  "0.7.0" => "¡La A1base aliadaR ha caído! ¡Has perdido!",
+  "0.8.0" => "¡Han aparecido refuerzos de las A0%1sF1R en el campo de batalla!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Vence a los A2capitanesR y atrae al A2comandanteR.",
+  "3.1.0" => "¡Vence al
+A2comandante enemigoR!",
+}

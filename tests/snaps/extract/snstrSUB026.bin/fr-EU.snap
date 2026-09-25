@@ -1,0 +1,13 @@
+Map {
+  "0.1.0" => "A0%1sF4R rejoint le champ de bataille !",
+  "0.2.0" => "A0%1sF4R commence sa manœuvre de destruction des forts autour A0%2sF2R !",
+  "0.3.0" => "A0%1sF4R avance vers A0%2sF0R pour ébranler sa défense !",
+  "0.4.0" => "Éliminez A0%1sF0R et empêchez la manœuvre de destruction des forts !",
+  "0.5.0" => "Vous avez vaincu tous A0%1sF1R !",
+  "0.6.0" => "A0%1sF4R a détruit A0%2sF0R !",
+  "0.7.0" => "Éliminez immédiatement A0%1sF0R et protégez les forts de la zone A0%2sF2R !",
+  "0.8.0" => "A0%1sF4R a détruit les forts autour A0%2sF2R !",
+  "0.9.0" => "La zone A0%1sF4R ne doit pas tomber aux mains de l'ennemi !",
+  "0.10.0" => "A0%1sF4R a atteint A0%2sF0R !",
+  "0.11.0" => "A0%1sF4R commence sa manœuvre de destruction de la zone A0%2sF2R !",
+}

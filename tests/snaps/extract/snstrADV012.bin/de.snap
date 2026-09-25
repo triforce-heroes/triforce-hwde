@@ -1,0 +1,28 @@
+Map {
+  "0.1.0" => "Du hast alle A2feindlichen HauptleuteR besiegt!",
+  "0.2.0" => "Der A2feindliche FeldmarschallR wurde im A2feindlichen HauptquartierR gesichtet!",
+  "0.3.0" => "Du hast A0%1sF6R besiegt!",
+  "0.4.0" => "Die Belohnung für deinen Erfolg in dieser Schlacht wurde auf dem Schlachtfeld gesichtet!",
+  "0.5.0" => "A0%1sF0R ist geflohen! Du hast verloren!",
+  "0.6.0" => "Die Zeit ist um! Du hast verloren!",
+  "0.7.0" => "Weitere Soldaten der A0%1sF5R wurden auf dem Schlachtfeld gesichtet!",
+  "0.8.0" => "A1Dein HauptquartierR ist gefallen! Du hast verloren!",
+  "0.9.0" => "A0%1sF0R ist nun dein Verbündeter!",
+  "0.10.0" => "Die Frauen, die du nicht ausgewählt hast, sind nun deine Feinde!",
+  "0.11.0" => "Du hast A0%1sF6R gewählt!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Wähle einen Verbündeten!",
+  "3.1.0" => "Besiege alle A2feindlichen
+HauptleuteR!",
+  "3.2.0" => "Besiege den A2feindlichen
+FeldmarschallR!",
+}

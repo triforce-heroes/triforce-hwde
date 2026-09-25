@@ -1,0 +1,174 @@
+Map {
+  "1.0.0.0" => "Where did all these monsters come from?",
+  "1.0.1.0" => "Hold your ground, everyone! We are the
+only ones who can protect Hyrule!",
+  "1.0.2.0" => "Keep fighting, Princess! We're coming to help!",
+  "1.0.3.0" => "Fight for Princess Zelda! Protect
+Hyrule with your life!",
+  "1.0.4.0" => "This lizard's too strong!
+How do you kill it?!",
+  "1.0.5.0" => "The lizard is our first priority!",
+  "1.0.6.0" => "Come at me!",
+  "1.0.7.0" => "What's this? A new recruit?",
+  "1.0.8.0" => "Who is this soldier, anyway?",
+  "1.0.9.0" => "If you're ready to join your ancestors,
+then I accept your challenge!",
+  "1.0.10.0" => "Don't let the dragon knight through!",
+  "1.0.11.0" => "You haven't beaten me. You've merely hidden
+behind your shields, human and otherwise.",
+  "1.0.12.0" => "We can't get to Princess Zelda with those
+boulders in the way!",
+  "1.0.13.0" => "We can't hold them anymore! Somebody,
+help!",
+  "1.0.14.0" => "Oh no! Let's go help them, Link!",
+  "1.0.15.0" => "There. That'll stop them from getting
+through!",
+  "1.0.16.0" => "Thanks a ton! Hey, you should take the
+treasure in that mine as a reward!",
+  "1.0.17.0" => "Our treasure...
+It's in there...",
+  "1.0.18.0" => "With those bombs, we should be able to break
+the boulders and join up with Princess Zelda!",
+  "1.0.19.0" => "Attack! Destroy! Massacre! Kill the royal
+whelp before I grow impatient!",
+  "1.0.20.0" => "Capture both the Central and East Field
+Keeps, and close their gates!",
+  "1.0.21.0" => "I'm going to prepare a strategy for this battle.
+For now, I need you to capture that keep!",
+  "1.0.22.0" => "I don't have the time to deal with these vermin!
+There are preparations that need my attention!",
+  "1.0.23.0" => "The enemy is attacking the Allied Base!",
+  "1.0.24.0" => "Wonderful! Now take the East Field Keep!",
+  "1.0.25.0" => "You must retake the Central Keep!",
+  "1.0.26.0" => "Magnificent! Now take the Central Keep!",
+  "1.0.27.0" => "Retake the East Field Keep! Hurry!",
+  "1.0.28.0" => "We have forced the invaders into the north!
+Now we must call upon the Great Fairy!",
+  "1.0.29.0" => "If only we had a bomb... We'd
+have that wall down in a moment...",
+  "1.0.30.0" => "Be on the alert! The enemy is attacking from
+the north!",
+  "1.0.31.0" => "You slackers finally broke through? About time!
+Move south and swarm the Hyrulean base!",
+  "1.0.32.0" => "This way! We must pray to the Great Fairy
+together!",
+  "1.0.33.0" => "You did it! The enemy's forces have suffered
+a great loss!",
+  "1.0.34.0" => "The enemy is running scared! We have an
+opening!",
+  "1.0.35.0" => "Great! Now we can counterattack!",
+  "1.0.36.0" => "Please, Princess Zelda, you must pull back.
+We can manage the battle from here.",
+  "1.0.37.0" => "I understand. May the goddesses protect you!",
+  "1.0.38.0" => "Yes, enjoy your time with the king... I have
+an appointment elsewhere!",
+  "1.0.39.0" => "Hiya ha ha! This is where it gets interesting!
+Unleash King Dodongo!",
+  "1.0.40.0" => "How did the wizard transport a creature of that
+size to the battlefield so quickly?!",
+  "1.0.41.0" => "L-let's do what we can to stop it!",
+  "1.0.42.0" => "W-we have to stop it!",
+  "1.0.43.0" => "D-don't give up! If the castle falls, the
+battle's lost!",
+  "1.0.44.0" => "Use this! It will increase the power of your
+bombs!",
+  "1.0.45.0" => "Well fought, troops. This is why we
+never give up.",
+  "1.0.46.0" => "General Impa, terrible news! The
+enemy wizard has seized the castle!",
+  "1.0.47.0" => "So, the beast was just a distraction...
+Where is Princess Zelda? Is she safe?",
+  "1.0.48.0" => "The light shall return to Hyrule...",
+  "1.0.49.0" => "Have we truly been defeated...?",
+  "1.0.52.0" => "Hiya ha ha! Keep attacking!",
+  "1.0.55.0" => "Is Volga slacking off again?
+Fine! Send out the next unit!",
+  "1.0.57.0" => "If this plan works, we can greatly damage our
+foes! Quickly, to the Fairy Fountain!",
+  "1.0.58.0" => "Quickly! Help me break down the wall!",
+  "1.0.59.0" => "Stop inching like snails and move south!
+Close in on the Hyrulean base!",
+  "1.0.60.0" => "The Central Keep has been overrun!",
+  "1.0.61.0" => "You sloths finally broke through? Good! Now
+advance on the Hyrulean base already!",
+  "1.0.62.0" => "No! We've lost the East Field Keep!",
+  "1.0.63.0" => "What did you say?",
+  "1.0.65.0" => "Link, look! The princess!",
+  "1.0.66.0" => "You! I saw you in the training yard!",
+  "1.0.67.0" => "Princess! Thank goodness! I fear I'd never
+have reached you if not for a brave trainee!",
+  "1.0.68.0" => "A trainee, huh? Well, from the smallest
+seed comes the biggest tree, I suppose.",
+  "1.0.69.0" => "A large boulder is blocking our advance.
+Can you use your bombs to destroy it?",
+  "1.0.70.0" => "We...we can't find her anywhere!",
+  "1.0.71.0" => "What?! That's impossible!",
+  "1.0.72.0" => "Leave the East Keep to us!
+Someone take the central one!",
+  "1.0.73.0" => "Oh! I remember you from the training yard...",
+  "1.0.74.0" => "Someone! Help! I'm too little
+to fight monsters!",
+  "1.0.75.0" => "Thanks! I'm Proxi! And who are you?",
+  "1.0.76.0" => "Link, huh? Unusual name! What's it mean?
+Where are you from? Nice sword!",
+  "1.0.77.0" => "Man of few words, huh? That's okay--I'll
+come along and do the talking!",
+  "13.0.0.0" => "If we use this to break those boulders,
+we'll be able to reach Princess Zelda!",
+  "13.0.1.0" => "Oh no! We have to protect our base!",
+  "13.0.2.0" => "We've got to take back Central Keep!",
+  "13.0.3.0" => "We have to retake the East Field Keep!",
+  "13.0.4.0" => "Careful, everyone! There are enemies
+approaching from the north!",
+  "13.0.5.0" => "This is bad--the enemy is advancing
+through the Central Keep!",
+  "13.0.6.0" => "What do we do? The enemy is coming
+through the East Keep!",
+  "13.0.7.0" => "Princess Zelda! Leave the rest to us!",
+  "13.0.8.0" => "Is that...a ghost or something?",
+  "13.0.9.0" => "No! We can't let that monster get ahead
+of us!",
+  "13.0.10.0" => "Princess Zelda! Forgive me! The enemy
+led me right into their trap...",
+  "13.0.11.0" => "We should be able to push the enemy back.
+Come! There isn't a moment to wait!",
+  "13.0.12.0" => "Impa, are you really hurt?",
+  "13.0.13.0" => "Are you...one of the trainees?",
+  "13.0.14.0" => "Princess, we must capture the Central and
+Eastern Keeps and close the north gates!",
+  "13.0.15.0" => "I'll prepare our battle plan. Princess, please
+lead the troops on your siege of the keeps!",
+  "13.0.16.0" => "The enemy has forced itself into the north.
+We need the Great Fairy's help now...",
+  "13.0.17.0" => "If our plan succeeds, we'll cripple their force
+all at once! Come! To the Fairy Fountain!",
+  "13.0.18.0" => "If we had some bombs, we could probably
+break open the Fairy Fountain's gate...",
+  "13.0.19.0" => "Hurry over here! Blow up the Fairy
+Fountain's gate and get inside!",
+  "13.0.20.0" => "Take caution, everyone. The enemy is
+attacking from the north!",
+  "13.0.21.0" => "What? The East Field Keep has been taken?",
+  "13.0.22.0" => "Over here! We have to pray to the Great Fairy
+together!",
+  "13.0.23.0" => "Princess, the plan was successful! The
+enemy has been greatly diminished!",
+  "13.0.24.0" => "Princess Zelda, the plan worked wonderfully!
+The enemy has suffered huge losses!",
+  "13.0.25.0" => "Impa, fall back and regroup our forces!",
+  "13.0.26.0" => "Understood. And, Princess--be careful!",
+  "13.0.27.0" => "We managed to pull through... Well done,
+everyone! This victory belongs to you!",
+  "13.0.28.0" => "Princess Zelda, horrible news! The enemy
+wizard has taken over the castle!",
+  "13.0.29.0" => "We have to protect Hyrule! C'mon, Link!
+Let's go!",
+  "13.0.30.0" => "With this, I could destroy those boulders and
+reach Impa...",
+  "13.0.31.0" => "Princess Zelda! Use this! It should help
+increase the impact of your bombs!",
+  "13.0.32.0" => "Princess Zelda... I've failed you...",
+  "13.0.33.0" => "The boulders are keeping us from getting to
+Impa... What are we supposed to do?",
+  "13.0.34.0" => "Link, look! I can see the princess!",
+}

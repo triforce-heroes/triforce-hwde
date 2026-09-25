@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R ha aparecido y busca alimento!",
+  "0.2.0" => "¡A0%1sF0R se está alimentando en A0%2sF2R!",
+  "0.3.0" => "¡Vence A0%1sF4R antes de que se haga más fuerte!",
+  "0.4.0" => "¡Al alimentarse, A0%1sF2R ha crecido!",
+  "0.5.0" => "¡A0%1sF0R avanza en busca de alimento!",
+  "0.6.0" => "¡A0%1sF0R ha crecido del todo!",
+  "0.7.0" => "¡A0%1sF0R avanza para hacerse con el control de la zona!",
+  "0.8.0" => "¡Al alimentarse, A0%1sF2R ha crecido aún más!",
+  "0.9.0" => "¡Al alimentarse, A0%1sF2R ha crecido considerablemente!",
+}

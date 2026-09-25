@@ -1,0 +1,12 @@
+Map {
+  "0.0.0" => "Début du sous-scénario "Les soldats d'escorte" !",
+  "0.1.0" => "A0%1sF7R apparaissent et avancent pour escorter A0%2sF0R !",
+  "0.2.0" => "Éliminez A0%2sF1R avant qu'ils ne rejoignent A0%1sF0R !",
+  "0.3.0" => "Il semble que le moral A0%1sF3R augmentera s'ils rejoignent A0%2sF0R !",
+  "0.4.0" => "A0%1sF5R vont rejoindre A0%2sF0R ! Éliminez-les au plus vite !",
+  "0.5.0" => "A0%1sF4R reprend du poil de la bête pour escorter A0%2sF0R !",
+  "0.6.0" => "A0%1sF4R va rejoindre A0%2sF0R ! Éliminez-le au plus vite !",
+  "0.10.0" => "Éliminez A0%1sF0R restant !",
+  "0.11.0" => "A0%1sF4R est K.-O. !",
+  "0.12.0" => "Vous avez vaincu A0%1sF1R !",
+}

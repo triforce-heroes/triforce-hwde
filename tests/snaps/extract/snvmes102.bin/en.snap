@@ -1,0 +1,188 @@
+Map {
+  "1.0.0.0" => "These monsters just won't stop coming...
+What is wrong with you? Take a hint!",
+  "1.0.1.0" => "It matters not one bit what happened... Show the traitor Midna
+the power of the King of Twilight!",
+  "1.0.2.0" => "Hmmm... Two forces fighting. I'll bet I could add one of them
+to my retinue...",
+  "1.0.3.0" => "Greedy people are easy to control--this Zant is your stooge
+for sure.",
+  "1.0.4.0" => "Let's give him Midna's head as a "welcome aboard" present!
+Hiya ha ha!",
+  "1.0.5.0" => "You're kidding? More enemies! Where'd Zant pull them from?!",
+  "1.0.6.0" => "I spy strangers in our midst. Prepare to be expelled, weaklings!",
+  "1.0.7.0" => "All right, I think our base is safe from Midna's goons for now.",
+  "1.0.8.0" => "So let's kill Midna already!",
+  "1.0.9.0" => "Heh... Call it home-turf advantage! I know this palace better
+than you, and now you're stuck!",
+  "1.0.10.0" => "Ugh... I'm really getting to hate her, but that was a pretty
+good move. We could be in trouble if this keeps up.",
+  "1.0.11.0" => "Hah! I dunno who you are, but, you know, thanks
+for squashing my enemies for me!",
+  "1.0.12.0" => "Wait, stop attacking Zant's guys! Midna's
+starting to win, and we can't have that!",
+  "1.0.13.0" => "I...made it back to my throne...where...I am...
+invincible... I refuse to die here!",
+  "1.0.14.0" => "Huh? We're actually getting the upper hand
+here! Uh, keep doing what you're doing, guys!",
+  "1.0.15.0" => "So Midna's got some teeth after all... Well,
+not for long! Hiya ha ha!",
+  "1.0.16.0" => "Grr... No doubt about it--time to run!",
+  "1.0.17.0" => "Hey, Your Twilit Majesty, what would you say to you and me
+joining forces? Come on--rule the world with me. It'll be fun!",
+  "1.0.18.0" => "Hmph... The world needs but one ruler, and it will be ME.
+Begone, insolent crystal gazer!",
+  "1.0.19.0" => "Oh? How disappointing... And here I thought we could be
+friends...",
+  "1.0.20.0" => "You try my patience, outsider. Leave my kingdom immediately!",
+  "1.0.21.0" => "Well, if you're not in a mood to cooperate, I'm afraid I'll have
+to force you. I hope I don't spoil your nice outfit.",
+  "1.0.22.0" => "Don't be absurd! It would be unseemly for the king to soil his
+hands. I shall provide you with a suitable...playmate.",
+  "1.0.23.0" => "I shall retire for now, but I look forward to hearing of your
+imminent (and ignominious) defeat!",
+  "1.0.24.0" => "How...did I get here? I was chasing a li'l ladybug, and now
+I'm...lost?",
+  "1.0.25.0" => "Oh! What a wonderful key someone dropped! I'd better hang
+on to it--it probably unlocks something equally wonderful!",
+  "1.0.26.0" => "What a strange child... And could that key belong to these
+doors...?",
+  "1.0.27.0" => "Probably! And if we get it from her, we can open the door
+and finally meet up...",
+  "1.0.28.0" => "We will guard the bassse!",
+  "1.0.29.0" => "C-c-count on us, Master!",
+  "1.0.30.0" => "Wah! Y-you defeated Argorok?!",
+  "1.0.31.0" => "Eeeeeek! Who are you?! And why are you so mean?",
+  "1.0.32.0" => "Oh! You want the key? I thought you were after my loyal
+insect subjects... You can just take the key.",
+  "1.0.33.0" => "All right, let's go subjugate Zant already!",
+  "1.0.34.0" => "Ugh! You... Unhand me, peasant!",
+  "1.0.35.0" => "Hey! The Twilit dragon's fireballs are going to burn down
+our base!",
+  "1.0.36.0" => "Er, that's a LOT more fireballs than that base was made to
+withstand, I'm pretty sure. We should probably...do something.",
+  "1.0.37.0" => "Come now, Zant. Serve me, and I'll let you live. I'll even leave
+your palace standing. What do you say?",
+  "1.0.38.0" => "Further resistance would seem futile... Fine--I'll submit quietly.",
+  "1.0.39.0" => "Good boy. Never forget--you work for me now.",
+  "1.0.40.0" => "Cia...I...I can't fight any more...",
+  "1.0.41.0" => "We can't fight like this! Grr...always something...",
+  "1.0.42.0" => "The base fell...? Well, that's just...grand.",
+  "1.0.43.0" => "Foolish peasants! I am the king! For me to serve you would
+be like a cart pulling a horse!",
+  "1.0.44.0" => "He's gone...? Bah--we came all this way for nothing...",
+  "1.0.45.0" => "You're not gonna let that masked weirdo turn you down,
+are you? Get after him!",
+  "1.0.46.0" => "Good point. You there! Slow down Zant for me!",
+  "1.0.47.0" => "Right! It's almost time for the next wave. Attack!",
+  "1.0.48.0" => "Yes! Zant left the palace! Hurry and beat him up!",
+  "1.0.49.0" => "You chased me all this way...? You must really want to get
+beaten. Guess I can't disappoint you...",
+  "1.0.50.0" => "We can't let them run away--we'll have to kill 'em all!",
+  "1.0.51.0" => "Hm. Locked gate. Should open up if we take the keep, though!",
+  "1.0.52.0" => "Yeah, that did it! Now we just have to beat Midna!",
+  "1.0.53.0" => "You will not escape.",
+  "1.0.54.0" => "Phew... This should at least buy us some time...",
+  "1.0.55.0" => "Hrmph. I'll defeat you yet.",
+  "1.0.56.0" => "Let me, Master!",
+  "1.0.57.0" => "Hey! That keep is one of Zant's. Let's leave it alone for now.",
+  "1.0.58.0" => "All right, time to play my trump card!",
+  "1.0.59.0" => "Hya! Zant thinks we enemy?
+Then we act like enemy!",
+  "1.0.60.0" => "Crush the ants when they attack, but
+leave their keeps alone...for now.",
+  "1.0.61.0" => "Zant's forces appear to have it out for
+Volga for some reason...",
+  "1.0.62.0" => "What an annoyance to lose good help.
+Perhaps I should rescue him, just this once.",
+  "1.0.63.0" => "Cowards. A victory won by sheer numbers
+has no honor to it.",
+  "1.0.64.0" => "Lord Volga in trouble!
+Needsssss help!",
+  "1.0.65.0" => "How...could I lose...?",
+  "1.0.66.0" => "Gya! Lord Volga! Ssssomeone
+must help him!",
+  "1.0.67.0" => "All this hissing and screeching is
+damaging my ears. Enough already!",
+  "1.0.68.0" => "Kya! Lord Volga!",
+  "1.0.69.0" => "We fail...",
+  "1.0.70.0" => "Ugh, we're being pushed back... Now would
+be a good time to use that reserve plan...",
+  "1.0.71.0" => "That little demon thing is planning
+something... Keep an eye on it!",
+  "1.0.72.0" => "Kiya ha ha! How pointless!
+I'll just strike right back!",
+  "1.0.73.0" => "Mya ha ha! Apparently you don't know your
+own limits. That's fine. I'll just teach you!",
+  "1.0.74.0" => "That fool Midna is gone... That means that
+I, Zant, am the undisputed King of Twilight!",
+  "1.0.75.0" => "Midna's gone now—it's our chance! I'm
+the sole ruler of the Twilight Realm!",
+  "1.0.76.0" => "If we tear down that dragon, then Zant
+might lose his will to fight back!",
+  "1.0.77.0" => "I doubt Zant will cave so easily, but I do so
+hate that dragon's colors. It must go!",
+  "1.0.78.0" => "They're distracted and weak! Now
+is the time to strike their base!",
+  "1.0.79.0" => "Join me! Together we will bring that
+winged abomination to its knees!",
+  "13.0.0.0" => "The greedier they are, the easier to control... It will be simpler
+to convert, what's-his-name, the "king of Twilight"...",
+  "13.0.1.0" => "We'll show this Zant our power by defeating his enemy.
+That should convince him to join up...",
+  "13.0.2.0" => "We've repelled Midna's forces for now. Hopefully the base
+holds for a while.",
+  "13.0.3.0" => "We'll have Midna beaten in no time!",
+  "13.0.4.0" => "Ha ha ha! Interesting turn of events, isn't it? It's almost too
+easy now!",
+  "13.0.5.0" => "Hold on! Why are you attacking Zant's army?! You're meant to
+be fighting Midna!",
+  "13.0.6.0" => "How cowardly, Zant! Running away when we've clearly
+beaten you. Unacceptable! You need a good...punishing...",
+  "13.0.7.0" => "The girl has a key? Why is it not already in my hand? Once we
+unlock the door, we can slip past the beast and meet up.",
+  "13.0.8.0" => "Stop sniveling and get after Zant!",
+  "13.0.9.0" => "Now! Get the coward before he escapes!",
+  "13.0.10.0" => "Curses. The base won't last against that thing's fireballs...",
+  "13.0.11.0" => "The base is crumbling under those fireballs... It won't stay up
+much longer like this!",
+  "13.0.12.0" => "I went easy on you--I won't do that again.",
+  "13.0.13.0" => "Nothing we can do...",
+  "13.0.14.0" => "We're not going to let that one get away, are we?
+Well, not alive, anyway.",
+  "13.0.15.0" => "This should buy us some time...",
+  "13.0.16.0" => "Cheeky little... All troops, intercept Midna's forces! NOW!",
+  "13.0.17.0" => "The doors are locked? Well, don't just stand there! Capture the
+keep and break through!",
+  "13.0.18.0" => "Hm. The doors are open now. Midna should be just up ahead!",
+  "13.0.19.0" => "You won't get away from me, darling...",
+  "13.0.20.0" => "Zant has left the palace! Will someone PLEASE subdue him
+already?",
+  "13.0.21.0" => "Be a good minion and stop attacking Zant's forces, hmmm?",
+  "13.0.22.0" => "Look! The magic attack worked! We should
+be able to hit the dragon with normal attacks!",
+  "13.0.23.0" => "Third time, huh? Haaaa... How many times
+will we have to go through this?",
+  "13.0.24.0" => "The Magic Circle doesn't seem to have the
+effect we want, but what else can we do...?",
+  "13.0.25.0" => "Let's just follow the butterfly to the building
+in the southeast! Trust it knows something!",
+  "13.0.26.0" => "A Magic Circle in the Fairy Fountain...
+That should help us take down Argorok!",
+  "13.0.27.0" => "Our base is the last building standing!
+DO NOT LET IT FALL!",
+  "13.0.28.0" => "See? We can pull through this!",
+  "13.0.29.0" => "We just need to defeat Argorok and Zant...
+Hey, that won't be too hard, right?",
+  "13.0.30.0" => "You're a product of your own greed... You and
+Cia both.",
+  "13.0.31.0" => "Yes! Nice work, everyone!",
+  "13.0.32.0" => "We cleared out anyone in our way!
+Now let's seal the Gate of Souls!",
+  "13.0.33.0" => "We've got enemies swarming the base!
+Someone defend it!",
+  "13.0.34.0" => "Our base is on the brink of falling!
+It needs someone to defend it immediately!",
+  "13.0.35.0" => "I've let everyone down... I'm so sorry...",
+  "13.0.36.0" => "Our base fell...? Then this fight is over...",
+}

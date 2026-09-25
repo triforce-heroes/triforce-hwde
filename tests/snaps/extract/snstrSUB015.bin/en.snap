@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R is being attacked by A0%2sF5R!",
+  "0.3.0" => "Defeat A0%1sF0R, and rescue A0%2sF2R!",
+  "0.4.0" => "You defeated all of the A0%1sF5R!",
+  "0.5.0" => "A0%1sF0R has fled from A0%2sF5R!",
+  "0.6.0" => "You rescued A0%1sF4R!",
+  "0.7.0" => "A0%1sF0R is helping A0%2sF5R as thanks for the rescue!",
+}

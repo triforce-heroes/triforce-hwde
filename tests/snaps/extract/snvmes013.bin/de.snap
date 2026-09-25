@@ -1,0 +1,135 @@
+Map {
+  "1.0.0.0" => "Wir müssen unsere Stärke demonstrieren!",
+  "1.0.1.0" => "Gut... Versprengt die Monster,
+die sich in der Siedlung hier aufhalten.",
+  "1.0.2.0" => "Ich werde das Gebäude im Norden übernehmen,
+das wie eine Hinrichtungsstätte aussieht...",
+  "1.0.3.0" => "(Wasss haben diessse
+drei Gessstalten vor?)",
+  "1.0.4.0" => "(Ssschnappt euch diessse Idioten!)",
+  "1.0.5.0" => "Wenn wir die Festungen erobern, wird das
+die Monster aus der Siedlung treiben.",
+  "1.0.6.0" => "Keine Festung hält uns stand!",
+  "1.0.7.0" => "Nur noch eine Festung...
+Die wird im Handumdrehen uns gehören!",
+  "1.0.8.0" => "(Wenn euch dasss ssso ssstört,
+erobert sssie doch zurück!)",
+  "1.0.9.0" => "(Wie ist dasss passsiert, ihr Versssager?)",
+  "1.0.10.0" => "(Wir können ihnen diessse Fessstung
+nicht einfach überlasssen!)",
+  "1.0.11.0" => "Bevor wir das Dorf angreifen, sollten wir
+uns vielleicht die Festungen vornehmen...",
+  "1.0.12.0" => "(Wasss tut ihr meinen Brüdern an!
+Aber esss gibt noch mehr von unsss...)",
+  "1.0.13.0" => "Sie scheinen sich vorzuwagen. Jetzt
+können wir die Siedlung erobern!",
+  "1.0.14.0" => "Das dürfte alles gewesen sein. Holen wir
+uns auch noch ihre letzte Festung!",
+  "1.0.15.0" => "(Dasss wollen wir doch mal sssehen!)",
+  "1.0.16.0" => "(Ihr werdet ssschon sssehen, wasss esss
+bedeutet, sssich mit unsss anzulegen!)",
+  "1.0.17.0" => "Schwächlinge...",
+  "1.0.18.0" => "Mir scheint, die Tore sind uns verschlossen.
+Wir müssen wohl erst diese Festung erobern.",
+  "1.0.19.0" => "Obwohl die Festung mein ist, öffnet sich das Tor
+nicht. Mysteriös... Das sehe ich mir näher an.",
+  "1.0.20.0" => "(Hrrmpf... Wasss issst
+dasss für ein Radau?)",
+  "1.0.21.0" => "(Verdächtige Gessstalten
+treiben hier ihr Unwesssen!)",
+  "1.0.22.0" => "(Kümmert euch um sssie, bevor sssie
+unsss unssser Land wegnehmen!)",
+  "1.0.23.0" => "Diese Weichlinge wagen
+sich tatsächlich hervor?",
+  "1.0.24.0" => "Einige Monster scheinen Gefangene zu sein.
+Warum macht Ihr sie Euch nicht untertan?",
+  "1.0.25.0" => "Überlasst König Dodongo mir...",
+  "1.0.26.0" => "König Dodongo kann warten. Erledigen
+wir zuerst das, was direkt vor uns liegt.",
+  "1.0.27.0" => "Ich kämpfe für den Ruhm meines Herrn!",
+  "1.0.28.0" => "Wie es sich für den
+Dämonenkönig geziemt! Bravo!",
+  "1.0.29.0" => "Versagt...",
+  "1.0.30.0" => "Gerade, als ich richtig loslegen wollte...",
+  "1.0.31.0" => "Das soll es gewesen sein?",
+  "1.0.32.0" => "Ah, die Herrscher dieser Einöde... Bezwinge ich
+sie, werden ihre Schergen vor mir niederknien.",
+  "1.0.33.0" => "Wenn sie sich einander nähern, reizen sie
+sich gegenseitig und werden aggressiv.",
+  "1.0.34.0" => "Die Herrscher der Wüste
+sind jetzt unser Hauptziel!",
+  "1.0.35.0" => "Einer ist aus dem Weg geräumt.
+Die anderen werden ihm folgen.",
+  "1.0.36.0" => "Kann uns überhaupt jemand besiegen?",
+  "1.0.37.0" => "Die Kraft eines Gottes...",
+  "1.0.38.0" => "Ganondorf ist der Dämonenkönig...
+Die ganze Welt sollte ihm gehören!",
+  "1.0.39.0" => "Welch jämmerlicher Widerstand... Aber jetzt
+kann meine Legende hier ihren Anfang nehmen!",
+  "1.0.40.0" => "(Holt mich hier raus!)",
+  "1.0.41.0" => "Dein Leben gehört mir...",
+  "1.0.42.0" => "(Wer seid ihr?)",
+  "1.0.43.0" => "Du bist jetzt mir untertan...",
+  "1.0.44.0" => "(Bitte helft uns...)",
+  "1.0.45.0" => "Du wirst alles in deiner Macht tun, um
+mir und meinen Zielen zu dienen.",
+  "1.0.46.0" => "Dämonenkönig, steht mir bei!",
+  "1.0.47.0" => "Womit habe ich diese
+Inkompetenz verdient...",
+  "1.0.48.0" => "Ich bitte um Eure Gnade...
+Ich muss mich zurückziehen...",
+  "1.0.49.0" => "Es war nicht anders zu erwarten... Aber ich kann
+dieses Land auch im Alleingang unterjochen.",
+  "1.0.50.0" => "(Diessse Arroganzzz! Holt ihn euch!)",
+  "1.0.51.0" => "Das übersteigt meine Fähigkeiten dann
+doch. Ich muss um Hilfe bitten...",
+  "1.0.52.0" => "Wie war das?
+Bist du nicht der „Schattenkönig“?",
+  "1.0.53.0" => "Vergebt mir... Ich bitte um Erlaubnis,
+mich zurückziehen zu dürfen...",
+  "1.0.54.0" => "Du bist nutzlos. Geh! Ich werde
+mich persönlich darum kümmern.",
+  "1.0.55.0" => "(Wir sind ssstark!)",
+  "1.0.56.0" => "(Bemerkenssswerte Ssstärke!)",
+  "1.0.57.0" => "(Unglaubliche Ssstärke!)",
+  "1.0.58.0" => "(Jetzzzt! Bring sssie zur Ssstrecke!)",
+  "1.0.59.0" => "Was sollen diese Spielchen?",
+  "1.0.60.0" => "Dieses Gebäude gehört meinem Meister.
+Ich werde es für ihn erobern.",
+  "1.0.61.0" => "(Ssschnell! Sssammelt euch!)",
+  "1.0.62.0" => "Sie scheinen ihre Streitkräfte zu sammeln...
+Wir sollten schnell ihre Festungen erobern.",
+  "1.0.63.0" => "(Wir sssind ssstark! Greift unsss nur an!)",
+  "1.0.64.0" => "Keine Festung hält uns stand!",
+  "1.0.65.0" => "(Etwasss geht im Sssüden vor sssich...
+Wir sssollten dasss überprüfen.)",
+  "1.0.66.0" => "Die Monster im Norden scheinen etwas bemerkt
+zu haben... Aber keine Angst, ich halte sie auf!",
+  "1.0.67.0" => "Das sind alles kleine Fische...
+Gar kein Problem für mich.",
+  "1.0.68.0" => "(Sssie greifen unsssere Fessstungen an!
+Dasss ist unverzeihlich!)",
+  "1.0.69.0" => "(Kerkerwärter! Lassst die Gefangenen frei!
+Sssie werden für unsss kämpfen!)",
+  "1.0.70.0" => "Vielleicht wollen ihre Gefangenen aber
+auch lieber auf unserer Seite kämpfen...",
+  "1.0.71.0" => "Interessante Idee. Ich schaue mal beim
+Nordkerker, was sich machen lässt...",
+  "1.0.72.0" => "Gut. Dann nehme ich mir den Südkerker vor.",
+  "1.0.73.0" => "Wenn ihr euch Ganon anschließt,
+werdet ihr es nicht bereuen!",
+  "1.0.74.0" => "(Gefangene! Wenn ihr die Eindringlinge
+vertreibt, ssschenken wir euch die Freiheit!)",
+  "1.0.75.0" => "(...Verstanden.)",
+  "1.0.76.0" => "Oho... Hier lauert also auch ein Riesenmonster.",
+  "1.0.77.0" => "Pah! So groß, wie es ist, so dumm ist es auch!
+Das ist keine Gefahr für uns!",
+  "1.0.78.0" => "Oha! Noch ein Riesenmonster...",
+  "1.0.79.0" => "Ah, die Herrscher dieser Einöde... Bezwinge ich
+sie, werden ihre Schergen vor mir niederknien.",
+  "1.0.80.0" => "(Sie greifen unsssere Freunde an...
+Dasss werden sssie bereuen!)",
+  "1.0.81.0" => "(Wir dienen euch. Lasst uns am Leben...)",
+  "1.0.82.0" => "Begebt Ihr euch bitte auch zu diesem Monstrum,
+Herr! Gemeinsam zeigen wir ihm, wer stärker ist!",
+}

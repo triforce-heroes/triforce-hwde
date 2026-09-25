@@ -1,0 +1,7 @@
+Map {
+  "0.1.0" => "A0%1sF0R und A0%2sF5R wurden auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF0R und A0%2sF5R führen die A0%3sF4R als Feldmarschälle in die Schlacht!",
+  "0.3.0" => "A0%1sF0R und A0%2sF5R bewegen sich aufeinander zu!",
+  "0.4.0" => "Besiege A0%3sF6R, bevor A0%1sF5R und A0%2sF5R erscheinen!",
+  "0.5.0" => "A0%1sF0R fordert Verstärkung an!",
+}

@@ -1,0 +1,218 @@
+Map {
+  "1.0.0.0" => "Je ressens la présence de Cya sur ces terres...
+Pourtant, ce n'est pas elle qui se trouve là-bas !",
+  "1.0.1.0" => "C'est une illusion produite par ceux prisonniers
+des ténèbres. Dissipe-la et tu pourras sauver Cya.",
+  "1.0.2.0" => "Cya était notre ennemie... mais nous devons
+l'aider ! Fais confiance à Lana, Link !",
+  "1.0.3.0" => "Ils appellent des renforts depuis les forts. Ils
+seront trop nombreux si nous les laissons faire.",
+  "1.0.4.0" => "C'est un peu facile de s'enfermer dans un
+fort et d'appeler ses amis à la rescousse !",
+  "1.0.5.0" => "Alors allons vite sauver Cya avant
+qu'il y ait plus d'ennemis !",
+  "1.0.6.0" => "Ils appellent encore plus de monstres.. ?
+Qu'est-ce que... J'ai un mauvais pressentiment.",
+  "1.0.7.0" => "Aidons Cya avant qu'il y ait plus d'ennemis !
+Ça devrait être plus simple comme ça !",
+  "1.0.8.0" => "Appelons nous aussi des renforts
+pour contrer l'ennemi !",
+  "1.0.9.0" => "Ah ! Attention ! Nos messagers
+se font attaquer !",
+  "1.0.10.0" => "Hé ! Attention ! Il ne nous reste
+plus qu'un seul messager !",
+  "1.0.11.0" => "Je n'ai pas pu les protéger...
+Désolée...",
+  "1.0.12.0" => "Ouf ! Tout s'est bien passé !",
+  "1.0.13.0" => "Je peux appeler les renforts, maintenant !
+Vous allez recevoir de bonnes nouvelles !",
+  "1.0.14.0" => "Hé ! La femme toute noire
+s'est enfuie !",
+  "1.0.15.0" => "Laissons-la. Il est plus important de
+trouver celle que vous appelez Cya.",
+  "1.0.18.0" => "Lana ! Viens par ici ! Tu es la
+seule à pouvoir sauver Cya !",
+  "1.0.19.0" => "Lana. Donne un peu de ta magie à Cya
+afin de ramener son cœur des ténèbres.",
+  "1.0.20.0" => "D'accord ! Je vais essayer !
+Cya... Cette fois, je te sauverai !",
+  "1.0.21.0" => "Hmm... Où suis-je... ? Lana ?
+Tu es venue... à mon secours... ?",
+  "1.0.22.0" => "Cya... Enfin je t'ai retrouvée... ! Hé,
+aidez-moi ! Il faut qu'elle se repose !",
+  "1.0.23.0" => "Alors faisons de cet endroit notre
+base et renforçons sa défense.",
+  "1.0.24.0" => "Les monstres ont commencé à bouger !
+Ce serait pas cette Cya, leur cible ?",
+  "1.0.25.0" => "Cya n'est pas en état de marcher...
+Je dois la protéger !",
+  "1.0.26.0" => "Je vais la protéger moi aussi. Lana,
+je te laisse prendre les commandes.",
+  "1.0.27.0" => "Cette énergie... C'est celle de la fausse Cya de
+tout à l'heure... Elle veut lui voler sa magie... ?",
+  "1.0.28.0" => "Si nous refoulons les hordes de monstres, cet
+imposteur reparaîtra probablement devant nous.",
+  "1.0.29.0" => "Alors protégeons Cya jusqu'à ce
+que la femme noire apparaisse !",
+  "1.0.30.0" => "Débarrassons-nous de tous les ennemis
+qui nous semblent les plus dangereux...",
+  "1.0.31.0" => "Certains se déplacent de manière
+suspecte. Gardons un œil sur eux.",
+  "1.0.32.0" => "Cya ne peut sûrement pas s'enfuir dans
+cet état... On va devoir la protéger !",
+  "1.0.33.0" => "Cya, quelqu'un essaye de se faire passer
+pour toi. Tu ne sais rien à son sujet ?",
+  "1.0.34.0" => "La Cya noire... Elle a volé ma magie
+et essaye de prendre ma place...",
+  "1.0.35.0" => "De prendre ta place... ? Je ne la
+laisserai pas faire, Cya ! Je l'arrêterai !",
+  "1.0.36.0" => "Les monstres s'approchent de Cya !
+Je vous en prie, protégez-la !",
+  "1.0.37.0" => "Lana... Merci.",
+  "1.0.38.0" => "Les ennemis sont encore plus nombreux !
+Ça ne s'arrêtera jamais ?!",
+  "1.0.39.0" => "Ils finiront bien par manquer de renforts...
+Mais il est plus rapide de prendre leurs forts...",
+  "1.0.40.0" => "Les portes se sont ouvertes quand on a pris le fort !
+Continuons comme ça pour ouvrir plus de passages !",
+  "1.0.41.0" => "Bon... On a mis fin à l'arrivée des
+renforts qui venaient des forts.",
+  "1.0.42.0" => "Li... Link... ?! Toi aussi...
+tu es là pour me protéger... ?",
+  "1.0.43.0" => "Link ne te considère plus comme une ennemie.
+Alors il te protège, comme tout le monde ici.",
+  "1.0.44.0" => "Hu hu... Tu n'as pas changé...
+Tu es un Héros bien candide...",
+  "1.0.45.0" => "Hein ? Le nombre d'ennemis
+a encore augmenté !",
+  "1.0.46.0" => "Je doute que ce soient les derniers...
+D'autres renforts risquent d'arriver.",
+  "1.0.47.0" => "Ils essayent encore d'appeler plus
+d'ennemis ? Sympa de leur part !",
+  "1.0.48.0" => "Il faut qu'on les arrête, avant
+qu'il y ait plus de monstres !",
+  "1.0.49.0" => "Et voilà le travail ! Il n'y aura pas
+plus d'ennemis, maintenant !",
+  "1.0.50.0" => "Quoi ?! Il y en a encore ? Ne les
+laissez pas s'approcher de Cya !",
+  "1.0.51.0" => "Elle contrôle tous ces monstres... Quelle puissance
+magique ! Et pourtant, elle s'en prend encore à Cya...",
+  "1.0.52.0" => "Il faut arrêter cet ennemi ! Il risque de
+renforcer les troupes ennemies !",
+  "1.0.53.0" => "Comment ?! Bon, ne perdons pas
+notre temps ici... Allons-y !",
+  "1.0.54.0" => "Lana... Si ça continue...
+je vais... disparaître...",
+  "1.0.55.0" => "Disparaître ?! Non ! Qu'est-ce
+que je peux faire pour t'aider ?!",
+  "1.0.56.0" => "Détruis l'ennemi qui a volé ma magie...
+pour que je la récupère...",
+  "1.0.57.0" => "Mais ?! L'ennemi semble plus fort... !",
+  "1.0.58.0" => "Bien ! Nous avons entravé
+le plan de l'ennemi.",
+  "1.0.59.0" => "Hein... ? Encore ? Mais on
+n'en peut plus, à la fin !",
+  "1.0.60.0" => "Encore un effort... Je sens la présence
+de la Cya noire... Elle devrait apparaître.",
+  "1.0.61.0" => "Je vous en prie ! Je vous demande
+encore un tout petit effort !",
+  "1.0.62.0" => "Ils essayent encore d'invoquer plus de
+monstres ! Je ne les laisserai pas faire !",
+  "1.0.63.0" => "Ça va devenir problématique, là !
+Il faut s'en débarrasser, et vite !",
+  "1.0.64.0" => "Ça y est ! Ils ne pourront plus
+appeler de renforts !",
+  "1.0.65.0" => "Nous avons éliminé les ennemis les plus dangereux.
+La Cya noire ne devrait pas tarder à sortir de sa cachette.",
+  "1.0.66.0" => "Oui... Je sens qu'elle se rapproche...
+Restez sur vos gardes !",
+  "1.0.67.0" => "Mais... c'est un Link noir !
+Qu'est-ce qu'il fait là ?!",
+  "1.0.68.0" => "Hé ! Ils vont s'en prendre
+à Cya, eux aussi !",
+  "1.0.69.0" => "La Cya noire continuera à s'en prendre à
+Cya tant qu'elle n'aura pas pris sa place...",
+  "1.0.70.0" => "Je ne la laisserai pas faire ! Attends,
+Cya... Je vais nous en débarrasser !",
+  "1.0.71.0" => "C'est sûrement la Cya noire
+qui crée les Link noirs...",
+  "1.0.72.0" => "Nous n'avons d'autre choix que d'éliminer
+les Link noirs si nous voulons protéger Cya.",
+  "1.0.73.0" => "Bravo ! Continuons comme ça
+et éliminons les autres !",
+  "1.0.74.0" => "Elle arrive... La Cya noire...",
+  "1.0.75.0" => "Ne t'inquiète pas, Cya !
+Je la vaincrai !",
+  "1.0.76.0" => "On est enfin débarrassés
+de tous les Link noirs !",
+  "1.0.77.0" => "La Cya noire a été détruite... Il reste celui
+qui a ma magie... le fantôme de Ganon... !",
+  "1.0.78.0" => "Le fantôme de Ganon... C'est l'être malfaisant
+qui vient du monde de Tetra, c'est ça ?",
+  "1.0.79.0" => "C'est aussi celui qui a volé ta Triforce,
+Lana. Il t'a remarquée par mon biais.",
+  "1.0.80.0" => "Avide de pouvoir, il a volé la magie et la Triforce
+de Cya, causant la distorsion de notre monde.",
+  "1.0.81.0" => "Alors, il suffit de le vaincre pour
+que tout redevienne normal !",
+  "1.0.82.0" => "Quelle puissance... ! Nous ne pouvons
+nous permettre de baisser notre garde...",
+  "1.0.83.0" => "Si ça continue, je ne m'en sortirai pas...
+Nous devons faire quelque chose !",
+  "1.0.84.0" => "Pardonnez-moi ! Je n'ai pas
+su protéger votre avenir...",
+  "1.0.85.0" => "Je ne pourrai pas tenir longtemps !
+Je ne pourrai pas protéger Cya... !",
+  "1.0.86.0" => "Je n'en... peux plus...
+Pardonne-moi... Lana...",
+  "1.0.87.0" => "Cya ! Non... !",
+  "1.0.88.0" => "Ils s'en prennent à notre base... !
+Éloignez l'ennemi de la base !",
+  "1.0.89.0" => "La base risque de tomber !
+Vite, il faut la défendre !",
+  "1.0.90.0" => "La base est tombée aux mains de l'ennemi...
+Nous ne pouvons plus combattre...",
+  "1.0.91.0" => "Je sens la présence de Cya dans cette
+pièce... Je le savais, elle est ici... !",
+  "1.0.92.0" => "Vous êtes vraiment incorrigibles...
+Mais je reste avec vous jusqu'à la fin.",
+  "13.0.2.0" => "De puissants monstres apparaissent dans les
+chambres reliées par le flux magique.",
+  "13.0.3.0" => "Je vois. Si nous prenons le contrôle de ces
+chambres, nous interrompons le flux magique.",
+  "13.0.4.0" => "Nous avons terminé à l'ouest. Maintenant, il nous
+faut prendre les chambres reliées de l'est.",
+  "13.0.5.0" => "Nous avons terminé à l'est. Maintenant, il nous faut
+prendre les chambres reliées de l'ouest.",
+  "13.0.6.0" => "Deux flux ont disparu en même temps. C'était une
+bonne idée de commencer par la salle au milieu !",
+  "13.0.7.0" => "Comment ? Il y a d'autres Link noirs... ?
+Vite, il nous faut aider Link !",
+  "13.0.8.0" => "On ne s'en sortira pas si ça continue comme ça...
+Sonnez la retraite !",
+  "13.0.9.0" => "Les Link noirs reviennent sans cesse de la chambre
+de la sorcière et empêchent notre retraite...",
+  "13.0.10.0" => "Link, fais attention ! N'en fais pas trop !",
+  "13.0.11.0" => "Link va bien, vous pouvez partir !",
+  "13.0.12.0" => "Grr... Quelle puissance...
+Nous ne pouvons même pas fuir...",
+  "13.0.13.0" => "Nous ne pouvons plus rien faire... ?",
+  "13.0.14.0" => "C'en est fini de nous... ?",
+  "13.0.15.0" => "Link ! Tu t'es si bien battu pour moi !",
+  "13.0.16.0" => "Link... ! Si nous perdons le Héros, alors nous
+perdons aussi toutes nos chances de vaincre Cya !",
+  "13.0.17.0" => "Ce fardeau était trop lourd à porter pour moi...",
+  "13.0.18.0" => "Si un seul de nos précieux compagnons tombe au
+combat, nous n'avons aucune chance de gagner...",
+  "13.0.19.0" => "Ce fardeau était trop lourd à porter pour moi...",
+  "13.0.20.0" => "Ce fardeau était trop lourd à porter pour moi...",
+  "13.0.21.0" => "Ce fardeau était trop lourd à porter pour moi...",
+  "13.0.22.0" => "Ce fardeau était trop lourd à porter pour moi...",
+  "13.0.23.0" => "Nous avons vaincu la moitié des Link noirs.
+Occupons-nous des deux derniers.",
+  "13.0.24.0" => "Bien... Il devrait être possible de fuir par
+la roseraie ouest, vous ne croyez pas ?",
+  "13.0.25.0" => "Veuillez... Veuillez me pardonner... J'ai atteint
+mes limites...",
+  "13.0.26.0" => "Link, attends ! Je viens avec toi !",
+}

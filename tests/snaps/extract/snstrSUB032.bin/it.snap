@@ -1,0 +1,18 @@
+Map {
+  "0.1.0" => "A0%1sF0R e A0%2sF2R appaiono sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R e A0%2sF2R non riescono a riunirsi!",
+  "0.3.0" => "Proteggi A0%1sF2R finché raggiunge A0%2sF2R!",
+  "0.4.0" => "Puoi scortare A0%1sF2R!",
+  "0.5.0" => "A0%1sF0R avanza verso A0%2sF2R!",
+  "0.6.0" => "A0%1sF0R riesce a riunirsi con A0%2sF2R!",
+  "0.7.0" => "A0%1sF0R ringrazia per l'aiuto e si dirige verso l'A0%2sF0R!",
+  "0.8.0" => "Proteggi A0%2sF2R finché raggiunge A0%1sF2R!",
+  "0.9.0" => "A0%1sF0R è in fuga!",
+  "0.10.0" => "L'incontro con A0%1sF2R non è riuscito!",
+  "0.11.0" => "A0%1sF0R è in preda all'ira e attacca chiunque!",
+  "0.12.0" => "Tieni A0%1sF2R sott'occhio!",
+  "0.13.0" => "A0%1sF0R sta attaccando A0%2sF2R!",
+  "0.14.0" => "Sconfiggi A0%1sF2R e salva A0%2sF2R!",
+  "0.15.0" => "A0%1sF0R avanza di nuovo verso A0%2sF2R!",
+  "0.16.0" => "Hai sconfitto A0%1sF2R!",
+}

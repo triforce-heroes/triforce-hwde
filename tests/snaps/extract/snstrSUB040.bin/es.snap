@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario "El ingeniero mágico"!",
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R va A0%2sF4R a crear una barrera!",
+  "0.3.0" => "¡Vence A0%1sF4R!",
+  "0.4.0" => "¡A0%1sF0R se dispone a crear una barrera!",
+  "0.5.0" => "¡A0%1sF0R está a punto de crear una barrera!",
+  "0.6.0" => "¡Has localizado A0%1sF4R cuando se disponía a crear una barrera!",
+  "0.7.0" => "¡A0%1sF0R ha creado una barrera en A0%2sF2R!",
+  "0.8.0" => "¡A0%1sF0R ha creado una barrera y ha abandonado el campo de batalla!",
+  "0.9.0" => "¡Has impedido que el enemigo creara una barrera!",
+  "0.10.0" => "¡Has vencido A0%1sF4R!",
+  "0.11.0" => "¡Vence A0%1sF4R cuanto antes!",
+  "0.12.0" => "¡A0%1sF0R caerá si el enemigo crea una barrera allí!",
+  "0.13.0" => "¡El enemigo ha creado una barrera y C1%1sF2R ha caído!",
+  "0.14.0" => "¡A0%1sF0R ha creado una barrera en C1%2sF2R!",
+}

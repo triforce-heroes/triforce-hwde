@@ -1,0 +1,322 @@
+Map {
+  "1.0.0.0" => "Das Seelenportal ist im hinteren Teil
+des Palastes. Versiegeln wir es!",
+  "1.0.1.0" => "Das Seelenportal scheint im hinteren Teil des
+Palastes zu sein. Wir müssen es versiegeln!",
+  "1.0.2.0" => "Närrische Prinzessin Midna... Erlaubt mir,
+euch mit der Macht der Schatten zu begraben.",
+  "1.0.3.0" => "Das ist Zanto! Aber warum beschützt er
+das Seelenportal?",
+  "1.0.4.0" => "Ich übernehme das Kommando. Schließlich
+kenne ich mich als Einzige im Palast aus.",
+  "1.0.5.0" => "Ich bewache das Hauptquartier. Ich verlasse
+mich aber auf eure Unterstützung, falls nötig.",
+  "1.0.6.0" => "Hauptquartier bewachen und den
+Kommandanten unterstützen. Alles klar!",
+  "1.0.7.0" => "Gut. Dann geh für den Anfang nach Osten. Wir
+müssen die feindlichen Festungen dort erobern.",
+  "1.0.8.0" => "Wir sollten zuerst nach Osten, um die
+Festungen dort zu erobern.",
+  "1.0.9.0" => "Ich werde mein Bestes geben! Tihihi!",
+  "1.0.10.0" => "Nicht trödeln! Erobert die Festung im Osten,
+und zwar flott!",
+  "1.0.11.0" => "Was ist los? Schnell, erobere die
+Festungen im Osten!",
+  "1.0.12.0" => "Nicht übel. Jetzt nimm dir die Festung im
+Norden vor, wenn du dazu in der Lage bist.",
+  "1.0.13.0" => "Zerstört die Brücken! Schneidet ihre Truppen
+von ihrem Hauptquartier ab!",
+  "1.0.14.0" => "Die Brücken sind hinüber, na und? Konzentrier
+dich auf die Festung!",
+  "1.0.15.0" => "Die Brücken sind zerstört... Egal, es ist
+jetzt wichtiger, die Festung zu erobern!",
+  "1.0.16.0" => "Ich mache also einfach weiter wie gehabt, ja?
+Zum Angriff!",
+  "1.0.17.0" => "Die Agnetha-Spezialeinheit hat den
+Ostpalast erobert!",
+  "1.0.18.0" => "Ist das unser Preis?
+Da sagen wir nicht nein!",
+  "1.0.19.0" => "Eine Schatztruhe? Die schnappen wir uns!",
+  "1.0.20.0" => "Mit dem Fanghaken erreichst du entlegene
+Stellen. So kommen wir über die Brücke!",
+  "1.0.21.0" => "Niemand setzt auch nur einen Fuß in die Nähe
+des Seelenportals! Das lasse ich nicht zu!",
+  "1.0.22.0" => "Da hat er ja was heraufbeschworen...
+Seine magischen Kräfte sind nicht zu verachten.",
+  "1.0.24.0" => "Du elender Feigling!
+Komm hier herunter und kämpfe!",
+  "1.0.25.0" => "Er stößt vom Himmel herab und zieht sich
+wieder zurück... Was können wir nur tun?",
+  "1.0.26.0" => "Dieser Drache fliegt aber ziemlich hoch. Wenn
+unsere Attacken ihn nur erreichen könnten...",
+  "1.0.27.0" => "Ha! Ich werde ihm mit meiner Magie einheizen!",
+  "1.0.28.0" => "Ich werde direkt unter ihm einen Magiekreis
+erschaffen, aber dafür brauche ich Hilfe!",
+  "1.0.29.0" => "Um einen fliegenden Drachen zu besiegen,
+brauchen wir Magie.",
+  "1.0.30.0" => "Ich werde einen Magiekreis in der Festung unter
+ihm erschaffen! Helft mir!",
+  "1.0.31.0" => "Da sind zu viele Ungeheuer...
+Ich brauche Verstärkung!",
+  "1.0.32.0" => "Ich komme hier nicht weiter, zu viele Monster.
+Kann mir nicht jemand beistehen?",
+  "1.0.33.0" => "Kommt ihr klar? Wenn wir gehen,
+seid ihr ganz allein an der Front...",
+  "1.0.34.0" => "Kommt ihr ohne mich klar? Ihr würdet
+ganz allein an der Front stehen.",
+  "1.0.35.0" => "Ich will auch helfen!",
+  "1.0.36.0" => "Ihr Hauptquartier ist kaum noch geschützt.
+Wir brauchen Verstärkung!",
+  "1.0.37.0" => "Er hat meine Abwesenheit gut genutzt. Wir
+sollten den Magiekreis schnell fertigstellen!",
+  "1.0.38.0" => "Er hat die Zeit genutzt, in der ich nicht da war!
+Wir müssen den Magiekreis fertigstellen!",
+  "1.0.39.0" => "Der Magiekreis ist fertig! Jetzt können wir
+uns den Drachen vornehmen!",
+  "1.0.40.0" => "Wir sind fertig mit dem Magiekreis! Jetzt können
+wir den Drachen angreifen!",
+  "1.0.41.0" => "Wie lange soll der Drache noch herumfliegen?
+Greif ihn mit dem Magiekreis an! Heute noch!",
+  "1.0.42.0" => "Viel mehr hält unser Hauptquartier nicht
+mehr aus! Schnell, der Magiekreis!",
+  "1.0.43.0" => "Gute Arbeit! Auch wenn ich ihn gern selbst
+erlegt hätte...",
+  "1.0.44.0" => "Argorok habt ihr vielleicht besiegt... Aber meine
+Pläne sind längst nicht durchkreuzt!",
+  "1.0.45.0" => "Hoffentlich sehen wir diesen Drachen so schnell
+nicht wieder.",
+  "1.0.46.0" => "Hier kommt schon der nächste Schachzug des
+Schattenkönigs! Setzt ihre Anführerin fest!",
+  "1.0.47.0" => "Was ist denn das für ein Typ...
+Will der ein Schwätzchen halten?",
+  "1.0.48.0" => "Wie kann man nur so naiv sein?
+Lass ihn nicht in deine Nähe!",
+  "1.0.49.0" => "Sie versuchen, Agnetha gefangenzunehmen! Sie
+dürfen nicht in ihre Nähe kommen!",
+  "1.0.50.0" => "Moment mal! Was soll das, du
+ungehobelter Klotz!",
+  "1.0.51.0" => "Sie wurde gefangengenommen... Das schwächt
+unsere östliche Verteidigung.",
+  "1.0.52.0" => "Agnetha ist dem Feind in die Hände gefallen!
+Das wird den Feind im Osten mutiger machen...",
+  "1.0.53.0" => "Danke! Fast hätten sie mich gehabt!",
+  "1.0.54.0" => "Deine Wunden sollten einigermaßen verheilt
+sein. Greif das Hauptquartier an, los!",
+  "1.0.55.0" => "Nicht der Drache wieder... Der geht mir auf die
+Nerven.",
+  "1.0.56.0" => "Greife den Drachen mit dem Magiekreis an!
+Erobere die Position unter ihm!",
+  "1.0.57.0" => "Verstanden! Genau wie beim letzten Mal!",
+  "1.0.58.0" => "Mit dem Magiekreis können wir den Drachen
+angreifen! Erobere die Position unter ihm!",
+  "1.0.59.0" => "Wie letztes Mal? Das könnt
+ihr ruhig mir überlassen!",
+  "1.0.62.0" => "Er greift wieder unser Hauptquartier an. Keine
+Panik, ich kümmere mich darum!",
+  "1.0.63.0" => "Er greift unser Hauptquartier an! Wir müssen ihn
+zurückschlagen!",
+  "1.0.65.0" => "Der Magiekreis ist bereit! Hol ihn ein für
+alle Mal vom Himmel!",
+  "1.0.66.0" => "Der Magiekreis ist bereit! Mit seiner
+Magie besiegst du den Drachen endgültig!",
+  "1.0.67.0" => "Willst du dich nicht mal um den Drachen
+kümmern? Los, aktiviere den Magiekreis!",
+  "1.0.68.0" => "Ich halte nicht mehr lang durch... Schnell,
+besiege den Drachen mit dem Magiekreis!",
+  "1.0.69.0" => "Er ist wieder entkommen. Wenn wir ihn
+nur direkt angreifen könnten...",
+  "1.0.70.0" => "Er ist wieder entkommen?!",
+  "1.0.71.0" => "Wir müssen ihn in die Reichweite unserer
+Angriffe locken. Aber wie?",
+  "1.0.73.0" => "Und zum dritten Mal...",
+  "1.0.74.0" => "Das ist jetzt das dritte Mal... Wie lange
+soll dieser Kampf noch dauern?",
+  "1.0.75.0" => "Er kommt einfach immer wieder...
+Stur wie eine Fliege am Esstisch...",
+  "1.0.76.0" => "Mein Magiekreis hat nichts gebracht.
+Was können wir noch tun?",
+  "1.0.77.0" => "Wir greifen ihn mit Magie an, aber es hilft
+nichts. Es muss einen anderen Weg geben.",
+  "1.0.78.0" => "Schmetterlingchen hat eine Idee! Er will
+uns etwas zeigen. Folgen wir ihm!",
+  "1.0.81.0" => "Folge dem Schmetterling zum Gebäude im
+Südosten. Das ist die Quelle der Göttin, oder?",
+  "1.0.82.0" => "Der Schmetterling ist zu dem Gebäude im
+Südosten. Wir folgen einem Schmetterling...",
+  "1.0.84.0" => "Der Magiekreis in der Quelle der Göttin...
+Er sollte dem Drachen den Garaus machen!",
+  "1.0.85.0" => "Ein Magiekreis in der Quelle der Göttin?
+Das ist genau das, was wir brauchen!",
+  "1.0.86.0" => "Greift zusammen mit Argorok an!
+Lasst ihnen keine Luft zum Atmen!",
+  "1.0.87.0" => "Wir haben nur noch unser Hauptquartier!
+Wenn das auch noch fällt, sind wir erledigt!",
+  "1.0.88.0" => "Uns ist nur noch das Hauptquartier
+geblieben. Und wenn es fällt...",
+  "1.0.89.0" => "Sie sind zu schwach zum Kämpfen!
+Das ist euer Ende!",
+  "1.0.90.0" => "Zanto, du Ratte... Noch ist es nicht vorbei!",
+  "1.0.91.0" => "Sein Gerede wird mir zu viel. Was er wohl
+sagt, wenn er eine Festung verliert?",
+  "1.0.92.0" => "Hurra!",
+  "1.0.93.0" => "Na, Zanto? Und diese
+Festung war erst der Anfang!",
+  "1.0.94.0" => "Siehst du? Wir sind keineswegs am Ende!",
+  "1.0.95.0" => "Wie könnt ihr es wagen?",
+  "1.0.96.0" => "Der Magiekreis hat gewirkt! Der Drache
+hat an Höhe verloren!",
+  "1.0.97.0" => "Jetzt können wir ihn angreifen!
+Das ist unsere Chance!",
+  "1.0.98.0" => "Unfassbar... Sie haben den mächtigen
+Argorok vom Himmel geholt.",
+  "1.0.99.0" => "Zum Angriff! Folgt mir! Euer König
+wird euch zeigen, wie man kämpft!",
+  "1.0.100.0" => "Der Drache ist in Reichweite und Zanto wagt sich
+hervor. Wenn wir sie besiegen, ist es geschafft!",
+  "1.0.101.0" => "Besiegen wir den Drachen und Zanto,
+haben wir gewonnen! Also los!",
+  "1.0.102.0" => "Wie... konntet ihr Maden den
+Schattenkönig besiegen?",
+  "1.0.103.0" => "Deine Gier wurde dir zum Verhängnis.
+Hinfort mit dir in die ewige Dunkelheit.",
+  "1.0.104.0" => "Deine Gier hat dich auf den Pfad
+des Verderbens geführt... Wie Cia...",
+  "1.0.106.0" => "Wir haben endlich gewonnen...
+Aller guten Dinge sind drei, was?",
+  "1.0.107.0" => "Endlich ist der Sieg unser!
+Das war gute Zusammenarbeit!",
+  "1.0.108.0" => "Der Weg zum Seelenportal sollte nun frei sein!",
+  "1.0.109.0" => "Nun müsste sich das
+Seelenportal versiegeln lassen!",
+  "1.0.110.0" => "Unser Hauptquartier schwebt in Gefahr!
+Wir müssen unsere Verteidigung stärken!",
+  "1.0.111.0" => "Der Feind stürmt unser Hauptquartier!
+Jemand muss sie aufhalten! Bitte!",
+  "1.0.112.0" => "Wenn das Hauptquartier fällt, ist es aus!
+Schnell, wir müssen es verteidigen!",
+  "1.0.113.0" => "Unser Hauptquartier ist fast schon in der Hand
+des Feindes! Schnell, unternimm etwas!",
+  "1.0.114.0" => "Ich habe versagt...",
+  "1.0.115.0" => "Ich hätte nie gedacht, dass...",
+  "1.0.117.0" => "Unser Hauptquartier ist gefallen?
+Dann war alles umsonst...",
+  "1.0.118.0" => "Wir haben das Hauptquartier verloren?
+Dann hat es keinen Sinn, noch zu kämpfen...",
+  "1.0.119.0" => "Wir haben zwar die Festung, aber das Tor
+ist noch zu. Finden wir einen anderen Weg!",
+  "1.0.120.0" => "Aber die Brücke zurück ist zerstört...
+Welcher andere Weg bleibt uns denn noch?",
+  "1.0.121.0" => "Midna, kennst du diese Gestalt
+mit der seltsamen Maske?",
+  "1.0.122.0" => "Ja... Er heißt Zanto. Er hat den Thron
+des Schattenreiches geraubt.",
+  "1.0.123.0" => "Dieser Drache hat unser Hauptquartier beschädigt...
+Wenn sie jetzt angreifen, wird es gefährlich!",
+  "1.0.124.0" => "Puh... Wir haben es irgendwie geschafft.",
+  "1.0.125.0" => "Wenn nicht bald jemand etwas unternimmt,
+fällt unser Hauptquartier!",
+  "1.0.126.0" => "Los, holt euch alle unsere Festungen zurück!
+Tut es für mich, euren rechtmäßigen König!",
+  "1.0.127.0" => "Wir dürfen sie nicht wieder Fuß
+fassen lassen! Erledigt sie!",
+  "1.0.128.0" => "Nanu? Meinst du etwa mich? Gut, dann
+werde ich mich wohl anstrengen müssen...",
+  "1.0.129.0" => "Dieses unverschämte Gör...
+Kümmert euch um sie!",
+  "1.0.130.0" => "Hihihi! Ich bin froh, dass ich helfen konnte!",
+  "1.0.131.0" => "Ich halte die Feinde im Westen auf.
+Kümmert ihr euch um unser Hauptquartier!",
+  "1.0.132.0" => "Dann schaue ich mal nach den Feinden
+in der Mitte!",
+  "1.0.133.0" => "Ich übernehme den Drachen.
+Knöpf du dir Zanto vor!",
+  "1.0.134.0" => "Ihr Hauptquartier ist ungeschützt!
+Das ist unsere Chance!",
+  "1.0.135.0" => "Oh nein... Irgendjemand muss ganz
+schnell das Hauptquartier beschützen!",
+  "1.0.136.0" => "Jetzt ist er endgültig fällig!
+Kommt, wir sammeln uns bei Argorok!",
+  "1.0.137.0" => "Wir müssen schnell zum Hauptquartier,
+sonst wird es fallen!",
+  "13.0.0.0" => "Das Seelenportal dürfte hinten im Palast sein. Wir
+müssen seine Wächter bezwingen und es schließen!",
+  "13.0.1.0" => "Ich verteidige die Festung. Du kommst mir aber zur
+Hilfe, wenn der Feind die Oberhand gewinnt!",
+  "13.0.2.0" => "Zuerst sollten wir uns nach Osten bewegen
+und die Festungen dort einnehmen!",
+  "13.0.3.0" => "Alles in Ordnung? Schnell, nimm die feindlichen
+Festungen im Osten ein!",
+  "13.0.4.0" => "Wir können nicht über die Brücke... Konzentrieren
+wir uns erst einmal auf die Festung!",
+  "13.0.5.0" => "Eine Schatztruhe? Die sollten wir uns nicht
+entgehen lassen!",
+  "13.0.6.0" => "Sie greifen uns aus der Luft an! Und wir
+können kaum etwas dagegen tun...",
+  "13.0.7.0" => "Um einen Drachen zu bezwingen, bedarf es
+der Macht eines Magiekreises!",
+  "13.0.8.0" => "Ich beschwöre einen Magiekreis in der Festung
+unterhalb des Drachen! Ich brauche aber Hilfe!",
+  "13.0.9.0" => "Diese Monster stehen mir im Weg!
+Ich brauche Hilfe!",
+  "13.0.10.0" => "Ist dort drüben alles in Ordnung? Ich bin hier
+allein mittendrin im Getümmel...",
+  "13.0.11.0" => "Wir dürfen keine Zeit verlieren... Der Magiekreis
+muss so schnell wie möglich errichtet sein!",
+  "13.0.12.0" => "Der Magiekreis ist errichtet! Damit können wir den
+Drachen angreifen!",
+  "13.0.13.0" => "Unser Hauptquartier wird fallen, wenn wir nichts
+tun! Schnell! Greif mit dem Magiekreis an!",
+  "13.0.14.0" => "Gut gemacht! Hoffentlich sind wir diesen Drachen
+für immer los...",
+  "13.0.15.0" => "Oh nein! Sie haben es auf Agnetha abgesehen!
+Sie dürfen ihr nichts antun!",
+  "13.0.16.0" => "Sie haben Agnetha gefangengenommen?! Das wird
+sicher die Moral unserer Feinde im Osten stärken...",
+  "13.0.17.0" => "Wir können den Drachen mit dem Magiekreis angreifen!
+Erobere die Position unterhalb des Drachen!",
+  "13.0.18.0" => "Machen wir es wieder wie beim letzten Mal?
+Ich bin dabei!",
+  "13.0.19.0" => "Er nimmt wieder das Hauptquartier aufs Korn...
+Wir müssen ihn abwehren, so schnell es geht!",
+  "13.0.20.0" => "Der Magiekreis ist errichtet! Diesmal solltest du
+den Drachen erwischen!",
+  "13.0.21.0" => "Es ist fast vorbei... Schnell! Verwende den
+Magiekreis, um den Drachen zu besiegen!",
+  "13.0.22.0" => "Da! Der magische Angriff hat gewirkt!
+Der Drache fliegt jetzt deutlich niedriger!",
+  "13.0.23.0" => "Schon drei Mal... Wie oft sollen wir das noch
+wiederholen?",
+  "13.0.24.0" => "Der Angriff mit meinem Magiekreis hat nichts
+bewirkt... Was können wir nur tun?",
+  "13.0.25.0" => "Folgen wir dem Schmetterling! Auf zum Gebäude im
+Südosten... Uns bleibt keine andere Wahl!",
+  "13.0.26.0" => "Der Magiekreis in der Quelle der Göttin ist vielleicht
+genau das, was wir gegen den Drachen benötigen!",
+  "13.0.27.0" => "Uns bleibt nur noch das Hauptquartier. Wir müssen
+es mit unserem Leben schützen, sonst ist alles aus!",
+  "13.0.28.0" => "Fantastisch! Wir haben es geschafft!",
+  "13.0.29.0" => "Wenn wir den Drachen und diesen Zanto besiegen,
+haben wir gewonnen... Nichts leichter als das!",
+  "13.0.30.0" => "Ihr seid Opfer eurer Gier. Du... und Cia!",
+  "13.0.31.0" => "Wir haben ihn... Endlich! Gute Arbeit!",
+  "13.0.32.0" => "Wir haben die mächtigsten unserer Feinde besiegt!
+Jetzt können wir das Seelenportal schließen!",
+  "13.0.33.0" => "Das Hauptquartier hält dem Ansturm kaum noch
+stand! Ich flehe euch an... Helft uns!",
+  "13.0.34.0" => "Das Hauptquartier wird fallen!
+Kommt zu Hilfe! Schnell!",
+  "13.0.35.0" => "Nnnh... Sie haben mich erwischt...
+Es... tut mir leid...",
+  "13.0.36.0" => "Das Hauptquartier ist gefallen? Dann ist alles aus...",
+  "13.0.37.0" => "Dieser Drache hat unser Hauptquartier beschädigt...
+Wenn sie jetzt angreifen, sind wir geliefert!",
+  "13.0.38.0" => "Puh... Wir haben es irgendwie hinbekommen.",
+  "13.0.39.0" => "Oh nein! Wenn es so weitergeht, wird unser
+Hauptquartier nicht lange standhalten!",
+  "13.0.40.0" => "Ich werde den Drachen irgendwie beschäftigen...
+Kümmert ihr euch um Zanto!",
+  "13.0.41.0" => "Was sollen wir nur tun? Einer von
+uns muss sofort zum Hauptquartier!",
+  "13.0.42.0" => "Wenn wir uns nicht sofort um unser
+Hauptquartier kümmern, wird es fallen!",
+}

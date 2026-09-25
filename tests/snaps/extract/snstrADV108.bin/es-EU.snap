@@ -1,0 +1,38 @@
+Map {
+  "0.0.0" => "¡Se ha terminado el tiempo! ¡Has perdido!",
+  "0.1.0" => "Tendrás que superar tres pruebas. ¡Vence al A2enemigoR correcto!",
+  "0.2.0" => "¡Primera prueba!",
+  "0.3.0" => "¡Segunda prueba!",
+  "0.4.0" => "¡Tercera prueba!",
+  "0.5.0" => "¡Has vencido al A2enemigoR correcto!",
+  "0.6.0" => "¡No has vencido al A2enemigoR correcto!",
+  "0.7.0" => "¡Has superado todas las pruebas!",
+  "0.8.0" => "¡Has superado dos de las tres pruebas!",
+  "0.9.0" => "¡Has superado una de las tres pruebas!",
+  "0.10.0" => "¡Has fallado las tres pruebas!",
+  "0.11.0" => "¡Ve al A6bastión objetivoR!",
+  "0.12.0" => "¡Avanza hasta el A6siguiente bastiónR!",
+  "0.13.0" => "¡Estos son los resultados!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "¡Vence al A2jefe
+apasionadoR!",
+  "3.1.0" => "¡Vence a quien
+A2toca músicaR!",
+  "3.2.0" => "¡Vence a quien A2manipula
+el aguaR!",
+  "3.3.0" => "¡Vence al A2rey
+de las tinieblasR!",
+  "3.4.0" => "¡Vence a la
+A2sierva lealR!",
+  "3.5.0" => "¡Vence a la persona
+de la A2realezaR!",
+}

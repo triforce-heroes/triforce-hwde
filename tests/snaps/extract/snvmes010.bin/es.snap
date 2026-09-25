@@ -1,0 +1,249 @@
+Map {
+  "1.0.0.0" => "¡Aquí solo hay ruinas! ¿Cómo puede estar
+la Espada Maestra en un sitio como este?",
+  "1.0.1.0" => "La Espada Maestra está aquí. ¡Debemos
+trabajar juntos para recuperarla!",
+  "1.0.2.0" => "Mas dicen que es necesario despertar a
+las tres estatuas cautivas que hay allá.",
+  "1.0.3.0" => "Antes de nada debemos buscar las estatuas
+cautivas.",
+  "1.0.4.0" => "Será necesario el poder de tres de ustedes
+para despertar a las estatuas cautivas.",
+  "1.0.5.0" => "¿Nuestros poderes?",
+  "1.0.6.0" => "¿Los míos también?",
+  "1.0.7.0" => "Me parece bien.",
+  "1.0.8.0" => "¿Dónde estarán las estatuas cautivas?",
+  "1.0.9.0" => "Yo buscaré por aquí.",
+  "1.0.10.0" => "De acuerdo, yo buscaré
+por esta zona.",
+  "1.0.11.0" => "Bueno, yo buscaré
+en esta dirección.",
+  "1.0.12.0" => "¿Eso de ahí podría ser una estatua cautiva?",
+  "1.0.13.0" => "Diría que es una estatua cautiva.",
+  "1.0.14.0" => "¡He encontrado una de las estatuas cautivas!",
+  "1.0.15.0" => "Vaya, así que esto es una estatua cautiva...
+Pensé que serían más grandes...",
+  "1.0.16.0" => "Creo que hemos encontrado una de las
+estatuas cautivas.",
+  "1.0.17.0" => "Impa, es la estatua del vasallo.
+¡Debes despertarla!",
+  "1.0.18.0" => "Quizás deberíamos despertar
+esa estatua.",
+  "1.0.19.0" => "Creo que me quedaré aquí hasta que
+hayamos despertado las estatuas.",
+  "1.0.20.0" => "Darunia, es la estatua de fuego y agua.
+¿Y si usas tu poder de fuego para despertarla?",
+  "1.0.21.0" => "Lo intentaré.",
+  "1.0.22.0" => "Me parece que va a tardar un rato.
+Me quedaré aquí.",
+  "1.0.23.0" => "Midna, es la estatua del Crepúsculo.
+¿Y si usas tu poder para despertarla?",
+  "1.0.24.0" => "De acuerdo. ¡Haré todo lo que pueda!",
+  "1.0.25.0" => "Creo que todo ha ido bien. Me quedaré aquí
+para ver qué ocurre.",
+  "1.0.26.0" => "¡Todo aquel que ponga en peligro el
+templo será castigado!",
+  "1.0.27.0" => "¿Son soldados fantasma?
+¡Tengan mucho cuidado!",
+  "1.0.28.0" => "No son enemigos normales, pero
+atacan con fuerza. ¡Cuidado!",
+  "1.0.29.0" => "¡Tenemos que encontrar todas
+las estatuas cautivas!",
+  "1.0.30.0" => "¡No podemos dejar que nos venzan!
+¡Debemos despertar todas las estatuas!",
+  "1.0.31.0" => "¡Aún no hemos despertado todas las estatuas!
+Hay que alejar al enemigo.",
+  "1.0.32.0" => "Qué oportuno el enemigo, ahora que
+las estatuas aún no han despertado...",
+  "1.0.33.0" => "Quedan dos más. ¡Peleen hasta que
+las hayamos despertado todas!",
+  "1.0.34.0" => "Solo falta una. ¡Deben defender a los aliados
+cueste lo que cueste!",
+  "1.0.35.0" => "Ahora la puerta del templo debería abrirse.",
+  "1.0.36.0" => "La estatua no ha despertado del todo.
+Tardaremos un tiempo en entrar al templo.",
+  "1.0.37.0" => "¡También hay soldados fantasma
+dentro del templo!",
+  "1.0.38.0" => "Algo no va bien...
+Creo que alguien los manipula.",
+  "1.0.39.0" => "¿Habrá alguien actuando en la sombra?
+Pero... ¿quién puede ser?...",
+  "1.0.40.0" => "¡Vayan por ellos! ¡Rápido!",
+  "1.0.41.0" => "¡Alguien se ha hecho pasar por Lana!
+¡Tengan mucho cuidado!",
+  "1.0.42.0" => "¿Alguien se ha hecho pasar por mí?",
+  "1.0.43.0" => "Noto una presencia maligna cerca...",
+  "1.0.44.0" => "Yo también la noto. ¿Crees que puede
+haber un impostor en nuestras filas?",
+  "1.0.45.0" => "¡No es suficiente! ¡Acaben con ellos!",
+  "1.0.46.0" => "Un momento... Te pasa algo, ¿verdad, Lana?",
+  "1.0.47.0" => "¡Déjame tranquila, estúpida hada!",
+  "1.0.48.0" => "Ya me imaginaba que no sería tarea sencilla
+engañarte. Aun así, no te saldrás con la tuya.",
+  "1.0.49.0" => "Pero... ¡¿qué es lo que hemos hecho?!",
+  "1.0.50.0" => "¡El dueño de la espada sagrada ha aparecido!
+Le ayudaremos en lo que podamos.",
+  "1.0.51.0" => "El poder se ha acumulado en la estatua.
+Creo que ya está lista para despertarse.",
+  "1.0.52.0" => "Lo siento mucho, princesa. Transferí tanto
+poder a la estatua que me cuesta moverme.",
+  "1.0.53.0" => "He usado todo mi poder para despertar la
+estatua. No puedo seguir adelante.",
+  "1.0.54.0" => "Despertar estatuas cansa mucho...
+Podrán seguir sin mí, ¿verdad?",
+  "1.0.55.0" => "Nos encargaremos del resto. Vayamos al
+pedestal de la espada sagrada.",
+  "1.0.56.0" => "¡Vamos, Link! ¡La Espada Maestra nos espera!",
+  "1.0.57.0" => "¡Adelante, Link! Vayamos al pedestal de
+la espada sagrada.",
+  "1.0.58.0" => "¡Déjate de tonterías y dame
+la Espada Maestra!",
+  "1.0.59.0" => "¡La Espada Maestra jamás caerá en manos
+del mal! ¡Acabaremos contigo, hechicero!",
+  "1.0.60.0" => "En zonas sagradas mis poderes son inútiles.
+Será mejor cambiar de sitio.",
+  "1.0.61.0" => "Intentas huir, ¿eh?",
+  "1.0.62.0" => "Mmm... Jugaré con ellos hasta
+que esté recuperado.",
+  "1.0.63.0" => "¡Es increíble! No imaginaba que
+la Espada Maestra fuera tan poderosa.",
+  "1.0.64.0" => "Si peleamos aquí, el enemigo tendrá
+ventaja. ¡Vayamos dentro del templo!",
+  "1.0.65.0" => "Insectos insolentes...",
+  "1.0.66.0" => "Si quieren acabar con Cia, vayan al Templo
+de las Almas. Aunque deben tener cuidado.",
+  "1.0.67.0" => "¡La Espada Maestra es impresionante, Link!
+¡Mientras la tengas contigo, no perderemos!",
+  "1.0.68.0" => "¡Bien, al Templo de las Almas!
+Usemos la espada para acabar con Cia.",
+  "1.0.69.0" => "Qué poco ha faltado...",
+  "1.0.70.0" => "No nos hemos defendido bien... Qué lástima.",
+  "1.0.71.0" => "He bajado la guardia. ¡Lo siento!",
+  "1.0.72.0" => "Me han dejado sin fuerzas... Lo siento.",
+  "1.0.73.0" => "No puedo seguir peleando.",
+  "1.0.74.0" => "Así no podemos abrir las puertas del templo.
+Tendremos que empezar de cero otra vez.",
+  "1.0.75.0" => "Si no abrimos la puerta, no podremos entrar.",
+  "1.0.76.0" => "Se abrió la puerta del templo. ¡Ha aparecido
+el héroe digno de blandir la espada sagrada!",
+  "1.0.77.0" => "Disculpen mis modales.",
+  "1.0.78.0" => "¡Rápido, vayamos al lugar en el que
+se encuentra la espada sagrada!",
+  "1.0.79.0" => "Dice la leyenda que las estatuas están
+al norte, al sur y al oeste de la ciudad.",
+  "1.0.80.0" => "¡No te entrometas! No tengo tiempo
+para juegos.",
+  "1.0.81.0" => "No nos dejan avanzar. ¿Pueden ayudarme?",
+  "1.0.82.0" => "¡Qué pesado! ¡Eh, que alguien me ayude!",
+  "1.0.83.0" => "Muy bien, ya podemos seguir.",
+  "1.0.84.0" => "¡Bien, ya podemos continuar!",
+  "1.0.85.0" => "Por fin podemos seguir adelante.",
+  "1.0.86.0" => "¡No dejaré que se escapen!",
+  "1.0.87.0" => "¡Esa no es Lana! ¡Acaba con ella, Link!",
+  "1.0.88.0" => "Aunque intentes hacerte pasar por otra
+persona, no podrás ocultar tu aura maligna.",
+  "1.0.89.0" => "Debemos derrotar al hechicero si
+queremos vencer, ¡así que adelante!",
+  "13.0.0.0" => "¿Necesitan mi ayuda?",
+  "13.0.1.0" => "Buscaré por esa zona.",
+  "13.0.2.0" => "Amo, las probabilidades de que haya una
+estatua cautiva en esta zona son altas.",
+  "13.0.3.0" => "Me encargaré de buscar en esa zona.",
+  "13.0.4.0" => "¡Yo también buscaré las estatuas!",
+  "13.0.5.0" => "El enemigo me impide avanzar... ¡Ayúdenme!",
+  "13.0.6.0" => "Gracias. Al fin puedo seguir buscando.",
+  "13.0.7.0" => "Hay muchos malos por todas partes.
+¡No puedo seguir! ¿Me podría ayudar alguien?",
+  "13.0.8.0" => "¡Bien! Ya puedo seguir buscando.",
+  "13.0.9.0" => "¿Será esta una de las estatuas cautivas?",
+  "13.0.10.0" => "Amo, he averiguado la ubicación de una
+estatua cautiva.",
+  "13.0.11.0" => "¿Será esta una de las estatuas cautivas?",
+  "13.0.12.0" => "¡Vaya! Creo que esa es una estatua cautiva.",
+  "13.0.13.0" => "Ha aparecido una estatua cautiva...",
+  "13.0.14.0" => "Es la estatua del vasallo. Fay, acércate
+y despiértala.",
+  "13.0.15.0" => "A sus órdenes, princesa.",
+  "13.0.16.0" => "Permaneceré aquí hasta que la estatua del
+vasallo haya despertado por completo.",
+  "13.0.17.0" => "Ruto, es la estatua de fuego y agua.
+¿Podrías despertarla con el poder del agua?",
+  "13.0.18.0" => "Voy a probar...",
+  "13.0.19.0" => "Puede que tarde un rato. Me quedaré aquí
+hasta que haya despertado por completo.",
+  "13.0.20.0" => "Maripola, es la estatua del Crepúsculo.
+Usa tu poder para despertarla.",
+  "13.0.21.0" => "A ver si puedo...",
+  "13.0.22.0" => "¿Ha funcionado? Me quedaré aquí sin perder
+de vista la estatua.",
+  "13.0.23.0" => "¡Han aparecido enemigos muy
+peligrosos! ¡Pónganse a cubierto!",
+  "13.0.24.0" => "¿Aún no hemos encontrado las estatuas
+cautivas?",
+  "13.0.25.0" => "Cuenta la leyenda que las estatuas están en
+el norte, en el sur y en el oeste de este lugar.",
+  "13.0.26.0" => "Deben extremar las precauciones. Si tengo que
+huir, la estatua no llegará a despertar.",
+  "13.0.27.0" => "Si huyo, la estatua nunca llegará a despertar.",
+  "13.0.28.0" => "¡Los tipos malos están aquí! Y la estatua
+sigue dormida...",
+  "13.0.29.0" => "¡Protege a los demás hasta que las estatuas
+hayan despertado!",
+  "13.0.30.0" => "Solo un poco más... ¡Protege a tus compañeros!",
+  "13.0.31.0" => "Fantástico, ya podemos entrar en el templo.",
+  "13.0.32.0" => "Amo, nuestra única opción para entrar al templo es
+aguardar a que las estatuas salgan de su letargo.",
+  "13.0.33.0" => "Esos guardas parecen un poco raros... ¿Será que
+alguien los controla?",
+  "13.0.34.0" => "Mis datos confirman la presencia
+de una impostora de Lana.",
+  "13.0.35.0" => "Percibo una presencia maligna cerca de aquí...
+¡Tengan cuidado!",
+  "13.0.36.0" => "¡La estatua está volviendo a la normalidad!
+Queda poco para que esté despierta del todo.",
+  "13.0.37.0" => "He consumido mis energías para activar
+la estatua, y por ello no podré pelear.",
+  "13.0.38.0" => "Me he quedado sin energías al despertar
+la estatua. ¡Tendrán que pelear sin mí!",
+  "13.0.39.0" => "La estatua está despierta, pero yo no...
+¡Necesito descansar un ratito!",
+  "13.0.40.0" => "Tendremos que seguir adelante por nuestra cuenta.
+Vamos, ¡al pedestal de la espada sagrada!",
+  "13.0.41.0" => "¿Ese hechicero quiere la espada sagrada?
+¡Ni pensarlo! Vamos, acaben con él.",
+  "13.0.42.0" => "Son demasiados... Lo único que podemos hacer es
+escondernos en el templo y luego contratacar.",
+  "13.0.43.0" => "Por qué poco...",
+  "13.0.44.0" => "Debo abandonar la batalla.",
+  "13.0.45.0" => "Lo siento, pero no puedo
+seguir combatiendo...",
+  "13.0.46.0" => "¡Lo siento! He hecho todo lo que he podido...",
+  "13.0.47.0" => "Ya no podemos abrir las puertas del templo...
+Lo único que podemos hacer es volver a intentarlo.",
+  "13.0.48.0" => "¡Del templo está saliendo gente muy enfadada!",
+  "13.0.49.0" => "La Espada Maestra tiene que estar aquí.
+¡Unamos nuestras fuerzas para recuperarla!",
+  "13.0.50.0" => "Al parecer debemos despertar las tres estatuas
+cautivas que hay en este lugar.",
+  "13.0.51.0" => "Necesitamos la ayuda de tres de ustedes
+para despertar las estatuas cautivas.",
+  "13.0.52.0" => "Impa, esa es la estatua del vasallo.
+¡Acércate y despiértala!",
+  "13.0.53.0" => "Darunia, esa es la estatua de fuego y agua.
+Usa el poder del fuego para despertarla.",
+  "13.0.54.0" => "Midna, esa es la estatua del Crepúsculo.
+Usa tu poder para despertarla.",
+  "13.0.55.0" => "¡Dirijámonos al Templo de las Almas y usemos
+la Espada Maestra para derrotar a Cia!",
+  "13.0.56.0" => "Querías hacerte pasar por Lana y
+confundirnos, ¡pero no ha dado resultado!",
+  "13.0.57.0" => "Si crees que usar la identidad de nuestra
+aliada servirá de algo, estás muy equivocada.",
+  "13.0.58.0" => "¡Esa no es Lana! Yo me encargaré de explicarle
+un par de cosas.",
+  "13.0.59.0" => "Se ve claramente que eres una doble. ¿O es que
+crees que soy tonta?",
+  "13.0.60.0" => "Mis datos confirman que se trata de una
+impostora del bando enemigo.",
+  "13.0.61.0" => "¡Déjalo! Ya basta de sembrar dudas.",
+}

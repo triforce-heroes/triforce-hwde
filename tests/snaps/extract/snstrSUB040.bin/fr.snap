@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Le maître des barrières élémentales »!",
+  "0.1.0" => "A0%1sF6R a rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF4R part créer une barrière A0%2sF6R!",
+  "0.3.0" => "Éliminez A0%1sF0R!",
+  "0.4.0" => "A0%1sF4R se prépare à créer une barrière élémentale!",
+  "0.5.0" => "A0%1sF4R est sur le point de créer une barrière élémentale!",
+  "0.6.0" => "Vous avez trouvé A0%1sF0R pendant qu'il créait une barrière élementale!",
+  "0.7.0" => "A0%1sF4R a créé une barrière élémentale dans A0%2sF0R!",
+  "0.8.0" => "A0%1sF4R a créé la barrière élémentale et a fui le champ de bataille!",
+  "0.9.0" => "Vous avez empêché la création d'une barrière élémentale!",
+  "0.10.0" => "Vous avez vaincu A0%1sF0R!",
+  "0.11.0" => "Éliminez A0%1sF0R au plus vite!",
+  "0.12.0" => "A0%1sF4R tombera si une barrière élémentale y est créée!",
+  "0.13.0" => "La création de la barrière élémentale a provoqué la chute A0%1sF2R!",
+  "0.14.0" => "A0%1sF4R a créé une barrière élémentale dans C1%2sF0R!",
+}

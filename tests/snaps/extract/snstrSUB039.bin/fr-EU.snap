@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Le roi entre en scène » !",
+  "0.1.0" => "A0%1sF4R et ses A2sbiresR rejoignent le champ de bataille !",
+  "0.2.0" => "A0%1sF4R et ses A2sbiresR avancent sur A0%2sF0R !",
+  "0.3.0" => "Affrontez A0%1sF0R et remportez la victoire !",
+  "0.4.0" => "A0%1sF4R et ses A1sbiresR se joignent à vous !",
+  "0.5.0" => "A0%1sF4R et ses A1sbiresR avancent vers A0%2sF1R !",
+  "0.6.0" => "Le A2sbireR suivant A0%1sF0R est K.-O. !",
+  "0.7.0" => "Vous avez vaincu A0%1sF0R !",
+  "0.8.0" => "A0%1sF4R perd en puissance !",
+  "0.9.0" => "A0%1sF4R et son A1sbireR se joignent à vous !",
+  "0.10.0" => "A0%1sF4R et son A1sbireR avancent vers A0%2sF1R !",
+  "0.11.0" => "A0%1sF4R et son A2sbireR avancent sur A0%2sF0R !",
+}

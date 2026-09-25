@@ -1,0 +1,13 @@
+Map {
+  "0.0.0" => "Prepare for enemy messengers to intrude!",
+  "0.1.0" => "Not Used",
+  "0.2.0" => "A A0%1sF0R is advancing to call in reinforcements!",
+  "0.3.0" => "Defeat the A0%1sF2R before reinforcements can be called in!",
+  "0.4.0" => "The A0%1sF0R reached the destination and called in enemy reinforcements!",
+  "0.5.0" => "A0%2sF5R received reinforcements thanks to the A0%1sF4R!",
+  "0.6.0" => "You stopped the call for reinforcements!",
+  "0.7.0" => "The A0%1sF0R has been defeated!",
+  "0.8.0" => "A A0%1sF0R has appeared on the battlefield!",
+  "0.9.0" => "Not Used",
+  "0.10.0" => "A0%1sF0R has left the battlefield!",
+}

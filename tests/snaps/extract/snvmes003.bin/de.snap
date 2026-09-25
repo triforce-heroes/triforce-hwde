@@ -1,0 +1,245 @@
+Map {
+  "1.0.0.0" => "Link, großer Held... Ich möchte dich sehen...
+Finde den Weg durch dieses finstere Tal!",
+  "1.0.1.0" => "Cia ist oben auf den Ruinen. Besiegen wir sie,
+um dieser Heimsuchung ein Ende zu bereiten!",
+  "1.0.2.0" => "Wenn wir die Festungen neben den Ruinen
+erobern, erreichen wir ihr Hauptquartier schneller.",
+  "1.0.3.0" => "Ein guter Plan! Wollen wir uns aufteilen und
+gleichzeitig von beiden Seiten angreifen?",
+  "1.0.4.0" => "Wir kommen von Osten.
+Ihr übernehmt den Westen!",
+  "1.0.5.0" => "Shiek... Ich habe meine eigenen Pläne.",
+  "1.0.6.0" => "Erbärmliche, kleine Würmer...
+Ich werde viel Spaß mit euch haben!",
+  "1.0.7.0" => "Der Drachenritter... Er ist zu mächtig!",
+  "1.0.8.0" => "Er ist einfach zu stark...
+Was können wir dagegen ausrichten?",
+  "1.0.9.0" => "Pah! Ihr langweilt mich... Gibt es denn
+keinen würdigen Gegner unter euch?!",
+  "1.0.10.0" => "Der Feind hat mich umzingelt...
+Jemand anderes muss zu Hilfe eilen!",
+  "1.0.11.0" => "Wie armselig... Erst große Reden
+schwingen und dann...",
+  "1.0.12.0" => "Ich war kurz unachtsam...
+Diesen Fehler begehe ich nicht noch einmal!",
+  "1.0.13.0" => "Es ist so weit... Jetzt oder nie!",
+  "1.0.14.0" => "Ich kann mich um den Osten kümmern.
+Übernehmt ihr den Westen!",
+  "1.0.15.0" => "Ich kann mich um den Osten kümmern.",
+  "1.0.16.0" => "Es ist so weit... Jetzt oder nie!",
+  "1.0.17.0" => "Pah. War das alles? Ich hätte mir
+etwas mehr Gegenwehr gewünscht...",
+  "1.0.18.0" => "Die Festung im Westen ist in unserer Hand!",
+  "1.0.19.0" => "Lasst nicht nach! Erobert die zweite Festung
+auch noch!",
+  "1.0.20.0" => "Zeigt keine Furcht!
+Wir müssen sie zurückerobern!",
+  "1.0.21.0" => "Die Festung im Westen ist zurückerobert!",
+  "1.0.22.0" => "Die Festung im Osten ist endlich unter unserer
+Kontrolle... Sehr gut!",
+  "1.0.23.0" => "Lasst nicht nach! Erobert die Festung
+im Westen auch noch!",
+  "1.0.24.0" => "Verliert nicht die Hoffnung!
+Wir müssen einen neuen Angriff wagen!",
+  "1.0.25.0" => "Die östlichen Festungen
+sind wieder in unserer Hand!",
+  "1.0.26.0" => "Gute Arbeit! Jetzt können wir
+endlich die Festung einnehmen!",
+  "1.0.27.0" => "Eine Tentakelwand steht zwischen uns und den
+Ruinen! Wir kommen nicht weiter...",
+  "1.0.28.0" => "Wieso wollt ihr nicht eintreten? Erwartet ihr
+etwa ein Empfangskomitee?! Wie ihr wünscht...",
+  "1.0.29.0" => "Das Tor vorn ist versperrt, wir müssen seitlich
+hinein. Im Osten ist ein Brückenschlag möglich!",
+  "1.0.30.0" => "Wir lenken den Feind an der Vorderseite der
+Ruine ab, während ihr die Brücke senkt!",
+  "1.0.31.0" => "Was geht hier vor? Dieser Feind ruft mitten im
+Kampf neue Monster herbei!",
+  "1.0.32.0" => "Überrascht? Sie können mächtige Monster
+beschwören! Ahaha! Faszinierend, nicht wahr?",
+  "1.0.33.0" => "Wir sind der hylianische Spezialtrupp!
+Ihr braucht eine Brücke? Ihr sollt sie haben!",
+  "1.0.34.0" => "Der Spezialist hat das Hauptquartier
+verlassen. Begleite ihn in den Osten der Ruinen!",
+  "1.0.35.0" => "Ihr wollt mein Zuhause nicht betreten? Na gut...
+Dann schicke ich mein Präsent zu euch!",
+  "1.0.36.0" => "Ich komme mit den Feinden im Westen zurecht.
+Nutzt die Zeit, um die Brücke zu senken...",
+  "1.0.37.0" => "...Dann kümmere ich mich um die Mitte.",
+  "1.0.38.0" => "Achtung! Der Feind marschiert von Westen her
+auf unser Hauptquartier zu!",
+  "1.0.39.0" => "Was führt ihr im Schilde? Was immer
+es sein mag, ich werde es verhindern!",
+  "1.0.40.0" => "Achtung! Feindliche Truppen nehmen Kurs auf
+unseren Spezialisten!",
+  "1.0.41.0" => "Hier spricht der hylianische Spezialtrupp!
+Ich werde angegriffen!",
+  "1.0.42.0" => "Hier spricht der hylianische Spezialtrupp!
+Ich kann dem Angriff kaum noch standhalten!",
+  "1.0.43.0" => "Hier spricht der hylianische Spezialtrupp!
+Die Brücke ist gesenkt! Wir ziehen uns zurück...",
+  "1.0.44.0" => "Ausgezeichnet! Überqueren wir endlich
+die Brücke! Die Ruinen warten auf uns!",
+  "1.0.45.0" => "Wir haben den Spezialisten verloren...",
+  "1.0.46.0" => "All diese Mühe... und alles vergebens! Welch
+eine Tragödie! Ich kann es nicht mit ansehen...",
+  "1.0.47.0" => "Ahaha! Ihr seid so tapfer wie töricht! Lasst
+mich euch helfen! Schreitet über meine Brücke!",
+  "1.0.48.0" => "Wir müssen uns beeilen!
+Cia hält sich oben auf!",
+  "1.0.49.0" => "Der Weg zur Spitze ist auch versperrt...",
+  "1.0.50.0" => "Wenn es stimmt, was man sagt, liegt in den
+Ruinen ein Schatz verborgen. Finden wir ihn!",
+  "1.0.51.0" => "Es ist ein Zeichen guter Erziehung, seine Gäste
+willkommen zu heißen...",
+  "1.0.52.0" => "Oh! Ich hab's! Ein Bumerang! Damit sollten
+wir diese Tentakel endlich loswerden!",
+  "1.0.53.0" => "Die Tentakel sind nur manchmal verwundbar.
+Warte darauf und wirf dann den Bumerang!",
+  "1.0.54.0" => "Aaah! Diese Tentakel-Ungeheuer...
+Der Bogen kann ihnen nichts anhaben!",
+  "1.0.55.0" => "Nicht nachlassen! Es ist noch nicht vorbei!
+Der Feind versteckt sich im Boden unter uns!",
+  "1.0.56.0" => "Ruhig bleiben! Wir müssen den richtigen
+Tentakel treffen, damit es wieder auftaucht!",
+  "1.0.57.0" => "Ich greife die Tentakel in meiner Nähe an!",
+  "1.0.58.0" => "Will es mit uns Verstecken spielen?!
+Das kann es haben!",
+  "1.0.59.0" => "Das Hauptquartier wird angegriffen!
+Wir müssen es besiegen! Und zwar schnell!",
+  "1.0.60.0" => "Wenn wir es nicht bald besiegt haben,
+wird das Hauptquartier fallen...",
+  "1.0.61.0" => "Das Hauptquartier ist kaum noch zu halten!
+Beeile dich!",
+  "1.0.62.0" => "Das war leider nicht das Ungeheuer selbst...",
+  "1.0.63.0" => "Dieses Mal entkommt es nicht!
+Greift mit allem an, was ihr habt!",
+  "1.0.64.0" => "Endlich! Wir haben es besiegt!
+Jetzt erwartet uns Cia!",
+  "1.0.65.0" => "Ich habe euch im Stich gelassen...",
+  "1.0.66.0" => "Wir nehmen die östliche Seite.
+Ihr kommt von Westen her!",
+  "1.0.67.0" => "Shiek... Du musst zu Hilfe eilen!
+Du bist der Einzige, der sich frei bewegen kann!",
+  "1.0.68.0" => "Das Tor zu den Ruinen ist verschlossen?
+Dann kommen wir auch nicht voran...",
+  "1.0.69.0" => "Ich traue Shiek immer
+noch nicht über den Weg...",
+  "1.0.70.0" => "Warum das alles?",
+  "1.0.71.0" => "Jaaa! Wir zeigen ihnen, wasss wir draufhaben!",
+  "1.0.72.0" => "Wir werden euch anssstelle desss
+großen Volga bessstrafen!",
+  "1.0.73.0" => "Noch mehr Feinde... Wir müssen schnell
+das Gebiet vor den Ruinen säubern!",
+  "1.0.74.0" => "Graah! Ich brauche sssofort Hilfe!",
+  "1.0.75.0" => "Krrrrr... Diessse Menschen sssind ssstark!",
+  "1.0.76.0" => "Ich musss flüchten...",
+  "1.0.77.0" => "Esss bringt nichtsss...
+Ich ziehe mich zurück!",
+  "1.0.78.0" => "Die Kleinen hier werden euch sicher gefallen...
+Sie lieben es, euch Festungen wegzunehmen!",
+  "1.0.79.0" => "Wir dürfen sie auf keinen Fall in unser
+Hauptquartier lassen! Zum Angriff!",
+  "1.0.80.0" => "Habt ihr unsss schon vergesssen?",
+  "1.0.81.0" => "Versssucht mal, es mit unsss
+aufzunehmen!",
+  "1.0.82.0" => "Eins nach dem anderen... Bevor wir uns Cia
+vorknöpfen, sind die hinteren Feinde dran!",
+  "1.0.83.0" => "Puh... Waren das alle?",
+  "1.0.84.0" => "Jetzt, meine süßen Echsen!
+Lasst vor den Ruinen keinen leben!",
+  "1.0.85.0" => "Er ist bemerkenswert stark... Wir müssen
+zusammenarbeiten, wenn wir siegen wollen!",
+  "1.0.86.0" => "Wir schützen euch, großer Volga!",
+  "1.0.87.0" => "Die Armee von Hyrule wird vor unsss erzittern!",
+  "1.0.88.0" => "Ihr werdet hier nicht mehr gebraucht.
+Geht und beschützt unsere Herrin!",
+  "1.0.89.0" => "Jetzt steht nur noch dieser Drachenritter
+zwischen uns und der Ruine!",
+  "1.0.90.0" => "Lasst die Feinde nicht zu unserem
+Hauptquartier!",
+  "1.0.91.0" => "Jaaa! Damit ist unser Hauptquartier
+in Sicherheit!",
+  "1.0.92.0" => "Unser Hauptquartier wird fallen...
+Schnell, schlagt sie zurück!",
+  "1.0.93.0" => "Ich warte auf euch...
+Die Tore stehen weit offen!",
+  "1.0.94.0" => "Ich habe eine Idee. Los, alle zu ihnen!",
+  "1.0.95.0" => "Ich werde unsere Kräfte bündeln! Je mehr
+von uns da sind, desto stärker werden wir!",
+  "1.0.96.0" => "Wenn ich die Magie aus dem Tal der
+Seher anzapfe, ist das kein Problem!",
+  "1.0.97.0" => "Dank Lanas Magie haben wir gewonnen!
+Los, auf zur Altarstätte, zu Cia!",
+  "1.0.98.0" => "Wenn ich unsere Kräfte vereine, können wir jeden
+Feind bezwingen! Diese Magie wird uns nützlich sein!",
+  "1.0.99.0" => "Wenn wir uns nicht sofort um unser
+Hauptquartier kümmern, wird es fallen!",
+  "13.0.0.0" => "Wenn wir die zwei Festungen neben den Ruinen
+erobern, kommen wir leichter zu Cias Hauptquartier!",
+  "13.0.1.0" => "Hier teilt sich der Weg... Wir sollten uns ebenfalls
+aufteilen!",
+  "13.0.2.0" => "Hier teilt sich der Weg... Wir sollten uns ebenfalls
+aufteilen!",
+  "13.0.3.0" => "So treffen wir uns wieder. Lass sehen, ob du
+inzwischen stärker geworden bist.",
+  "13.0.4.0" => "Alles in Ordnung, Link? Der Drachenritter setzt dir
+ziemlich zu!",
+  "13.0.5.0" => "Sehr gut! Und jetzt mit Schwung weiter!",
+  "13.0.6.0" => "Danke! Ab hier schafft es Link allein! Kannst du
+dich um die Festungen im Westen kümmern?",
+  "13.0.7.0" => "Danke! Ab hier kommen wir allein zurecht. Link
+übernimmt die Festungen im Osten!",
+  "13.0.8.0" => "Gute Arbeit! Weiter so!",
+  "13.0.9.0" => "Gut, die Festung im Westen gehört uns!",
+  "13.0.10.0" => "Schnell, weiter zur Festung im Osten!",
+  "13.0.11.0" => "Der Feind hat eine Festung zurückerobert... Lana,
+wir brauchen deine Hilfe! Nimm sie ihnen wieder ab!",
+  "13.0.12.0" => "Wir haben die Festungen im Westen zurück!",
+  "13.0.13.0" => "Die Festungen im Osten gehören wieder uns!",
+  "13.0.14.0" => "Es wäre von Vorteil, wenn wir auch die Festung
+im Westen erobern könnten...",
+  "13.0.15.0" => "Der Feind hat eine Festung zurückerobert... Lana,
+wir brauchen deine Hilfe! Nimm sie ihnen wieder ab!",
+  "13.0.16.0" => "Wir haben die Festungen im Osten zurück!",
+  "13.0.17.0" => "Gut gemacht! Jetzt können
+wir die Ruinen stürmen!",
+  "13.0.18.0" => "Oh... Der Eingang zu den Ruinen wird von
+Tentakeln versperrt. Da kommen wir nicht durch.",
+  "13.0.19.0" => "Hm... Wir könnten die Gegner vor die Ruinen
+locken und heimlich die Brücke senken...",
+  "13.0.20.0" => "Ruft er etwa neue Monster herbei?",
+  "13.0.21.0" => "Unser Spezialist hat das Hauptquartier
+verlassen. Geleite ihn zu den Ruinen im Osten!",
+  "13.0.22.0" => "Link wird die Feinde im Westen aufhalten.
+Senkt schnell die Brücke!",
+  "13.0.23.0" => "Am besten wäre es, wenn du die Gegner in der
+Mitte ausschaltest, Link.",
+  "13.0.24.0" => "Vorsicht! Aus dem Westen rücken Feinde gegen
+unser Hauptquartier vor!",
+  "13.0.25.0" => "Die Brücke gibt uns endlich Zugang zu den
+Ruinen!",
+  "13.0.26.0" => "Der Spezialist ist erledigt...",
+  "13.0.27.0" => "Cia ist auf der Spitze! Nichts wie hin!",
+  "13.0.28.0" => "Es lebt immer noch? Anscheinend hat es sich
+unter die Erde verzogen...",
+  "13.0.29.0" => "Wir machen das! Gib ihm Saures, Link!",
+  "13.0.30.0" => "Wir machen das! Gib ihm Saures, Link!",
+  "13.0.31.0" => "Unser Hauptquartier wird angegriffen!
+Jemand muss sich darum kümmern!",
+  "13.0.32.0" => "Das Hauptquartier ist fast in der Hand des Feindes!
+Besiege dieses Ding!",
+  "13.0.33.0" => "Schnell, schnell! Das Hauptquartier hält nicht
+mehr lang durch!",
+  "13.0.34.0" => "Das war leider nicht die Kreatur selbst...",
+  "13.0.35.0" => "Jetzt steht nichts mehr zwischen uns und Cia!
+Los, zur Altarstätte!",
+  "13.0.36.0" => "Was ist, Link? Hat's dich erwischt?",
+  "13.0.37.0" => "Vorsicht! Der Feind will unserem
+Spezialisten ans Leder!",
+  "13.0.38.0" => "Die Tore zu den Ruinen sind verschlossen.
+Hier geht es dann wohl nicht weiter.",
+  "13.0.39.0" => "Link und ich stoßen im Osten vor.
+Übernehmt ihr den Westen!",
+}

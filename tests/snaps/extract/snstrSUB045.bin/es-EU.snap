@@ -1,0 +1,6 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario «Un infiltrado peculiar»!",
+  "0.1.0" => "¡A0%1sF0R y los demás han aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R se dirige hacia A0%2sF2R!",
+  "0.3.0" => "¡Impide que A0%1sF2R huya!",
+}

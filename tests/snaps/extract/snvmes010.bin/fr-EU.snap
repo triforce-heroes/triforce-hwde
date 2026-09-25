@@ -1,0 +1,257 @@
+Map {
+  "1.0.0.0" => "Hé, regardez ! Il n'y a que des ruines ! Est-ce
+que l'épée de légende se trouve vraiment ici ?",
+  "1.0.1.0" => "L'épée de légende est par ici. Unissons
+nos forces pour nous en emparer.",
+  "1.0.2.0" => "Cependant... on dit qu'il faut d'abord réveiller les trois
+statues du sceau qui se trouvent sur ces terres...",
+  "1.0.3.0" => "Commençons par trouver ces statues
+du sceau, alors.",
+  "1.0.4.0" => "Pour réveiller les statues du sceau, nous aurons
+besoin de vos forces à vous trois.",
+  "1.0.5.0" => "Nos forces... ?",
+  "1.0.6.0" => "À moi aussi... ?",
+  "1.0.7.0" => "Pas de problème, je ferai ce qu'il faut pour
+qu'on obtienne l'épée.",
+  "1.0.8.0" => "Les statues du sceau... Les statues du sceau...
+Où peuvent-elles bien être ?",
+  "1.0.9.0" => "Je vais chercher par ici.",
+  "1.0.10.0" => "Bon, je vais aller voir par là-bas.",
+  "1.0.11.0" => "Bien, moi aussi, je vais aller les chercher.",
+  "1.0.12.0" => "Est-ce que c'est ça... une statue du sceau ?",
+  "1.0.13.0" => "C'est probablement une statue du sceau...",
+  "1.0.14.0" => "J'ai trouvé une statue du sceau !",
+  "1.0.15.0" => "Oh... Alors c'est ça, une statue du sceau ?",
+  "1.0.16.0" => "Il semblerait que vous ayez trouvé
+une statue du sceau.",
+  "1.0.17.0" => "Impa, c'est la statue des serviteurs.
+Approche-toi d'elle pour la réveiller.",
+  "1.0.18.0" => "Réveiller la statue ? Très bien.",
+  "1.0.19.0" => "On dirait que je dois rester ici jusqu'à ce que
+la statue soit complètement réveillée...",
+  "1.0.20.0" => "Darunia, c'est la statue du feu et de l'eau. Avec
+ton pouvoir du feu, tu devrais pouvoir la réveiller.",
+  "1.0.21.0" => "Hmmm... Je vais essayer.",
+  "1.0.22.0" => "Ça va prendre un peu de temps, je crois.
+Je vais rester ici un petit moment.",
+  "1.0.23.0" => "Midona, c'est la statue du Crépuscule. Avec ton
+pouvoir des ombres, elle devrait se réveiller.",
+  "1.0.24.0" => "Entendu. Je vais faire au mieux.",
+  "1.0.25.0" => "On dirait que ça a marché. Je vais rester ici
+en attendant la suite des événements.",
+  "1.0.26.0" => "Vous qui apportez le désordre dans ce temple...
+Vous serez punis... !",
+  "1.0.27.0" => "Ce sont les gardiens de l'épée sacrée... ?
+Faites attention !",
+  "1.0.28.0" => "Ce ne sont pas des ennemis ordinaires...
+Soyez sur vos gardes !",
+  "1.0.29.0" => "Trouvez les statues du sceau !",
+  "1.0.30.0" => "Je dois réveiller la statue, je ne peux pas
+encore être vaincue... !",
+  "1.0.31.0" => "Je dois réveiller cette statue. Que quelqu'un
+s'occupe des ennemis !",
+  "1.0.32.0" => "Des ennemis ? C'est bien le moment...
+La statue n'est pas encore réveillée !",
+  "1.0.33.0" => "Encore deux... Protégez nos camarades jusqu'à
+ce que toutes les statues soient réveillées.",
+  "1.0.34.0" => "Plus qu'une... On y est presque. Continuez à
+protéger nos compagnons !",
+  "1.0.35.0" => "Les portes du temple devraient s'ouvrir... !",
+  "1.0.36.0" => "Hmm ? L'éveil de la statue n'est pas complet.
+Il faut encore attendre avant l'ouverture du temple.",
+  "1.0.37.0" => "Il y a aussi des gardiens de l'épée sacrée
+à l'intérieur... !",
+  "1.0.38.0" => "Il y a quelque chose qui cloche... Se pourrait-il que
+quelqu'un manipule les gardiens... ?",
+  "1.0.39.0" => "Quelqu'un les manipule ? Mais comment savoir où
+se trouve cette personne... ?",
+  "1.0.40.0" => "Uh hu hu ! Massacrez-les !",
+  "1.0.41.0" => "On dirait qu'il y a une fausse Lana.
+Faites attention !",
+  "1.0.42.0" => "Hein... ? Il y a une autre moi ?",
+  "1.0.43.0" => "Je ressens une présence maléfique toute proche...",
+  "1.0.44.0" => "Moi aussi je la sens... Si ça se trouve, un monstre
+se cache parmi nos camarades !",
+  "1.0.45.0" => "Ce n'est pas suffisant !
+Attaquez-les plus violemment !",
+  "1.0.46.0" => "Tiens... Lana a l'air vraiment bizarre.",
+  "1.0.47.0" => "Vous m'agacez... En garde !",
+  "1.0.48.0" => "Hmph... Évidemment, il n'est pas aisé de vous
+berner. Mais je ne compte pas abandonner...",
+  "1.0.49.0" => "Qu... Que nous est-il arrivé... ?",
+  "1.0.50.0" => "Le maître de l'épée sacrée est enfin arrivé !
+Bien, nous allons vous prêter main-forte !",
+  "1.0.51.0" => "Je sens que mes forces se concentrent dans la
+statue, je crois qu'elle va bientôt se réveiller.",
+  "1.0.52.0" => "Votre Altesse, pardonnez-moi... J'ai envoyé toutes
+mes forces dans la statue, je ne peux plus bouger...",
+  "1.0.53.0" => "J'ai utilisé toutes mes forces pour réveiller cette
+statue. Désolé, mais je rentre au bercail...",
+  "1.0.54.0" => "Après tout ce travail, je suis fatiguée...
+Je vous laisse vous occuper du reste !",
+  "1.0.55.0" => "Terminons cette mission avec nos troupes restantes.
+Dirigeons-nous vers le socle de l'épée sacrée !",
+  "1.0.56.0" => "Link, allons-y !
+L'épée de légende nous attend !",
+  "1.0.57.0" => "Link ! Vite, dirige-toi vers le socle
+de l'épée sacrée!",
+  "1.0.58.0" => "Ne me sous-estime pas, gamin... !
+Je ne te laisserai pas l'épée de légende !",
+  "1.0.59.0" => "Nous ne laisserons pas l'épée de légende tomber
+entre les griffes du mal ! Il faut vaincre ce mage !",
+  "1.0.60.0" => "On dirait que je ne peux pas déployer mes forces
+dans ce lieu sacré... Changeons d'endroit.",
+  "1.0.61.0" => "Ah ! Il s'enfuit, c'est déloyal !",
+  "1.0.62.0" => "Pff... Amusez-vous donc un peu avec eux
+en attendant que mes blessures guérissent...",
+  "1.0.63.0" => "Ouah ! Super ! C'est ça, la puissance de l'épée
+de légende !",
+  "1.0.64.0" => "Si nous l'affrontons ici, nous serons désavantagés...
+Entrons dans le temple et attendons-le !",
+  "1.0.65.0" => "Grrrr... M... Misérables...",
+  "1.0.66.0" => "Si vous voulez vaincre Cya, rendez-vous au palais
+de l'esprit... Mais... ce sera votre tombe...",
+  "1.0.67.0" => "L'épée de légende est extraordinaire !
+Avec elle, on ne peut pas perdre, c'est sûr !",
+  "1.0.68.0" => "Bien, en route pour le palais de l'esprit. Nous
+devons vaincre Cya à l'aide de l'épée de légende.",
+  "1.0.69.0" => "Ah... Nous étions si proches du but...",
+  "1.0.70.0" => "Nous n'avons pas pu vous protéger...
+Quel dommage.",
+  "1.0.71.0" => "Argh... J'ai baissé ma garde... Pardonnez-moi !",
+  "1.0.72.0" => "Pardon... Je me suis fait avoir...",
+  "1.0.73.0" => "Pardon... Je ne suis plus en état de combattre...",
+  "1.0.74.0" => "Nous ne pouvons plus ouvrir les portes du
+temple... Nous allons devoir battre en retraite...",
+  "1.0.75.0" => "Si les portes ne s'ouvrent pas, on ne pourra
+pas entrer...",
+  "1.0.76.0" => "Les portes du temple se sont ouvertes... Enfin...
+Le maître de l'épée sacrée est arrivé...",
+  "1.0.77.0" => "Pardonnez-nous notre impolitesse...
+Maître... nous sommes à votre service...",
+  "1.0.78.0" => "Cette fois, c'est des vrais monstres !
+Éliminons-les et allons chercher l'épée sacrée !",
+  "1.0.79.0" => "On dit que les statues se trouvent au nord, au sud
+et à la périphérie de la ville, vers l'ouest...",
+  "1.0.80.0" => "Ah ! Hors de mon chemin ! Je n'ai pas de temps
+à perdre avec vous !",
+  "1.0.81.0" => "Ils me bloquent le passage, je peux pas avancer !
+Est-ce que vous pourriez venir m'aider ?!",
+  "1.0.82.0" => "Ah, ils sont vraiment casse-pieds...
+Hé ! J'ai besoin d'un coup de main !",
+  "1.0.83.0" => "Bien, je peux continuer à avancer.",
+  "1.0.84.0" => "OK ! Je vais pouvoir avancer !",
+  "1.0.85.0" => "Fiou... Je vais enfin pouvoir avancer...",
+  "1.0.86.0" => "Hya hya hya ! Vous ne m'échapperez pas !",
+  "1.0.87.0" => "Ce n'est pas Lana ! Link, débarrasse-nous-en !",
+  "1.0.88.0" => "Même dissimulé sous les traits d'une autre,
+tu ne saurais cacher la perversité de ton âme...",
+  "1.0.89.0" => "Si nous arrivons à vaincre ce mage, la victoire
+sera nôtre ! Éliminons-le ensemble !",
+  "13.0.0.0" => "Avez-vous besoin de notre aide ?",
+  "13.0.1.0" => "Je vais chercher de ce côté.",
+  "13.0.2.0" => "Il y a 75 % de chances pour qu'une statue
+du sceau se trouve dans cette direction.",
+  "13.0.3.0" => "Je vais chercher de ce côté.",
+  "13.0.4.0" => "Moi aussi, je dois chercher les statues du sceau.",
+  "13.0.5.0" => "Ces ennemis me bloquent la route ! Personne
+ne veut venir m'aider ?",
+  "13.0.6.0" => "Merci. Je peux reprendre ma route.",
+  "13.0.7.0" => "L'ennemi m'encercle ! Si seulement quelqu'un
+pouvait venir m'aider...",
+  "13.0.8.0" => "Je peux continuer, maintenant.",
+  "13.0.9.0" => "Serait-ce... une statue du sceau ?",
+  "13.0.10.0" => "Fay au rapport. J'ai trouvé l'emplacement
+d'une des statues du sceau.",
+  "13.0.11.0" => "Serait-ce... une statue du sceau ?",
+  "13.0.12.0" => "Oh ! Tu dois être une des statues du sceau.",
+  "13.0.13.0" => "Il semble que nous ayons trouvé une statue du sceau...",
+  "13.0.14.0" => "Fay, c'est la statue des serviteurs.
+Approche-toi d'elle pour la réveiller.",
+  "13.0.15.0" => "Très bien, dame Zelda.",
+  "13.0.16.0" => "Je reste à mon emplacement jusqu'à l'activation
+complète de la statue des serviteurs.",
+  "13.0.17.0" => "Ruto, c'est la statue du feu et de l'eau. Avec ton
+pouvoir de l'eau, tu devrais pouvoir la réveiller.",
+  "13.0.18.0" => "Très bien, j'essaye.",
+  "13.0.19.0" => "Je crois que cela va prendre un peu de temps.
+Bien, je reste ici.",
+  "13.0.20.0" => "Machaon, c'est la statue du Crépuscule. Avec ton
+pouvoir caché, elle devrait se réveiller.",
+  "13.0.21.0" => "Pourrai-je y arriver... ?",
+  "13.0.22.0" => "Est-ce que ça a fonctionné... ? Je vais rester
+avec la statue et garder un œil sur elle.",
+  "13.0.23.0" => "De dangereuses créatures sont apparues !
+Faites tous très attention !",
+  "13.0.24.0" => "Vous n'avez toujours pas trouvé les statues
+du sceau ?",
+  "13.0.25.0" => "D'après la légende, les statues se trouvent au nord,
+au sud, et loin à l'ouest de ces terres...",
+  "13.0.26.0" => "Attention. Si je suis vaincue, la statue
+ne sera pas activée.",
+  "13.0.27.0" => "Je dois activer la statue du sceau, alors je n'ai pas
+le droit de battre en retraite, n'est-ce pas ?",
+  "13.0.28.0" => "Ah ! Ah ! L'ennemi... On m'attaque ! Mais la statue
+est encore en train de dormir...",
+  "13.0.29.0" => "Nous ferions mieux de nous protéger les uns
+les autres jusqu'à l'éveil complet des statues.",
+  "13.0.30.0" => "C'est presque fini. Courage !
+Il faut protéger nos alliés !",
+  "13.0.31.0" => "Bien. Entrons dans le temple.",
+  "13.0.32.0" => "Il est très probable que le temple soit fermé.
+L'activation des statues demande du temps...",
+  "13.0.33.0" => "Il y a quelque chose de bizarre avec les gardiens.
+Serait-ce possible qu'ils soient manipulés... ?",
+  "13.0.34.0" => "Je confirme la présence d'une fausse Lana.
+Je vous recommande de faire attention.",
+  "13.0.35.0" => "Je sens une présence malveillante, tout près...",
+  "13.0.36.0" => "Oh, vous avez l'air d'aller mieux, chère statue !
+Vous allez certainement bientôt vous réveiller.",
+  "13.0.37.0" => "L'activation de la statue consomme mon énergie.
+D'après mes calculs, je ne suis plus apte au combat...",
+  "13.0.38.0" => "La statue est éveillée, mais je suis si fatiguée que
+je ne peux plus faire un pas... Je dois rentrer.",
+  "13.0.39.0" => "Moi aussi, je suis épuisée... Je vais rentrer
+et commencer à préparer le thé.",
+  "13.0.40.0" => "Il ne nous reste que peu d'hommes, mais nous
+devons nous diriger vers le socle de l'épée sacrée !",
+  "13.0.41.0" => "Quelle bassesse que de vouloir nous prendre l'épée
+sacrée ! Écoutez-moi ! Il faut en finir avec ce mage !",
+  "13.0.42.0" => "Ils sont trop nombreux... ! Retirons-nous dans le
+temple et attendons-les ! C'est la seule solution !",
+  "13.0.43.0" => "Nous y étions presque...",
+  "13.0.44.0" => "Je ne suis plus apte à combattre...
+Veuillez me pardonner.",
+  "13.0.45.0" => "Ouille... Je ne peux continuer, désolée...",
+  "13.0.46.0" => "Pa-pa-pardonnez-moi... ! J'ai fait tout ce que
+je pouvais...",
+  "13.0.47.0" => "Nous ne pouvons plus ouvrir les portes.
+Nous devons tout recommencer...",
+  "13.0.48.0" => "Il y a plein de gens en colère qui sortent
+du temple !",
+  "13.0.49.0" => "L'épée de légende se trouve plus loin. Si nous
+restons unis, nous pourrons l'atteindre.",
+  "13.0.50.0" => "D'après la légende, il faut réveiller les trois statues
+du sceau qui reposent sur cette terre.",
+  "13.0.51.0" => "Je suis certaine que vos pouvoirs à vous trois
+seront nécessaires à l'éveil des statues.",
+  "13.0.52.0" => "Impa. Il s'agit de la statue des serviteurs.
+Approche-t'en et éveille-la.",
+  "13.0.53.0" => "Darunia. Il s'agit de la statue du feu et de l'eau.
+Éveille-la avec ton pouvoir du feu.",
+  "13.0.54.0" => "Midona. Il s'agit de la statue du Crépuscule.
+Tu peux l'éveiller avec ton pouvoir des ombres...",
+  "13.0.55.0" => "Bien, entrons dans le palais de l'esprit et
+utilisons l'épée de légende pour vaincre Cya !",
+  "13.0.56.0" => "Se faire passer pour Lana pour tenter de créer la
+confusion dans nos troupes, ça ne marche pas !",
+  "13.0.57.0" => "Vous osez prendre l'apparence de quelqu'un
+d'autre pour faire le mal... C'est impardonnable !",
+  "13.0.58.0" => "Lana... ? Non, c'est pas elle.
+Alors je ne vais pas retenir mes coups !",
+  "13.0.59.0" => "Ksh ksh ksh ! La ressemblance est parfaite !
+Mais on ne me berne pas si facilement !",
+  "13.0.60.0" => "Il n'y a aucune chance pour que cette personne
+soit Lana. Ennemi confirmé. Attaque en cours.",
+  "13.0.61.0" => "Arrêtez ! Vous allez semer la pagaille !",
+}

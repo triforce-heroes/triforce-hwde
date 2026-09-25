@@ -1,0 +1,16 @@
+Map {
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R si dirige verso l'area A0%2sF6R!",
+  "0.3.0" => "Non lasciare che A0%1sF2R raggiunga l'area A0%2sF4R!",
+  "0.4.0" => "A0%1sF0R esplode e danneggia gravemente l'area A0%2sF4R!",
+  "0.5.0" => "Sconfiggi A0%1sF2R e salva A0%2sF2R!",
+  "0.6.0" => "Hai salvato A0%1sF2R!",
+  "0.7.0" => "A0%1sF0R si dirige verso l'area A0%2sF4R!",
+  "0.8.0" => "A0%1sF0R esplode e danneggia gravemente l'area A0%2sF4R!",
+  "0.9.0" => "A0%1sF0R ha raggiunto l'area A0%2sF4R!",
+  "0.10.0" => "A0%1sF0R ha raggiunto l'area A0%2sF4R!",
+  "0.11.0" => "Hanno avvistato A0%2sF2R vicino a A0%1sF6R!",
+  "0.12.0" => "A0%1sF0R ha perso!",
+  "0.13.0" => "A0%1sF0R si dirige verso l'area A0%2sF4R!",
+  "0.14.0" => "Scorta A0%1sF2R mentre avanza!",
+}

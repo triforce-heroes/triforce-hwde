@@ -1,0 +1,349 @@
+Map {
+  "0.0.0" => "La Triforza, l'unione armoniosa di forza, saggezza e
+coraggio...",
+  "0.1.0" => "... è da sempre oggetto di innumerevoli lotte
+tra le forze della luce e delle tenebre.",
+  "0.2.0" => "Ogni volta che il male si impossessava della Triforza,
+Hyrule sprofondava nella miseria.",
+  "0.3.0" => "Ma in ogni era, un eroe vestito di verde era sempre
+pronto a riportare la pace nel regno.",
+  "0.4.0" => "In una di queste ere oscure, l'eroe leggendario
+ruppe lo spirito malvagio in quattro frammenti...",
+  "0.5.0" => "... nascondendoli in posti lontani per fermare
+il circolo di distruzione.",
+  "0.6.0" => "Tre di questi frammenti furono dispersi nello spazio
+e nel tempo.",
+  "0.7.0" => "L'ultimo frammento fu posto in un tempio costruito
+su di un suolo sacro, sigillato dalla spada che
+esorcizza il male.",
+  "1.0.0" => "Per generazioni, gli abitanti di Hyrule raccontarono
+la leggenda della guerra delle ere.",
+  "1.1.0" => "È così che tutto ebbe inizio...",
+  "1.2.0" => "Nel profondo delle foreste, lontano da occhi umani,
+una maga vegliava sull'equilibrio della Triforza.",
+  "1.4.0" => "Grazie ai suoi poteri magici, ella riusciva
+a vedere attraverso il tempo...",
+  "1.5.0" => "... e a leggere nei destini degli
+umani, ma senza mai interferire.",
+  "1.6.0" => "Almeno finché uno spirito tra tanti catturò la sua
+attenzione...",
+  "1.7.0" => "Era lo spirito dell'eroe leggendario, pronto a rinascere
+ogni volta che Hyrule ne avesse bisogno.",
+  "1.9.0" => "La maga avrebbe dovuto capire che l'eroe
+era legato a un'altra anima...",
+  "1.10.0" => "... ma tutto ciò che vedeva era uno
+spirito unico e diverso da tutti gli altri.",
+  "1.11.0" => "Mentre la maga era in balia di tali pensieri,
+un frammento di oscurità ancora imprigionato
+intravide un'opportunità.",
+  "1.13.0" => "Le tenebre si fecero strada nel suo cuore.",
+  "1.14.0" => "L'oscurità spinse la luce lontano da lei e le instillò
+il desiderio di possedere l'anima dell'eroe leggendario.",
+  "1.16.0" => "Naturalmente l'entità maligna aveva un obiettivo...",
+  "1.17.0" => "Usare la Triforza per tornare in vita e conquistare
+Hyrule ancora una volta.",
+  "1.18.0" => "Essa convinse la maga ad aprire la porta delle anime,
+che costituiva l'accesso al tempo stesso.",
+  "1.20.0" => "Demoni da tutte le epoche affluirono attraverso
+questa porta, portando nuovamente la rovina nella
+terra di Hyrule.",
+  "2.0.0" => "Impa, quella visione mi perseguita ancora in sogno.",
+  "2.1.0" => "È forse segno che qualcosa di brutto stia per
+abbattersi su Hyrule...?",
+  "2.2.0" => "Qualcosa di brutto...?",
+  "2.3.0" => "Se è così, dobbiamo subito... rintracciarlo...",
+  "2.4.0" => "Dobbiamo trovare l'eroe degno della tunica
+leggendaria.",
+  "2.5.0" => "Qui ci sono soltanto reclute alle prime armi.",
+  "2.6.0" => "Forse faremmo meglio a cercare altrove...",
+  "2.7.0" => "Vostra altezza!",
+  "2.8.0" => "Abbiamo avvistato un'orda di demoni in
+marcia verso il castello di Hyrule!",
+  "2.9.0" => "Preparatevi alla battaglia!",
+  "2.10.0" => "Ehi, ma quella non è la principessa?",
+  "2.11.0" => "Che ci fa qui la principessa Zelda...?",
+  "2.12.0" => "La principessa sembrava preoccupata...",
+  "2.13.0" => "Ehi, Link!",
+  "2.14.0" => "Cosa credi di fare con quell'arma?!",
+  "2.15.0" => "Zelda",
+  "2.16.0" => "Impa",
+  "2.17.0" => "Zelda",
+  "2.18.0" => "Impa",
+  "2.19.0" => "Impa",
+  "2.20.0" => "Impa",
+  "2.21.0" => "Impa",
+  "2.22.0" => "Soldato",
+  "2.23.0" => "Soldato",
+  "2.24.0" => "Zelda",
+  "2.25.0" => "Recluta",
+  "2.26.0" => "Recluta",
+  "2.27.0" => "Recluta",
+  "2.28.0" => "Recluta",
+  "2.29.0" => "Recluta",
+  "3.0.0" => "Uomini! Adunata!",
+  "3.1.0" => "Porta delle anime... ascolta la mia voce... e apriti!",
+  "3.2.0" => "La mia anima sarà libera!",
+  "3.3.0" => "Ah!",
+  "3.4.0" => "Ottimo lavoro, Cia.",
+  "3.5.0" => "Mi sono stati restituiti tre frammenti di spirito...",
+  "3.6.0" => "L'ultimo che resta da recuperare è quello imprigionato
+nella spada suprema...",
+  "3.7.0" => "Lana",
+  "3.8.0" => "???",
+  "3.9.0" => "???",
+  "3.10.0" => "Cia",
+  "3.11.0" => "???",
+  "3.12.0" => "???",
+  "3.13.0" => "???",
+  "4.0.0" => "Scusatemi se non vi ho detto niente.",
+  "4.1.0" => "Ho dovuto nascondere la mia vera identità ai nemici.",
+  "4.2.0" => "Link, il tuo coraggio non ha pari.",
+  "4.3.0" => "Ho sempre saputo che in te c'era qualcosa di
+speciale, fin dal nostro primo incontro.",
+  "4.4.0" => "Abbiamo chiuso ogni porta delle anime, facendo
+tornare tutto com'era prima.",
+  "4.5.0" => "La prossima cosa da fare è...",
+  "4.6.0" => "Ehi, aspetta un attimo! Non hai anche tu qualcosa
+da dire?",
+  "4.7.0" => "Beh, ecco... Io e Cia...",
+  "4.8.0" => "... non siamo semplicemente della stessa famiglia...",
+  "4.9.0" => "La realtà è che siamo la stessa persona.",
+  "4.10.0" => "Ma... come...?",
+  "4.11.0" => "Qualcosa si è impossessato di Cia e ha sradicato
+tutto ciò che di buono c'era nel suo spirito...",
+  "4.12.0" => "Io sono quella parte che è stata portata via dal
+corpo di Cia.",
+  "4.13.0" => "E il responsabile di ciò...",
+  "4.14.0" => "Donna inutile...",
+  "4.15.0" => "Chi...?",
+  "4.16.0" => "Ora basta. Mi sono stati restituiti tre frammenti
+di spirito...",
+  "4.17.0" => "Non è tutto, ma almeno ho di nuovo il mio corpo.",
+  "4.18.0" => "Tu...!",
+  "4.19.0" => "Cia, mi sei stata molto utile.",
+  "4.20.0" => "Ma come...! Vuoi forse dire che mi hai manipolato
+a tuo piacimento...?!",
+  "4.21.0" => "Eh eh eh... Ormai è acqua passata.
+Ci penserò io a rompere l'ultima barriera.",
+  "4.22.0" => "Ma non mi resta molta forza in questo corpo...",
+  "4.23.0" => "Ma con la forza onnipotente creata dagli dei...",
+  "4.24.0" => "Distruggerò l'ultima barriera e diventerò il re
+del mondo!",
+  "4.25.0" => "La Triforza...",
+  "4.26.0" => "... sarà mia!",
+  "4.27.0" => "Cosa...?!",
+  "4.28.0" => "Tu...!",
+  "4.29.0" => "La Triforza del Coraggio e la Triforza della Saggezza
+sono andate perdute chissà dove...",
+  "4.30.0" => "Argh!",
+  "4.31.0" => "La Triforza sarà di nuovo mia... solo e soltanto mia!",
+  "4.32.0" => "E allora anche l'eroe...",
+  "4.33.0" => "Zelda",
+  "4.34.0" => "Zelda",
+  "4.35.0" => "Zelda",
+  "4.36.0" => "Zelda",
+  "4.37.0" => "Lana",
+  "4.38.0" => "Lana",
+  "4.39.0" => "Midna",
+  "4.40.0" => "Lana",
+  "4.41.0" => "Lana",
+  "4.42.0" => "Lana",
+  "4.43.0" => "Zelda",
+  "4.44.0" => "Lana",
+  "4.45.0" => "Lana",
+  "4.46.0" => "Lana",
+  "4.47.0" => "???",
+  "4.48.0" => "Cia",
+  "4.49.0" => "???",
+  "4.50.0" => "???",
+  "4.51.0" => "Cia",
+  "4.52.0" => "Ganondorf",
+  "4.53.0" => "Cia",
+  "4.54.0" => "Ganondorf",
+  "4.55.0" => "Ganondorf",
+  "4.56.0" => "Ganondorf",
+  "4.57.0" => "Ganondorf",
+  "4.58.0" => "Cia",
+  "4.59.0" => "Cia",
+  "4.60.0" => "Ganondorf",
+  "4.61.0" => "Ganondorf",
+  "4.62.0" => "Cia",
+  "4.63.0" => "Ganondorf",
+  "4.64.0" => "Cia",
+  "4.65.0" => "Cia",
+  "5.0.0" => "Cia...",
+  "5.1.0" => "Sei la mia metà... entrambe vogliamo la stessa cosa...",
+  "5.2.0" => "Riesci a non dare voce ai tuoi sentimenti...?",
+  "5.3.0" => "In qualsiasi era sono sempre stati uniti da un
+legame fortissimo, che nessuno può spezzare...",
+  "5.4.0" => "Ah... Mi fa proprio spazientire...",
+  "5.5.0" => "Il resto è nelle vostre mani.",
+  "5.6.0" => "Riportiamo Hyrule alla normalità.",
+  "5.7.0" => "Ora il regno di Hyrule dovrebbe essere tornato alla
+normalità.",
+  "5.8.0" => "Bene, ora devo andare...",
+  "5.9.0" => "Lana...",
+  "5.10.0" => "Ci rivedremo ancora?",
+  "5.11.0" => "... Addio.",
+  "5.12.0" => "Lana",
+  "5.13.0" => "Cia",
+  "5.14.0" => "Cia",
+  "5.15.0" => "Lana",
+  "5.16.0" => "Cia",
+  "5.17.0" => "Midna",
+  "5.18.0" => "Zelda",
+  "5.19.0" => "Lana",
+  "5.20.0" => "Lana",
+  "5.21.0" => "Zelda",
+  "5.22.0" => "Zelda",
+  "5.23.0" => "Lana",
+  "6.0.0" => "Se ne sono andati tutti.",
+  "6.1.0" => "Resta solo da riportare la spada suprema al suo
+posto. Allora sarà davvero tutto finito.",
+  "6.2.0" => "Ma non sarò io a farlo.",
+  "6.3.0" => "Siete stati voi due a riportare la pace a Hyrule...",
+  "6.4.0" => "Addio, Link.",
+  "6.5.0" => "Link!",
+  "6.6.0" => "Lana",
+  "6.7.0" => "Lana",
+  "6.8.0" => "Lana",
+  "6.9.0" => "Lana",
+  "6.10.0" => "Lana",
+  "6.11.0" => "Zelda",
+  "43.0.0" => "Uhm...",
+  "43.1.0" => "Ehi, Linkle!",
+  "43.2.0" => "Hai sentito?! I demoni hanno assediato
+il castello di Hyrule!",
+  "43.3.0" => "Cosa?! Davvero?!",
+  "43.4.0" => "Anche la principessa Zelda è scesa in campo...
+Ma se i demoni arrivassero fin qui...?!",
+  "43.5.0" => "Ma... perché ti sei vestita così?",
+  "43.6.0" => "Ho deciso! Andrò a combattere anche io!",
+  "43.7.0" => "La mia nonnina mi ha sempre detto
+che sono la reincarnazione di un eroe!",
+  "43.8.0" => "Ma te lo diceva per gioco...",
+  "43.9.0" => "Guardate!",
+  "43.10.0" => "Questa bussola me l'ha data la nonna...
+È il simbolo dei veri eroi!",
+  "43.11.0" => "Ora scusatemi, ma ho un castello
+da proteggere!",
+  "43.12.0" => "Linkle",
+  "43.13.0" => "Abitante",
+  "43.14.0" => "Abitante",
+  "43.15.0" => "Linkle",
+  "43.16.0" => "Abitante",
+  "43.17.0" => "Abitante",
+  "43.18.0" => "Linkle",
+  "43.19.0" => "Linkle",
+  "43.20.0" => "Abitante",
+  "43.21.0" => "Linkle",
+  "43.22.0" => "Linkle",
+  "43.23.0" => "Linkle",
+  "44.4.0" => "Sei stata brava.",
+  "44.5.0" => "Non c'è bisogno di ringraziarmi! Ho solo
+fatto il mio dovere di eroina leggendaria!",
+  "44.6.0" => "Mia nonna sarebbe così orgogliosa di me!",
+  "44.7.0" => "Certo... Ne sono sicura...",
+  "44.12.0" => "Impa",
+  "44.13.0" => "Linkle",
+  "44.14.0" => "Linkle",
+  "44.15.0" => "Impa",
+  "45.0.0" => "Percepisco una nuova frattura tra le ere...
+Qualcuno deve andare a dare un'occhiata!",
+  "45.1.0" => "Andrò anche io.",
+  "45.2.0" => "No, principessa... la vostra presenza
+è necessaria qui... come la mia.",
+  "45.3.0" => "Link... questo è lavoro per te.",
+  "45.4.0" => "Ma... che cosa è successo?!",
+  "45.5.0" => "Impa",
+  "45.6.0" => "Zelda",
+  "45.7.0" => "Impa",
+  "45.8.0" => "Impa",
+  "45.9.0" => "Dazel",
+  "46.0.0" => "Il futuro di questo mondo è luminoso.",
+  "46.1.0" => "Spero che ci incontreremo di nuovo,
+un giorno.",
+  "46.2.0" => "Andiamo, dobbiamo rimettere le cose a posto!",
+  "46.3.0" => "Re Dafnes",
+  "46.4.0" => "Dazel",
+  "46.5.0" => "Lana",
+  "49.0.0" => "Linkle lasciò il suo villaggio per
+riportare la pace a Hyrule.",
+  "49.1.0" => "Nelle mani stringeva la bussola che
+le aveva regalato la nonna.",
+  "49.2.0" => "Ma un folletto dispettoso le portò
+via quel caro ricordo.",
+  "49.3.0" => "Linkle rincorse il folletto per convincerlo
+a restituirle la bussola.",
+  "49.4.0" => "Fu allora che accadde qualcosa di strano...",
+  "49.5.0" => "Come se reagisse alle emozioni di Linkle, la
+bussola cominciò a emanare una luce misteriosa.",
+  "49.6.0" => "Linkle riprese la bussola, se la mise al collo
+e giurò di non perderla mai più.",
+  "49.7.0" => "Ma si chiedeva ancora cosa fosse
+quella luce misteriosa...",
+  "49.8.0" => "Quale potere arcano nascondeva...?",
+  "49.9.0" => "In ogni caso... doveva essere il simbolo
+dell'eroe leggendario!",
+  "49.10.0" => "Credeva che quella magia l'avrebbe aiutata a
+compiere il suo destino e a salvare Hyrule.",
+  "49.11.0" => "Con rinnovata fiducia, Linkle
+riprese il suo cammino.",
+  "50.0.0" => "Midna e Linkle entrarono nel palazzo del crepuscolo
+per salvare Zelda e fermare la magia maligna.",
+  "50.1.0" => "Nonostante la loro vittoria, il crepuscolo
+continuava a divorare tutto ciò che incontrava.",
+  "50.2.0" => "Midna decise allora di distruggere il
+cristallo che avevano trovato nel palazzo.",
+  "50.3.0" => "Sperava che ciò avrebbe emanato un potere
+magico ancora più potente del crepuscolo.",
+  "50.4.0" => "Il piano, tuttavia, avrebbe condannato Midna
+a tornare alla sua forma mostruosa.",
+  "50.5.0" => "Da parte sua però non vi fu esitazione, sapendo
+che la vita di Zelda era più importante.",
+  "50.6.0" => "Linkle fu colpita dalla determinazione di Midna.",
+  "50.7.0" => "Con un fuoco ardente negli occhi, Linkle
+corse verso il castello di Hyrule!",
+  "51.0.0" => "Nella nuova dimensione, Link combatté al
+fianco di Dazel, la condottiera dei pirati.",
+  "51.1.0" => "Ma il potere maligno era più forte di quanto
+pensassero...",
+  "51.2.0" => "Dopo la vittoria, Link vide volare
+in cielo un enorme e terrificante uccello.",
+  "51.3.0" => "Cercò di aguzzare la vista e notò che
+l'uccello teneva qualcosa tra gli artigli.",
+  "51.4.0" => "Anzi, qualcuno! Era Dazel!",
+  "51.5.0" => "Link doveva agire al più presto se voleva
+salvare Dazel dalle grinfie dell'uccello.",
+  "51.6.0" => "E così corse in suo aiuto senza
+esitare un solo attimo.",
+  "52.0.0" => "Lana e Link riuscirono a salvare Dazel
+e a chiudere la porta delle anime.",
+  "52.1.0" => "Ma ciò che era successo al regno di
+Hyrule sembrava ormai irreversibile.",
+  "52.2.0" => "Lana, Link e Dazel non avevano idea di come
+poter risolvere la situazione...",
+  "52.3.0" => "Finché davanti a loro non apparve
+una figura leggendaria.",
+  "52.4.0" => "Era nientemeno che il Re Dafnes Nohansen
+Hyrule, anche conosciuto come Re Drakar!",
+  "52.5.0" => "Nel mondo di Dazel, Re Dafnes era il sovrano
+dell'antico regno segregato.",
+  "52.6.0" => "Su ordine divino, il re si presentò con la speranza
+di salvare questo mondo dilaniato dal conflitto.",
+  "52.7.0" => "Egli spiegò che la causa della frattura
+dimensionale si trovava nel mondo di Dazel.",
+  "52.8.0" => "Finalmente i tre eroi sapevano che
+strada dovevano seguire.",
+  "52.9.0" => "La battaglia li spaventava, ma sapevano
+di non avere altra scelta.",
+  "53.0.0" => "E così la pace tornò su Hyrule.",
+  "53.1.0" => "Lana e Cia salutarono Link e gli altri, tornando
+al loro compito di guardiane nella valle delle maghe.",
+  "53.2.0" => "Forza...
+Saggezza...",
+  "53.3.0" => "Coraggio.",
+  "53.4.0" => "Insieme, Lana e Cia, avrebbero continuato a
+proteggere l'equilibrio della Triforza, in pace
+e armonia.",
+}

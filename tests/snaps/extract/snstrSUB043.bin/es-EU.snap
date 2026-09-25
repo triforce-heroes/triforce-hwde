@@ -1,0 +1,8 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario «El invocador de cucos»!",
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R ha invocado A2cucosR!",
+  "0.3.0" => "¡A0%1sF0R está controlando a los A2cucosR!",
+  "0.4.0" => "¡Tras la derrota A0%1sF6R, los A2cucosR se han aliado con las A0%2sF1R!",
+  "0.5.0" => "¡Has vencido A0%1sF4R!",
+}

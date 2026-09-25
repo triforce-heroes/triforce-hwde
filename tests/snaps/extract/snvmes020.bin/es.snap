@@ -1,0 +1,266 @@
+Map {
+  "1.0.0.0" => "El ritual ha fallado... ¡Eso significa que
+debemos tomar toda esta zona!",
+  "1.0.1.0" => "Usaré el poder del Portal de las Almas
+para realizar el ritual. ¡Triunfaremos!",
+  "1.0.2.0" => "Mis informes confirman una presencia
+maligna. Recomiendo acabar con ella.",
+  "1.0.3.0" => "Hay un 60 % de probabilidades de que se
+trate de seres llamados "Cautivos".",
+  "1.0.4.0" => "Parece que están en problemas...
+¡Yo los ayudaré!",
+  "1.0.5.0" => "¿Qué es ese alboroto? Aunque no creo
+que merezca ni un poco de mi atención.",
+  "1.0.6.0" => "Puedo confirmar que mi salud
+se está agotando.",
+  "1.0.7.0" => "¿Que están en peligro? ¡Haberlo dicho
+antes! ¡Voy a ayudar!",
+  "1.0.8.0" => "Las probabilidades de que tenga que huir
+aumentan por momentos.",
+  "1.0.9.0" => "¡Llegó la hora de que me ponga
+en marcha para ayudar!",
+  "1.0.10.0" => "Confirmo que la presencia de Cautivos
+se ha reducido, pero recomiendo cautela.",
+  "1.0.11.0" => "¡Sin problemas! ¡Yo me encargo!",
+  "1.0.12.0" => "¿Qué pasa? Bah, acabaré con cualquiera
+que se interponga en mi camino.",
+  "1.0.13.0" => "¡Están atacando a los cucos!
+¡Voy a ayudarlos!",
+  "1.0.14.0" => "¡Aguanten, cuquitos, que voy
+en su ayuda!",
+  "1.0.15.0" => "¡Ánimo, cucos, enseguida estoy allí
+para ayudarlos!",
+  "1.0.17.0" => "¿Qué clase de bestia inmunda ataca así
+a un cuco? ¡No lo permitiré!",
+  "1.0.18.0" => "¡Ayúdenme a acabar con estos matacucos!",
+  "1.0.19.0" => "¿Cómo es posible que haya vuelto a
+fallar el ritual? ¡Sigan intentándolo!",
+  "1.0.22.0" => "¿Ha fallado otra vez el ritual? ¡Necesito
+más magia para hacer que funcione!",
+  "1.0.23.0" => "Confirmo que, si no ponemos fin
+al ritual, aparecerán más Cautivos.",
+  "1.0.24.0" => "¡Entonces tenemos que acabar con el
+jefe de este horrible ritual!",
+  "1.0.25.0" => "¡Esto no hace más que salir mal una
+y otra, y otra, y otra, y otra vez!",
+  "1.0.26.0" => "¡Miren! ¡Están invocando de nuevo!",
+  "1.0.27.0" => "Recomiendo acabar con tantos Cautivos
+como sea posible.",
+  "1.0.28.0" => "¡Estoy rabioso! ¡Iracundo! ¡Furioso!
+¡Sigan adelante! ¡El ritual debe triunfar!",
+  "1.0.29.0" => "No sé qué intentan hacer, pero ¿podrían
+dejar de invocar monstruos de una vez?",
+  "1.0.30.0" => "¡¿No disponemos de más magia?! ¡¿Cómo
+pueden ser tan incompetentes?!",
+  "1.0.31.0" => "Tras el análisis de intensidad mágica,
+confirmo que el ritual ha sido detenido.",
+  "1.0.32.0" => "¡Se acabaron los monstruos oscuros!
+¡Ocupémonos de los que quedan!",
+  "1.0.33.0" => "Confirmo el aumento de Cautivos y que
+el ritual es la causa más probable.",
+  "1.0.34.0" => "Hablas raro, pero tienes razón; ¡debemos
+derrotar al enemigo que invoca monstruos!",
+  "1.0.35.0" => "Hay un 90 % de probabilidades de que
+el líder del ritual esté en el templo.",
+  "1.0.36.0" => "Si vamos acabando con esos monstruos,
+a lo mejor sale del templo el líder.",
+  "1.0.37.0" => "¡Acaben con esos gusanos antes de que
+encuentren el Portal de las Almas!",
+  "1.0.38.0" => "¡Mis vasallos! ¡Guíenlos hasta
+la base de esos gusanos!",
+  "1.0.39.0" => "Los monstruos raros se están
+reagrupando... Pero ¿por qué?",
+  "1.0.40.0" => "Confirmo que hay monstruos que dirigen
+a los Cautivos. Recomiendo su derrota.",
+  "1.0.41.0" => "Así que hay que acabar con quienes
+dirigen a los monstruos... ¡Vamos allá!",
+  "1.0.42.0" => "Confirmo que los Cautivos van hacia
+la base. Debemos destruir a su líder.",
+  "1.0.43.0" => "¡No debemos dejar que lleguen a la base!
+¡Tenemos que pararlos!",
+  "1.0.44.0" => "¡Rápido! ¡Guíenlos a la base de esos
+gusanos! ¡Aplástenlos a todos!",
+  "1.0.45.0" => "Hay más controlando a esos monstruos.
+¡Debemos defender a los cucos de ellos!",
+  "1.0.46.0" => "No estoy segura de que este lugar
+sea muy seguro para un polluelo...",
+  "1.0.47.0" => "Confirmo la presencia de Cautivos.
+Recomiendo acabar con ellos primero.",
+  "1.0.48.0" => "Hay que acabar con esos monstruos
+tan extraños, ¿verdad? ¡Pues allá voy!",
+  "1.0.49.0" => "¡Así no puedo llevar a cabo el ritual!
+¡Destruyan la base de esos gusanos!",
+  "1.0.50.0" => "¡Refuercen nuestras defensas! ¡No dejen
+que lleguen al Portal de las Almas!",
+  "1.0.51.0" => "¡Bien! ¡Hemos acabado con los que
+controlaban a esos monstruos feos!",
+  "1.0.52.0" => "Nadie controla ya a los Cautivos. Han
+dejado de suponer una amenaza inmediata.",
+  "1.0.53.0" => "¡Vaya, se ha convertido en
+un cuco dorado!",
+  "1.0.54.0" => "Tendré que usar la magia de los
+Cautivos y acabar con esos gusanos.",
+  "1.0.55.0" => "Confirmo que el líder se dirige
+a la base. Lo interceptaré.",
+  "1.0.56.0" => "¡Debemos defender a los cucos!
+¡Yo me encargo del líder enemigo!",
+  "1.0.57.0" => "¡Mi poder inconmensurable me permitirá
+acabar con esos gusanos tan latosos!",
+  "1.0.58.0" => "Confirmo que el líder está recibiendo
+poder mágico de los Cautivos.",
+  "1.0.59.0" => "Si eliminamos a los monstruos extraños,
+el líder ya no podrá reforzarse, ¿no?",
+  "1.0.60.0" => "Este poder mágico me está haciendo
+invencible... ¡Ja, ja, ja!",
+  "1.0.61.0" => "Confirmo que el líder se ha reforzado
+con el poder mágico de los Cautivos.",
+  "1.0.62.0" => "Pero ¿de dónde saca todo ese poder? ¡Hay
+que acabar con los monstruos como sea!",
+  "1.0.63.0" => "Pero ¡¿qué están haciendo esos
+gusanos?!",
+  "1.0.64.0" => "¡Es verdad; ya no está reforzándose!
+¡Tus cálculos son impresionantes!",
+  "1.0.65.0" => "Confirmo que el líder está debilitado.
+Recomiendo un ataque inmediato.",
+  "1.0.66.0" => "¡¿Por qué no dejan de molestarme?!
+¡Los destruiré por esto!",
+  "1.0.67.0" => "Vaya, parece que está enfadado...
+y bastante debilitado, también.",
+  "1.0.68.0" => "Confirmo que el líder está debilitado,
+aunque todavía le quedan fuerzas.",
+  "1.0.69.0" => "Esto me pasa por confiar en inútiles...
+¡Pero la próxima vez no fallaré!",
+  "1.0.70.0" => "Confirmo que los Cautivos han sido
+derrotados. Gracias por la cooperación.",
+  "1.0.71.0" => "¡De nada! ¡Encantada de ayudar!
+Mi brújula está brillando otra vez...",
+  "1.0.72.0" => "¡No! Han vencido al líder de los cucos...
+¡Ahora se van a separar!",
+  "1.0.73.0" => "¡Mi venganza será terrible y, si fueran
+inteligentes, huirían despavoridos!",
+  "1.0.74.0" => "¡Han tomado nuestra base! Ya no podemos
+continuar combatiendo...",
+  "1.0.75.0" => "Ya me he librado de esos gusanos. Es el
+momento de continuar con el ritual.",
+  "1.0.76.0" => "Confirmo una sinergia en la aparición de
+enemigos. Recomiendo eliminación total.",
+  "1.0.77.0" => "Entonces tenemos que acabar con todos
+los monstruos, ¿no? ¡Pues hagámoslo!",
+  "1.0.78.0" => "Confirmo una reducción en el número de
+Cautivos. Continuemos con el ataque.",
+  "1.0.79.0" => "¡Ilusos! Aunque el ritual fracase,
+no será tan fácil acabar conmigo.",
+  "1.0.80.0" => "Los Cautivos siguen reduciéndose en
+número. Recomiendo eliminar al resto.",
+  "1.0.81.0" => "¡Gusanos inmundos! ¡¿Cómo se atreven
+a enfrentarse a mí?!",
+  "1.0.82.0" => "¡Hemos acabado con muchos monstruos!
+¡Ya sé dónde están sus puntos débiles!",
+  "1.0.83.0" => "¡Qué insolencia! ¡Ahora aprenderán
+a no enfrentarse a mí!",
+  "1.0.84.0" => "Confirmo que ya no quedan Cautivos.
+Todos han sido eliminados.",
+  "1.0.85.0" => "¡Aunque haya fracasado el ritual, no es
+posible que mi señor haya sido eliminado!",
+  "1.0.86.0" => "No tienen poder pleno, ¡pero son muy
+poderosos! ¡Y acabarán con ustedes!",
+  "1.0.87.0" => "Parece más insignificante que en la
+leyenda. Pero recomiendo su destrucción.",
+  "1.0.88.0" => "¡Pero qué bonitos son! Aunque si son
+monstruos, habrá que destruirlos...",
+  "1.0.89.0" => "Espero haber resultado de utilidad por
+acá... ¡Ahora, al castillo de Hyrule!",
+  "1.0.90.0" => "Cucos latosos, ¡no dejan de interponerse
+en mi camino! ¡Elimínenlos!",
+  "1.0.91.0" => "¿Y tú quién eres? ¿Y qué son esos
+harapos que llevas puestos?",
+  "1.0.92.0" => "¡Pero si es mi mejor ropa! ¡Tu peinado
+sí que es un desastre!",
+  "1.0.93.0" => "¿Eras tú quien frustraba mis planes? ¡No
+osarías hacerle algo así a mi señor!",
+  "1.0.94.0" => "El apoyo inesperado nos está dando la
+victoria. Amenaza no registrada.",
+  "1.0.95.0" => "Parece que no entiendes mucho de
+invocaciones, mocosa... ¡No molestes más!",
+  "13.0.2.0" => "No podemos entrar por la puerta
+central, intentémoslo por el este.",
+  "13.0.3.0" => "Percibo una extraña aura
+en nuestras filas...",
+  "13.0.4.0" => "Me pregunto si ese ser tan
+despreciable estará en el templo.",
+  "13.0.5.0" => "Creo que los aliados están confusos...
+¡Retirémonos y pongamos orden!",
+  "13.0.6.0" => "Deberíamos acabar con quienquiera que
+esté dando órdenes a los traidores.",
+  "13.0.7.0" => "¿Quién da órdenes a los rebeldes?
+¡Debemos explorar todos los bastiones!",
+  "13.0.8.0" => "Todos los enemigos se dirigen a ese
+bastión. ¡Seguro que su líder está allá!",
+  "13.0.9.0" => "Los enemigos no atacan ese bastión...
+Creo que su líder se esconde allá.",
+  "13.0.10.0" => "Noto un ser maligno a tu alrededor.
+¡El líder de los traidores está cerca!",
+  "13.0.11.0" => "¡He localizado al líder de los traidores!
+Está en el mismo bastión que tú.",
+  "13.0.12.0" => "Si esto sigue así, perderemos.
+Debes acabar con su líder cuanto antes.",
+  "13.0.13.0" => "Por el momento esto es todo...
+Reagrupémonos para atacar el templo.",
+  "13.0.14.0" => "Qué enemigo más tenebroso... ¡Cuidado!
+No se parece a ningún otro monstruo.",
+  "13.0.15.0" => "¡Oh, no! ¡El monstruo se dirige
+a la base aliada!",
+  "13.0.16.0" => "Creo que los dedos de los pies son
+su punto débil. ¡Aprovéchalo!",
+  "13.0.17.0" => "Creo que está reservando energía para
+algo... ¿Quizás para destruir un bastión?",
+  "13.0.18.0" => "En los bastiones aliados hay armas para
+acabar con él. ¡Espera a que se pare!",
+  "13.0.19.0" => "Aprovechemos ahora que está quieto para
+dispararle. ¡Adelante!",
+  "13.0.20.0" => "¡Es el momento! Debemos acabar con él
+antes de que destruya la base aliada.",
+  "13.0.21.0" => "Si no utilizamos un arma grande, nunca
+acabaremos con él. ¡Busquen alguna!",
+  "13.0.22.0" => "Su punto débil son los dedos de los pies.
+¡Debemos atacar ahí para detenerlo!",
+  "13.0.23.0" => "En ese bastión están todas las armas
+grandes que nos quedan.",
+  "13.0.24.0" => "¡El monstruo ha desaparecido!",
+  "13.0.25.0" => "Los enemigos vienen por el oeste y creo
+que van a la base... ¡Link, derrótalos!",
+  "13.0.26.0" => "Acabemos con él y arrojémoslo
+al Portal de las Almas.",
+  "13.0.27.0" => "¡Hemos cerrado el portal! ¡Buen trabajo!",
+  "13.0.28.0" => "La base ha caído...
+De nada sirve seguir peleando.",
+  "13.0.29.0" => "¡Link ha caído!
+Era nuestra única esperanza...",
+  "13.0.30.0" => "En este bastión está la persona que da
+órdenes a los traidores. ¡Derrotémoslo!",
+  "13.0.31.0" => "¡Ya podemos ir a la parte trasera
+del templo!",
+  "13.0.32.0" => "¡Cuidado! Acaba con el monstruo
+antes de que alcance la base.",
+  "13.0.33.0" => "¡Se acercan enemigos por el oeste!
+¡Ve por ellos, Link!",
+  "13.0.34.0" => "¡Todavía se aproximan enemigos
+por el oeste!",
+  "13.0.35.0" => "¡Misión cumplida, Link!
+¡Vámonos al templo!",
+  "13.0.36.0" => "Tengo un mal presentimiento... Creo que
+alguien da órdenes a los traidores.",
+  "13.0.37.0" => "¡Ya sé quién es el traidor, Link!",
+  "13.0.38.0" => "¡Ahí está el líder de los traidores!
+¡Ve por él, Link!",
+  "13.0.39.0" => "Es peligroso pelear solo, Link. ¡Usemos
+la ocarina para ir con nuestros aliados!",
+  "13.0.40.0" => "Está recuperándose gracias a la magia...
+¡Usa la catapulta para impedirlo, Link!",
+  "13.0.41.0" => "¡Todavía continúa recuperándose, Link!
+¡Conquistemos el bastión para evitarlo!",
+  "13.0.42.0" => "¡No podremos vencer si se recupera!
+¡Tenemos que conquistar este bastión ya!",
+  "13.0.43.0" => "Si nos atacan los soldados de carga,
+¡la moral enemiga aumentará!",
+}

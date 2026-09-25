@@ -1,0 +1,137 @@
+Map {
+  "1.0.0.0" => "Creen que cerrando la puerta y escondiéndose
+en su castillo estarán seguros. Ilusos...",
+  "1.0.1.0" => "¡Acabaré con el héroe y la princesa y me
+quedaré con los fragmentos de la Trifuerza!",
+  "1.0.2.0" => "Este castillo es el último baluarte de Hyrule.
+¡Tenemos que ganar esta batalla!",
+  "1.0.3.0" => "¡Si queremos ganar, debemos tomar
+la base de Ganondorf!",
+  "1.0.4.0" => "Forzaré la puerta norte para que
+puedan avanzar.",
+  "1.0.5.0" => "¡Se dirigen a la puerta norte!
+La prioridad ahora es frenar a sus líderes.",
+  "1.0.6.0" => "¡A sus órdenes, princesa!",
+  "1.0.7.0" => "Será mejor no subestimar a la princesita;
+parece que ya conoce nuestro plan.",
+  "1.0.8.0" => "Estos alfeñiques se emocionan
+con demasiada facilidad...",
+  "1.0.9.0" => "¡Por mucho que lo intenten,
+no conseguirán arruinar nuestros planes!",
+  "1.0.10.0" => "Tenemos a un héroe en nuestras filas.
+¡Es imposible que perdamos! ¿Verdad, Link?",
+  "1.0.11.0" => "Un héroe... ¡He sobrevivido a más
+"héroes" de los que puedas imaginar!",
+  "1.0.12.0" => "¡Link, no te fuerces!
+Retírate y recupera energía.",
+  "1.0.13.0" => "¿Primero me traes a un héroe y luego te
+preocupa que se haga daño? Patético...",
+  "1.0.14.0" => "¡No se preocupen! ¡Link volverá en cuanto
+se recupere un poco!",
+  "1.0.15.0" => "¡Hemos logrado abrirnos paso!",
+  "1.0.16.0" => "¡Uno de los enemigos más fuertes ha caído!
+¡Aprovechemos el momento para atacar!",
+  "1.0.17.0" => "Si creen que por haber derrotado a Zant
+me echaré atrás, están muy equivocados.",
+  "1.0.18.0" => "Utilicemos el poder de la Gran Hada para
+ganar la batalla.",
+  "1.0.19.0" => "¡No dejen que llegue a la fuente! Si la
+Gran Hada los ayuda, tendrán ventaja.",
+  "1.0.20.0" => "Déjamelo a mí.",
+  "1.0.21.0" => "Esto no va a ninguna parte.
+¡Olvídense de Grahim y vayan a la fuente!",
+  "1.0.22.0" => "¡Hemos logrado derrotar a Grahim!",
+  "1.0.23.0" => "¡Pronto se arrepentirán de ser
+tan arrogantes!",
+  "1.0.24.0" => "Ahora debemos acumular poder mágico para
+acabar con la base enemiga.",
+  "1.0.25.0" => "Necesitamos más tiempo para acumular
+el suficiente poder mágico.",
+  "1.0.26.0" => "¡La energía se va acumulando!",
+  "1.0.27.0" => "¡Ya está! ¡Ahora, vamos por el enemigo!",
+  "1.0.28.0" => "Vaya, qué pena.",
+  "1.0.29.0" => "¡Impa! No me lo puedo creer...",
+  "1.0.30.0" => "Vamos, Link. ¡Tenemos que ganar
+como sea!",
+  "1.0.31.0" => "Ahora que Link ha vuelto, podemos ganar.
+¡Todas las tropas deben atacar!",
+  "1.0.32.0" => "¡Link, vamos con ellos!",
+  "1.0.33.0" => "Qué tierno, la princesa y el héroe...
+¡Será más fácil recuperar los fragmentos!",
+  "1.0.34.0" => "¡Impídanles el paso! Tenemos que proteger
+a la princesa Zelda.",
+  "1.0.35.0" => "Yo me ocuparé de ese chico.",
+  "1.0.36.0" => "Déjenme a mí la princesa.",
+  "1.0.37.0" => "No podemos rendirnos ahora.",
+  "1.0.38.0" => "¡Ahora destruyan al héroe!",
+  "1.0.39.0" => "¡Despierta, Link!",
+  "1.0.40.0" => "Por el aspecto del héroe, diría que
+esta batalla ha terminado.",
+  "1.0.41.0" => "¡Ahora vayan por la princesa!",
+  "1.0.42.0" => "No puedo quedarme de brazos cruzados
+mientras Link se deja la piel en combate.",
+  "1.0.43.0" => "La princesa está peleando con todas sus
+fuerzas. Link, ¡también debes hacerlo!",
+  "1.0.44.0" => "Qué tercos... Tendré que acabar con
+los dos para ponerle fin a la batalla.",
+  "1.0.45.0" => "¡No me rendiré!",
+  "1.0.46.0" => "Me parece que no estás en condiciones
+de pelear. ¡Ja, ja, ja!",
+  "1.0.47.0" => "¡No te rindas, Link!",
+  "1.0.48.0" => "Puedes intentarlo cuanto quieras,
+pero no lograrás vencerme.",
+  "1.0.49.0" => "No puedo dejar que Link
+se enfrente a esto solo.",
+  "1.0.50.0" => "¡Vamos, Link! ¡Hay que rescatar
+a la princesa!",
+  "1.0.51.0" => "Usaré el poder de la Trifuerza que reside en
+mi interior para alejar el mal de este bastión.",
+  "1.0.52.0" => "No hay tiempo que perder;
+¡debemos ir a la base de Ganondorf!",
+  "1.0.53.0" => "Link, ¡usa la Trifuerza del Valor para acabar
+con el poder oscuro que hay en este lugar!",
+  "1.0.54.0" => "¡De nada sirve esperar! ¡Tenemos que ir
+por la base enemiga!",
+  "1.0.55.0" => "Si nos tomamos este bastión, podremos
+lograr la victoria.",
+  "1.0.56.0" => "¡Usaré el poder de la Trifuerza para alejar
+el mal de este bastión!",
+  "1.0.57.0" => "¡Esta es la base del enemigo!
+¡Si la tomamos, podremos ganar la batalla!",
+  "1.0.58.0" => "¡Link, usa la Trifuerza para acabar
+con el poder oscuro!",
+  "1.0.59.0" => "Así que ese es el poder de la Trifuerza...
+Tenemos que detenerlo sea como sea.",
+  "1.0.60.0" => "Si no hacemos nada por evitarlo, la base
+caerá. ¡Acaben con ellos ahora mismo!",
+  "1.0.61.0" => "¡No dejaré que estos monstruos
+me derroten!",
+  "1.0.62.0" => "¡Defenderemos Hyrule cueste
+lo que cueste!",
+  "1.0.63.0" => "¿Se puede saber qué hacen?
+¡Defiendan la base!",
+  "1.0.64.0" => "Al fin he reunido los tres fragmentos
+de la Trifuerza.",
+  "1.0.65.0" => "Patéticos insectos... Tendré que aplazar
+mis planes.",
+  "1.0.66.0" => "Las cosas no van bien...
+¡He de hacer algo!",
+  "1.0.67.0" => "Yo también debo hacer algo.
+¡Tropas, ataquen!",
+  "1.0.68.0" => "¡Adelante! ¡Debemos hacer
+que el enemigo retroceda!",
+  "1.0.69.0" => "Yo me ocuparé de esos gusanos.",
+  "1.0.70.0" => "Bien. Ya hemos aislado al enemigo
+en el norte.",
+  "1.0.71.0" => "¡El enemigo está atemorizado!
+¡Es el momento de tomar su base!",
+  "1.0.72.0" => "Su moral está demasiado alta.
+¡Aplástenlos hasta que desesperen!",
+  "13.0.0.0" => "¿Por qué tienen tantas ganas de morir?...",
+  "13.0.1.0" => "Vaya héroe de pacotilla... Si acabamos
+con él, el enemigo se acobardará.",
+  "13.0.2.0" => "¡Esto no ha terminado! ¡Volveremos por ti
+cuando Link recupere sus fuerzas!",
+  "13.0.3.0" => "No permitiré que vayan donde les plazca...
+¡Impidan que se acerquen a la fuente!",
+}

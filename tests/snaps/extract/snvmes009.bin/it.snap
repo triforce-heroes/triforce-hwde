@@ -1,0 +1,301 @@
+Map {
+  "1.0.0.0" => "La Terra dell'Esilio... qui un tempo un eroe
+sconfisse e imprigionò un essere malvagio.",
+  "1.0.1.0" => "Allora è questo il posto chiamato Terra
+dell'Esilio...",
+  "1.0.2.0" => "Già qui? Sembri impaziente... Forse è meglio
+affrettare il potenziamento dei poteri magici...",
+  "1.0.3.0" => "Dobbiamo sconfiggere Ghiraim e chiudere la
+porta delle anime se vogliamo salvarci.",
+  "1.0.4.0" => "Bisogna chiudere subito la porta delle anime!
+È l'unico modo per salvare questa terra...",
+  "1.0.5.0" => "Porta centrale del tempio serrata. Per entrare,
+sbarazzarsi del Guardaporta a est.",
+  "1.0.6.0" => "Non si può passare dalla porta centrale. Ma
+possiamo far fuori il guardaporta sul lato est.",
+  "1.0.7.0" => "Pensaci tu al tempio! Noi ci occuperemo
+dei presidi circostanti!",
+  "1.0.8.0" => "Bene bene... Ho l'impressione che ci
+saranno molti soldati alleati...",
+  "1.0.9.0" => "Avvertita presenza di uno spirito maligno tra
+gli alleati. Si consiglia di fare attenzione.",
+  "1.0.10.0" => "Cosa sarà mai...? Avverto una presenza
+maligna tra gli alleati...",
+  "1.0.11.0" => "Provaci pure, se vuoi... Ma ti avverto che
+non hai alcuna possibilità di vincere.",
+  "1.0.12.0" => "Arciroccia, ce l'abbiamo fatta! Il sentiero di
+accesso al tempio ora è libero!",
+  "1.0.13.0" => "Faih a rapporto: a quanto pare, Ghiraim si
+trova nella parte più interna del tempio.",
+  "1.0.14.0" => "Chissà in quale parte del tempio si
+nasconde quell'essere spregevole...",
+  "1.0.15.0" => "Uhm... Che tempismo perfetto. Avanti,
+facciamogli vedere di cosa siamo capaci!",
+  "1.0.16.0" => "Agli ordini, Vostra Eccellenza Ghiraim!",
+  "1.0.17.0" => "Ma... cosa? Gli alleati ci attaccano?!",
+  "1.0.18.0" => "Gli alleati ci attaccano! Per tutte le rocce,
+cosa sta succedendo?",
+  "1.0.19.0" => "Confermato stato di confusione degli alleati.
+Si consiglia di tornare indietro.",
+  "1.0.20.0" => "Gli alleati sembrano confusi! Torniamo
+indietro e aiutiamoli!",
+  "1.0.21.0" => "Compagni, in piedi! Sono giunti ordini da
+Sua Eccellenza Ghiraim!",
+  "1.0.22.0" => "Non possiamo combattere in queste
+condizioni! Rotoliamo via come massi!",
+  "1.0.23.0" => "Sono proprio contento...! Che grande gioia!",
+  "1.0.24.0" => "Per tutte le rocce! Tradimenti, tradimenti
+ovunque...",
+  "1.0.25.0" => "Possibilità che ci il leader dei traditori
+sia nei paraggi: 90%.",
+  "1.0.26.0" => "Forse c'è qualcuno che dà ordini di
+tradimento... E dobbiamo eliminarlo!",
+  "1.0.27.0" => "Probabilità che il capo dei traditori si
+nasconda in uno dei presidi: 70%.",
+  "1.0.28.0" => "Chissà dove si nasconde la persona che dà
+gli ordini... Forse in un presidio.",
+  "1.0.29.0" => "Identificata presenza del leader dei
+traditori in quel presidio.",
+  "1.0.30.0" => "Tutti i nemici si dirigono verso quel presidio!
+Forse è lì che si trova il loro leader!",
+  "1.0.31.0" => "Compagni! Attaccate la loro base!",
+  "1.0.32.0" => "Oh! Lasciatelo a me!",
+  "1.0.33.0" => "Controllo presidi non sotto attacco nemico
+completato. Il leader si trova in uno di essi.",
+  "1.0.34.0" => "Uno dei presidi non è attaccato dal nemico.
+Il leader dei traditori potrebbe trovarsi lì.",
+  "1.0.35.0" => "Confermata strana presenza nei dintorni. Il
+capo dei traditori potrebbe essere in agguato.",
+  "1.0.36.0" => "Avverto una strana presenza accanto a te.
+Potrebbe esserci un traditore!",
+  "1.0.37.0" => "Identificata posizione del leader dei traditori.
+Si trova nel vostro presidio, mio signore.",
+  "1.0.38.0" => "So chi ha organizzato il tradimento! Il tuo
+presidio! È lì che si trova!",
+  "1.0.39.0" => "La persona in quel presidio è il capo dei
+traditori. Si consiglia l'attacco immediato.",
+  "1.0.40.0" => "Se... se ci hanno scoperto c'è poco da
+fare! Dobbiamo farci trovare pronti!",
+  "1.0.41.0" => "Compagni! Dovete mettercela tutta per
+distruggere la loro base!",
+  "1.0.42.0" => "Base alleata sotto attacco.
+Affrettarsi a trovare il leader nemico!",
+  "1.0.43.0" => "Di questo passo finiremo per essere sconfitti!
+Dobbiamo sbrigarci e fare fuori il traditore!",
+  "1.0.44.0" => "Non è rimasto nessuno dei miei compagni...?
+Allora non mi resta che combattere!",
+  "1.0.45.0" => "Oooh! Vostra Eccellenza Ghiraim,
+perdonatemi...",
+  "1.0.46.0" => "Stato di confusione degli alleati diminuito.
+Avanzare nuovamente verso l'interno del tempio!",
+  "1.0.47.0" => "Questo è il primo passo! Facciamoci
+coraggio e attacchiamo il tempio!",
+  "1.0.48.0" => "È stato riportato in vita grazie al potere
+della porta delle anime! Tremate, insetti!",
+  "1.0.49.0" => "Argh! È apparso un demone grosso come
+un macigno!",
+  "1.0.50.0" => "Il demone era il Recluso... un mostro che
+un tempo cercò di conquistare il mondo.",
+  "1.0.51.0" => "Sembra l'oscurità fatta persona... Fa'
+attenzione! È diverso da tutti gli altri nemici!",
+  "1.0.52.0" => "Faih a rapporto: il Recluso si dirige verso
+la base alleata per invaderla.",
+  "1.0.53.0" => "Oh no! Il demone dell'oscurità si dirige
+verso la base degli alleati!",
+  "1.0.54.0" => "Datevi da fare! Avanti, forza!",
+  "1.0.55.0" => "Confermata efficacia degli attacchi alle dita dei
+piedi del Recluso. Fine delle informazioni utili.",
+  "1.0.56.0" => "Il punto debole di quel demone a quanto
+pare sono le sue dita dei piedi!",
+  "1.0.57.0" => "Magnifico! Miseri insetti, vi schiaccerò
+con immenso piacere!",
+  "1.0.58.0" => "Attenzione: il Recluso intende distruggere il
+presidio! Sta aumentando i suoi poteri magici.",
+  "1.0.59.0" => "Quel demone sta accumulando energia. Forse
+ha intenzione di distruggere un presidio...",
+  "1.0.60.0" => "Possibilità di bombardare da alcuni presidi.
+È preferibile farlo quando il nemico è fermo.",
+  "1.0.61.0" => "Dovremmo riuscire a sparare dal presidio
+alleato. Fate fuoco appena il demone si ferma!",
+  "1.0.62.0" => "Questo potente colpo distruggerà
+il presidio!",
+  "1.0.63.0" => "Presidio in pericolo. Il Recluso si è però
+fermato. Colpire adesso!",
+  "1.0.64.0" => "Il demone è fermo. Ora è il momento
+giusto per colpirlo!",
+  "1.0.65.0" => "Tra poco la facciamo finita. Il prossimo
+colpo ci assicurerà la vittoria!",
+  "1.0.66.0" => "È un'ottima occasione per bombardarlo. Se
+non lo colpiamo ora, per gli alleati è la fine!",
+  "1.0.67.0" => "Colpiamo ora! Dobbiamo fare qualcosa
+prima che la base venga distrutta!",
+  "1.0.68.0" => "Ahimè! Non riusciremo mai a vincere...",
+  "1.0.69.0" => "Possibilità di sconfiggere il Recluso con
+bombardamento da presidio nelle vicinanze.",
+  "1.0.70.0" => "Un tale mostro può essere sconfitto solo a
+cannonate. Conquistiamo il presidio armato!",
+  "1.0.71.0" => "Provata efficacia degli attacchi alle dita dei
+piedi del Recluso. Se le centri, potrai fermarlo.",
+  "1.0.72.0" => "Quel mostro è vulnerabile agli attacchi alle
+dita dei piedi. Se le colpisci, potrai fermarlo!",
+  "1.0.73.0" => "Base confermata come unico presidio con
+armi di artiglieria.",
+  "1.0.74.0" => "Gli unici strumenti che ci sono rimasti
+si trovano nella base.",
+  "1.0.75.0" => "Faih a rapporto: confermata scomparsa
+del Recluso.",
+  "1.0.76.0" => "A quanto pare il Recluso è scomparso!",
+  "1.0.77.0" => "Arciroccia, ce l'abbiamo fatta! Grazie!",
+  "1.0.78.0" => "Tu... Tu! Questa non te la perdono!
+Annienterò te e i tuoi amici!",
+  "1.0.79.0" => "La porta di accesso al tempio si è aperta.",
+  "1.0.80.0" => "Ora sembra esserci una via d'accesso
+al tempio!",
+  "1.0.81.0" => "Ghiraim è nel tempio. Lì dovrebbe esserci
+anche la porta delle anime.",
+  "1.0.82.0" => "Avvistata armata nemica in marcia dal
+tempio. Si consiglia attacco immediato.",
+  "1.0.83.0" => "Il nemico si dirige dal lato ovest del tempio...
+verso la base! Ma niente paura! Link lo fermerà!",
+  "1.0.84.0" => "Un'armata nemica attacca anche da est!",
+  "1.0.85.0" => "Te la farò vedere io! Stavolta ti ridurrò
+in polvere!",
+  "1.0.86.0" => "Sconfiggere Ghiraim e rinchiuderlo nella
+porta delle anime.",
+  "1.0.87.0" => "Sconfiggilo e lancialo oltre la porta
+delle anime!",
+  "1.0.88.0" => "Complimenti, Link. Tutte le operazioni militari
+in questa zona sono state completate.",
+  "1.0.89.0" => "La porta è stata chiusa, abbiamo fatto
+il nostro dovere!",
+  "1.0.90.0" => "Confermata caduta della base alleata.
+Impossibile continuare a combattere.",
+  "1.0.91.0" => "La base si è arresa! Non possiamo
+più combattere...",
+  "1.0.92.0" => "Tsk! Miserabili creature... Credevano
+davvero di potermi sconfiggere?",
+  "1.0.93.0" => "Impossibile continuare a combattere.
+Sono spiacente.",
+  "1.0.94.0" => "Link ha perso! Non possiamo più
+combattere...",
+  "1.0.95.0" => "Fiuuu... grazie per l'aiuto, arciroccia...",
+  "1.0.96.0" => "Pensavo che tutti i sassi fossero
+ormai perduti...",
+  "1.0.97.0" => "Probabilità di sconfitta se il Recluso non
+viene annientato: 100%.",
+  "1.0.98.0" => "Nessuna distrazione! Sta accumulando di nuovo
+energia! Distruggetelo prima che attacchi la base!",
+  "1.0.99.0" => "Minaccia nemica da ovest.
+Confermo inizio missione d'attacco.",
+  "1.0.100.0" => "Base alleata ancora sotto
+attacco nemico da ovest.",
+  "1.0.101.0" => "Missione compiuta. Strada
+libera per il tempio.",
+  "1.0.102.0" => "Rilevata presenza minacciosa.
+Verificare presenza del capo dei traditori.",
+  "1.0.103.0" => "Ubicazione del capo dei traditori
+rilevata grazie a movimenti nemici.",
+  "1.0.104.0" => "Capo dei traditori avvistato.
+Richiesta attacco immediato.",
+  "1.0.105.0" => "Rischio combattimento solitario: 100%.
+Si consiglia uso dell'ocarina.",
+  "1.0.106.0" => "Confermato uso della magia da parte
+nemica. Si consiglia bombardamento.",
+  "1.0.107.0" => "Confermato nuovo uso della magia
+da parte nemica. Richiesto bombardamento.",
+  "1.0.108.0" => "Attenzione: situazione di pericolo.
+Richiesta urgente di bombardamento.",
+  "1.0.109.0" => "Previsione in caso di attacco dei soldati
+d'assalto: miglioramento del morale nemico.",
+  "1.0.110.0" => "Qualche problema? Allora dovrò
+scendere in campo personalmente!",
+  "1.0.111.0" => "Tutti all'attacco! Non fatene scappare
+nemmeno uno!",
+  "1.0.112.0" => "Riduzione potenza nemica: confermata.
+Obiettivo rimasto: Ghiraim.",
+  "1.0.113.0" => "Aumento pericolo base alleata.",
+  "13.0.0.0" => "E quindi questa è la Terra dell'Esilio...",
+  "13.0.1.0" => "Dobbiamo chiudere la porta delle anime!
+È l'unico modo per salvare questa terra...",
+  "13.0.2.0" => "Il tempio è chiuso, ma eliminando
+il guardaporta si può entrare da est.",
+  "13.0.3.0" => "Cosa succede...? C'è una strana atmosfera
+che aleggia tra le nostre truppe...",
+  "13.0.4.0" => "Forse quell'essere spregevole ora è in
+fondo al tempio.",
+  "13.0.5.0" => "I nostri alleati sono confusi!
+Ritiriamoci e mettiamoli in salvo!",
+  "13.0.6.0" => "C'è qualcuno a capo dei traditori...?
+Se è così, dobbiamo distruggerlo!",
+  "13.0.7.0" => "Dove potrà mai essere il capo...
+Forse in un presidio? Che strano...",
+  "13.0.8.0" => "I nemici si dirigono verso quel presidio.
+Scommetto che il capo dei traditori è lì.",
+  "13.0.9.0" => "Uno dei presidi non è stato attaccato.
+Forse è lì che si nasconde il loro capo!",
+  "13.0.10.0" => "Avverto una strana presenza intorno a te.
+Il capo dei traditori potrebbe essere qui!",
+  "13.0.11.0" => "Ho trovato il capo dei traditori!
+È proprio lì, nel tuo stesso presidio!",
+  "13.0.12.0" => "Se continuano così, siamo finiti!
+Presto, sconfiggete il loro capo!",
+  "13.0.13.0" => "Per ora è tutto! Facciamo una
+pausa e poi attacchiamo il tempio!",
+  "13.0.14.0" => "Attenzione! È l'incarnazione delle tenebre...
+Non ha a che fare con gli altri nemici!",
+  "13.0.15.0" => "Oh, no! Questo demone oscuro si dirige
+verso la base alleata!",
+  "13.0.16.0" => "Sembra che quel mostro non gradisca
+gli attacchi alle dita dei piedi!",
+  "13.0.17.0" => "Sembra che stia accumulando energia.
+Forse vuole distruggere un presidio...",
+  "13.0.18.0" => "In alcuni presidi ci sono armi d'artiglieria.
+Usiamole sul mostro appena si ferma!",
+  "13.0.19.0" => "Se spariamo adesso che è fermo,
+dovremmo riuscire a colpirlo!",
+  "13.0.20.0" => "Bombardiamolo! Dobbiamo fermarlo
+prima che distrugga la nostra base!",
+  "13.0.21.0" => "Per sconfiggerlo dobbiamo bombardarlo.
+Cercate in tutti i presidi!",
+  "13.0.22.0" => "Il punto debole di quel mostro sono le dita
+dei piedi. Colpitele per fermarlo!",
+  "13.0.23.0" => "L'ultima arma che ci è rimasta si trova
+nella base!",
+  "13.0.24.0" => "Il mostro è scomparso!",
+  "13.0.25.0" => "Altri nemici che da ovest del tempio
+si dirigono verso la base! Link, fermali!",
+  "13.0.26.0" => "Sconfiggetelo e lanciatelo nella
+porta delle anime!",
+  "13.0.27.0" => "Ecco fatto, abbiamo chiuso la porta!
+Ottimo lavoro, ragazzi!",
+  "13.0.28.0" => "La base è caduta!
+Ormai è inutile continuare a combattere...",
+  "13.0.29.0" => "Link ha perso...!
+La battaglia è finita...",
+  "13.0.30.0" => "In quel presidio c'è il capo dei traditori!
+Prendetelo, forza!",
+  "13.0.31.0" => "Ora possiamo andare in fondo al tempio!",
+  "13.0.32.0" => "Attenzione, sta recuperando le forze!
+Annientatelo prima che colpisca la base!",
+  "13.0.33.0" => "Il nemico attacca da ovest!
+Link, andiamo a intercettarlo!",
+  "13.0.34.0" => "Da ovest stanno arrivando altri nemici!",
+  "13.0.35.0" => "Abbiamo completato la missione!
+Ora dirigiamoci al tempio!",
+  "13.0.36.0" => "Percepisco una minaccia. Qualcuno
+sta convincendo i soldati a tradire!",
+  "13.0.37.0" => "Abbiamo individuato chi spinge i
+soldati al tradimento!",
+  "13.0.38.0" => "Quello è il capo dei traditori!
+Dobbiamo eliminarlo!",
+  "13.0.39.0" => "È pericoloso combattere da solo, Link!
+Usa l'ocarina per farti aiutare!",
+  "13.0.40.0" => "Sta recuperando le forze con la magia!
+Forse possiamo fermarlo con la badopulta!",
+  "13.0.41.0" => "Sta recuperando energie! Se conquistiamo
+il presidio, forse possiamo fermarlo!",
+  "13.0.42.0" => "Se recupera tutte le forze, non riusciremo
+a sconfiggerlo! Eliminiamolo al più presto!",
+  "13.0.43.0" => "Se raggiungono la nostra base,
+prenderanno fiducia!",
+}

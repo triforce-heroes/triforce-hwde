@@ -1,0 +1,284 @@
+Map {
+  "1.0.0.0" => "Nous sommes dans le vallon du sceau... C'est ici
+que jadis le Héros vainquit et scella un grand démon.",
+  "1.0.2.0" => "Vous êtes déjà là, quelle impatience. Je ferais bien
+de vite augmenter mes pouvoirs magiques...",
+  "1.0.3.0" => "Vous devez vaincre Ghirahim et fermer la porte des
+âmes. C'est le seul moyen de sauver ce monde.",
+  "1.0.5.0" => "La porte centrale du temple est fermement verrouillée. Mais il
+est possible d'entrer par l'est si l'on vainc le gardien de la porte.",
+  "1.0.6.0" => "On ne peut pas entrer par la porte centrale du temple,
+mais si on bat le gardien de la porte à l'est...",
+  "1.0.7.0" => "Occupez-vous du temple ! Nous, on va attaquer les
+forts autour !",
+  "1.0.8.0" => "Tiens ? J'ai l'impression que le nombre d'alliés a
+augmenté...",
+  "1.0.9.0" => "Je détecte une âme maléfique dans nos rangs.
+Je vous conseille de redoubler de vigilance.",
+  "1.0.10.0" => "Qu'est-ce que c'est que ça... ? Je ressens
+une atmosphère maléfique dans nos rangs...",
+  "1.0.11.0" => "Démenez-vous tant que vous le pourrez, mais
+vous n'avez aucune chance de l'emporter.",
+  "1.0.12.0" => "On a réussi ! La voie est libre pour entrer dans le
+temple !",
+  "1.0.13.0" => "Fay au rapport. Ghirahim semble se trouver au
+cœur du temple.",
+  "1.0.14.0" => "Je me demande si ce type insupportable est au
+cœur du temple.",
+  "1.0.15.0" => "Hmm... L'heure est arrivée. Mes serviteurs,
+sortez vos crocs !",
+  "1.0.16.0" => "Oui, seigneur Ghirahim !",
+  "1.0.17.0" => "Qu... Quoi ?! Nos alliés nous attaquent !",
+  "1.0.18.0" => "Nos alliés nous attaquent !
+Qu... Qu... Qu'est-ce que ça veut dire ?",
+  "1.0.19.0" => "Je détecte une confusion parmi nos alliés. Je vous
+conseille de vous replier provisoirement.",
+  "1.0.21.0" => "Debout, mes camarades ! Seigneur Ghirahim a
+donné ses ordres !",
+  "1.0.22.0" => "On ne peut pas combattre dans ces conditions !
+Sauve qui peut !",
+  "1.0.23.0" => "... Je jubile ! J'exulte !
+Et je vais continuer à m'amuser !",
+  "1.0.24.0" => "Des traîtres se déclarent partout les uns après les
+autres...",
+  "1.0.25.0" => "Il y a 90 % de chances que quelqu'un dirige les traîtres.
+Je vous conseille de trouver cette personne et de l'éliminer.",
+  "1.0.27.0" => "Il y a 70 % de chances que le commandant des traîtres
+se cache dans un fort d'où il peut suivre la bataille.",
+  "1.0.29.0" => "Les déplacements ennemis m'ont permis de déterminer
+que le commandant des traîtres se trouve là-bas.",
+  "1.0.31.0" => "Camarades ! Attaquez la base des humains !",
+  "1.0.32.0" => "Ouais ! On s'en occupe !",
+  "1.0.33.0" => "Certains forts ne sont pas attaqués. La probabilité
+que le commandant traître s'y trouve est de 85 %.",
+  "1.0.35.0" => "Maître, je détecte une présence inhabituelle près de
+vous. Il s'agit peut-être du commandant des traîtres.",
+  "1.0.36.0" => "Je ressens une présence désagréable près de toi.
+C'est peut-être celui qui commande les traîtres !",
+  "1.0.37.0" => "Les déplacements des ennemis m'ont révélé la position de leur
+commandant. Il se trouve dans le même fort que vous, maître.",
+  "1.0.38.0" => "Je sais où se trouve celui qui commande les
+traîtres ! Il est dans le même fort que toi !",
+  "1.0.39.0" => "La personne dans ce fort est le commandant des
+traîtres. Je vous conseille de le vaincre immédiatement.",
+  "1.0.40.0" => "Tss... Puisque j'ai été démasqué, je n'ai plus trop
+le choix ! En garde !",
+  "1.0.41.0" => "Mes camarades ! Concentrez toutes vos attaques
+pour faire tomber la base des humains !",
+  "1.0.42.0" => "La base alliée est en danger. La probabilité de défaite
+augmente. Trouvons vite le commandant ennemi.",
+  "1.0.43.0" => "Si ça continue, on va perdre ! Il faut vite vaincre
+celui qui leur donne des ordres !",
+  "1.0.44.0" => "Tous mes camarades ont été vaincus... ? Dans ce
+cas, je vais devoir me battre.",
+  "1.0.45.0" => "Ouargh ! Seigneur Ghirahim, pardonnez-moi...",
+  "1.0.46.0" => "La confusion des alliés s'est dissipée. Reprenons
+notre marche vers l'intérieur du temple.",
+  "1.0.47.0" => "Voilà une bonne chose de faite ! Allez, on se
+ressaisit et on repart à l'attaque du temple !",
+  "1.0.48.0" => "Grâce à la porte des âmes, il a enfin ressuscité !
+Pathétiques humains, tremblez de terreur !",
+  "1.0.49.0" => "Ouah ! Un monstre géant est apparu !",
+  "1.0.50.0" => "Ce monstre est le Banni... C'est l'incarnation du
+mal qui a jadis tenté d'engloutir le monde.",
+  "1.0.51.0" => "On dirait les ténèbres incarnées... Attention !
+Ce n'est pas un ennemi comme les autres !",
+  "1.0.52.0" => "Alerte. Le Banni avance vers la base alliée.",
+  "1.0.53.0" => "C'est terrible ! Le monstre des ténèbres en a après
+notre base !",
+  "1.0.54.0" => "Et vous aussi, au lieu de vous tourner les pouces,
+allez à l'attaque !",
+  "1.0.55.0" => "Je détecte que les orteils du Banni sont vulnérables
+aux attaques... Je n'ai pas d'autre information.",
+  "1.0.56.0" => "On dirait que ce monstre n'aime pas qu'on attaque
+ses orteils !",
+  "1.0.57.0" => "... Grandiose ! Misérable humains, vous allez avoir
+l'insigne honneur d'être écrasés sous ses pieds !",
+  "1.0.58.0" => "Alerte. Le Banni semble amplifier ses pouvoirs
+magiques pour détruire les forts.",
+  "1.0.59.0" => "On dirait que ce monstre concentre ses forces.
+Est-ce qu'il compte détruire le fort... ?",
+  "1.0.60.0" => "Il est possible de le bombarder avec les armes qui se
+trouvent dans les forts. Il faut profiter des moments où il s'arrête.",
+  "1.0.62.0" => "Ses attaques concentrées sont sans égales !
+Ce fort va être pulvérisé !",
+  "1.0.63.0" => "Le fort est en danger... Mais le Banni est immobile.
+C'est l'occasion de le bombarder.",
+  "1.0.64.0" => "Maintenant que ce monstre s'est arrêté, ça devrait
+être facile de le bombarder !",
+  "1.0.65.0" => "Bien, il est temps d'en finir. Le prochain coup nous
+apportera la victoire !",
+  "1.0.66.0" => "C'est l'occasion de le bombarder. Si vous ne l'arrêtez
+pas maintenant, la défaite des alliés est assurée.",
+  "1.0.67.0" => "Bombardez-le maintenant ! Il faut faire quelque
+chose avant que notre base soit détruite !",
+  "1.0.68.0" => "Ouaaaah... On peut pas gagner face à un truc
+pareil...",
+  "1.0.69.0" => "Mon analyse montre qu'il faut bombarder le Banni. Je vous
+conseille de prendre les forts où sont installées des armes.",
+  "1.0.71.0" => "Les orteils du Banni sont vulnérables aux attaques. Vous
+devriez pouvoir arrêter sa progression en les attaquant.",
+  "1.0.73.0" => "Je constate que notre base est le dernier fort qui
+abrite une arme capable de le bombarder.",
+  "1.0.74.0" => "Il n'y a plus que dans notre base qu'il y ait une arme.",
+  "1.0.75.0" => "Maître, Fay au rapport. J'ai détecté que le Banni
+a été éliminé.",
+  "1.0.76.0" => "On dirait que le monstre a disparu !",
+  "1.0.77.0" => "Ouais ! On est sauvés !",
+  "1.0.78.0" => "Misérables vermines ! Vous allez me le payer !
+Je vais tous vous écrabouiller jusqu'au dernier !!!",
+  "1.0.79.0" => "La porte qui donne sur le cœur du temple semble
+être ouverte.",
+  "1.0.80.0" => "On dirait qu'on peut aller au cœur du temple,
+maintenant !",
+  "1.0.81.0" => "Ghirahim est au cœur du temple. La porte des âmes
+devrait s'y trouver également.",
+  "1.0.82.0" => "J'ai repéré une troupe ennemie avançant depuis
+le temple. Je vous conseille de l'intercepter.",
+  "1.0.83.0" => "Des ennemis arrivent de l'ouest du temple... Ils visent
+notre base ? Pas de problème ! Link va les intercepter !",
+  "1.0.84.0" => "Des troupes ennemies nous
+attaquent aussi par l'est !",
+  "1.0.85.0" => "Vous vous mettez toujours en travers de ma route !
+Mais cette fois-ci, je vais vous précipiter en enfer !",
+  "1.0.86.0" => "Il nous faut vaincre Ghirahim et l'enfermer de
+l'autre côté de la porte des âmes.",
+  "1.0.87.0" => "Il faut le vaincre et le balancer de l'autre côté de la
+porte des âmes !",
+  "1.0.88.0" => "Maître Link, félicitations. Vous avez mené à bien
+toutes les opérations sur ces terres.",
+  "1.0.89.0" => "La porte est fermée, on a rempli notre mission !
+Beau travail !",
+  "1.0.90.0" => "Je confirme la chute de la base alliée.
+Il est impossible de poursuivre le combat.",
+  "1.0.91.0" => "Notre base est tombée !
+On ne peut plus combattre...",
+  "1.0.92.0" => "Comment aurait-il pu en être autrement ? Des vermines
+telles que vous ne pourront jamais me vaincre !",
+  "1.0.93.0" => "Je suis dans l'impossibilité de poursuivre le
+combat. Pardonnez-moi, maître.",
+  "1.0.94.0" => "Link a été vaincu... !
+On ne peut plus combattre...",
+  "1.0.95.0" => "Me... Merci...",
+  "1.0.96.0" => "Hiii... J'ai bien cru que j'allais y rester...",
+  "1.0.97.0" => "Il y a 100 % de chances que la base alliée
+tombe si nous n'éliminons pas le Banni.",
+  "1.0.98.0" => "Attention ! Il charge encore de l'énergie !
+Abattons-le avant qu'il ne détruise notre base !",
+  "1.0.99.0" => "Des ennemis semblent approcher depuis
+l'ouest. Je vais les intercepter.",
+  "1.0.100.0" => "L'ennemi semble poursuivre son attaque
+sur la base alliée depuis l'ouest...",
+  "1.0.101.0" => "Mission accomplie. Maître, veuillez
+vous infiltrer dans le temple.",
+  "1.0.102.0" => "... Je détecte une présence inhabituelle près d'ici.
+Le commandant des traîtres y est peut-être infiltré.",
+  "1.0.103.0" => "J'ai déterminé l'emplacement du commandant
+à partir des déplacements ennemis.",
+  "1.0.104.0" => "Cette personne est le commandant des traîtres.
+Je vous conseille de le vaincre immédiatement.",
+  "1.0.105.0" => "Combattre seul est dangereux. Je vous conseille de venir
+combattre aux côtés de nos alliés avec l'ocarina.",
+  "1.0.106.0" => "Je constate une régénération par la magie
+amplifiée. Un bombardement pourrait l'interrompre.",
+  "1.0.107.0" => "Je constate une nouvelle régénération magique.
+Je vous conseille d'y mettre fin par un bombardement.",
+  "1.0.108.0" => "Si rien n'est fait, il sera difficile de le vaincre.
+Je vous conseille vivement de le bombarder au plus vite.",
+  "1.0.109.0" => "Si nous laissons l'ennemi pénétrer dans notre
+base, une hausse de leur moral est à prévoir.",
+  "1.0.110.0" => "Bande de bons à rien ! Je vais donc devoir me
+salir les mains et les écrabouiller moi-même !",
+  "1.0.111.0" => "Qu'attendez-vous ? Allez-y, vous aussi !
+Ne laissez aucune de ces vermines s'enfuir !",
+  "1.0.112.0" => "Je constate une diminution des forces enemies.
+Le moment est propice pour aller vaincre Ghirahim.",
+  "1.0.113.0" => "Le risque de chute de la
+base alliée a augmenté.",
+  "13.0.0.0" => "C'est ici l'endroit qu'on appelle le vallon du
+sceau...",
+  "13.0.1.0" => "Il faut vite fermer la porte des âmes ! C'est
+sûrement le seul moyen de sauver ce monde...",
+  "13.0.2.0" => "On ne peut pas entrer par la porte centrale du temple,
+mais si on bat le gardien de la porte à l'est...",
+  "13.0.3.0" => "Qu'est-ce que c'est que ça... ? Je ressens
+une atmosphère maléfique dans nos rangs...",
+  "13.0.4.0" => "Je me demande si ce type insupportable est au
+cœur du temple.",
+  "13.0.5.0" => "Nos alliés sont confus ! Replions-nous pour
+l'instant et allons les aider !",
+  "13.0.6.0" => "Je me demande s'il y a quelqu'un qui dirige ces traîtres...
+Si c'est le cas, il faut vaincre cette personne.",
+  "13.0.7.0" => "Où est celui qui donne les ordres... ?
+Peut-être dans un des forts.",
+  "13.0.8.0" => "Tous les ennemis se dirigent vers ce fort. Est-ce
+que celui qui donne les ordres se trouve là-bas ?",
+  "13.0.9.0" => "Il y a un fort que les ennemis n'attaquent pas. Celui
+qui donne des ordres aux traîtres y est peut-être !",
+  "13.0.10.0" => "Je ressens une présence désagréable près de toi.
+C'est peut-être celui qui commande les traîtres !",
+  "13.0.11.0" => "Je sais où se trouve celui qui commande les
+traîtres ! Il est dans le même fort que toi !",
+  "13.0.12.0" => "Si ça continue, on va perdre ! Il faut vite vaincre
+celui qui leur donne des ordres !",
+  "13.0.13.0" => "Voilà une bonne chose de faite ! Allez, on se
+ressaisit et on repart à l'attaque du temple !",
+  "13.0.14.0" => "On dirait les ténèbres incarnées... Attention !
+Ce n'est pas un ennemi comme les autres !",
+  "13.0.15.0" => "C'est terrible ! Le monstre des ténèbres en a après
+notre base !",
+  "13.0.16.0" => "On dirait que ce monstre n'aime pas qu'on attaque
+ses orteils !",
+  "13.0.17.0" => "On dirait que ce monstre concentre ses forces.
+Est-ce qu'il compte détruire le fort... ?",
+  "13.0.18.0" => "On dirait qu'on peut le bombarder depuis les forts
+alliés. Essaie de lui tirer dessus quand il s'arrête !",
+  "13.0.19.0" => "Maintenant que ce monstre s'est arrêté, ça devrait
+être facile de le bombarder !",
+  "13.0.20.0" => "Bombardez-le maintenant ! Il faut faire quelque
+chose avant que notre base soit détruite !",
+  "13.0.21.0" => "Si on bombarde pas ce monstre, on pourra pas le
+vaincre. Prenons les forts où il y a des armes !",
+  "13.0.22.0" => "On dirait que le point faible de ce monstre, c'est
+ses orteils. Si on les attaque, il devrait s'arrêter !",
+  "13.0.23.0" => "Il n'y a plus que dans notre base qu'il y ait une arme.",
+  "13.0.24.0" => "On dirait que le monstre a disparu !",
+  "13.0.25.0" => "Des ennemis arrivent aussi de l'ouest du temple...
+Ils visent notre base ? Link, allons les intercepter !",
+  "13.0.26.0" => "Il faut le vaincre et le balancer de l'autre côté de la
+porte des âmes !",
+  "13.0.27.0" => "La porte est fermée, on a rempli notre mission !
+Beau travail !",
+  "13.0.28.0" => "Notre base est tombée !
+On ne peut plus combattre...",
+  "13.0.29.0" => "Link a été vaincu... !
+On ne peut plus combattre...",
+  "13.0.30.0" => "Cette personne, dans le fort, elle donne des ordres
+aux traîtres ! Il faut vite s'en débarrasser !",
+  "13.0.31.0" => "On dirait qu'on peut aller au cœur du temple,
+maintenant !",
+  "13.0.32.0" => "Attention ! Il charge encore de l'énergie !
+Abattons-le avant qu'il ne détruise notre base !",
+  "13.0.33.0" => "Des ennemis arrivent par l'ouest !
+Link, allons les affronter !",
+  "13.0.34.0" => "Il y a encore des ennemis
+qui arrivent de l'ouest...",
+  "13.0.35.0" => "Mission accomplie !
+Allez, direction le temple !",
+  "13.0.36.0" => "Je ressens une présence désagréable près d'ici. C'est
+peut-être celle de la personne qui commande les traîtres !",
+  "13.0.37.0" => "Je sais où se trouve celui qui
+commande les traîtres !",
+  "13.0.38.0" => "C'est lui qui commande les traîtres,
+on dirait ! Vite, il faut le battre !",
+  "13.0.39.0" => "C'est dangereux de combattre toute seule...
+Utilise l'ocarina et viens combattre avec nous !",
+  "13.0.40.0" => "Il se régénère avec la magie qu'il emmagasine !
+En le bombardant, on devrait pouvoir l'arrêter !",
+  "13.0.41.0" => "Il se régénère vraiment ! Si on le fait
+tomber, ça devrait s'arrêter. Vite !",
+  "13.0.42.0" => "S'il se régénère, on ne pourra peut-être
+pas le vaincre ! Il faut vite le faire tomber !",
+  "13.0.43.0" => "S'ils envahissent notre base,
+ça va les motiver !",
+}

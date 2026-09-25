@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF7R rejoignent le champ de bataille !",
+  "0.2.0" => "Il semble que si vous approchez A0%1sF1R, vous pourrez faire des échanges !",
+  "0.4.0" => "Vous avez fait un échange avec A0%1sF0R !",
+  "0.5.0" => "A0%1sF4R est satisfait et quitte le champ de bataille !",
+  "0.6.0" => "Approchez A0%1sF0R restant pour faire un autre échange !",
+  "0.8.0" => "A0%1sF4R a fui !",
+  "0.9.0" => "A0%1sF4R a senti le danger et a quitté le champ de bataille !",
+  "0.11.0" => "A0%1sF4R a laissé un objet pour vous !",
+  "0.13.0" => "A0%1sF4R vous a remis son A6titre de propriétéR contre A61 000 rubisR !",
+  "0.14.0" => "A0%1sF4R vous a remis un objet contre votre A6titre de propriétéR !",
+}

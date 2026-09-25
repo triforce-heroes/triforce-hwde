@@ -1,0 +1,232 @@
+Map {
+  "1.0.0.0" => "È l'ultima occasione per salvare Hyrule
+dalle tenebre. Eliminiamo Zant e Ghiraim!",
+  "1.0.1.0" => "Se vuoi sconfiggermi, fatti avanti. Ma le tue
+ferite non guariranno neanche tra cent'anni!",
+  "1.0.2.0" => "La potenza nemica è impressionante. Se uno
+solo di noi fugge, questa battaglia è persa.",
+  "1.0.3.0" => "Va tutto bene, cercherò di non farmi
+battere!",
+  "1.0.4.0" => "Qui tutto a posto! Vero, Link?!",
+  "1.0.5.0" => "Dobbiamo sconfiggere Ghiraim e Zant. Per
+prima cosa attacchiamo Ghiraim a sud.",
+  "1.0.6.0" => "Sì, ma... bisogna fare attenzione nel deserto.
+Fa caldo e si perde energia più facilmente.",
+  "1.0.7.0" => "Così non va... Mi gira la testa per il caldo
+e i troppi nemici. Qualcuno mi aiuti...",
+  "1.0.8.0" => "Fiuuu! Ho recuperato le energie! Con le
+oasi, i deserti non fanno così paura!",
+  "1.0.9.0" => "C'è un'oasi anche a sud. Se le conquistiamo
+entrambe, il deserto non farà più paura!",
+  "1.0.10.0" => "Uhm... se riesci a conquistare le oasi,
+il deserto non farà più paura...",
+  "1.0.11.0" => "Ehi, che stai facendo? Fatti sotto!",
+  "1.0.12.0" => "Ehi, voi... non siete poi così male.
+Per ora è meglio darsi alla ritirata...",
+  "1.0.13.0" => "Eh? Ghiraim è scappato?",
+  "1.0.14.0" => "C'è qualcosa che non quadra... dovremmo
+inseguire Ghiraim e attaccarlo?",
+  "1.0.15.0" => "Abbiamo sconfitto Ghiraim!
+Ma mi è sembrato fin troppo facile.",
+  "1.0.17.0" => "I nemici si sono divisi!
+Dobbiamo chiudere le porte per isolarli!",
+  "1.0.18.0" => "Oh, no! Sono stata separata dagli alleati!
+Sono caduta in una trappola!",
+  "1.0.19.0" => "È troppo pericoloso restare isolati!
+Bisogna rimanere uniti a ogni costo!",
+  "1.0.20.0" => "Argh! Ci sono troppi nemici! Mi servirebbe
+l'aiuto degli altri...",
+  "1.0.21.0" => "Uhm... non è il momento di buttarsi giù...
+devo raggiungere gli altri!",
+  "1.0.22.0" => "Non potrò resistere a lungo! Devo aprirmi
+un varco tra le truppe nemiche!",
+  "1.0.23.0" => "Sono circondata dal nemico e non ho
+alcuna via d'uscita! Che cosa posso fare?!",
+  "1.0.24.0" => "Oh, no! Lana è circondata da demoni!",
+  "1.0.25.0" => "Qui è pieno di nemici e non so cosa fare!",
+  "1.0.26.0" => "Oh, no! Dobbiamo aiutare Link!",
+  "1.0.27.0" => "Non voglio arrendermi, tutti si danno da
+fare! Devo far breccia tra le fila nemiche!",
+  "1.0.28.0" => "Non importa quanto ci proviate, morirete
+nel deserto o per mano nostra!",
+  "1.0.29.0" => "Il nemico si avvicina! Chiudiamo l'entrata
+del villaggio per difendere la base!",
+  "1.0.30.0" => "L'armata che difende l'oasi nord deve
+tornare subito alla base!",
+  "1.0.31.0" => "Se riesci a battermi potrai tornare dai
+tuoi amici... SE riesci a battermi!",
+  "1.0.32.0" => "Sta forse cercando di evitare lo scontro?
+Presto, sconfiggiamo Zant!",
+  "1.0.33.0" => "L'armata di Hyrule non può niente contro
+le tenebre. Il deserto sarà la vostra tomba!",
+  "1.0.34.0" => "Vuole solo prendere tempo... Presto,
+dobbiamo sconfiggere Zant!",
+  "1.0.35.0" => "Maledetti... ma non finisce qui!",
+  "1.0.36.0" => "Che strano. Abbiamo sconfitto Zant e Ghiraim,
+ma le loro armate non sembrano indebolirsi!",
+  "1.0.37.0" => "Ho un brutto presentimento.
+Presto, raggiungi gli alleati!",
+  "1.0.38.0" => "A quanto pare le mie preghiere sono state
+ascoltate. Grazie a tutti! Ora diamoci dentro!",
+  "1.0.39.0" => "Probabilità di vittoria: 5%. Ma non voglio
+perdere. È questa ciò che chiamano fiducia?",
+  "1.0.40.0" => "Ci sono anche io! Non esistono nemici
+troppo forti per noi, vero fratelli?",
+  "1.0.41.0" => "Non coinvolgetemi di nuovo... Uffa!
+Non mi resta che unirmi alla battaglia!",
+  "1.0.42.0" => "I nemici arrivano da nord!
+Devo prepararmi alla battaglia!",
+  "1.0.43.0" => "Arrivano anche da sud! Cominciano a
+essere troppi, ma me ne occuperò io!",
+  "1.0.44.0" => "Anche senza Ghiraim e Zant, i nemici
+non sembrano scomporsi.",
+  "1.0.45.0" => "Forse hanno altri comandanti...",
+  "1.0.46.0" => "Potrebbe essere... ma pensiamo a fermare
+le forze nemiche che vengono verso di noi!",
+  "1.0.47.0" => "Hanno sfondato la porta! I demoni
+sono troppi!",
+  "1.0.48.0" => "Non finiscono più! Sembra che ci sia
+qualcuno che li guida da dietro le quinte!",
+  "1.0.49.0" => "L'impeto dei nemici si è fatto ancora più
+violento dopo la caduta di Ghiraim e Zant!",
+  "1.0.50.0" => "A proposito... Ghiraim e Zant mi
+sembravano strani, in effetti...",
+  "1.0.51.0" => "Oh, no! Allora forse quelli erano impostori!
+Quelli veri forse si nascondono chissà dove!",
+  "1.0.52.0" => "Proteggerò la nostra base a ogni costo!
+Trovate i veri Ghiraim e Zant e sconfiggeteli!",
+  "1.0.53.0" => "Cercate nei presidi inesplorati! Quelli veri
+non staranno dove si aggiravano gli impostori!",
+  "1.0.54.0" => "Probabilmente hanno osservato la battaglia
+da un punto sicuro!",
+  "1.0.55.0" => "Uhm... forse hanno scoperto il nostro
+piano.",
+  "1.0.56.0" => "Finiamoli una volta per tutte! All'attacco!",
+  "1.0.57.0" => "Oh, no! Si dirigono verso la nostra base!
+Sconfiggiamo subito Ghiraim e Zant!",
+  "1.0.58.0" => "Finalmente vi fate vedere! Ma pensate
+di vincere con questa misera armata?",
+  "1.0.59.0" => "Finora vi siete divertiti un po' troppo...
+Ma adesso lo spasso è finito!",
+  "1.0.60.0" => "Umpf... Che stai dicendo? Una volta
+eliminati voi due, la vittoria è nostra!",
+  "1.0.61.0" => "Grrr... voi! Come avete fatto a
+ribaltare le carte in tavola?!",
+  "1.0.62.0" => "Resta solo Ghiraim! Sconfiggiamolo!",
+  "1.0.63.0" => "Non è possibile... mi hanno sconfitto...
+Ma il mondo... appartiene al mio signore...",
+  "1.0.64.0" => "Resta solo Zant! Dobbiamo sconfiggerlo!",
+  "1.0.65.0" => "Abbiamo sconfitto l'armata dei demoni!
+Un raggio di speranza splende su Hyrule!",
+  "1.0.66.0" => "La nostra base è sotto attacco.
+Osservate i movimenti dei demoni!",
+  "1.0.67.0" => "La nostra base sta per cedere...
+presto, tutti in difesa!",
+  "1.0.68.0" => "Non so se ce la farò... qualcuno mi aiuti!",
+  "1.0.69.0" => "Non ce la faccio più! Qualcuno mi aiuti!",
+  "1.0.70.0" => "Mi spiace...
+Non sono riuscita a respingere il nemico...",
+  "1.0.71.0" => "La nostra base è caduta nelle mani
+nemiche... Non possiamo più combattere.",
+  "1.0.72.0" => "Non posso più combattere, perdonatemi...",
+  "1.0.73.0" => "Cercherò di non farmi battere. Nella prossima
+battaglia dobbiamo essere più cauti.",
+  "1.0.74.0" => "Mmh... il caldo del deserto si fa sentire...
+inetti!!! Attaccate i nemici a nord!",
+  "1.0.75.0" => "Sconfiggi i nemici nel presidio e
+apri le porte!",
+  "1.0.76.0" => "C'è un'oasi anche a nord. Se le conquistiamo
+entrambe, il deserto non sarà più un pericolo.",
+  "1.0.77.0" => "Avvistato nemico in direzione base
+alleata: procedo all'intercettazione.",
+  "1.0.78.0" => "Se il presidio cade è tutto finito!
+Dobbiamo seguire Faih!",
+  "1.0.79.0" => "Rilevata presenza minacciosa.
+Si consiglia attacco immediato.",
+  "1.0.80.0" => "Se c'è una minaccia, basta eliminarla!
+Andiamo all'attacco, Midna!",
+  "1.0.81.0" => "Non posso tirarmi indietro... Darunia
+da solo non è abbastanza forte.",
+  "1.0.82.0" => "Attività sospetta terminata.
+Probabile facilitazione della difesa.",
+  "1.0.83.0" => "Eh eh... i nemici non erano assolutamente
+alla mia altezza...",
+  "1.0.84.0" => "Tsk! Senza il mio aiuto non
+sarebbe stato altrettanto facile!",
+  "1.0.85.0" => "I nemici sono diminuiti! Sfruttiamo
+l'occasione per passare all'attacco!",
+  "1.0.86.0" => "Missione completata.
+Riprendo a eliminare i nemici.",
+  "13.0.0.0" => "È l'ultima occasione per liberare questa terra
+dai demoni! Sconfiggiamo Zant e Ghiraim!",
+  "13.0.1.0" => "I nemici ci superano in numero. Se uno solo
+di noi cadesse in battaglia, saremmo spacciati!",
+  "13.0.2.0" => "Anch'io ce la metterò tutta. Bisogna
+prestare la massima attenzione in battaglia!",
+  "13.0.3.0" => "Ghiraim si trova nel deserto a sud!
+Andiamo ad affrontarlo!",
+  "13.0.4.0" => "Ricevuto. Ma fate attenzione nel deserto!
+Il caldo vi sfinirà...",
+  "13.0.5.0" => "Qualcuno venga ad aiutare Link!
+Il caldo e i demoni lo stanno sfinendo!",
+  "13.0.6.0" => "Uh... Se conquistiamo un'oasi,
+non avremo di che temere nel deserto!",
+  "13.0.7.0" => "C'è un'oasi anche nel deserto a sud! Se le
+conquistiamo entrambe, sarà una passeggiata!",
+  "13.0.8.0" => "C'è qualcosa che non quadra...
+Ma non possiamo lasciar scappare Ghiraim!",
+  "13.0.9.0" => "Vinceremo solo se restiamo uniti... Forza,
+uniamo le nostre forze con quelle di Lana!",
+  "13.0.10.0" => "Sono troppi...
+Dobbiamo farci strada con la forza!",
+  "13.0.11.0" => "Link! Non puoi arrenderti!
+Devi fare breccia nelle linee nemiche!",
+  "13.0.12.0" => "I nemici si stanno avvicinando...! Chiuderò
+l'entrata del villaggio per proteggere la base!",
+  "13.0.13.0" => "Voi che siete intorno all'oasi nord,
+ritornate in fretta alla base!",
+  "13.0.14.0" => "Questo Zant va in giro come un forsennato,
+ma chi si crede di essere? Avanti, finitelo!",
+  "13.0.15.0" => "Pensa di guadagnare tempo scappando di qua
+e di là...? Forza, fate qualcosa contro Zant!",
+  "13.0.16.0" => "Abbiamo sconfitto Zant e Ghiraim, ma i
+nemici non sembrano affatto preoccupati...",
+  "13.0.17.0" => "In ogni caso almeno abbiamo aperto le
+porte. Forza, raggiungiamo i nostri alleati!",
+  "13.0.18.0" => "Ghiraim e Zant sono stati sconfitti, ma non
+sembra che i nemici se ne preoccupino...",
+  "13.0.19.0" => "Comunque ora non abbiamo tempo di
+investigare. Dobbiamo fermare i nemici!",
+  "13.0.20.0" => "Di Ghiraim e Zant neanche l'ombra, ma
+i nemici sembrano più forti di prima...",
+  "13.0.21.0" => "Magari quelli... erano delle copie...?
+Chissà dove saranno allora gli originali!",
+  "13.0.22.0" => "Noi proteggeremo la base! Voi andate
+a sconfiggere i veri Ghiraim e Zant!",
+  "13.0.23.0" => "Controlliamo i presidi in cui non siamo stati!
+Gli originali e le copie sono in presidi diversi!",
+  "13.0.24.0" => "Abbiamo sconfitto l'armata dei demoni!
+Forse adesso il mondo è salvo!",
+  "13.0.25.0" => "Hanno preso di mira la base!
+Fate attenzione!",
+  "13.0.26.0" => "La base non resisterà a lungo!
+Presto, ritornate alla base!",
+  "13.0.27.0" => "Sembra che Link sia in difficoltà...
+C'è qualcuno che può aiutarlo...?",
+  "13.0.28.0" => "Link sta per crollare!
+Presto, ci serve una mano!",
+  "13.0.29.0" => "Argh! Link è stato sconfitto!
+Ormai è finita...",
+  "13.0.30.0" => "La nostra base è caduta...
+È inutile continuare a combattere...",
+  "13.0.31.0" => "Oh, no! Link è stato sconfitto!
+Per noi è finita...",
+  "13.0.32.0" => "Andrà tutto bene...
+Non ci batteranno!",
+  "13.0.33.0" => "Va tutto bene!
+Vero, Link?",
+  "13.0.34.0" => "Se riuscissimo a sconfiggere i nemici nel
+presidio, le porte si dovrebbero aprire...!",
+  "13.0.35.0" => "C'è un'oasi anche nel deserto nord!
+Proviamo a conquistarle entrambe!",
+}

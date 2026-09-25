@@ -1,0 +1,243 @@
+Map {
+  "1.0.0.0" => "Héros Link, je désire tant te rencontrer... Vite, traverse
+cette vallée où règnent les ténèbres et viens à moi...",
+  "1.0.1.0" => "Cya se trouve au sommet de ces immenses ruines. Il
+faut la vaincre pour enrayer l'apparition des monstres !",
+  "1.0.2.0" => "Prenons les deux forts à l'entrée des ruines. Ils nous
+seront utiles pour attaquer la base ennemie.",
+  "1.0.3.0" => "Suivons ce plan ! Bien... Peut-être qu'on devrait
+se séparer en deux groupes, non ?",
+  "1.0.4.0" => "Impa et moi attaquerons depuis l'est, occupez-vous
+de l'ouest.",
+  "1.0.5.0" => "Sheik, je préfère agir seule.",
+  "1.0.6.0" => "J'espère que vous allez me distraire un minimum.",
+  "1.0.7.0" => "Ce chevalier dragon est vraiment très puissant... !",
+  "1.0.8.0" => "Il nous attaque sans relâche...
+On ne va pas tenir longtemps à ce rythme... !",
+  "1.0.9.0" => "Hmpf... Vous n'êtes pas de taille... Vous n'avez
+personne de plus fort ?",
+  "1.0.10.0" => "Je suis bloqué par les ennemis, je ne peux pas
+bouger d'ici... Que quelqu'un aille l'aider...",
+  "1.0.11.0" => "Toutes ces belles paroles pour en fin de compte se faire
+battre, c'est pathétique. Que cela te serve de leçon.",
+  "1.0.12.0" => "Gh... Je n'étais pas sur mes gardes...
+La prochaine fois, ça ne se passera pas comme ça !",
+  "1.0.13.0" => "Bien ! C'est le moment ou jamais de passer à
+l'offensive... En avant !",
+  "1.0.14.0" => "Merci ! Je peux m'occuper de l'est seule à présent.
+Va prendre le fort de l'ouest !",
+  "1.0.15.0" => "Merci ! Ça ira maintenant. Je me charge de prendre
+le fort de l'est.",
+  "1.0.16.0" => "Bien ! C'est le moment ou jamais de passer
+à l'offensive... En avant !",
+  "1.0.17.0" => "Pff... C'est tout ce dont vous êtes capables ?
+Vous n'avez vraiment personne de plus fort ?",
+  "1.0.18.0" => "Bien ! On s'est occupés du fort de l'ouest !",
+  "1.0.19.0" => "Continuons comme ça et prenons le fort de l'est !",
+  "1.0.20.0" => "Gardez courage ! Il nous suffit de le reprendre !",
+  "1.0.21.0" => "Bien ! On a repris le fort de l'ouest !",
+  "1.0.22.0" => "Nous avons pris le fort de l'est...",
+  "1.0.23.0" => "Continuons comme ça et prenons le fort de
+l'ouest !",
+  "1.0.24.0" => "Gardez courage ! Il nous suffit de le reprendre !",
+  "1.0.25.0" => "Bien ! On a repris le fort de l'est !",
+  "1.0.26.0" => "Bon travail ! Maintenant on va pouvoir attaquer les
+ruines !",
+  "1.0.27.0" => "Des tentacules bloquent l'entrée des ruines ?
+On ne va pas pouvoir avancer...",
+  "1.0.28.0" => "Ah ha ha ! Qu'est-ce que vous faites plantés à
+l'entrée ? Vous voulez un comité d'accueil ? Très bien.",
+  "1.0.29.0" => "Si on ne peut pas attaquer de front, passons par les
+côtés... On devrait pouvoir abaisser un pont à l'est !",
+  "1.0.30.0" => "Nous allons retenir les ennemis devant les ruines.
+Pendant ce temps, allez abaisser le pont !",
+  "1.0.31.0" => "Qu'est-ce que c'est que cet ennemi... ?!
+Il peut créer des monstres tout en combattant... ?",
+  "1.0.32.0" => "Ils peuvent invoquer de puissants monstres.
+Ah ha ha ha ! Amusant, non ?",
+  "1.0.33.0" => "Je suis un ingénieur d'Hyrule !
+Laissez-moi m'occuper du pont !",
+  "1.0.34.0" => "L'ingénieur va partir de la base ! Escortez-le
+jusqu'à la partie est des ruines !",
+  "1.0.35.0" => "Vous n'êtes toujours pas arrivés, je m'impatiente...
+Très bien, je vais envoyer mes salutations à votre base.",
+  "1.0.36.0" => "Je m'occupe des ennemis à l'ouest.
+Pendant ce temps, abaissez le pont...",
+  "1.0.37.0" => "... Entendu. Dans ce cas, je vais les retenir au
+centre.",
+  "1.0.38.0" => "Attention ! Les ennemis qui arrivent par l'ouest
+visent notre base !",
+  "1.0.39.0" => "Qu'est-ce qu'ils manigancent ?
+Je ne les laisserai pas faire !",
+  "1.0.40.0" => "Attention ! Une partie des forces ennemies se
+dirige vers l'ingénieur.",
+  "1.0.41.0" => "Ici l'ingénieur d'Hyrule !
+L'ennemi m'attaque, je suis en danger !",
+  "1.0.42.0" => "Ici l'ingénieur d'Hyrule !
+Je vais bientôt être vaincu, au secours !",
+  "1.0.43.0" => "Ici l'ingénieur d'Hyrule !
+Le pont est abaissé ! Je me replie !",
+  "1.0.44.0" => "On a réussi ! Traversons le pont pour entrer dans
+les ruines !",
+  "1.0.45.0" => "Nous avons perdu l'ingénieur...",
+  "1.0.46.0" => "Tous ces efforts pour échouer si lamentablement.
+C'est pourtant si simple d'abaisser un pont... Regardez !",
+  "1.0.47.0" => "Ah ha ha ! C'était vraiment peine perdue ! Vous
+pouvez toujours traverser le pont que j'ai abaissé !",
+  "1.0.48.0" => "Vite, allons-y ! Cya est au sommet !",
+  "1.0.49.0" => "Il y a aussi des tentacules sur le chemin qui mène
+au sommet...",
+  "1.0.50.0" => "Il devrait y avoir un des trésors de la vallée dans
+ces ruines... Peut-être qu'il nous sera utile !",
+  "1.0.51.0" => "Il faut que je reçoive mes invités comme
+il se doit.",
+  "1.0.52.0" => "Ah ! Avec ce boomerang, on va pouvoir trancher
+ces dégoûtants tentacules !",
+  "1.0.53.0" => "Les tentacules de ce monstre semblent devenir plus mous
+par moment. C'est là qu'il faut l'attaquer au boomerang !",
+  "1.0.54.0" => "Wah ! Les flèches n'ont aucun effet sur ce monstre
+tentaculaire ?",
+  "1.0.55.0" => "Restez sur vos gardes ! Ce n'est pas encore fini !
+Il s'est juste réfugié sous terre !",
+  "1.0.56.0" => "Restez calmes ! Si on frappe les tentacules proches
+de son corps, il sera surpris et sortira de terre !",
+  "1.0.57.0" => "Dans ce cas, je vais attaquer les tentacules à
+proximité.",
+  "1.0.58.0" => "On croirait une attraction de fête foraine.
+Enfin, soit.",
+  "1.0.59.0" => "Notre base est attaquée ! Il faut vite le vaincre... !",
+  "1.0.60.0" => "Si on ne le vainc pas vite, notre base va tomber
+entre leurs mains... !",
+  "1.0.61.0" => "Notre base ne tiendra plus longtemps...
+Dépêchez-vous !",
+  "1.0.62.0" => "Visiblement, son corps n'est pas là-dessous...",
+  "1.0.63.0" => "Cette fois-ci, je ne le laisserai pas s'échapper !
+Attaquons-le de toutes nos forces !",
+  "1.0.64.0" => "Il n'y a plus personne pour nous gêner !
+Dépêchons-nous de rejoindre l'autel où est Cya !",
+  "1.0.65.0" => "Mes amis... Pardonnez-moi...",
+  "1.0.66.0" => "Link et moi avancerons par l'est.
+Toi, occupe-toi du côté ouest !",
+  "1.0.67.0" => "Sheik... Va à son secours !
+Tu es le seul à pouvoir bouger !",
+  "1.0.68.0" => "Les portes des ruines sont fermées ?
+Alors, on ne va pas pouvoir aller plus loin...",
+  "1.0.69.0" => "Je ne peux pas encore faire confiance à Sheik...",
+  "1.0.70.0" => "Pourquoi fait-il tout ça... ?",
+  "1.0.71.0" => "Bien, on va vous montrer
+de quoi on est capables !",
+  "1.0.72.0" => "On va vous donner une bonne leçon
+au nom de maître Volga !",
+  "1.0.73.0" => "Encore des ennemis... Il faut vite renforcer
+la défense devant les ruines !",
+  "1.0.74.0" => "Gwaaah... Je suis dans le pétrin !",
+  "1.0.75.0" => "Gnnn... Mais c'est qu'ils sont plutôt forts !",
+  "1.0.76.0" => "Y a vraiment rien à faire...",
+  "1.0.77.0" => "On a pas le choix, il faut battre en retraite !",
+  "1.0.78.0" => "Que dites-vous de ça... ? Leur passe-temps
+favori, c'est de prendre des forts.",
+  "1.0.79.0" => "Ah... On ne peut pas les laisser pénétrer
+dans la base alliée ! Il faut les vaincre !",
+  "1.0.80.0" => "Nous aussi, on est là !
+Faudrait pas l'oublier !",
+  "1.0.81.0" => "Et alors ? Essayez un peu
+de nous vaincre, pour voir !",
+  "1.0.82.0" => "Ça n'en finit pas... Avant d'aller affronter Cya, il
+vaut mieux s'occuper des ennemis à l'arrière...",
+  "1.0.83.0" => "Fiou... Est-ce qu'on en est enfin venus à bout ?",
+  "1.0.84.0" => "Maintenant, les lézards ! Pulvérisez
+ceux qui sont devant les ruines !",
+  "1.0.85.0" => "Il a l'air redoutable, je vais vous prêter main-forte.",
+  "1.0.86.0" => "Nous protégerons maître Volga !",
+  "1.0.87.0" => "Laissez-nous affronter l'armée d'Hyrule !",
+  "1.0.88.0" => "... Je peux m'en charger seul.
+Allez plutôt protéger dame Cya.",
+  "1.0.89.0" => "Il ne reste que ce chevalier dragon. Si on parvient
+à le vaincre, on pourra attaquer les ruines.",
+  "1.0.90.0" => "Un ennemi arrive par l'ouest... ! Je ne le
+laisserai pas entrer dans la base alliée !",
+  "1.0.91.0" => "Bien... La base est hors de danger !",
+  "1.0.92.0" => "Si ça continue, la base alliée va... !
+Il faut vite vaincre ces ennemis !",
+  "1.0.93.0" => "Qu'attendez-vous ? Venez ! Tenez,
+je vais même vous ouvrir la porte.",
+  "1.0.94.0" => "J'ai une idée ! Rassemblez-vous
+tous autour de lui !",
+  "1.0.95.0" => "Avec ma magie je vais faire résonner nos forces ! Plus
+on est nombreux, plus on a de chances de le vaincre !",
+  "1.0.96.0" => "En utilisant la magie de la vallée de la
+sorcière, je devrais pouvoir y arriver !",
+  "1.0.97.0" => "On a gagné grâce à la magie de Lana ! Allez,
+dépêchons-nous d'aller à l'autel où se trouve Cya !",
+  "1.0.98.0" => "En unissant nos forces, on peut vaincre de puissants
+ennemis... Je vais continuer à mettre cette magie à profit !",
+  "1.0.99.0" => "Il faut vite retourner à la base...
+Elle est en danger !",
+  "13.0.0.0" => "Prenons les deux forts en face des ruines.
+Ça facilitera l'attaque de la base de Cya !",
+  "13.0.1.0" => "Le chemin jusqu'au fort ennemi se divise encore
+en deux... On se sépare en deux groupes ?",
+  "13.0.2.0" => "Le chemin jusqu'au fort ennemi se divise encore
+en deux... On se sépare en deux groupes ?",
+  "13.0.3.0" => "Encore toi, gamin... As-tu progressé depuis
+la dernière fois ? Nous allons voir ça...",
+  "13.0.4.0" => "Tout va bien, Link ?! Ne te laisse pas faire par
+ce chevalier dragon !",
+  "13.0.5.0" => "Super ! Continuez à attaquer !",
+  "13.0.6.0" => "Merci ! Link devrait pouvoir s'en sortir, maintenant.
+Il faut s'occuper du fort à l'ouest !",
+  "13.0.7.0" => "Merci ! Ça devrait aller, maintenant !
+Link s'occupe du fort de l'est !",
+  "13.0.8.0" => "Super ! Continuons comme ça !",
+  "13.0.9.0" => "Bien joué ! Le fort de l'ouest est tombé !",
+  "13.0.10.0" => "Si seulement on pouvait vite prendre
+le fort de l'est aussi !",
+  "13.0.11.0" => "L'ennemi nous a repris un fort... Lana, récupère-le,
+s'il te plaît !",
+  "13.0.12.0" => "Formidable ! On a repris le fort de l'ouest !",
+  "13.0.13.0" => "Trop bien ! Le fort de l'est est tombé !",
+  "13.0.14.0" => "Si seulement on pouvait vite prendre
+le fort de l'ouest aussi !",
+  "13.0.15.0" => "L'ennemi nous a repris un fort... Lana, récupère-le,
+s'il te plaît !",
+  "13.0.16.0" => "Formidable ! On a repris le fort de l'ouest !",
+  "13.0.17.0" => "Beau travail, tout le monde ! On va pouvoir
+attaquer les ruines, maintenant !",
+  "13.0.18.0" => "Mais... ? L'entrée des ruines est bloquée par
+des tentacules... On ne peut pas entrer...",
+  "13.0.19.0" => "Bon, alors... attirons l'ennemi sur la place devant
+les ruines et abaissons le pont sans être vus !",
+  "13.0.20.0" => "Mais c'est quoi, cet ennemi ?! Il n'arrête pas
+de faire apparaître des monstres !",
+  "13.0.21.0" => "L'ingénieur va partir de notre base !
+Escortons-le jusqu'à la partie est des ruines !",
+  "13.0.22.0" => "Link s'occupe des ennemis à l'ouest !
+Il faut vite abaisser le pont !",
+  "13.0.23.0" => "Link ! Ce serait mieux si tu retenais l'ennemi
+au centre, non ?",
+  "13.0.24.0" => "Attention ! L'ennemi à l'ouest vise notre base !",
+  "13.0.25.0" => "Bravo ! Entrons dans les ruines par le pont !",
+  "13.0.26.0" => "L'ingénieur a été vaincu...",
+  "13.0.27.0" => "Cya se trouve au sommet ! Allons-y !",
+  "13.0.28.0" => "Ce monstre est encore vivant !
+Et il s'est réfugié sous terre !",
+  "13.0.29.0" => "On va s'en occuper ! Allez Link, ne retiens
+pas tes coups !",
+  "13.0.30.0" => "On va s'en occuper ! Allez Link, ne retiens
+pas tes coups !",
+  "13.0.31.0" => "Notre base est attaquée ! Vite ! Il faut le tuer !",
+  "13.0.32.0" => "Non ! La base va tomber ! Dépêchons-nous !
+Il faut se débarrasser de lui !",
+  "13.0.33.0" => "Ça ne sent pas bon pour notre base !
+Vite, vite !",
+  "13.0.34.0" => "Oh, non... On dirait que ce n'était pas le vrai.",
+  "13.0.35.0" => "On peut enfin attaquer Cya ! C'est parti !
+Direction l'autel des ruines !",
+  "13.0.36.0" => "Non... Link... Ils t'ont eu... ?!",
+  "13.0.37.0" => "Attention ! Certains ennemis s'en prennent
+à l'ingénieur !",
+  "13.0.38.0" => "Les portes des ruines sont fermées...
+On ne peut pas entrer...",
+  "13.0.39.0" => "Link et moi attaquerons depuis l'est.
+Occupez-vous de l'ouest.",
+}

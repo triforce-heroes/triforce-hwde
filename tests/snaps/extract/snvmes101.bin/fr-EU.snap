@@ -1,0 +1,170 @@
+Map {
+  "1.0.0.0" => "Les monstres nous attaquent ! À l'aide !!!",
+  "1.0.1.0" => "Cya, arrête !
+Qu'est-ce qu'elles t'ont fait, ces fées ?",
+  "1.0.2.0" => "Tiens, Lana, c'est donc toi qui protégeais les fées.
+Sois gentille, ne te mets pas en travers de mon chemin.",
+  "1.0.3.0" => "Nous ne sommes pas assez forts pour arrêter Cya.
+Allons demander de l'aide au château d'Hyrule !",
+  "1.0.4.0" => "Il est encore trop tôt pour affronter l'armée d'Hyrule...
+Rattrapez ceux qui sont allés demander du renfort !",
+  "1.0.5.0" => "Je vais aller chercher de l'aide,
+compte sur moi !",
+  "1.0.6.0" => "Soldats ! Prenez ces forts
+et ouvrez leurs portes !",
+  "1.0.7.0" => "Qu'est-ce qu'on va faire ?!
+Il y a des monstres partout !",
+  "1.0.8.0" => "Je vais essayer de les arrêter ! Profites-en
+pour aller te cacher avec les autres fées !",
+  "1.0.9.0" => "Vous tous, au nord, c'est le moment, dépêchez-vous !",
+  "1.0.10.0" => "Cya... Je t'arrêterai coûte que coûte... !",
+  "1.0.11.0" => "Nrgh... Ne les laissez pas s'enfuir !",
+  "1.0.12.0" => "Ils nous ont échappé... L'armée d'Hyrule
+risque de passer à l'attaque.",
+  "1.0.13.0" => "Hu hu... Vous ne pouvez pas m'échapper.",
+  "1.0.14.0" => "Cela suffit. Vous avez fait du bon travail.",
+  "1.0.15.0" => "Vous en avez laissé fuir plus de la moitié...
+Je n'ose pas imaginer ce qui va se passer, maintenant.",
+  "1.0.16.0" => "Vous n'avez pas réussi à en vaincre un seul ?
+Vous êtes pitoyables...",
+  "1.0.17.0" => "Maintenant, l'armée d'Hyrule devrait arriver...
+Il faut qu'on tienne encore un peu !",
+  "1.0.18.0" => "Ceux qui nous ont échappé ont appelé des renforts ?
+Bah, peu importe... Je vous affronterai tous !",
+  "1.0.19.0" => "Pourquoi y a-t-il autant de monstres sur la plaine
+d'Hyrule ? Comment sont-ils arrivés jusqu'ici ?!",
+  "1.0.20.0" => "Voilà la princesse... ! La chasse aux fées
+est terminée ! Massacrez-la !!!",
+  "1.0.21.0" => "Soldats, continuez !
+Nous devons maintenir la paix en Hyrule !",
+  "1.0.22.0" => "Envoyez autant de fretin que vous voudrez,
+nous le balayerons d'un revers de la main... !",
+  "1.0.23.0" => "Ces monstres semblent puissants...
+Très bien, j'y vais aussi !",
+  "1.0.24.0" => "Tiens, on dirait que la commandante est de sortie. Si on la
+vainc, peut-être que la princesse sortira de sa cachette...",
+  "1.0.25.0" => "J'ai manqué de vigilance...
+Votre Altesse ! Je dois battre en retraite... !",
+  "1.0.26.0" => "Même dame Impa a été vaincue...
+N'avons-nous plus aucune chance de victoire... ?!",
+  "1.0.27.0" => "Les fées sont toutes en sécurité...
+Laissons l'armée d'Hyrule s'occuper du reste... !",
+  "1.0.28.0" => "Hu hu, ils ne sont pas à la hauteur de leur réputation.
+Je vous les laisse, amusez-vous bien.",
+  "1.0.29.0" => "J'y vais moi aussi ! Je ne permettrai pas
+que l'on menace la paix d'Hyrule !",
+  "1.0.30.0" => "Son Altesse Zelda livre bataille... Nous aussi,
+nous devons nous battre de toutes nos forces !",
+  "1.0.31.0" => "...",
+  "1.0.32.0" => "Qu'est-ce que tu fais là, la recrue ?!
+C'est dangereux, reste en arrière... Hé !",
+  "1.0.33.0" => "La princesse est sortie de sa cachette...
+Voyons ce qu'elle vaut au combat.",
+  "1.0.34.0" => "Soldats d'Hyrule ! Que ceux qui savent
+se battre viennent m'affronter !",
+  "1.0.35.0" => "Ce chevalier dragon est très différent des
+autres monstres... Restez sur vos gardes !",
+  "1.0.36.0" => "Halte-là ! Je ne laisserai personne passer !",
+  "1.0.37.0" => "Reste sur tes gardes ! Elle est coriace !",
+  "1.0.38.0" => "Ce garçon est impressionnant ! Est-ce que par hasard...",
+  "1.0.39.0" => "Nous ne devons pas baisser les bras !",
+  "1.0.40.0" => "Princesse Zelda... ! Nous nous battrons à vos côtés !!!",
+  "1.0.41.0" => "Ensemble, nous préserverons la paix en Hyrule !",
+  "1.0.42.0" => "Oui ! Nous sommes les seuls à pouvoir protéger Hyrule !",
+  "1.0.43.0" => "Je combattrai, moi aussi ! Alors gardez tous courage !",
+  "1.0.44.0" => "Son Altesse Zelda en personne combat... ! Raison
+de plus pour nous battre de toutes nos forces !",
+  "1.0.45.0" => "... !",
+  "1.0.46.0" => "Ah... Il semble que nous devions battre
+en retraite et repenser notre stratégie...",
+  "1.0.47.0" => "Tss, ils se sont réfugiés dans le château... ?
+Bah, peu importe, on va les secouer un peu.",
+  "1.0.48.0" => "On dirait que j'ai sous-estimé nos ennemis...
+Je n'ai pas le choix, je me retire.",
+  "1.0.49.0" => "Nrgh... J'ai baissé ma garde.
+Je ne peux plus combattre, je bats en retraite.",
+  "1.0.50.0" => "Je n'arrive pas à croire que j'aie été vaincue !",
+  "1.0.51.0" => "Nrgh... Ils nous ont échappé !",
+  "1.0.52.0" => "Que faire ?! Les monstres attaquent
+sans relâche !",
+  "1.0.53.0" => "Argh... Nous n'avons pas encore perdu.
+Rassemblez les troupes et lancez une contre-attaque !",
+  "1.0.54.0" => "Que tous ceux qui peuvent combattre
+se rassemblent immédiatement !",
+  "1.0.55.0" => "Ça sent pas bon pour nous !
+Dépêchez-vous !",
+  "1.0.56.0" => "Le plan a fonctionné ! Allez,
+à moi de jouer, maintenant !",
+  "1.0.57.0" => "Nous allons combattre, nous
+aussi ! Attaquons leur base !",
+  "1.0.58.0" => "Grr... Je n'ai pas réussi à arrêter
+des adversaires aussi faibles...",
+  "1.0.59.0" => "Le plan n'a pas bien marché... Mais
+je ne vais pas fuir pour autant... !",
+  "1.0.60.0" => "Dame Impa a été vaincue ?! Nos chances
+de victoire semblent bien faibles...",
+  "13.0.0.0" => "Hya ha ha ! Faites tomber ces forts
+et ouvrez leurs portes !",
+  "13.0.1.0" => "Mais qu'est-ce que vous fabriquez, bande
+de crétins ?! Ne les laissez pas s'enfuir !!!",
+  "13.0.2.0" => "Ils vous ont échappé ?! Vous n'êtes vraiment
+qu'une bande de bons à rien !",
+  "13.0.3.0" => "C'est ceux qui nous ont échappé qui ont
+appelé des renforts ? Qu'ils sont agaçants...",
+  "13.0.4.0" => "En voilà une princesse bien stupide de se montrer en personne
+sur le champ de bataille ! Je vais aller lui régler son compte !",
+  "13.0.5.0" => "Je vais prendre le château et la tête de la princesse !
+Hya ha ha ha !",
+  "13.0.6.0" => "Il ne faut pas sous-estimer ce mage... !
+Restez tous sur vos gardes !",
+  "13.0.7.0" => "Comment ? Notre base est tombée ?
+Bande de sales incapables... On bat en retraite !",
+  "13.0.8.0" => "Hmpf, quand il s'agit de fuir, ils sont rapides.",
+  "13.0.9.0" => "Attention ! Il ne faut pas laisser ce chevalier
+dragon aller plus loin !",
+  "13.0.10.0" => "Votre Altesse ! Veuillez me pardonner.
+Je me suis jetée dans la gueule du loup...",
+  "13.0.11.0" => "Il nous suffit juste de repousser l'ennemi d'ici.
+Tous avec moi !",
+  "13.0.12.0" => "Dame Impa ! Vous allez bien ?",
+  "13.0.13.0" => "Tu es une nouvelle recrue... ?",
+  "13.0.14.0" => "Votre Altesse ! Prenons le contrôle du fort est et
+du fort central et verrouillons leurs portes nord !",
+  "13.0.15.0" => "Je vais préparer mon plan d'attaque. Votre Altesse,
+veuillez ordonner la prise des forts !",
+  "13.0.16.0" => "Nous avons contenu le gros des forces ennemies au
+nord ! Il nous faut maintenant l'aide de la grande fée...",
+  "13.0.17.0" => "Si mon plan fonctionne, nous infligerons de
+lourdes dégâts à l'ennemi ! Vite, à la fontaine !",
+  "13.0.18.0" => "Si nous avions des bombes, nous pourrions
+détruire les portes de la fontaine...",
+  "13.0.19.0" => "Venez vite par ici ! Détruisons les portes et
+entrons dans la fontaine !",
+  "13.0.20.0" => "Soyez tous très prudents ! L'ennemi nous attaque
+depuis le nord !",
+  "13.0.21.0" => "L'ennemi a réussi à passer le
+fort est de la plaine... ?",
+  "13.0.22.0" => "Par ici ! Prions la grande fée
+ensemble !",
+  "13.0.23.0" => "Nous avons réussi, Votre Altesse ! Les troupes
+ennemies ont été considérablement réduites !",
+  "13.0.24.0" => "Nous avons réussi, Votre Altesse ! Les troupes
+ennemies ont été quelque peu réduites !",
+  "13.0.25.0" => "Impa, laisse-moi me charger de cet endroit.
+Je veux que tu commandes les troupes à l'arrière.",
+  "13.0.26.0" => "Très bien. Bonne chance, Votre Altesse !",
+  "13.0.27.0" => "Nous avons survécu... ! C'est grâce à vous
+tous. Merci d'avoir combattu à mes côtés !",
+  "13.0.28.0" => "Votre Altesse ! C'est terrible !
+Le mage ennemi a pris le château !",
+  "13.0.29.0" => "Nous devons protéger la paix d'Hyrule !
+Link, dépêche-toi !",
+  "13.0.30.0" => "Si on utilise ça pour détruire les rochers, on pourra
+rejoindre Impa... !",
+  "13.0.31.0" => "Votre Altesse ! Utilisez ceci ! Cet objet devrait
+augmenter la puissance des bombes !",
+  "13.0.32.0" => "Votre Altesse... Pardonnez-moi...",
+  "13.0.33.0" => "Ces rochers nous bloquent ! Nous ne pouvons
+pas aller aider dame Impa... !",
+  "13.0.34.0" => "Link, regarde ! C'est la princesse !",
+}

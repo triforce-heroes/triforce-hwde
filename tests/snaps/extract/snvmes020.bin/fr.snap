@@ -1,0 +1,266 @@
+Map {
+  "1.0.0.0" => "Hum... Le rituel a échoué... Nous avons
+besoin du contrôle total de la région.",
+  "1.0.1.0" => "Je vais augmenter la puissance du rituel avec la
+porte des âmes. L'échec n'est pas une option.",
+  "1.0.2.0" => "Je détecte la présence d'une
+puissance maléfique.",
+  "1.0.3.0" => "La probabilité que cette aura maléfique
+soit celle du Banni est de 60 %.",
+  "1.0.4.0" => "Vous avez un problème? On dirait qu'il y a
+toujours du travail pour une héroïne légendaire!",
+  "1.0.5.0" => "Qu'est-ce donc que ce vacarme? Hum!
+Probablement rien qui puisse m'intéresser...",
+  "1.0.6.0" => "Mon énergie vitale atteint
+un niveau critique.",
+  "1.0.7.0" => "Ça ne va pas? C'est ce que tu essaies
+de dire? Pas de problème, je vais t'aider!",
+  "1.0.8.0" => "Je vais être contrainte de
+battre en retraite sous peu.",
+  "1.0.9.0" => "Ne t'en fais pas, j'ai compris!
+J'arrive aussi vite que possible!",
+  "1.0.10.0" => "Déclin du nombre de bannis confirmé.
+Continuez à les éliminer.",
+  "1.0.11.0" => "Ne t'inquiète pas, je m'en charge!",
+  "1.0.12.0" => "Que se passe-t-il ici?! J'éliminerai
+quiconque osera me défier!",
+  "1.0.13.0" => "Oh non! Ils s'attaquent aux cocottes!
+Il faut à tout prix que j'aille les aider!",
+  "1.0.14.0" => "Tenez bon, petites cocottes!
+Je suis en chemin!",
+  "1.0.15.0" => "Encore un peu, les cocottes!
+J'arrive tout de suite!",
+  "1.0.17.0" => "Quelle sorte de monstre s'attaquerait à une
+pauvre cocotte innocente? C'est intolérable!",
+  "1.0.18.0" => "En avant! Qui peut oser maltraiter
+des cocottes? Allons les punir!",
+  "1.0.19.0" => "Impossible! Pourquoi sont-ils si petits?
+Continuez jusqu'à réussir, incapables!",
+  "1.0.22.0" => "Le rituel a encore échoué?! Renforcez votre
+de magie! Et réussissez, cette fois-ci!",
+  "1.0.23.0" => "Je prévois l'augmentation du nombre de Bannis
+tant que nous n'aurons pas mis fin au rituel.",
+  "1.0.24.0" => "C'est ça! Allons éliminer ce gars bizarre
+pour en finir avec ces gloutons!",
+  "1.0.25.0" => "Des échecs, encore et encore et encore!
+Mais comment est-ce possible?!",
+  "1.0.26.0" => "Regarde! Ils recommencent
+à invoquer des monstres!",
+  "1.0.27.0" => "L'élimination immédiate des
+Bannis est recommandée.",
+  "1.0.28.0" => "Je suis furieux! Enragé! Pauvres fous!
+Donnez-moi vos pouvoirs! TOUS VOS POUVOIRS!",
+  "1.0.29.0" => "Je ne sais pas ce qu'il essaie de faire, mais
+il faut qu'il se calme avec ses monstres!",
+  "1.0.30.0" => "Je suis à court de monstres? Impossible?!
+Incapables... Tous autant que vous êtes!",
+  "1.0.31.0" => "Je détecte un affaiblissement de la
+magie. Le rituel d'invocation a pris fin.",
+  "1.0.32.0" => "On a réussi! Fini les monstres de l'ombre!
+Bon, allez éliminer les autres maintenant!",
+  "1.0.33.0" => "Augmentation du nombre de Bannis détectée.
+Le rituel en a été identifié comme l'origine.",
+  "1.0.34.0" => "Tu as une drôle de manière de parler... mais tu
+n'as pas tort! Nous devons arrêter ce type!",
+  "1.0.35.0" => "Je ressens une forte aura dans le temple. Le
+général ennemi doit se trouver à l'intérieur.",
+  "1.0.36.0" => "Si on élimine ce qui dirige ces petites créatures
+noires, tu penses que leur chef sortira?",
+  "1.0.37.0" => "Ça suffit! Débarrassez-moi de cette vermine
+avant qu'elle ne trouve la porte des âmes!",
+  "1.0.38.0" => "Menez les Bannis à la base de ces
+insectes! Partez immédiatement!",
+  "1.0.39.0" => "Les monstres se rassemblent. Qu'est-ce
+qu'ils sont en train de préparer?",
+  "1.0.40.0" => "Existence d'ennemis dirigeant les Bannis
+confirmée. Il doivent être arrêtés.",
+  "1.0.41.0" => "C'est ça! Éliminons les monstres qui dirigent
+ces créatures noires! Rien de plus facile!",
+  "1.0.42.0" => "Les Bannis se dirigent vers la base alliée.
+Élimination de leur meneur recommandée.",
+  "1.0.43.0" => "On peut pas les laisser seuls... Ils détruiront
+notre base si on ne les arrête pas!",
+  "1.0.44.0" => "Ne perdez pas de temps! Fondez sur
+leur base... et faites-les souffrir!",
+  "1.0.45.0" => "D'autres monstres contrôlent les créatures
+noires. Éliminons-les pour sauver les cocottes!",
+  "1.0.46.0" => "Je ferais mieux de ne pas laisser
+ce bébé cocotte se balader tout seul...",
+  "1.0.47.0" => "Davantage de Bannis sont apparus sur le
+champ de bataille. Ils sont notre priorité absolue.",
+  "1.0.48.0" => "Détruire les gros gloutons noirs, c'est
+compris! C'est comme si c'était fait!",
+  "1.0.49.0" => "Je ne peux pas accomplir le rituel dans ces
+conditions! Prenez leur base! Immédiatement!",
+  "1.0.50.0" => "Renforcez nos défenses! Ne les laissez
+surtout pas atteindre la porte des âmes!",
+  "1.0.51.0" => "Hourra! J'ai éliminé tous les monstres...
+qui... euh.. contrôlaient d'autres monstres...",
+  "1.0.52.0" => "Défaite des Bannis confirmée.
+La menace est écartée pour l'instant.",
+  "1.0.53.0" => "Oh! Elle s'est transformée
+en cocotte dorée! Waouh!",
+  "1.0.54.0" => "Ils ne me laissent pas le choix. Je vais devoir
+utiliser l'énergie des Bannis pour les supprimer!",
+  "1.0.55.0" => "Le général des troupes ennemies s'approche
+de notre base. Je vais l'intercepter.",
+  "1.0.56.0" => "Il faut qu'on protège les cocottes!
+Je m'occupe du général ennemi!",
+  "1.0.57.0" => "Mon pouvoir dépasse votre compréhension!
+Je vous exterminerai jusqu'au dernier!",
+  "1.0.58.0" => "Le général ennemi décuple sa puissance
+en absorbant celle des Bannis.",
+  "1.0.59.0" => "Donc si on supprime toutes ces créatures
+noires, leur chef sera affaibli, c'est ça?",
+  "1.0.60.0" => "Inimaginable! Cette puissance... J'ai
+surpassé le titre de monarque démonique!",
+  "1.0.61.0" => "Le général ennemi a décuplé sa puissance
+en absorbant celle des Bannis.",
+  "1.0.62.0" => "Comment peut-il devenir ENCORE plus fort?
+Il faut qu'on arrête ces créatures noires!",
+  "1.0.63.0" => "Grrr... Qu'avez-vous fait,
+pauvres fous?",
+  "1.0.64.0" => "Ça a marché!
+Il est affaibli!",
+  "1.0.65.0" => "Baisse de la puissance du général ennemi
+confirmée. Éliminez-le au plus vite!",
+  "1.0.66.0" => "Qui vous a permis de vous mettre en travers
+de mon chemin? Vous allez me le payer!",
+  "1.0.67.0" => "Il a l'air plutôt énervé... mais heureusement,
+ça ne le rend pas plus puissant pour autant!",
+  "1.0.68.0" => "Général ennemi affaibli. Je vous
+recommande de l'affaiblir davantage.",
+  "1.0.69.0" => "Comment ai-je pu échouer? La prochaine fois,
+tout se passera selon mes plans... Je le jure!",
+  "1.0.70.0" => "Éradication des Bannis confirmée.",
+  "1.0.71.0" => "Pas de souci! Contente d'avoir pu t'aider!
+Hé! Ma boussole s'est remise à briller!",
+  "1.0.72.0" => "Oh non! Ils ont vaincu la chef des cocottes!
+Elles vont devenir complètement folles!",
+  "1.0.73.0" => "Vous paierez pour votre arrogance! Si j'étais
+vous, je prendrais mes jambes à mon cou!",
+  "1.0.74.0" => "Ils ont pris notre base... Ça veut
+dire que... on a perdu...",
+  "1.0.75.0" => "Bien. Cette misérable vermine a enfin été
+éliminée... Le rituel va pouvoir continuer.",
+  "1.0.76.0" => "Je détecte une relation symbiotique entre nos
+ennemis. Il est nécessaire de tous les éliminer.",
+  "1.0.77.0" => "Il faut que je nous débarrasse des monstres
+qui contrôlent ces créatures noires...",
+  "1.0.78.0" => "Le nombre des Bannis a diminué.
+Continuez comme ça.",
+  "1.0.79.0" => "C'est impossible! Le rituel a peut-être échoué,
+mais ils ne peuvent pas être vaincus si facilement!",
+  "1.0.80.0" => "Le nombre des Bannis continue de diminuer.
+Finissez-en avec ceux qui restent.",
+  "1.0.81.0" => "Pauvres sots! Pensiez-vous vraiment que je
+vous laisserais vous en sortir vivants?",
+  "1.0.82.0" => "Je nous ai débarrassés de ces monstres!
+Ça aide d'avoir identifié leur point faible!",
+  "1.0.83.0" => "Fini de jouer! Je vais vous donner une
+leçon que vous n'êtes pas près d'oublier!",
+  "1.0.84.0" => "Je ne ressens plus la présence des
+Bannis. Ils ont tous été vaincus.",
+  "1.0.85.0" => "Ils les ont tous détruits? Absurde!
+Je refuse de le croire!",
+  "1.0.86.0" => "Leur résurrection n'est pas totale, mais leur force
+n'en est pas moindre! Vous allez connaître la peur!",
+  "1.0.87.0" => "Ils sont plus petits que le Banni des légendes,
+mais ne les sous-estimons pas. Éliminons-les.",
+  "1.0.88.0" => "Oh! Mais ils sont trop mignons!
+Dommage que je doive les éliminer...",
+  "1.0.89.0" => "C'est sûrement parce que j'ai réussi à l'aider!
+Bon, je dois aller au château d'Hyrule!",
+  "1.0.90.0" => "Ces cocottes m'empêchent de prendre le
+contrôle de ces terres... Éliminez-les.",
+  "1.0.91.0" => "Qui es-tu?  Et cette tenue?!
+Quel mauvais goût... N'as-tu pas honte?",
+  "1.0.92.0" => "Quoi?! Ces vêtements me sont très chers!
+Tu peux parler avec ta coiffure bizarre!",
+  "1.0.93.0" => "Alors c'est toi qui te mêles de mes affaires
+depuis tout à l'heure?! Disparais, imbécile!",
+  "1.0.94.0" => "Nos alliés nous donnent l'avantage.
+Ordre de disparaître rejeté.",
+  "1.0.95.0" => "Tu comptes me gêner encore longtemps?!
+Tu n'y connais visiblement rien en rituels!",
+  "13.0.0.0" => "Message",
+  "13.0.2.0" => "Je ne pense pas qu'on puisse passer par la porte
+centrale. Essayons d'entrer dans le temple par l'est!",
+  "13.0.3.0" => "Toi aussi, tu as un mauvais pressentiment, Link?
+Je sens une présence maléfique parmi nos alliés.",
+  "13.0.4.0" => "Je suis certaine que Ghirahim se
+terre tout au fond du temple!",
+  "13.0.5.0" => "Nos alliés semblent déboussolés!
+Retournons sur nos pas et allons les aider.",
+  "13.0.6.0" => "J'ai l'impression que quelqu'un dans nos rangs
+pousse les soldats à la rébellion. Il faut l'arrêter!",
+  "13.0.7.0" => "Je suis sûre que le chef des traîtres se trouve
+dans l'un des forts. Il faut qu'on le retrouve!",
+  "13.0.8.0" => "Hé! Mais pourquoi tous nos ennemis se dirigent
+vers ce fort? C'est plutôt suspect, crois-moi!",
+  "13.0.9.0" => "Pourquoi l'ennemi n'attaque-t-il pas ce fort?
+Je sais! Le chef des traîtres doit être là-bas!",
+  "13.0.10.0" => "Waouh, tu as senti ça? Le chef des
+traîtres doit être tout près!",
+  "13.0.11.0" => "Là! Ce fort! C'est là que le chef des
+traîtres doit se trouver!",
+  "13.0.12.0" => "On va perdre si on ne fait rien, c'est sûr!
+Il faut qu'on élimine le chef des traîtres!",
+  "13.0.13.0" => "Bien, c'est un bon début! Maintenant,
+regroupons-nous et entrons dans le temple!",
+  "13.0.14.0" => "Waouh, cette créature a l'air vraiment
+dangereuse... Sois prudent!",
+  "13.0.15.0" => "Oh non! Le monstre se dirige
+vers notre base!",
+  "13.0.16.0" => "Hé! T'as remarqué que tu peux faire trébucher
+le monstre en attaquant ses orteils!",
+  "13.0.17.0" => "Ce monstre prépare quelque chose...
+Je parie qu'il va essayer de détruire un fort!",
+  "13.0.18.0" => "Il y a des mégatapultes dans nos forts, alors
+dès que le monstre s'arrête, feu à volonté!",
+  "13.0.19.0" => "Ça devrait être facile de le toucher avec
+la mégatapulte quand il s'arrête!",
+  "13.0.20.0" => "Dépêchez-vous! Feu à volonté!
+Il ne faut pas que la base alliée tombe!",
+  "13.0.21.0" => "La mégatapulte est la seule arme qui peut
+mettre ce monstre à terre. Trouves-en une autre!",
+  "13.0.22.0" => "Les orteils sont le point faible de cette
+créature! C'est là qu'il faut l'attaquer!",
+  "13.0.23.0" => "La seule mégatapulte qui nous reste
+se trouve dans notre base.",
+  "13.0.24.0" => "On dirait que le monstre a disparu...",
+  "13.0.25.0" => "Link, il y a plein de monstres qui arrivent de
+l'ouest du temple! Allez, il faut y aller!",
+  "13.0.26.0" => "Allez, Link! On va se débarrasser de Ghirahim
+et l'envoyer de l'autre côté de la porte des âmes!",
+  "13.0.27.0" => "La porte des âmes est fermée! On est
+sauvés, Link! Bon travail, les amis!",
+  "13.0.28.0" => "Notre base est tombée! Oh non...",
+  "13.0.29.0" => "Link?! Lève-toi, Link!
+S'il te plaît, relève-toi!",
+  "13.0.30.0" => "Le chef des traîtres se trouve dans ce fort!
+Il est temps d'en finir avec lui!",
+  "13.0.31.0" => "On dirait qu'on va enfin pouvoir se rendre
+tout au fond du temple. En avant!",
+  "13.0.32.0" => "Ne baissez pas votre garde! Le monstre
+conserve son énergie pour une attaque!",
+  "13.0.34.0" => "Les ennemis continuent à arriver
+à l'ouest!",
+  "13.0.35.0" => "On a réussi! Maintenant, tout le
+monde au temple!",
+  "13.0.36.0" => "Tu as senti ça, Link? Ça doit être le chef des
+traîtres! Je suis sûre qu'il est tout près!",
+  "13.0.37.0" => "Je sais qui est celui qui donne les
+ordres à tous ces soldats traîtres!",
+  "13.0.38.0" => "C'est lui, là-bas! Va l'attraper, Link!",
+  "13.0.39.0" => "C'est trop dangereux de se battre seul!
+Utilise l'ocarina et va rejoindre tes amis!",
+  "13.0.40.0" => "Il utilise un sortilège pour se régénérer! On
+devrait pouvoir l'arrêter avec la mégatapulte!",
+  "13.0.41.0" => "Il récupère des forces! Faites-le
+trébucher pour l'en empêcher! Vite!",
+  "13.0.42.0" => "S'il continue à se régénérer, on arrivera jamais
+à le vaincre... Allez, il faut le faire tomber!",
+  "13.0.43.0" => "Ne vous approchez pas des soldats d'assaut!
+S'ils nous attaquent, ça va améliorer leur moral!",
+}

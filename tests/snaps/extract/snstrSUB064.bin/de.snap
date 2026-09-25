@@ -1,0 +1,6 @@
+Map {
+  "0.0.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.1.0" => "A0%1sF0R will die A0%2sF5R heilen und rückt vor!",
+  "0.2.0" => "Die A0%2sF0R rund um A0%1sF6R wurden geheilt!",
+  "0.3.0" => "A0%1sF0R hat A0%2sF6R vollständig geheilt!",
+}

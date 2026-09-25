@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "Begin Mission: Dynamic Duo!",
+  "0.1.0" => "A0%1sF0R and A0%2sF0R have appeared on the battlefield as a team!",
+  "0.2.0" => "A0%1sF0R is advancing toward A0%2sF6R!",
+  "0.3.0" => "Defeat A0%1sF2R and A0%2sF2R!",
+  "0.4.0" => "A0%1sF0R and A0%2sF0R are boosting each other's strength!",
+  "0.5.0" => "You have defeated A0%1sF4R and A0%2sF4R!",
+  "0.6.0" => "You have defeated A0%1sF4R!",
+  "0.7.0" => "Next, defeat A0%1sF2R!",
+  "0.8.0" => "A0%1sF0R has gotten stronger! A0%2sF0R has gotten weaker!",
+  "0.9.0" => "A0%1sF0R sensed danger and retained boosted strength!",
+  "0.10.0" => "A0%1sF0R will not be boosted any further!",
+  "0.11.0" => "A0%1sF0R has gotten stronger!",
+}

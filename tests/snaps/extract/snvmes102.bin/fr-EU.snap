@@ -1,0 +1,220 @@
+Map {
+  "1.0.0.0" => "Ces monstres arrivent les uns après les autres...
+Mais qu'est-ce qui se passe ?",
+  "1.0.1.0" => "Peu importe ce qui s'est produit... Je vais montrer à Midona
+la rebelle l'étendue des pouvoirs du roi des ombres !",
+  "1.0.2.0" => "On dirait que deux forces sont en guerre ici...
+Je me demande si je pourrais en recruter une des deux.",
+  "1.0.3.0" => "Plus l'avidité est grande, plus facile est la manipulation...
+Aider ce Xanto me semble être la meilleure chose à faire.",
+  "1.0.4.0" => "Si nous lui montrons de quoi nous sommes capables en
+éliminant cette Midona, il devrait accepter de s'allier à nous.",
+  "1.0.5.0" => "Hein ? D'autres ennemis arrivent par là-bas ! Ça m'arrange
+pas... Enfin, j'ai pas le choix, je vais les arrêter...",
+  "1.0.6.0" => "J'aperçois des visages inconnus...
+Quiconque envahit mon monde doit être éliminé !",
+  "1.0.7.0" => "Nous sommes parvenus à repousser l'armée de Midona.
+Notre base devrait être en sécurité maintenant.",
+  "1.0.8.0" => "Continuons comme ça et éliminons Midona !",
+  "1.0.9.0" => "Ksh ksh ksh, j'ai réussi à vous piéger ! Je sais pas d'où
+vous sortez, mais vous risquez pas de repartir de sitôt !",
+  "1.0.10.0" => "Maudite Midona... Elle est plus futée que je l'aurais cru.
+Si on ne fait rien, je ne donne pas cher de notre peau...",
+  "1.0.11.0" => "Ksh ksh ksh, je sais pas qui c'est, mais ils
+ont mis une belle raclée à l'armée ennemie.",
+  "1.0.12.0" => "Qu... Arrêtez d'attaquer l'armée de Xanto !
+Midona s'en trouve renforcée !",
+  "1.0.13.0" => "J'avais enfin réussi à me hisser jusqu'au trône.
+Je ne peux pas mourir comme ça... !",
+  "1.0.14.0" => "Tiens ? J'ai l'impression que les forces ennemies
+sont affaiblies... Bien, redoublez vos attaques !",
+  "1.0.15.0" => "On dirait que Midona sort enfin les griffes...
+Il ne nous reste plus qu'à la vaincre.",
+  "1.0.16.0" => "Je n'ai pas le choix, je dois fuir...",
+  "1.0.17.0" => "Roi des ombres, que dirais-tu de faire alliance
+avec moi ? Conquérons le monde ensemble.",
+  "1.0.18.0" => "Humpf... Le maître du monde,
+ce sera moi et moi seul.",
+  "1.0.19.0" => "Oh, je te trouve bien froid... Moi qui pensais que
+nous pourrions nous entendre... Quel dommage.",
+  "1.0.20.0" => "Les étrangers ne sont pas les bienvenus ici.
+Disparaissez immédiatement !",
+  "1.0.21.0" => "Si tu n'as pas l'intention de nous aider, je vais devoir
+employer la force pour que tu te soumettes !",
+  "1.0.22.0" => "Pfff... Vous êtes piégés, de toute manière. Vous ne pouvez
+pas m'atteindre. Pyrodactilus ! Occupe-toi d'eux !",
+  "1.0.23.0" => "Bien... Je vais me retirer, à présent. Je dois
+récupérer les forces que j'ai perdues en combattant.",
+  "1.0.24.0" => "J'étais en train de poursuivre d'adorables
+insectes et je me suis perdue...",
+  "1.0.25.0" => "Oh ! Il y a une jolie clé par terre.
+Est-ce que je me ferai gronder si je la prends... ?",
+  "1.0.26.0" => "Que fait cette étrange fillette ici ? Et... la clé dont
+elle parle, ne serait-ce pas celle des portes... ?",
+  "1.0.27.0" => "Si on ouvre les portes avec la clé de
+la gamine, on pourra se regrouper...",
+  "1.0.28.0" => "Je me charge de protéger notre base !",
+  "1.0.29.0" => "Moi, je vais aller coincer Xanto !",
+  "1.0.30.0" => "Im... Impossible... !
+Ils ont vaincu le pyrodactilus ?!",
+  "1.0.31.0" => "Hyaaa ! Qui êtes-vous ?!
+Ne me faites pas de mal !",
+  "1.0.32.0" => "Oh ! Vous voulez cette clé ? Je croyais que vous en
+aviez après mes insectes... Tenez, elle est à vous.",
+  "1.0.33.0" => "Allez, capturons Xanto et donnons-lui
+une bonne correction !",
+  "1.0.34.0" => "Argh... ! Mi... Misérables... !",
+  "1.0.35.0" => "Ngh... ! Les boules de feu que crache cette
+créature mettent notre base en danger !",
+  "1.0.36.0" => "Les dégâts causés par les boules de feu sont trop
+importants... Notre base ne tiendra plus longtemps !",
+  "1.0.37.0" => "Xanto... Si tu m'obéis, je te laisserai la vie sauve et
+tu pourras même conserver le palais du Crépuscule.",
+  "1.0.38.0" => "Je ne peux plus m'opposer à vous.
+Très bien, j'obéirai à vos ordres.",
+  "1.0.39.0" => "Hu hu... Voilà un gentil garçon.
+J'attends de toi que tu sues sang et eau à mon service.",
+  "1.0.40.0" => "Maîtresse Cya...
+Je ne peux plus combattre davantage...",
+  "1.0.41.0" => "Mais alors, on ne peut plus continuer le combat !
+Merci, à cause de toi, mon plan tombe à l'eau...",
+  "1.0.42.0" => "Notre base est tombée... ?
+Mais alors, on ne peut plus combattre !",
+  "1.0.43.0" => "Imbéciles ! Je suis un roi !
+Je ne me plierai jamais à votre volonté !",
+  "1.0.44.0" => "Il s'est enfui... !
+On a fait tout ça pour rien...",
+  "1.0.45.0" => "Si nous pouvions recruter Xanto, notre armée en serait
+beaucoup renforcée. N'abandonnons pas et recommençons...",
+  "1.0.46.0" => "Vous, allez arrêter Xanto !",
+  "1.0.47.0" => "Bien, il est temps de jouer mon prochain coup.
+Attaquez maintenant !",
+  "1.0.48.0" => "Xanto est sorti du palais !
+Éliminez-le ! Maintenant !",
+  "1.0.49.0" => "Vous osez venir ici ?
+Très bien... Je vais vous affronter !",
+  "1.0.50.0" => "Il ne faudrait pas qu'il nous échappe. Je pense
+qu'il vaut mieux le vaincre ici et maintenant.",
+  "1.0.51.0" => "Si nous prenons ce fort, nous devrions pouvoir
+passer ces portes verrouillées !",
+  "1.0.52.0" => "Bien, les portes sont ouvertes ! Il est temps
+d'affronter Midona. Elle ne devrait pas être loin.",
+  "1.0.53.0" => "Tu ne m'échapperas pas... !",
+  "1.0.54.0" => "Fiou... Ça devrait nous permettre
+de gagner un peu de temps...",
+  "1.0.55.0" => "Hmpf... Je vais t'écraser !",
+  "1.0.56.0" => "Je vais m'en occuper !",
+  "1.0.57.0" => "Ce fort appartient à l'armée de Xanto !
+Arrêtez de l'attaquer !",
+  "1.0.58.0" => "Je n'ai pas le choix, je vais utiliser mon dernier atout...
+Qu'est-ce que vous dites de ça ?!",
+  "1.0.59.0" => "Maudit Xanto ! Il nous traite comme ses
+ennemis ! On fait quoi ? On se venge ?",
+  "1.0.60.0" => "Amusez-vous plutôt avec ceux qui nous
+attaquent, mais ne touchez pas à leurs forts.",
+  "1.0.61.0" => "Hmpf... L'armée de Xanto semble
+avoir pris Volga pour cible.",
+  "1.0.62.0" => "Hmm... Ce serait dommage de perdre des
+soldats. Mais je ne suis pas d'humeur à l'aider...",
+  "1.0.63.0" => "Ces misérables comptent sur leur
+nombre pour prendre le dessus... !",
+  "1.0.64.0" => "Maître Volga est en danger !
+Personne veut l'aider ?!",
+  "1.0.65.0" => "Je ne peux... être vaincu
+par cette vermine... !",
+  "1.0.66.0" => "Maître... Maître Volga ! Il est en
+danger ! Faites quelque chose !",
+  "1.0.67.0" => "Mais arrêtez de geindre, les lézards !
+Je vais l'aider, alors taisez-vous !",
+  "1.0.68.0" => "Aaah ! Maître Volgaaa !!!",
+  "1.0.69.0" => "Nous sommes des moins que rien...",
+  "1.0.70.0" => "Tsss... On perd l'avantage... Je devrais
+utiliser mon dernier atout maintenant...",
+  "1.0.71.0" => "On dirait qu'elle prépare quelque
+chose... Restons vigilants.",
+  "1.0.72.0" => "Hiii hi hi hi... C'est inutile...
+Vous allez voir.",
+  "1.0.73.0" => "Hu hu hu... Vous n'avez pas compris où
+était votre place... Je vais vous le montrer !",
+  "1.0.74.0" => "Maintenant que cette sotte de Midona n'est plus,
+je suis le seul et unique roi des ombres !",
+  "1.0.75.0" => "Maintenant que cette sotte de Midona n'est plus,
+je suis le seul et unique roi des ombres !",
+  "1.0.76.0" => "Si nous terrassons ce pyrodactilus,
+Xanto perdra la volonté de se battre...",
+  "1.0.77.0" => "Je doute qu'il capitule si facilement, mais...
+ce dragon nous gêne, autant l'éliminer.",
+  "1.0.78.0" => "Leur affrontement les épuise.
+C'est le moment d'attaquer leur base !",
+  "1.0.79.0" => "Je vais écraser ce dragon volant.
+Venez avec moi.",
+  "13.0.0.0" => "Ceux qui ont soif de pouvoir sont faciles à manipuler... Faire
+obéir ce soi-disant roi des ombres devrait être le plus simple.",
+  "13.0.1.0" => "Si nous faisons une démonstration de force en
+battant Midona, Xanto devrait s'intéresser à moi.",
+  "13.0.2.0" => "Nous avons réussi à repousser l'armée de Midona.
+Notre base devrait être en sécurité pour le moment.",
+  "13.0.3.0" => "Si on continue comme ça,
+on pourra venir à bout de Midona facilement.",
+  "13.0.4.0" => "Hu hu... J'aime ta manière d'agir... Mais
+cette situation ne m'arrange guère.",
+  "13.0.5.0" => "Mais qui attaque l'armée de Xanto ?! Nous ne
+sommes pas là pour donner l'avantage à Midona !",
+  "13.0.6.0" => "Ridicule. On élimine Xanto et elle s'imagine déjà avoir
+gagné la bataille. Elle mérite une bonne correction.",
+  "13.0.7.0" => "Si on ouvre les portes avec la clé de la
+gamine, on pourra sûrement se regrouper...",
+  "13.0.8.0" => "Rattrapez Xanto et plus vite que ça !",
+  "13.0.9.0" => "Maintenant, nous pouvons poursuivre Xanto.
+Éliminons-le avant qu'il puisse s'enfuir.",
+  "13.0.10.0" => "Je n'aime pas ça... À cause des boules de feu
+du monstre géant, notre base est en danger...",
+  "13.0.11.0" => "Les boules de feu ont causé trop de dégâts...
+Notre base ne tiendra plus longtemps !",
+  "13.0.12.0" => "J'ai manqué de vigilance... Je me retire...",
+  "13.0.13.0" => "Puisqu'il en est ainsi...",
+  "13.0.14.0" => "Il ne faut pas qu'il nous échappe.
+Éliminons-le sur-le-champ !",
+  "13.0.15.0" => "Cela devrait nous permettre de
+gagner un peu de temps...",
+  "13.0.16.0" => "Petite impertinente...
+Allez ! Écrasez l'armée de Midona !",
+  "13.0.17.0" => "Comment ? Les portes sont fermées... ?
+Eh bien, prenez le fort pour les ouvrir !",
+  "13.0.18.0" => "Hu hu hu... Les portes sont ouvertes.
+Midona ne devrait plus être loin !",
+  "13.0.19.0" => "Tu ne m'échapperas pas... !",
+  "13.0.20.0" => "Xanto est sorti du palais !
+Dépêchez-vous de le vaincre !",
+  "13.0.21.0" => "Ce fort appartient à l'armée de Xanto !
+Arrêtez de l'attaquer !",
+  "13.0.22.0" => "Regardez ! On dirait que l'attaque magique a
+marché ! Le dragon a perdu beaucoup d'altitude !",
+  "13.0.23.0" => "C'est déjà la troisième fois...
+Combien de temps ça va encore durer... ?",
+  "13.0.24.0" => "Ça ne sert à rien de l'attaquer avec mon cercle
+magique... Comment faire... ?",
+  "13.0.25.0" => "Suivons le papillon vers le bâtiment au sud-est !
+Lui faire confiance, c'est tout ce qu'on peut faire !",
+  "13.0.26.0" => "Peut-être qu'on pourra vaincre le dragon avec
+le cercle magique de la fontaine de la Déesse... !",
+  "13.0.27.0" => "Il ne nous reste plus que notre base.
+Il faut la protéger coûte que coûte...",
+  "13.0.28.0" => "Tu as vu ? Voilà de quoi on est capables !",
+  "13.0.29.0" => "Si on arrive à vaincre ce dragon et
+Xanto, on aura gagné... Courage !",
+  "13.0.30.0" => "C'est justement l'ambition qui a causé
+votre perte... à Cya et à toi...",
+  "13.0.31.0" => "On l'a enfin vaincu...
+C'est grâce à vous tous !",
+  "13.0.32.0" => "On a vaincu tous les ennemis puissants !
+On devrait pouvoir aller fermer la porte des âmes !",
+  "13.0.33.0" => "Les ennemis attaquent notre base !
+Protégez-la !",
+  "13.0.34.0" => "Notre base va bientôt tomber !
+Il nous faut du renfort, vite !",
+  "13.0.35.0" => "Argh, j'ai été vaincue...
+Pardonnez-moi...",
+  "13.0.36.0" => "La base est tombée... ?
+Nous ne pouvons plus combattre...",
+}

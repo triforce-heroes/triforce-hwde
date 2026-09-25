@@ -1,0 +1,6 @@
+Map {
+  "0.1.0" => "¡Han aparecido A0%1sF1R en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF3R han empezado a atacar en varias zonas!",
+  "0.3.0" => "¡Vence A0%1sF5R y frena el ataque!",
+  "0.4.0" => "¡Has vencido A0%1sF5R y frenado el ataque!",
+}

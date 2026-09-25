@@ -1,0 +1,16 @@
+Map {
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R is advancing toward the A0%2sF6R!",
+  "0.3.0" => "Don't let A0%1sF4R reach the A0%2sF4R!",
+  "0.4.0" => "A0%1sF4R has exploded! The A0%2sF4R has suffered major damage!",
+  "0.5.0" => "Defeat A0%1sF4R and rescue A0%2sF2R!",
+  "0.6.0" => "You rescued A0%1sF4R!",
+  "0.7.0" => "A0%1sF0R is advancing toward the A0%2sF4R!",
+  "0.8.0" => "A0%1sF4R has exploded! The A0%2sF4R has suffered major damage!",
+  "0.9.0" => "A0%1sF4R has reached the A0%2sF4R!",
+  "0.10.0" => "A0%1sF4R has reached the A0%2sF4R!",
+  "0.11.0" => "A0%2sF2R was discovered near A0%1sF4R!",
+  "0.12.0" => "A0%1sF4R has been defeated!",
+  "0.13.0" => "A0%1sF0R is advancing toward the A0%2sF4R!",
+  "0.14.0" => "Cover A0%1sF0R's advance!",
+}

@@ -1,0 +1,5 @@
+Map {
+  "0.0.0" => "A0%1sF6R rejoint le champ de bataille !",
+  "0.1.0" => "A0%1sF4R avance pour soigner les blessés A0%2sF3R !",
+  "0.2.0" => "A0%1sF4R a soigné les soldats A0%2sF3R à proximité !",
+}

@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R is ready to storm the A0%2sF6R!",
+  "0.3.0" => "Defeat A0%1sF2R immediately!",
+  "0.4.0" => "A0%1sF4R is getting ready to storm the A0%2sF4R!",
+  "0.5.0" => "A0%1sF0R has temporarily retreated to storm the A0%2sF4R!",
+  "0.6.0" => "A0%1sF0R assaulted the A0%2sF2R!",
+  "0.7.0" => "Don't let the A0%1sF0R fall!",
+  "0.8.0" => "You stopped A0%1sF0R's assault!",
+  "0.9.0" => "A0%1sF0R started attacking the A0%2sF2R!",
+}

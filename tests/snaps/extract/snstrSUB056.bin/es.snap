@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "¡Han aparecido A0%1sF1R!",
+  "0.2.0" => "¡Si te acercas A0%1sF5R, podrán negociar!",
+  "0.4.0" => "¡Has intercambiado algo con A0%1sF2R!",
+  "0.5.0" => "¡A0%1sF0R se ha retirado!",
+  "0.6.0" => "¡Aproxímate A0%1sF5R que quedan para negociar!",
+  "0.8.0" => "¡A0%1sF0R ha huido!",
+  "0.9.0" => "¡A0%1sF0R ha percibido el peligro y se ha retirado!",
+  "0.11.0" => "¡A0%1sF0R ha dejado algo en el campo de batalla!",
+  "0.13.0" => "¡Le has comprado una A6escritura de propiedadR A0%1sF4R por A61000 rupiasR!",
+  "0.14.0" => "¡Le has cambiado la A6escritura de propiedadR A0%1sF4R por un objeto!",
+}

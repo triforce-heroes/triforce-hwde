@@ -1,0 +1,205 @@
+Map {
+  "1.0.0.0" => "Je ne te laisserai jamais
+la puissance de la Triforce !",
+  "1.0.1.0" => "Ne comprends-tu donc pas que cette puissance est trop
+grande pour toi ? Gohma, allez prendre les forts de Cya !",
+  "1.0.2.0" => "Il ne faut pas qu'ils prennent les forts devant les ruines...
+Protégez-les au péril de votre vie, s'il le faut !",
+  "1.0.3.0" => "Nous allons retenir celle de l'est.
+Occupez-vous de celle à l'ouest.",
+  "1.0.4.0" => "Ils nous ont pris le fort... ?!
+Récupérez-le à tout prix !!!",
+  "1.0.5.0" => "Il est trop tôt pour vous réjouir...
+Amusez-vous donc avec lui, maintenant.",
+  "1.0.6.0" => "Manhandla, maintenant... ?
+Qu'importe, nous le vaincrons !",
+  "1.0.7.0" => "Iscerro !
+Retiens Manhandla !",
+  "1.0.8.0" => "Mes blessures de la dernière bataille ne sont pas encore
+guéries. Vous pourriez me ménager un peu...",
+  "1.0.9.0" => "Si ce Ganondorf arrive à manipuler aussi facilement
+ces monstres géants, c'est qu'il doit être très puissant...",
+  "1.0.10.0" => "Nous allons enfin pouvoir contre-attaquer...
+Iscerro, lance l'assaut sur la base ennemie !",
+  "1.0.11.0" => "Je ne reçois plus d'ordres de vous deux ! Le seul qui soit
+digne d'être mon maître, c'est le seigneur Ganondorf !",
+  "1.0.12.0" => "Hmpf... Tu me jures fidélité ? Dans ce cas,
+ramène-moi leurs têtes en signe de loyauté.",
+  "1.0.13.0" => "Vos désirs sont des ordres !
+Admirez l'étendue de mes pouvoirs !",
+  "1.0.14.0" => "Iscerro, sale vermine... !
+Tu payeras cette trahison de ta vie !",
+  "1.0.15.0" => "Les pouvoirs magiques d'Iscerro ne tiendront pas longtemps...
+Commençons par éliminer l'ennemi qui se dirige vers notre base.",
+  "1.0.16.0" => "Hu... Hu hu... Même si mes hommes me trahissent,
+mes Héros me protégeront toujours...",
+  "1.0.17.0" => "Pauvre folle... Elle gaspille tant de magie
+qu'elle commence à perdre la raison.",
+  "1.0.18.0" => "Je n'ai plus de raison d'obéir à Cya. Dans ce cas, il ne
+me reste plus qu'à défier le seul qui soit à ma hauteur ici !",
+  "1.0.19.0" => "Ganondorf !
+Affronte-moi !!!",
+  "1.0.20.0" => "Hmpf... Tu vas apprendre à tes dépens
+que personne n'est de taille contre moi.",
+  "1.0.21.0" => "Argh ! C'était un piège... Aaaaah !!!",
+  "1.0.22.0" => "Nrgh... Je ne peux rien faire contre cette sphère...
+Je n'ai pas le choix, je dois battre en retraite...",
+  "1.0.23.0" => "Le nombre de monstres a diminué, on dirait... Mais c'est
+maintenant que les choses sérieuses commencent... !",
+  "1.0.24.0" => "Je dois invoquer... plus de monstres... !",
+  "1.0.25.0" => "Haa... haa... Mes pouvoirs magiques ont atteint leur limite ?
+Je vais avoir du mal à invoquer plus de monstres...",
+  "1.0.26.0" => "Noooon... Je ne veux pas... redevenir une bague...",
+  "1.0.27.0" => "Assez joué... Lancez une attaque
+générale sur ces ruines !",
+  "1.0.28.0" => "Maudit Ganondorf ! Je ne pensais pas
+qu'il lui restait autant de soldats...",
+  "1.0.29.0" => "Ils sont trop nombreux,
+on n'a aucune chance !",
+  "1.0.30.0" => "Je suis désolé pour maître Volga,
+mais on doit fuir...",
+  "1.0.31.0" => "J'ai toujours mes Héros à mes côtés... ! Si j'en
+invoque plus, ces misérables... ces misérables... !",
+  "1.0.32.0" => "Cya, ressaisis-toi ! Tu ne dois pas utiliser
+tes pouvoirs magiques davantage !",
+  "1.0.33.0" => "La... Lana... ? Oh... Qu'est-ce qui m'est arrivé... ?
+Ah, c'est vrai... Je dois vaincre Ganondorf...",
+  "1.0.34.0" => "Je suis venue t'aider !
+Repoussons Ganondorf ensemble !",
+  "1.0.35.0" => "Le bien et le mal... Je ne pensais pas qu'elles pourraient
+coopérer. Qu'importe... Je vais les éliminer toutes les deux.",
+  "1.0.36.0" => "Ses forces ne cessent de grandir...
+Il faut le vaincre au plus vite !",
+  "1.0.37.0" => "L'endroit où se trouve Ganondorf est enveloppé par une
+sphère de ténèbres, on ne peut pas y combattre normalement.",
+  "1.0.38.0" => "Je pense pouvoir la détruire avec ma magie
+de lumière. Je t'en prie, aide-moi !",
+  "1.0.39.0" => "Il faut vite détruire la sphère... !",
+  "1.0.40.0" => "Je devrais pouvoir détruire la sphère
+avec ma magie... !",
+  "1.0.41.0" => "Elle a détruit la sphère... ?
+Cette petite gourde ne manque pas d'air...",
+  "1.0.42.0" => "Hmmm... Mes pouvoirs magiques augmentent...
+Mais ce n'est pas encore suffisant...",
+  "1.0.43.0" => "Eh bien alors ?
+Vous ne deviez pas me vaincre ?",
+  "1.0.44.0" => "Aaah... J'ai assez de pouvoir magique maintenant...
+Allez, venez vite m'affronter.",
+  "1.0.45.0" => "Voilà de bien insupportables gêneurs...
+Je vais me retirer pour l'instant...",
+  "1.0.46.0" => "On a réussi ! On l'a fait fuir !",
+  "1.0.47.0" => "Dans ce cas, tu ne m'es plus
+d'aucune utilité. Allez, file.",
+  "1.0.48.0" => "Cya... Arrêtons cette guerre, tu veux ? Si tu utilises
+davantage de pouvoir magique, tu vas vraim...",
+  "1.0.49.0" => "Disparais, et plus vite que ça !
+Je... Je ferai comme bon me semble... !",
+  "1.0.50.0" => "Puisqu'on m'a volé ces terres, c'est la fin...",
+  "1.0.51.0" => "Je n'ai pas pu te sauver...
+Cya, pardonne-moi...",
+  "1.0.52.0" => "C'est ridicule...
+Amusez-vous avec ça, maintenant.",
+  "1.0.53.0" => "Hya ha ha ! Alors, que pensez-vous de mes pouvoirs ?
+Si je me bats sérieusement, vous n'avez aucune chance... !",
+  "1.0.54.0" => "Volga ! Continue de protéger notre base,
+c'est un ordre !",
+  "1.0.55.0" => "Je n'ai plus l'intention de t'obéir.
+Je ferai ce qu'il me plaît... !",
+  "1.0.56.0" => "La base est en danger ! Mettez fin aux bombardements
+de graines de Manhandla !",
+  "1.0.57.0" => "Si ça continue, notre base va tomber... Dépêchez-vous !
+Mettez fin aux bombardements de graines de Manhandla !",
+  "1.0.58.0" => "Ils nous attaquent de front !
+Renforcez la défense !",
+  "1.0.59.0" => "Kya ha ha ! C'est ce qui arrive quand
+on s'en prend à moi et au Héros !",
+  "1.0.60.0" => "Attaquez depuis l'est pour
+les prendre en tenaille.",
+  "1.0.61.0" => "Vous pensez pouvoir me
+vaincre comme ça ?",
+  "1.0.62.0" => "Kh... Nous n'avons pas
+réussi à les arrêter...",
+  "1.0.63.0" => "Comme ils sont agaçants.
+Je vais me débarrasser d'eux.",
+  "1.0.64.0" => "Il n'y avais pas
+de quoi s'affoler.",
+  "1.0.65.0" => "Cette petite gourde a une idée en
+tête... Je ne la laisserai pas faire !",
+  "1.0.66.0" => "Ne me gênez pas !",
+  "1.0.67.0" => "Merci de m'avoir
+aidée, Cya !",
+  "1.0.68.0" => "Gh... Fais-moi disparaître cette
+sphère, et plus vite que ça !",
+  "1.0.69.0" => "Merci de m'avoir aidée !",
+  "1.0.70.0" => "Inutile de me remercier. Fais ce
+qu'on t'a demandé, maintenant.",
+  "13.0.0.0" => "Nous ne devons pas laisser l'ennemi prendre les forts
+devant les ruines. Protégez-les coûte que coûte !",
+  "13.0.1.0" => "Je vais arrêter celle qui est à l'est.
+Occupez-vous de celle de l'ouest.",
+  "13.0.2.0" => "Ils nous ont pris un fort ?! Mais dépêchez-vous
+de le récupérer, enfin !",
+  "13.0.3.0" => "Bien... Nous pouvons contre-attaquer.
+Iscerro ! Lance l'assaut sur la base ennemie !",
+  "13.0.4.0" => "Mes Héros protègent notre base...
+Je peux m'occuper de Ganondorf...",
+  "13.0.5.0" => "Ganondorf ! J'en finirai
+avec toi ici-même !",
+  "13.0.6.0" => "C'était... C'était un piège ! Hyaaaa !",
+  "13.0.7.0" => "Que tu es lâche de te cacher dans une sphère magique !
+Je n'ai pas le choix, je dois battre en retraite...",
+  "13.0.8.0" => "Maudit Ganondorf... Je n'arrive pas à
+croire qu'il lui restait autant de soldats...",
+  "13.0.9.0" => "C'est la fin...",
+  "13.0.10.0" => "Dame Cya, reculez. Vous ne pouvez plus
+combattre dans votre état.",
+  "13.0.11.0" => "De quoi je me mêle ! Tais-toi et combats,
+c'est tout ce que je te demande !",
+  "13.0.12.0" => "Notre base est en danger... Il faut mettre fin aux
+bombardements de graines de Manhandla...",
+  "13.0.13.0" => "Si nous n'arrêtons pas les bombardements de graines
+de Manhandla, notre base ne tiendra plus longtemps... !",
+  "13.0.14.0" => "Les pouvoirs magiques d'Iscerro seront vite épuisés. En
+attendant, éliminez ceux qui se dirigent vers notre base !",
+  "13.0.15.0" => "Ils nous attaquent de front ! Renforcez
+la défense, c'est bien compris ?",
+  "13.0.16.0" => "Hmpf... Il m'en faut plus !",
+  "13.0.17.0" => "Je sens qu'ils vont pouvoir
+m'amuser un peu...",
+  "13.0.18.0" => "Ça, c'était du beau combat !",
+  "13.0.19.0" => "Bon, alors... attirons l'ennemi sur la place devant
+les ruines et abaissons le pont sans être vus !",
+  "13.0.20.0" => "Mais c'est quoi, cet ennemi ?! Il n'arrête pas
+de faire apparaître des monstres !",
+  "13.0.21.0" => "L'ingénieur va partir de notre base !
+Escortons-le jusqu'à la partie est des ruines !",
+  "13.0.22.0" => "Link s'occupe des ennemis à l'ouest !
+Il faut vite abaisser le pont !",
+  "13.0.23.0" => "Link ! Ce serait mieux si tu retenais l'ennemi
+au centre, non ?",
+  "13.0.24.0" => "Attention ! L'ennemi à l'ouest vise notre base !",
+  "13.0.25.0" => "Bravo ! Entrons dans les ruines par le pont !",
+  "13.0.26.0" => "L'ingénieur a été vaincu...",
+  "13.0.27.0" => "Cya se trouve au sommet ! Allons-y !",
+  "13.0.28.0" => "Ce monstre est encore vivant !
+Et il s'est réfugié sous terre !",
+  "13.0.29.0" => "On va s'en occuper ! Allez Link, ne retiens
+pas tes coups !",
+  "13.0.30.0" => "On va s'en occuper ! Allez Link, ne retiens
+pas tes coups !",
+  "13.0.31.0" => "Notre base est attaquée ! Vite ! Il faut le tuer !",
+  "13.0.32.0" => "Non ! La base va tomber ! Dépêchons-nous !
+Il faut se débarrasser de lui !",
+  "13.0.33.0" => "Ça ne sent pas bon pour notre base !
+Vite, vite !",
+  "13.0.34.0" => "Oh, non... On dirait que ce n'était pas le vrai.",
+  "13.0.35.0" => "On peut enfin attaquer Cya ! C'est parti !
+Direction l'autel des ruines !",
+  "13.0.36.0" => "Non... Link... Ils t'ont eu... ?!",
+  "13.0.37.0" => "Attention ! Certains ennemis s'en prennent
+à l'ingénieur !",
+  "13.0.38.0" => "Les portes des ruines sont fermées...
+On ne peut pas entrer...",
+  "13.0.39.0" => "Link et moi attaquerons depuis l'est.
+Occupez-vous de l'ouest.",
+}

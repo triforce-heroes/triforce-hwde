@@ -1,0 +1,18 @@
+Map {
+  "0.0.0" => "Begin Mission: Magic Thief!",
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "Don't let A0%1sF4R get too close!",
+  "0.3.0" => "A0%1sF6R has stolen your magic power!",
+  "0.4.0" => "Defeat the real A0%1sF2R to get your magic back!",
+  "0.5.0" => "A0%1sF0R is advancing toward A0%2sF6R!",
+  "0.6.0" => "A0%1sF0R has temporarily withdrawn!",
+  "0.7.0" => "A0%1sF0R has reappeared with a double!",
+  "0.8.0" => "The real A0%1sF0R has your magic power!",
+  "0.9.0" => "You have defeated A0%1sF2R's double!",
+  "0.10.0" => "You have failed to defeat A0%1sF4R!",
+  "0.11.0" => "You have defeated A0%1sF4R!",
+  "0.12.0" => "The real A0%1sF0R is preparing to depart!",
+  "0.13.0" => "The real A0%1sF0R has departed the battlefield!",
+  "0.14.0" => "You have defeated the real A0%1sF2R!",
+  "0.15.0" => "A0%1sF0R's double has vanished after the real A0%1sF0R's defeat!",
+}

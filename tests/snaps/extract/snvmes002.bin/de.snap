@@ -1,0 +1,194 @@
+Map {
+  "1.0.0.0" => "Schlagt diese hylianischen Ratten in die Flucht!",
+  "1.0.1.0" => "Dieser Magier ist der Kopf unserer Feinde! Wenn
+wir ihn beseitigen, sollte der Sieg greifbar sein!",
+  "1.0.2.0" => "Jetzt müssen wir uns nur noch um
+dieses Monster kümmern...",
+  "1.0.3.0" => "Diese Pflanzenbestien... Sie versprühen Gift!",
+  "1.0.4.0" => "Die junge Dame scheint einiges zu wissen.
+Sie darf unseren Feinden nicht in die Hände fallen!",
+  "1.0.5.0" => "Dekuranhas! Wenn wir sie nicht bezwingen,
+sind wir ihrem Gift ausgeliefert!",
+  "1.0.6.0" => "Dann sollten wir nicht untätig herumstehen.",
+  "1.0.7.0" => "Im Nahkampf können wir gegen diese
+Giftpflanzen nichts ausrichten...",
+  "1.0.8.0" => "Dann müssen wir es also aus der Ferne
+versuchen? Alles klar!",
+  "1.0.9.0" => "Wenn ich mich recht erinnere, war da ein Bogen
+am Südrand der Siedlung. Du solltest ihn holen!",
+  "1.0.10.0" => "Geschafft! Er ist erledigt!
+Jetzt sollten wir uns um die anderen kümmern!",
+  "1.0.11.0" => "Damit sollte die Gefahr durch das Gift gebannt
+sein. Vielen Dank!",
+  "1.0.12.0" => "Ihr Narren! So leicht entkommt ihr mir nicht!",
+  "1.0.13.0" => "Umzingelt diesen Baum und vernichtet sie!
+",
+  "1.0.14.0" => "Die Soldaten sind müde vom Kampf. Ziehen
+wir uns erst mal zum Deku-Baum zurück!",
+  "1.0.15.0" => "Ich beschäftige unsere Feinde hier.
+Zieht ihr euch zurück!",
+  "1.0.16.0" => "Sie verbarrikadieren sich? Dann umzingelt
+diesen Baum und vernichtet sie!",
+  "1.0.17.0" => "Sie verbarrikadieren sich in diesem
+Riesenbaum?",
+  "1.0.18.0" => "Was sollen wir nur tun? Der Feind marschiert
+auf den Deku-Baum zu!",
+  "1.0.19.0" => "Wir müssen den Deku-Baum verteidigen!
+Koste es, was es wolle!",
+  "1.0.20.0" => "Zuerst sollten wir die Feinde abfangen, die vom
+Süden her kommen!",
+  "1.0.21.0" => "Ich helfe der jungen Frau.",
+  "1.0.22.0" => "Achtung! Der Feind nähert sich dem
+Deku-Baum auch von Norden aus!",
+  "1.0.23.0" => "Die Feinde im Süden sind Geschichte.
+Beseitigt die Überreste des feindlichen Heeres!",
+  "1.0.24.0" => "Ich brauche hier dringend Hilfe!",
+  "1.0.25.0" => "Sehr gut! Zertreten wir diese jämmerlichen
+Maden!",
+  "1.0.26.0" => "Lange halten wir hier nicht mehr durch...",
+  "1.0.27.0" => "Gebt nicht auf!
+Ich eile euch zu Hilfe!",
+  "1.0.28.0" => "Hurra! Wir haben den Feind in die Flucht
+geschlagen!",
+  "1.0.29.0" => "Ein Glück... Das sollte dem Deku-Baum
+wertvolle Zeit verschaffen...",
+  "1.0.30.0" => "Genießt euren Triumph... Denn am Ende
+erwartet euch nichts als Verzweiflung!",
+  "1.0.31.0" => "Dort! Feuer!",
+  "1.0.32.0" => "Der Deku-Baum braucht Hilfe!
+Wie können wir diese Flammen nur löschen?",
+  "1.0.33.0" => "Hahahaaa! Kein Wasser zum Löschen in der
+Nähe! Freut euch auf ein feuriges Ende!",
+  "1.0.34.0" => "Wir dürfen nicht zulassen, dass der Deku-Baum
+verbrennt... Doch was können wir tun?",
+  "1.0.35.0" => "Oh! Ich kann die Aura einer Großen Fee fühlen!
+Wenn sie uns hilft, könnten wir alle retten!",
+  "1.0.36.0" => "Feuer! Feuer!",
+  "1.0.37.0" => "Wenn wir das Feuer nicht bald löschen,
+ist der Deku-Baum verloren...",
+  "1.0.38.0" => "Fügt euch eurem Schicksal...
+Ihr könnt ihm nicht entkommen!",
+  "1.0.40.0" => "Die Tore sind fest verriegelt...
+Wie sollen wir sie nur öffnen?",
+  "1.0.41.0" => "O Große Fee! Hilf uns mit deiner Stärke!
+Ich flehe dich an, öffne dieses Tor!",
+  "1.0.42.0" => "Oh! Das Feuer erlischt!
+Greifen wir mit allem an, was wir haben!",
+  "1.0.43.0" => "Zauberhaft...
+Vielen Dank, o Große Fee!",
+  "1.0.44.0" => "Grrrrr... Mein Plan war zu gut, um
+fehlzuschlagen!",
+  "1.0.45.0" => "Er war es, der den Deku-Baum in Brand gesetzt
+hat! Das werden wir ihm niemals vergeben!",
+  "1.0.46.0" => "Mir reicht's...
+Soll Gohma von hier an übernehmen!",
+  "1.0.47.0" => "Ah! Der Zauberer ist geflohen!",
+  "1.0.49.0" => "W-was ist das für ein Ungeheuer?!",
+  "1.0.50.0" => "Das ist keine gewöhnliche Bestie...
+Macht euch kampfbereit, Leute!",
+  "1.0.51.0" => "Tu etwas! Dieses Monster sieht zwar mächtig aus...
+Doch du darfst nicht deinen Mut verlieren!",
+  "1.0.53.0" => "U-U-Ungeheuer! Wir brauchen Hilfe!",
+  "1.0.54.0" => "Ein Monster ist in den Deku-Baum eingedrungen!
+Benutze schnell die Okarina und greife ein!",
+  "1.0.55.0" => "Jedes Monster hat seine Schwachstelle...
+Man muss sie nur finden!",
+  "1.0.56.0" => "Vielleicht solltest du das riesige Auge ins Visier
+nehmen! Ein Pfeil würde sicher wehtun...",
+  "1.0.57.0" => "Es kehrt zurück!
+Das Ungeheuer hat sich wieder erholt!",
+  "1.0.58.0" => "Wir sollten zuerst seinen Zufluchtsort
+erobern, sonst wird es noch schwerer...",
+  "1.0.59.0" => "Hurra! Die Bestie ist besiegt!",
+  "1.0.60.0" => "Ausgezeichnet! Zauberhaft!
+Du hast dieses Monster besiegt!",
+  "1.0.61.0" => "Ihr habt tapfer gekämpft!",
+  "1.0.62.0" => "Der Deku-Baum...
+Das Dorf... Alles verloren!",
+  "1.0.63.0" => "Wir konnten sie nicht schützen...
+Meine Trauer ist groß...",
+  "1.0.64.0" => "Nein... Das darf nicht sein!",
+  "1.0.65.0" => "Ich bereite eurem Jammern ein Ende...
+Hahaha!",
+  "1.0.66.0" => "Schnell, in meinen Tempel!",
+  "1.0.67.0" => "Ich kann die Aura der Großen Fee fühlen!",
+  "1.0.68.0" => "Mächtige Magie... Nordöstlich von hier...
+Das könnte die Große Fee sein!",
+  "1.0.69.0" => "Hast du den Bogen noch nicht gefunden?",
+  "1.0.70.0" => "Ah, ich weiß! Der Bogen war am großen
+Baum im Südwesten der Siedlung!",
+  "1.0.71.0" => "Da fällt mir ein... Ich glaube, der Bogen war beim
+großen Baum im Südwesten der Siedlung.",
+  "1.0.72.0" => "Wenn wir nichts tun, wird der Deku-Baum
+verbrennen! Schnell! Lösche das Feuer!",
+  "1.0.73.0" => "Wir sind hier mit Löschen beschäftigt und
+werden auch noch angegriffen!",
+  "1.0.74.0" => "Schon wieder er...
+Er will uns wohl auf diese Weise zermürben...",
+  "1.0.75.0" => "Die Giftpflanzen lassen sich mit dem
+Bogen bekämpfen.",
+  "1.0.76.0" => "Er müsste wissen, wo die Prinzessin ist.
+Ich werde dafür sorgen, dass er es mir sagt.",
+  "1.0.77.0" => "Er ist uns entwischt...",
+  "1.0.78.0" => "Die Kreatur ist entkommen?",
+  "1.0.79.0" => "Das Monster scheint noch etwas Kraft
+übrig zu haben...",
+  "1.0.80.0" => "Ich spüre dort die Macht der Großen Fee! Kämpf
+dich durch die Monster und öffne das Tor!",
+  "1.0.81.0" => "Die Kreatur ist wieder da!",
+  "1.0.82.0" => "Ich kümmere mich um die Feinde, die
+von Süden kommen.",
+  "1.0.83.0" => "Ich erledige die Feinde, die von
+Süden kommen.",
+  "1.0.84.0" => "Wenn wir die Feinde im Norden besiegt haben,
+müssen wir uns um die im Süden kümmern!",
+  "1.0.85.0" => "Jippie! Wir haben sie zurückgeschlagen!",
+  "1.0.86.0" => "Hmpf... Ihr seid wirklich hartnäckig
+wie Küchenschaben!",
+  "1.0.87.0" => "Hier, verwendet das hier!
+Das wird sicher nützlich sein!",
+  "1.0.88.0" => "So können wir jederzeit zu dieser Statue
+zurückkehren!",
+  "1.0.89.0" => "Wir müssen uns alle bei diesem Gespenst
+sammeln! Gemeinsam besiegen wir ihn!",
+  "13.0.0.0" => "Im Nahkampf können wir nichts ausrichten...",
+  "13.0.1.0" => "Am Rand der Siedlung müsste es einen Bogen
+geben, der uns hier weiterhelfen könnte...",
+  "13.0.2.0" => "Hm... Ich glaube, ich habe den Bogen beim großen
+Baum im Südwesten der Siedlung gesehen.",
+  "13.0.3.0" => "Fantastisch! Dieser Bogen ist unsere Rettung.
+Beseitigen wir die verbliebenen Dekuranhas!",
+  "13.0.4.0" => "Das Gift löst sich auf! Wunderbar!",
+  "13.0.5.0" => "Wir müssen allen die Flucht zum Deku-Baum
+ermöglichen... Halten wir den Feind auf!",
+  "13.0.6.0" => "Wir sollten erst die Feinde besiegen, die sich uns
+von Süden her nähern!",
+  "13.0.7.0" => "Ich fühle mich nicht wohl dabei, das Kind
+alleinzulassen... Wir sollten ihm helfen gehen!",
+  "13.0.8.0" => "Sie marschieren auf den Deku-Baum zu!
+Wir müssen sie im Auge behalten!",
+  "13.0.9.0" => "Diese Feinde bereiten uns keine Sorgen mehr.
+Kümmern wir uns auch noch um den Rest!",
+  "13.0.10.0" => "Die Feinde da sind keine Gefahr mehr für uns!
+Bei den anderen dort sieht es anders aus...",
+  "13.0.11.0" => "Oh! Ich kann die Aura einer Großen Fee fühlen...
+Wenn wir sie finden, könnte sie uns helfen!",
+  "13.0.12.0" => "Hey! Ich spüre eine starke Aura im Nordosten!
+Das könnte eine Große Fee sein!",
+  "13.0.13.0" => "Der Deku-Baum wird von Monstern angegriffen!
+Verwende die Okarina, um einzugreifen!",
+  "13.0.14.0" => "Das Auge könnte ein Schwachpunkt sein! Vielleicht
+sollten wir es mal mit dem Bogen versuchen...",
+  "13.0.15.0" => "Dieses Ungeheuer ist wirklich zäh... und wütender
+als beim letzten Mal ist es auch noch!",
+  "13.0.16.0" => "Link! Jetzt nicht nachlassen... Wir brauchen dich
+noch!",
+  "13.0.17.0" => "Puh... Wir haben ihn besiegt. Kümmern wir uns
+um die anderen Dekuranhas!",
+  "13.0.18.0" => "Sie marschieren auf den Deku-Baum zu!
+Wir müssen sie aufhalten!",
+  "13.0.19.0" => "Wenn du ihn aus der Ferne angreifst, kannst
+du ihn besiegen!",
+  "13.0.20.0" => "Dieser Bogen sollte gegen Dekuranhas helfen...
+Probier es mal aus!",
+}

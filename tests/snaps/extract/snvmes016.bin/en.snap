@@ -1,0 +1,237 @@
+Map {
+  "1.0.0.0" => "This is our last chance to save Hyrule from the
+darkness... We must defeat Zant and Ghirahim!",
+  "1.0.1.0" => "I make quite an enemy. Your wounds won't
+heal even if you had a thousand ages!",
+  "1.0.2.0" => "The enemy's strength is overwhelming... If
+even one of us flees, this battle will be lost!",
+  "1.0.3.0" => "Don't worry. I'm not about to go out that
+easily!",
+  "1.0.4.0" => "Yeah! And Link isn't going anywhere,
+either!",
+  "1.0.5.0" => "First we must focus on taking down
+Ghirahim from the southern desert.",
+  "1.0.6.0" => "We have to be careful, though. The desert is
+extremely hot. It'll take a toll on our stamina!",
+  "1.0.7.0" => "It's no good. I'm getting dizzy from the
+heat and the enemies. Somebody, help me!",
+  "1.0.8.0" => "Phew! An oasis! That's exactly what I
+needed!",
+  "1.0.9.0" => "The desert is home to an oasis. Make use
+of it if you need healing!",
+  "1.0.10.0" => "Hmm. It seems like if we control that oasis,
+the desert will be no problem for us!",
+  "1.0.11.0" => "What are you doing? Do you ignore me?
+Am I not fascinating enough for you?",
+  "1.0.12.0" => "You may be a fair bit stronger than I
+expected... Permit me to flee!",
+  "1.0.13.0" => "Huh... Is Ghirahim just running away?",
+  "1.0.14.0" => "Something seems...off. Should we hunt
+down Ghirahim?",
+  "1.0.15.0" => "Ghirahim has been defeated!
+But...that seemed TOO easy...",
+  "1.0.17.0" => "So part of the enemy forces have retreated?
+Then close the gate and isolate the stragglers!",
+  "1.0.18.0" => "Oh no! I've been separated from the party!
+It looks like I fell right into a trap...",
+  "1.0.19.0" => "Becoming isolated in the desert is dangerous!
+Somehow you must make it back to us!",
+  "1.0.20.0" => "Aaagh... There are just too many enemies!
+I could really use some help out here.",
+  "1.0.21.0" => "This is no time to die... I've got to rejoin
+my friends!",
+  "1.0.22.0" => "I can't hold on much longer...! There has to
+be a way through this horde of monsters!",
+  "1.0.23.0" => "Great. I'm completely surrounded...
+Someone! What am I supposed to do?!",
+  "1.0.24.0" => "Oh no! Lana is surrounded! We need to
+help her!",
+  "1.0.25.0" => "These monsters have us totally surrounded!
+Link, do you have a plan or something?",
+  "1.0.26.0" => "Oh no! Link needs our help!",
+  "1.0.27.0" => "I can't give up... I just need to push
+through this swarm of enemies!",
+  "1.0.28.0" => "Struggle all you want. The result will not
+change. Either wander the desert...or die.",
+  "1.0.29.0" => "The enemy is near! Protect the base by
+closing the village gate!",
+  "1.0.30.0" => "Soldiers protecting the North Oasis! Return to
+the base immediately! It must be protected!",
+  "1.0.31.0" => "If you defeat me, I'll allow you to rejoin your
+friends. Though we both know how this ends...",
+  "1.0.32.0" => "Is Zant trying to avoid a direct fight? He must
+be stalling! Hurry! Defeat him immediately!",
+  "1.0.33.0" => "The Hyrulean Forces are helpless before the
+power of darkness... Perish in the desert!",
+  "1.0.34.0" => "Our time is too precious to waste like
+this... Hurry and defeat Zant!",
+  "1.0.35.0" => "NO! This cannot be the end!",
+  "1.0.36.0" => "Something is wrong... The enemy refuses to
+relent, even with Zant and Ghirahim defeated...",
+  "1.0.37.0" => "I fear our troubles are just beginning...
+Hurry and regroup with the others!",
+  "1.0.38.0" => "We're saved! Thanks! Now, what say we show
+these monsters why we're a dangerous team?",
+  "1.0.39.0" => "Our chances of winning are very low, but I
+do not intend to lose. Is that...trust I feel...?",
+  "1.0.40.0" => "As long as I'm around, we can handle any
+enemy. Right, brothers?",
+  "1.0.41.0" => "Hey, don't get me involved again. ...Nah, I'm
+kidding! This'll be fun! Let's tear them apart!",
+  "1.0.42.0" => "We've got enemies coming from the north!
+Finders keepers! Leave them to me!",
+  "1.0.43.0" => "They're coming from the south, but that's no
+big deal! What are a few more enemies? Ha!",
+  "1.0.44.0" => "Even without Ghirahim or Zant in command, the
+enemy forces are surprisingly well organized...",
+  "1.0.45.0" => "They must be getting orders from someone
+else...",
+  "1.0.46.0" => "Possibly...but we have to focus our efforts
+on the enemies marching straight for us!",
+  "1.0.47.0" => "They broke through the gate! There are
+just too many of them!",
+  "1.0.48.0" => "They just won't stop coming! Someone's got to
+be commanding them from behind the scenes!",
+  "1.0.49.0" => "Defeating Ghirahim and Zant actually increased
+the number of enemies! How could that be?",
+  "1.0.50.0" => "You know, Ghirahim and Zant were acting kind
+of weird earlier... I mean, weirder than usual.",
+  "1.0.51.0" => "Could it be they were merely impostors?
+The real ones must be hiding elsewhere!",
+  "1.0.52.0" => "I must remain here to protect the base.
+Find and defeat the real Ghirahim and Zant!",
+  "1.0.53.0" => "They must be hiding somewhere other than
+where we found their decoys!",
+  "1.0.54.0" => "They've probably been watching us from
+some safe vantage point this whole time!",
+  "1.0.55.0" => "Hmm... It looks like they've become aware
+of our little plan.",
+  "1.0.56.0" => "No matter. We should finish them right
+now... All-out attack!",
+  "1.0.57.0" => "Goddesses! They're targeting our base!
+Hurry up and take Ghirahim and Zant down!",
+  "1.0.58.0" => "So you little worms finally found me? But how
+do you expect to win with such a feeble army?",
+  "1.0.59.0" => "Oh, have you had your fill of playtime?
+Good, because that ends NOW!",
+  "1.0.60.0" => "Ha! If we beat you two, victory is ours!",
+  "1.0.61.0" => "What?! You! How could you possibly
+conjure up victory from nothing?!",
+  "1.0.62.0" => "Ghirahim remains! Let's take him down
+together!",
+  "1.0.63.0" => "How can such misery befall me...?
+This world...belongs...to my master!",
+  "1.0.64.0" => "Zant remains! We've got to take him down!",
+  "1.0.65.0" => "We defeated the army of monsters!
+A glimmer of light is returning to Hyrule!",
+  "1.0.66.0" => "Our base is under attack! We must not
+let it fall!",
+  "1.0.67.0" => "Our base is on the verge of falling!
+Quick, we must defend it!",
+  "1.0.68.0" => "I may be in over my head here...
+Can someone please help me?",
+  "1.0.69.0" => "I can't hold on much longer...
+Someone! Help!",
+  "1.0.70.0" => "Forgive me... The enemy was too powerful!",
+  "1.0.71.0" => "Our base has fallen...
+This battle is lost...",
+  "1.0.72.0" => "I don't think I can do any more...
+I'm so sorry...",
+  "1.0.73.0" => "We should proceed more cautiously in the
+next battle.",
+  "1.0.74.0" => "Ah, the desert heat is taking its toll on
+them... Minions! Show them no mercy!",
+  "1.0.75.0" => "Link! Beat the goons in this keep, and the
+doors should open right up!",
+  "1.0.76.0" => "An oasis resides in the northern desert as well!
+You can take refuge from the desert there.",
+  "1.0.77.0" => "I have confirmed that the enemy is heading
+for the keep. I will intercept them.",
+  "1.0.78.0" => "We've got to keep that keep safe!
+C'mon! Let's go help Fi!",
+  "1.0.79.0" => "I am sensing something rather suspicious.
+Attacking immediately would be wise.",
+  "1.0.80.0" => "So wreck anything suspicious? You got it!
+Let's go, Midna!",
+  "1.0.81.0" => "Heh, like I'd let you leave me behind when
+there's mischief to get into.",
+  "1.0.82.0" => "The suspicious presence has vanished.
+Our defensive capabilities are improved.",
+  "1.0.83.0" => "Right, right. It's not like those enemies
+were really much trouble for me.",
+  "1.0.84.0" => "Hah! You'd have cracked without my help!",
+  "1.0.85.0" => "The number of dangerous enemies has fallen!
+We must go on the offensive, immediately!",
+  "1.0.86.0" => "The task is complete. I will continue
+eliminating the enemy.",
+  "13.0.0.0" => "Now's our chance to take this world back!
+Defeating Zant and Ghirahim should be easy!",
+  "13.0.1.0" => "There are so few of us against so many
+monsters... We can't let a single ally fall!",
+  "13.0.2.0" => "Be careful, everyone! This battle is crucial
+to Hyrule's fate!",
+  "13.0.3.0" => "Ghirahim is in the desert to the south!
+C'mon, we can fight him together!",
+  "13.0.4.0" => "All right, but be careful! The desert heat
+will sap your strength!",
+  "13.0.5.0" => "Someone, Link needs help! The monsters are
+taking advantage of his heat exhaustion!",
+  "13.0.6.0" => "Phew... What a relief! If we capture an oasis,
+we won't have to worry about the desert heat!",
+  "13.0.7.0" => "There's another oasis in the southern desert!
+If we capture both, this desert is a breeze!",
+  "13.0.8.0" => "Something doesn't add up... But it doesn't
+matter! We can't let Ghirahim escape!",
+  "13.0.9.0" => "The only way to win is by working together!
+Hurry! We have to join forces with Lana!",
+  "13.0.10.0" => "There are just so many monsters...but we
+have to make it through somehow!",
+  "13.0.11.0" => "Link! Don't give up now! You have to
+break through the enemy's formation!",
+  "13.0.12.0" => "The enemy is close! Close the settlement
+gate! It'll help protect our base!",
+  "13.0.13.0" => "Hey, everyone in the North Oasis! We need
+your help at the Allied Base, NOW!",
+  "13.0.14.0" => "Who does Zant think he is, running off like
+that... Let's finish him off!",
+  "13.0.15.0" => "Is he playing for time or something! C'mon,
+we've got to do something about Zant!",
+  "13.0.16.0" => "We defeated both Zant and Ghirahim, but
+the enemies haven't slowed down one bit...",
+  "13.0.17.0" => "Oh well, at least the doors are open now.
+We've got to hurry and join our allies!",
+  "13.0.18.0" => "We defeated both Zant and Ghirahim, so
+why aren't the enemies backing down...?",
+  "13.0.19.0" => "No time to dwell on it. Doesn't change the
+fact that we still have to stop the enemy!",
+  "13.0.20.0" => "Ghirahim and Zant are gone, but the
+enemies keep getting stronger and stronger.",
+  "13.0.21.0" => "Wait a sec... They were fakes! Of course!
+The real Zant and Ghirahim are still out there!",
+  "13.0.22.0" => "Link will guard the base! That leaves
+the real Zant and Ghirahim to you!",
+  "13.0.23.0" => "Check the keeps we haven't visited! Those
+two creeps have to be hiding somewhere!",
+  "13.0.24.0" => "We defeated the army of monsters! Hooray!
+Hyrule stands a chance after all!",
+  "13.0.25.0" => "Our base is being targeted! Don't let
+any of those monsters get any ideas!",
+  "13.0.26.0" => "We've got to do something, or the base
+is done for! C'mon, let's go help!",
+  "13.0.27.0" => "Link is in trouble! Someone, come help
+him! Whoosh! Quickly!",
+  "13.0.28.0" => "Link can't take much more of this!
+Won't someone save him?!",
+  "13.0.29.0" => "Noooooo! No no no no no! Link's down!
+It's...all over...",
+  "13.0.30.0" => "Our base just fell! I can't believe it!
+We've...we've lost...",
+  "13.0.31.0" => "No! Link! Get up! He's...he's gone...
+It's all over...",
+  "13.0.32.0" => "No worries! I can protect the keep!",
+  "13.0.33.0" => "We're just fine, aren't we, Link?",
+  "13.0.34.0" => "I bet those doors will open if we manage
+to defeat the enemies in the keep!",
+  "13.0.35.0" => "There's an oasis in the northern desert too!
+If we take both, the desert will be easy as pie!",
+}

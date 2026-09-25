@@ -1,0 +1,24 @@
+Map {
+  "0.1.0" => "You defeated the A2enemy captainsR!",
+  "0.2.0" => "The A2enemy commanderR has appeared near the A1allied commanderR!",
+  "0.3.0" => "You defeated A0%1sF4R!",
+  "0.4.0" => "Enemy troops followed A2enemy commanderR's orders and started attacking!",
+  "0.5.0" => "A0%1sF4R has fled! The battle is lost!",
+  "0.6.0" => "Time has run out! The battle is lost!",
+  "0.7.0" => "A0%1sF5R have received reinforcements!",
+  "0.8.0" => "The A1Allied BaseR has fallen! The battle is lost!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Defeat the A2enemyR
+A2captainsR in time!",
+  "3.1.0" => "Defeat the A2enemyR
+A2commanderR!",
+}

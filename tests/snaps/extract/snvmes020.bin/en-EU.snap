@@ -1,0 +1,261 @@
+Map {
+  "1.0.0.0" => "No... The ritual has failed... That must mean
+we need total control of this area!",
+  "1.0.1.0" => "I'll simply use the Gate of Souls to increase
+the ritual's power. Failure is not an option!",
+  "1.0.2.0" => "I can confirm the presence of a powerful
+evil.",
+  "1.0.3.0" => "There's a 60% probability the evil is actually
+The Imprisoned, a beast of incredible horror.",
+  "1.0.4.0" => "Are you in trouble? Looks like a legendary
+hero's work is never done. OK, I'll help!",
+  "1.0.5.0" => "What's all that racket? Hmph. I doubt
+it's anything to worry about.",
+  "1.0.6.0" => "My life force is weakening.",
+  "1.0.7.0" => "You're in trouble? That's what you're trying
+to say, right? No worries--I'll help you!",
+  "1.0.8.0" => "There is a high chance that I will be forced
+to flee.",
+  "1.0.9.0" => "Right, right! I get it! I'm coming as
+fast as I can!",
+  "1.0.10.0" => "I can confirm evil power has ebbed.
+Regardless, caution is advised.",
+  "1.0.11.0" => "Don't worry--I'm on it!",
+  "1.0.12.0" => "What is going on out there?! I'll vanquish
+any who dare challenge me!",
+  "1.0.13.0" => "Oh no, they're targeting the Cuccos!
+I have to help them!",
+  "1.0.14.0" => "Hold on, Cuccos!
+I'm coming to help!",
+  "1.0.15.0" => "Hang in there, Cuccos!
+I'll be right there!",
+  "1.0.17.0" => "What sort of monster would target a poor,
+innocent Cucco? I won't stand for it!",
+  "1.0.18.0" => "Everybody! Let's clobber these
+Cucco-haters together! Ha!",
+  "1.0.19.0" => "Ugh! They came out small again? Useless
+fools. Keep at it until you succeed!",
+  "1.0.22.0" => "More failure?! How is this possible!
+Next time, use more magic and make it count!",
+  "1.0.23.0" => "I hypothesize that more Imprisoned will
+spawn unless we put an end to the ritual.",
+  "1.0.24.0" => "Good idea! Let's take out that creepy guy
+to put an end to these munchy things!",
+  "1.0.25.0" => "Failure, again...and again...and again.
+How can this keep happening?!",
+  "1.0.26.0" => "Look! They're doing the summoning
+thing again!",
+  "1.0.27.0" => "I must recommend that we defeat as
+many Imprisoned as possible.",
+  "1.0.28.0" => "I am furious! Outraged! Sick with anger!
+Fools! Give me all your power! ALL OF IT!",
+  "1.0.29.0" => "I don't understand what you're trying to do, but
+do you think you could stop with the monsters?",
+  "1.0.30.0" => "We're out of magic? How is that possible?!
+Useless, every last miserable one of you!",
+  "1.0.31.0" => "I sense a decrease in magical auras.
+The summoning ritual has been halted.",
+  "1.0.32.0" => "We did it! No more shadowy monsters, right?
+Good, then let's take down the rest of them!",
+  "1.0.33.0" => "I am sensing an increase in Imprisoned summoning.
+There is an 85% chance that the ritual is the cause.",
+  "1.0.34.0" => "You sure do talk funny...but at least you're right!
+We need to stop that guy from summoning more!",
+  "1.0.35.0" => "I am sensing a strong energy within the temple.
+I hypothesize that the enemy's leader is inside.",
+  "1.0.36.0" => "If we take out the thing controlling the little dark
+creatures, you think the leader will come out?",
+  "1.0.37.0" => "Enough! I'll drive away the pests before
+they find the Gate of Souls.",
+  "1.0.38.0" => "Servants! Take The Imprisoned to the
+pathetic weaklings' base! Do it now!",
+  "1.0.39.0" => "The black monsters are gathering
+together. What's going on?",
+  "1.0.40.0" => "I can confirm that The Imprisoned are being
+controlled by other monsters. This must stop.",
+  "1.0.41.0" => "Right, take down the monsters controlling
+the other monsters. You got it!",
+  "1.0.42.0" => "The Imprisoned are moving toward the Allied Base.
+I recommend stopping their minders at once.",
+  "1.0.43.0" => "We can't just leave them alone... They'll take
+our base if we don't stop them, too!",
+  "1.0.44.0" => "Waste no time! Storm their base!
+Make them suffer!",
+  "1.0.45.0" => "More monsters are controlling the black beasts!
+We have to defeat them to rescue the Cuccos!",
+  "1.0.46.0" => "I'm not so sure that little one will be
+safe there...",
+  "1.0.47.0" => "I can confirm that many Imprisoned have appeared
+on the battlefield. Their defeat must be our priority.",
+  "1.0.48.0" => "Gotcha, destroy the little shadowy guys.
+I'm on it!",
+  "1.0.49.0" => "I can't perform a proper ritual under these conditions!
+Make those scum pay! Take their base, NOW!",
+  "1.0.50.0" => "Fortify our defenses! Don't let them
+reach the Gate of Souls!",
+  "1.0.51.0" => "Yeah! I took down all the monsters
+controlling the, uh...other monsters!",
+  "1.0.52.0" => "I confirm the Imprisoned are no longer being
+controlled. The immediate threat has passed.",
+  "1.0.53.0" => "Oh! It turned into a Gold Cucco! Wow!",
+  "1.0.54.0" => "They've left me no choice... I'll have to draw energy
+from The Imprisoned and kill the pests myself.",
+  "1.0.55.0" => "The enemy leader is approaching
+our base. I will intercept him.",
+  "1.0.56.0" => "We have to protect the Cuccos.
+I'll take care of the enemy leader!",
+  "1.0.57.0" => "My power is unimaginable! I'll
+exterminate every last one of you!",
+  "1.0.58.0" => "The enemy commander is absorbing The
+Imprisoned's power to become stronger.",
+  "1.0.59.0" => "So if we wipe out those weird black creatures
+again, the bad guy will get weaker, right?",
+  "1.0.60.0" => "This power... I've never felt so alive!
+Ha ha ha ha!",
+  "1.0.61.0" => "The enemy commander has increased his strength
+by absorbing power from The Imprisoned.",
+  "1.0.62.0" => "How can he be getting STRONGER?! We
+really need to stop those shadow beasts!",
+  "1.0.63.0" => "Gah...! What did you fools do?!",
+  "1.0.64.0" => "Hey, it worked! He's weaker again!",
+  "1.0.65.0" => "I can confirm that the enemy commander's
+power has subsided. Defeat him immediately.",
+  "1.0.66.0" => "How far will you go to interfere with me?
+I will not allow it! I won't! I won't!",
+  "1.0.67.0" => "He sounds pretty ticked off, but he doesn't
+feel like he's getting any stronger. Good!",
+  "1.0.68.0" => "The enemy commander has been weakened.
+I recommend weakening him further.",
+  "1.0.69.0" => "How could I fail? Next time, the ritual
+will go according to plan. I swear it!",
+  "1.0.70.0" => "I can confirm that The Imprisoned have all
+been extinguished.",
+  "1.0.71.0" => "No problem, I was glad to help! Oh, hey! My
+compass is doing that glowing thing again!",
+  "1.0.72.0" => "Oh no! They KO'd the Cuccos' leader!
+There's gonna be chaos now!",
+  "1.0.73.0" => "Prepare for my revenge! I'd flee in terror if
+I were you right now! Ha ha ha!",
+  "1.0.74.0" => "They took our base! Oh no...
+That means we're done for!",
+  "1.0.75.0" => "Oho, we've eliminated those disgusting pests.
+Good. The ritual can continue uninterrupted.",
+  "1.0.76.0" => "I can confirm a symbiotic relationship between
+the enemies. I recommend defeating them all.",
+  "1.0.77.0" => "I've got to take out the monsters controlling
+the shadow creatures...",
+  "1.0.78.0" => "I can confirm that The Imprisoned's numbers
+are falling. You must continue defeating them.",
+  "1.0.79.0" => "How?! The ritual may have been botched,
+but defeating them should be impossible!",
+  "1.0.80.0" => "The number of The Imprisoned has further decreased.
+Continue to defeat the remaining ones.",
+  "1.0.81.0" => "You foolish meddlers! Do you really
+think I'll let you live?!",
+  "1.0.82.0" => "I took out a lot of monsters! It helps
+once you figure out their weak points.",
+  "1.0.83.0" => "Stop fooling around! I will teach you
+a lesson you won't soon forget!",
+  "1.0.84.0" => "I can no longer sense The Imprisoned.
+This area is safe from their return.",
+  "1.0.85.0" => "They destroyed them all?! It can't be true!
+I refuse to believe it!",
+  "1.0.86.0" => "They may not be at full strength, but their power
+should be more that enough to destroy you!",
+  "1.0.87.0" => "They appear to be far smaller than the legends
+have stated. Still, they must be defeated.",
+  "1.0.88.0" => "Look how cute they are! Kind of a shame to
+have to defeat 'em...but it has to be done.",
+  "1.0.89.0" => "I bet it's because I helped everyone out.
+Anyway, I should head to Hyrule Castle.",
+  "1.0.90.0" => "These Cuccos are in the way. It's time
+to clear and conquer!",
+  "1.0.91.0" => "Who are you? And WHAT are you wearing?
+Have you no sense of style?! Ugh!",
+  "1.0.92.0" => "But...these clothes are really important to me.
+And...the sight of your hair makes me laugh!",
+  "1.0.93.0" => "So you're the one who's been getting in
+my way! Stop intruding, you cretin!",
+  "1.0.94.0" => "Our allies put us at an advantage.
+Therefore, "intruding" is approved.",
+  "1.0.95.0" => "A simple child like you knows nothing...
+How long do you plan on interfering?!",
+  "13.0.2.0" => "I don't think we can get through the temple's middle
+door. Let's try breaking in from the east side!",
+  "13.0.3.0" => "Do you feel that? Ooh, I think one of
+our allies is really a bad guy!",
+  "13.0.4.0" => "I bet Ghirahim is hiding in the back
+of the temple!",
+  "13.0.5.0" => "Our allies seemed confused! Let's go retrace
+our steps and help everyone out.",
+  "13.0.6.0" => "I wonder if someone in OUR forces is making
+people turn bad... We've got to stop him!",
+  "13.0.7.0" => "I bet the Turncoat Leader is in one of
+the keeps. We've got to find him!",
+  "13.0.8.0" => "Hey, why are all of the enemies heading
+for that keep? Seems suspicious...",
+  "13.0.9.0" => "Why hasn't the enemy bothered with that
+keep? I bet the Turncoat Leader is there!",
+  "13.0.10.0" => "Whoa, do you feel that? I think the
+Turncoat Leader is nearby!",
+  "13.0.11.0" => "There! In that keep! The Turncoat Leader
+has to be there!",
+  "13.0.12.0" => "We'll lose for sure if we don't do something!
+We have to defeat the Turncoat Leader!",
+  "13.0.13.0" => "OK, let's pull ourselves together and
+push into that temple!",
+  "13.0.14.0" => "Whoa, this thing's pretty evil...
+Be careful!",
+  "13.0.15.0" => "Oh no! That monster is heading for
+the Allied Base!",
+  "13.0.16.0" => "Hey! You can knock the monster down
+by attacking its toes!",
+  "13.0.17.0" => "The monster's conserving its power for something...
+It might be trying to destroy a keep!",
+  "13.0.18.0" => "There are Groosenators in some of our
+keeps! When the monster stops, fire!",
+  "13.0.19.0" => "Once that monster stops moving, it should
+be easy to hit it with the Groosenator!",
+  "13.0.20.0" => "Hurry! Fire! Before the Allied Base falls!",
+  "13.0.21.0" => "Groosenators are the only things that can take
+that monster down! C'mon, find another one!",
+  "13.0.22.0" => "The monster's toes are its weak point!
+Attack it there! That's the secret!",
+  "13.0.23.0" => "Our base is the only place left with
+a functioning Groosenator!",
+  "13.0.24.0" => "It looks like the monster vanished!",
+  "13.0.25.0" => "We've got monsters coming from the western
+part of the temple. C'mon, Link! Let's go!",
+  "13.0.26.0" => "Let's defeat Ghirahim and throw him
+into the Gate of Souls!",
+  "13.0.27.0" => "The Gate of Souls is closed! I think
+we're safe. Good job, everyone!",
+  "13.0.28.0" => "Our base fell! Oh no...",
+  "13.0.29.0" => "Link? C'mon, get up! Please get up!",
+  "13.0.30.0" => "The Turncoat Leader is in that keep!
+Let's take him down!",
+  "13.0.31.0" => "I think we can finally get into the deepest
+parts of the temple. C'mon, let's go!",
+  "13.0.32.0" => "Don't let your guard down! The monster is
+still harnessing its energy for an attack!",
+  "13.0.33.0" => "Enemies, coming in from the west!
+Let's go get 'em, Link!",
+  "13.0.34.0" => "The enemies are still coming from
+the west!",
+  "13.0.35.0" => "We did it! Now, let's head into the temple!",
+  "13.0.36.0" => "Do you sense that? I bet it's the Turncoat
+Leader! He must be nearby!",
+  "13.0.37.0" => "I figured out who's responsible for all the
+Turncoat Soldiers!",
+  "13.0.38.0" => "It's that guy over there! Go get him, Link!",
+  "13.0.39.0" => "It's too dangerous to fight alone!
+C'mon, let's warp and work together!",
+  "13.0.40.0" => "It's using its magic to restore its strength!
+We've got to use the Groosenator!",
+  "13.0.41.0" => "Its recovering its strength! If we knock it
+down, it won't be able to heal. Hurry!",
+  "13.0.42.0" => "If it keeps regaining its health, we won't be able
+to defeat it. C'mon, we have to topple it!",
+  "13.0.43.0" => "Stay away from the Assault Troops! If they
+attack us, they'll raise their side's morale!",
+}

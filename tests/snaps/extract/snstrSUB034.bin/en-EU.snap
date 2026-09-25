@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "A A0%1sF0R appeared on the battlefield to look for food!",
+  "0.2.0" => "The A0%1sF0R has begun eating at A0%2sF6R!",
+  "0.3.0" => "Defeat the A0%1sF2R before it grows too strong!",
+  "0.4.0" => "The A0%1sF0R has eaten enough to grow stronger!",
+  "0.5.0" => "The A0%1sF0R is searching for more food!",
+  "0.6.0" => "The A0%1sF0R is now fully grown!",
+  "0.7.0" => "The A0%1sF0R is looking for a spot to mark as its territory!",
+  "0.8.0" => "The A0%1sF0R has eaten enough to grow larger still!",
+  "0.9.0" => "The A0%1sF0R has eaten enough to grow significantly stronger!",
+}

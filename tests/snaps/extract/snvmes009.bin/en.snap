@@ -1,0 +1,295 @@
+Map {
+  "1.0.0.0" => "You are now in the Sealed Grounds, so named
+for the great evil sealed here long ago.",
+  "1.0.1.0" => "So these are the Sealed Grounds...? Wow...",
+  "1.0.2.0" => "Already here, are you? So impatient.
+Perhaps haste may be in my best interest...",
+  "1.0.3.0" => "Defeat Ghirahim and close the Gate of Souls.
+The world's fate relies on your success.",
+  "1.0.4.0" => "We have to close the Gate of Souls right
+away! It's the only way to save Hyrule!",
+  "1.0.5.0" => "The temple is firmly shut. I theorize that
+defeating the Gatekeeper will open it.",
+  "1.0.6.0" => "The temple's gates look impassable, but I bet
+they'll open if we defeat the Gatekeeper!",
+  "1.0.7.0" => "The temple is all yours! Just leave the
+surrounding keeps to us!",
+  "1.0.8.0" => "More allied soldiers? That would be great!",
+  "1.0.9.0" => "I sense an evil spirit amongst our allies.
+I recommend exercising extreme caution.",
+  "1.0.10.0" => "I can feel something evil among the allies.
+Who or what could it be...?",
+  "1.0.11.0" => "Try if you must, but I assure you there is
+no hope for your victory.",
+  "1.0.12.0" => "The approach path to the temple is open!
+Gorons for the victory! Huzzah!",
+  "1.0.13.0" => "Master, I have sensed Ghirahim in the deepest
+chambers of the temple. Shall we follow him?",
+  "1.0.14.0" => "I wonder if that creepy demon guy is
+hiding in the temple somewhere...",
+  "1.0.15.0" => "Oooh, yes. Come now, minions! Let's show
+these children what our fangs look like!",
+  "1.0.16.0" => "Ha! Ghirahim!",
+  "1.0.17.0" => "What?! Why are our allies attacking us?!",
+  "1.0.18.0" => "We're being attacked by our allies!
+What's going on?!",
+  "1.0.19.0" => "Master, our allies seem confused. I propose
+that we turn back and assist with their clarity.",
+  "1.0.20.0" => "Our allies appear to be confused!
+Everyone, pull back and offer some help!",
+  "1.0.21.0" => "Comrades, get ready!
+Ghirahim is delivering orders to attack!",
+  "1.0.22.0" => "We can't fight like this!
+We should flee!",
+  "1.0.23.0" => "I'm so happy! THRILLED, in fact!",
+  "1.0.24.0" => "There are traitors everywhere!",
+  "1.0.25.0" => "Master, there is a 90% chance the traitors'
+leader is near. Find and neutralize the threat.",
+  "1.0.26.0" => "Somebody must be giving the order to turn
+traitorous... Link, we have to find out who it is!",
+  "1.0.27.0" => "I theorize that the commander responsible for
+the mutiny is hiding in one of the keeps.",
+  "1.0.28.0" => "Where are the mutiny orders coming from...?
+Oh! I bet they're coming from a keep!",
+  "1.0.29.0" => "Master, it appears the mutinous soldiers
+are being led by an individual in that keep.",
+  "1.0.30.0" => "All the traitorous soldiers are headed for that
+keep! The one leading them must be there!",
+  "1.0.31.0" => "Comrades! Attack the lowly humans' base!",
+  "1.0.32.0" => "Leave it to me!",
+  "1.0.33.0" => "Certain keeps have been left undamaged by the
+mutinous soldiers. Their leader may be in one.",
+  "1.0.34.0" => "The enemy isn't attacking one specific keep.
+Do you think the mutiny's leader is there?",
+  "1.0.35.0" => "Master, I am sensing a general uneasiness in
+this area. The traitors' leader may be nearby.",
+  "1.0.36.0" => "Something doesn't feel right... Link, the leader
+of traitors might be nearby! Be careful!",
+  "1.0.37.0" => "I have concluded that the leader of the rogue
+troops is in the same keep as my master.",
+  "1.0.38.0" => "I know who's giving the traitorous orders!
+They should be in the same keep you're in!",
+  "1.0.39.0" => "The person in that keep is the leader of the
+traitors. I recommend immediate action.",
+  "1.0.40.0" => "We may have been found out! Be ready
+for anything!",
+  "1.0.41.0" => "C'mon, comrades! We have to crush the
+humans' base, and we have to crush it now!",
+  "1.0.42.0" => "The Allied Base is in crisis due to an attack.
+Locate the mutinous leader immediately.",
+  "1.0.43.0" => "We're going to lose if we don't do something
+fast! Find the rogues' leader right away!",
+  "1.0.44.0" => "Do I have to fight too? Fine, then. I'll
+fight too!",
+  "1.0.45.0" => "Ohhh! Ghirahim, forgive me!",
+  "1.0.46.0" => "Master, our allies are no longer being led to
+mutiny. Proceed into the temple once more.",
+  "1.0.47.0" => "All right, now that our fellow soldiers are on
+the correct side again, let's take that temple!",
+  "1.0.48.0" => "The Gate of Souls has revived my true master!
+Tremble in fear, all who oppose him!",
+  "1.0.49.0" => "Aaargh! A giant monster has appeared!",
+  "1.0.50.0" => "That monster is the incarnation of a great evil,
+imprisoned after trying to devour the world.",
+  "1.0.51.0" => "Watch out! This is a whole different level
+of enemy!",
+  "1.0.52.0" => "Master, The Imprisoned is heading to the
+Allied Base and means to destroy it.",
+  "1.0.53.0" => "Oh no! That monster of darkness is
+heading for the Allied Base!",
+  "1.0.54.0" => "Don't dillydally! Keep moving forward!",
+  "1.0.55.0" => "Attacking The Imprisoned's toes will
+provide the most tactical advantage.",
+  "1.0.56.0" => "The monster's toes are its weak spot! You
+should attack them with everything you've got!",
+  "1.0.57.0" => "Splendid! I'll gladly crush you humans!",
+  "1.0.58.0" => "Master, The Imprisoned is amplifying its
+strength to destroy an important keep.",
+  "1.0.59.0" => "That monster's storing up energy to attack
+the keep! We've got to do something!",
+  "1.0.60.0" => "Various keeps have weapons useful against
+The Imprisoned but only if it is immobile.",
+  "1.0.61.0" => "There should be something in one of the keeps
+that we can use against the monster!",
+  "1.0.62.0" => "I'll make this blow hurt until you weep!",
+  "1.0.63.0" => "Our base is in danger, but The Imprisoned
+has ceased moving. It is vulnerable to attack.",
+  "1.0.64.0" => "The monster's not moving! Now's our
+chance! Take aim and do some damage!",
+  "1.0.65.0" => "Our victory is assured! One final blow
+should push us over the edge!",
+  "1.0.66.0" => "Master, I recommend attacking our enemies
+from a distance. Now is the opportune time.",
+  "1.0.67.0" => "We have to attack now--otherwise the
+Allied Base won't last much longer!",
+  "1.0.68.0" => "There's no way you can win!",
+  "1.0.69.0" => "Master, The Imprisoned is weak to a
+weapon held in one of the nearby keeps.",
+  "1.0.70.0" => "We have to hit that monster with some
+serious firepower! Check the nearby keeps!",
+  "1.0.71.0" => "The Imprisoned's toes are vulnerable to
+attacks. Destroy them to incapacitate it.",
+  "1.0.72.0" => "That monster's feet are vulnerable! If you
+destroy its toes, it'll stop moving!",
+  "1.0.73.0" => "Master, the only piece of artillery left is
+located in the Allied Base.",
+  "1.0.74.0" => "The only real powerful weapons we have
+left are at the Allied Base.",
+  "1.0.75.0" => "Master, I can report that The Imprisoned
+has completely vanished.",
+  "1.0.76.0" => "It looks like that monster's completely
+vanished!",
+  "1.0.77.0" => "We did it! It's all thanks to you!",
+  "1.0.78.0" => "Haaa...! This shall not stand! Come here!
+I'll give you someone to contend with!",
+  "1.0.79.0" => "Master, the door sealing off the inside of
+the temple has opened.",
+  "1.0.80.0" => "Look! The door to the temple is open!",
+  "1.0.81.0" => "Ghirahim has entered the temple. This may
+suggest the Gate of Souls is inside.",
+  "1.0.82.0" => "Master, enemy forces are coming from
+the temple. I recommend we fight back.",
+  "1.0.83.0" => "We've got eastbound enemies headed for the
+Allied Base! Link, we've got to intercept!",
+  "1.0.84.0" => "Enemy forces are attacking from the
+east, too!",
+  "1.0.85.0" => "No matter how many times it takes, I promise
+I'll tear you to pieces and blow you aside!",
+  "1.0.86.0" => "Master, you must defeat Ghirahim and seal
+him behind the Gate of Souls.",
+  "1.0.87.0" => "Take that demon down, and seal him on
+the other side of the Gate of Souls!",
+  "1.0.88.0" => "Master, congratulations are in order.
+This military operation was a success.",
+  "1.0.89.0" => "The door is closed, and our job is done!
+That's a wrap here!",
+  "1.0.90.0" => "Master, the Allied Base has fallen.
+We have lost this battle.",
+  "1.0.91.0" => "The Allied Base has fallen!
+That's it--we've lost!",
+  "1.0.92.0" => "These miserable creatures thought they could
+defeat me? ME? Hah! It's almost pitiable.",
+  "1.0.93.0" => "Master, I can no longer continue this fight.
+Forgive me.",
+  "1.0.94.0" => "Link is down! It's up to everyone else!",
+  "1.0.95.0" => "Thanks a ton!",
+  "1.0.96.0" => "Yikes! I thought that was the end for us!",
+  "1.0.97.0" => "Unless The Imprisoned is defeated,
+the Allied Base will fall.",
+  "1.0.98.0" => "If that beast isn't stopped, it's going to
+destroy our base! Do something!",
+  "1.0.99.0" => "The enemy is closing in from the west.
+I will launch a counterattack.",
+  "1.0.100.0" => "The enemy from the west is still
+targeting the base...",
+  "1.0.101.0" => "I have completed my task. Master, I
+recommend traveling to the temple.",
+  "1.0.102.0" => "I am detecting a suspicious individual.
+A Turncoat Leader is most likely nearby.",
+  "1.0.103.0" => "The enemy's movements have allowed me to
+pinpoint the location of the Turncoat Leader.",
+  "1.0.104.0" => "That is the Turncoat Leader. We must defeat
+him if we wish to survive this conflict.",
+  "1.0.105.0" => "It will be dangerous to fight alone. We
+should warp to our allies with the ocarina.",
+  "1.0.106.0" => "Master, the enemy is healing itself by magical
+means. We must attack it with the Groosenator.",
+  "1.0.107.0" => "The enemy is healing through the use of magic.
+We must use the Groosenator to stop this!",
+  "1.0.108.0" => "Master, the enemy will heal itself if we do not
+use the Groosenator to strike it down immediately.",
+  "1.0.109.0" => "If the enemy is allowed to enter the base,
+they are likely to gain momentum.",
+  "1.0.110.0" => "Useless fools! Fine... I'll crush them
+myself!",
+  "1.0.111.0" => "All of you... Go! And don't let a single
+one of them get away.",
+  "1.0.112.0" => "I confirm that enemy strength is reduced
+and the time to fight Ghirahim is...now.",
+  "1.0.113.0" => "Our base is in danger of falling. I
+recommend securing it before we continue.",
+  "13.0.0.0" => "Whoa, are these the Sealed Grounds?
+Incredible...",
+  "13.0.1.0" => "We've got to get the Gate of Souls closed!
+Hyrule's whole history is in jeopardy!",
+  "13.0.2.0" => "I confirm the temple is locked up tight.
+But consider that east-side Gatekeeper...",
+  "13.0.3.0" => "Ooh, I'm getting chills from some evil
+presence... Is it coming from our allies?",
+  "13.0.4.0" => "I wonder if we'll find that demon
+somewhere in the temple...",
+  "13.0.5.0" => "Our allies seem really confused! We have
+to pull back and help restore some order!",
+  "13.0.6.0" => "Someone must be the source of the confusion.
+We have to find and stop that person!",
+  "13.0.7.0" => "Who could be giving the mutinous orders?
+We should check in the keeps!",
+  "13.0.8.0" => "The enemies are headed for that keep! I'll bet
+anything that the mutinous leader is in there!",
+  "13.0.9.0" => "There's one keep being excluded from enemy
+attack... I bet the leader of the traitors is there!",
+  "13.0.10.0" => "Someone around you is exuding evil!
+It's got to be the leader of the traitors!",
+  "13.0.11.0" => "I've figured out who's giving the mutinous
+orders! It's someone in that keep with you!",
+  "13.0.12.0" => "We can't keep this up... You've got to find the
+leader of the traitors and do something!",
+  "13.0.13.0" => "We've got to regroup and invade the
+temple!",
+  "13.0.14.0" => "Yikes, that enemy is like darkness itself...
+Be extremely careful!",
+  "13.0.15.0" => "Oh no! That horrible monster is heading for
+the Allied Base!",
+  "13.0.16.0" => "That monster's toes are its weak point!",
+  "13.0.17.0" => "The monster's conserving its energy for
+something big... It's gonna destroy a keep!",
+  "13.0.18.0" => "There are weapons in our keeps we can use to
+attack the monster, but wait until it's stopped!",
+  "13.0.19.0" => "The monster's stopped moving! Now's our
+chance! Hit it now! NOW!",
+  "13.0.20.0" => "Attack it now! We have to do something
+before the Allied Base is destroyed!",
+  "13.0.21.0" => "A monster like that is impervious to anything
+but the strongest weapons! Check the keeps!",
+  "13.0.22.0" => "The monster's toes are vulnerable to your
+attacks! Attack it there to stop its advance!",
+  "13.0.23.0" => "That keep has the last remaining heavy
+weaponry!",
+  "13.0.24.0" => "The Imprisoned has vanished! Did we win?",
+  "13.0.25.0" => "The enemy's approaching from the west. Oh
+no! I think they're going after the Allied Base!",
+  "13.0.26.0" => "Let's beat them and close the Gate of
+Souls! Shouldn't be too hard, right?",
+  "13.0.27.0" => "That's it! The gate's closed, and our work
+here is done! Great job!",
+  "13.0.28.0" => "Our base has fallen! What are we supposed
+to do now...?",
+  "13.0.29.0" => "No! Link has fallen! There's no hope left...",
+  "13.0.30.0" => "The person in that keep is the one causing
+this mutiny! Put a stop to it!",
+  "13.0.31.0" => "Great! We can get deeper into the temple
+now!",
+  "13.0.32.0" => "Don't lose your focus! The beast is
+gathering energy to destroy our base!",
+  "13.0.33.0" => "Enemies are approaching from the west!
+Link, let's go get 'em!",
+  "13.0.34.0" => "Enemies are still coming from the west!",
+  "13.0.35.0" => "Mission success! C'mon, Link! Let's head
+to the temple!",
+  "13.0.36.0" => "Ooh, I'm getting some weird vibes from a
+nearby soldier... It must be a Turncoat Leader!",
+  "13.0.37.0" => "I figured out who's giving the orders to all
+those Turncoat Soldiers!",
+  "13.0.38.0" => "There! A Turncoat Leader! C'mon, Link,
+let's go stop him!",
+  "13.0.39.0" => "We shouldn't do this alone! Let's warp to
+our friends and work together!",
+  "13.0.40.0" => "It's restoring its health with magic! Hurry!
+We can still stop it with the Groosenator!",
+  "13.0.41.0" => "It's still restoring health! C'mon, Link! If we
+take that keep, we can stop it from recovering!",
+  "13.0.42.0" => "We might not be able to beat it if it recovers
+its health! We need to take this keep quickly!",
+  "13.0.43.0" => "If they push us back to our base, the
+enemy is sure to gain momentum!",
+}

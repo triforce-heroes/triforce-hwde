@@ -1,0 +1,7 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "Bombardamento"!",
+  "0.1.0" => "A0%1sF5R appaiono sul campo di battaglia!",
+  "0.2.0" => "A0%1sF1R lanciano A2semiR sulla A1base alleataR!",
+  "0.3.0" => "Sconfiggi A0%1sF3R per fermare l'A2attacco di semiR!",
+  "0.4.0" => "A0%1sF1R hanno perso e l'A2attacco di semiR è stato fermato!",
+}

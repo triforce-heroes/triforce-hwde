@@ -1,0 +1,13 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡Localiza y vence A0%2sF4R, que controla A0%1sF4R!",
+  "0.3.0" => "¡A0%1sF0R ha huido porque han derrotado A0%2sF4R!",
+  "0.4.0" => "¡A0%1sF0R ha desaparecido tras capturar el bastión!",
+  "0.5.0" => "¡Un misterioso poder ha aumentado la energía A0%1sF6R!",
+  "0.6.0" => "¡Localiza A0%2sF4R, que está controlando A0%1sF4R!",
+  "0.7.0" => "¡Has vencido A0%1sF4R!",
+  "0.8.0" => "¡Has vencido A0%2sF4R! ¡A0%1sF0R se ha debilitado!",
+  "0.9.0" => "¡Vence A0%1sF4R!",
+  "0.10.0" => "¡Han localizado A0%1sF4R!",
+  "0.11.0" => "¡Vence A0%1sF4R!",
+}

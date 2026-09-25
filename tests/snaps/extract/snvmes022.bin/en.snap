@@ -1,0 +1,217 @@
+Map {
+  "1.0.0.0" => "How are there so many monsters?!",
+  "1.0.1.0" => "We're the only ones who can protect
+Hyrule Castle! Fight with your lives!",
+  "1.0.2.0" => "This is it! I have to save everyone!",
+  "1.0.3.0" => "Who are you? Have you come to aid us?",
+  "1.0.4.0" => "I'm Linkle! I came to save Hyrule!
+I'm the legendary hero!",
+  "1.0.5.0" => "Legendary hero or not, your help is
+welcome. Now, I'm heading north!",
+  "1.0.6.0" => "You can count on me!",
+  "1.0.7.0" => "We have to fall back to take
+a quick breather!",
+  "1.0.8.0" => "We have to fall back for a bit.
+Here, use this while we're gone!",
+  "1.0.9.0" => "I'm sorry! We have to fall back,
+but I promise we'll return!",
+  "1.0.10.0" => "We have to go, but we'll be
+back before it's all over!",
+  "1.0.11.0" => "We have to make a temporary
+retreat, but here, use this!",
+  "1.0.12.0" => "We'll be right back! Here, use this
+if you think it'll help!",
+  "1.0.13.0" => "We have to leave you, but
+we'll meet up again soon!",
+  "1.0.14.0" => "I'm done for...
+It's all up to you!",
+  "1.0.15.0" => "Everyone, hold your ground!
+Don't give our foes an inch!",
+  "1.0.16.0" => "I can't...take any more...",
+  "1.0.17.0" => "The situation is growing more dire
+with every ally who flees...",
+  "1.0.18.0" => "Come on, everyone! Stay tough!
+We're all in this together!",
+  "1.0.19.0" => "Our enemies refuse to slow their pace.
+They're attacking from the north!",
+  "1.0.20.0" => "I'll handle the monsters in the
+northwest. You keep the pressure on!",
+  "1.0.21.0" => "Don't be scared, men!
+They're just...monsters!",
+  "1.0.22.0" => "I won't turn my back on an ally in
+need! Hang on--I'm coming!",
+  "1.0.23.0" => "The monsters are using those keeps!
+If we take them, they'll stop spawning!",
+  "1.0.24.0" => "Our soldiers are growing tired and can't
+fight much longer. Try to aid them!",
+  "1.0.25.0" => "Good. Keep this up and drive back
+our enemies!",
+  "1.0.26.0" => "You got it!",
+  "1.0.27.0" => "Looks like more monsters are appearing.
+I've got to be careful...",
+  "1.0.28.0" => "More?! It's like there's no end to them!",
+  "1.0.29.0" => "Still more?! I can't believe it.
+Watch out, everyone!",
+  "1.0.30.0" => "That ought to stop monsters from
+coming from that keep.",
+  "1.0.31.0" => "All right! Another save for Linkle!",
+  "1.0.32.0" => "Your courage is truly amazing!
+Well done!",
+  "1.0.33.0" => "I'm heading over, and I don't
+expect to lose!",
+  "1.0.34.0" => "Thanks to you, the damage has been
+minimized. Now, we must strike back!",
+  "1.0.35.0" => "I wish I could have done more...",
+  "1.0.36.0" => "You've done amazingly, young hero.
+Your courage is an inspiration!",
+  "1.0.37.0" => "Enemies are closing in on the castle.
+We must protect it!",
+  "1.0.38.0" => "We've got to do something about
+that monster keep.",
+  "1.0.39.0" => "Whoa! What is this crazy-looking thing?!",
+  "1.0.40.0" => "King Dodongo's anger is making him more
+dangerous. We must stop him somehow...",
+  "1.0.41.0" => "That thing is a king? I don't care if it IS
+royalty! I'll STILL take it down!",
+  "1.0.42.0" => "New monsters again...? We have to
+protect Hyrule Castle!",
+  "1.0.43.0" => "Strange... These monsters aren't even
+flinching from our attacks!",
+  "1.0.44.0" => "Our attacks have no effect. We should
+focus on foes attacking from the east!",
+  "1.0.45.0" => "That's it! Now let's take down King
+Dodongo!",
+  "1.0.46.0" => "No way! How can there still be monsters?!",
+  "1.0.47.0" => "It's like a bottomless well of monsters...
+We must do something!",
+  "1.0.48.0" => "We've returned! Sorry to keep you waiting!",
+  "1.0.49.0" => "Hey! You came back! Yay!",
+  "1.0.50.0" => "Let's show them what the Hyrulean army
+is made of!",
+  "1.0.51.0" => "What? The compass...?",
+  "1.0.52.0" => "What's this? Don't tell me a compass of
+all things has stopped King Dodongo's fury.",
+  "1.0.53.0" => "This proves it! I KNEW this compass
+meant I was the legendary hero!",
+  "1.0.54.0" => "The real battle is still ahead of us!",
+  "1.0.55.0" => "Thanks, everyone!",
+  "1.0.56.0" => "All right, let's drive every last one
+of these monsters out!",
+  "1.0.57.0" => "Leave the horde in the east to us!
+You just handle King Dodongo!",
+  "1.0.58.0" => "Don't worry--I'll show him who's boss. I mean,
+what's a legendary hero for if not that?",
+  "1.0.59.0" => "We'll stop the monsters attacking from the east!
+Please, take care of King Dodongo for us!",
+  "1.0.60.0" => "We can push back the monsters as long
+as you can slay King Dodongo!",
+  "1.0.61.0" => "King Dodongo is coming near the castle!
+What should I do?",
+  "1.0.62.0" => "If we're pinched in, we'll lose our chance
+to win. Focus on the attacking monsters!",
+  "1.0.63.0" => "I did it! Now all that's left is that
+fire-breathing salamander!",
+  "1.0.64.0" => "No! Hyrule Castle has fallen! How
+could we have let this happen?",
+  "1.0.65.0" => "But...how can the legendary hero fail...?",
+  "1.0.66.0" => "We've got to retreat, but we'll
+be back with renewed force!",
+  "1.0.67.0" => "All right, I'm in too! Let's combine
+our powers to defeat this thing!",
+  "1.0.68.0" => "Do not let the castle fall! Eliminate
+the monsters that stand before us!",
+  "1.0.69.0" => "There's nothing we can do about him now.
+Clear out the other enemies first!",
+  "1.0.70.0" => "We're in trouble if we don't do
+something. Hurry! Defeat the monsters!",
+  "1.0.71.0" => "They'll probably come back once they're
+ready. We'll fight on our own for now.",
+  "13.0.0.0" => "Message",
+  "13.0.2.0" => "Help is on the way! Just hold out until
+it arrives!",
+  "13.0.3.0" => "The dragon of the south is ours! If we
+attack it together, it will surely perish!",
+  "13.0.4.0" => "Have patience, everyone! We'll have a
+powerful weapon in the North Square soon!",
+  "13.0.5.0" => "There's a weak spot on the castle wall!
+Let's use a Bombchu to knock it down!",
+  "13.0.6.0" => "Excellent! Now you just need to take care
+of the other dragon!",
+  "13.0.7.0" => "Perfect! Both dragons have been defeated!
+That should give us some breathing room!",
+  "13.0.8.0" => "Drat, the dragons have rendezvoused...
+Defeat them now, before it gets worse!",
+  "13.0.9.0" => "March forward while protecting the
+Bombchu!",
+  "13.0.10.0" => "My goodness, our enemies just won't let up...
+We'll be finished if we don't do something!",
+  "13.0.11.0" => "Defend the Bombchu! We can't break
+through the castle's wall without it!",
+  "13.0.12.0" => "Wonderful! Now, into the opening the
+Bombchu created for us!",
+  "13.0.13.0" => "The Bombchu plan failed... Now what do
+we do...?",
+  "13.0.14.0" => "Ganondorf himself has appeared! Proceed
+with extreme caution, but don't lose focus!",
+  "13.0.15.0" => "The Dark Power is growing... Ganondorf is
+becoming more dangerous every second!",
+  "13.0.16.0" => "The east side of the castle is weak!
+We can enter from there!",
+  "13.0.17.0" => "If we capture the castle, Ganondorf's power
+will wane and his army's morale will fall!",
+  "13.0.18.0" => "This moment decides everything!
+Defeat Ganondorf!",
+  "13.0.19.0" => "Ganon's Tower may still be standing, but
+at least Ganondorf has been defeated!",
+  "13.0.20.0" => "Ganondorf is defeated! Now is the time to
+take back the castle!",
+  "13.0.21.0" => "Don't fear the Ganon beast! It's powerful,
+but it's still mortal! Strike it down!",
+  "13.0.22.0" => "You'll need the Light Arrows! Here--use
+them to finish Ganon off!",
+  "13.0.23.0" => "The Light Arrows have gathered enough
+energy! Let's rid the world of Ganon!",
+  "13.0.24.0" => "I'm putting all my strength into the arrow!",
+  "13.0.25.0" => "I'm putting all my strength into this arrow!",
+  "13.0.26.0" => "I'll pour my strength into the arrow as
+well!",
+  "13.0.27.0" => "Don't waste the strength I've given you!",
+  "13.0.28.0" => "All of my strength has been placed in that
+arrow! You'd better make this one count!",
+  "13.0.29.0" => "We've used up every last ounce of our
+strength...",
+  "13.0.30.0" => "We've lost our base! Without it, how
+can we continue...?",
+  "13.0.31.0" => "Hmm... This looks like the place where
+King Dodongo once broke through!",
+  "13.0.32.0" => "Watch Ganon's movements closely! I'm
+sure you've fought a similar enemy before!",
+  "13.0.33.0" => "There must be some way to damage Ganon...
+Have you tried every item you have?",
+  "13.0.34.0" => "The Light Arrows are so weak... Is it
+because so many allies have fallen?",
+  "13.0.35.0" => "If only all of our friends were still with
+us... Then maybe we'd have succeeded...",
+  "13.0.36.0" => "If we defeat Ganon, those thunderbolts will
+stop! Take him out before it's too late!",
+  "13.0.37.0" => "The lightning strikes are too much for the
+castle! We have to do something!",
+  "13.0.38.0" => "It's now or never! Quickly, capture the
+keep!",
+  "13.0.39.0" => "I'll distract Ganondorf! You go capture the
+keep!",
+  "13.0.40.0" => "You have to capture the castle! I can keep
+Ganondorf preoccupied while you do!",
+  "13.0.41.0" => "Let me distract Ganondorf while you
+capture the keep! Hurry! I won't last long!",
+  "13.0.42.0" => "I'll make Ganondorf my top priority while
+you focus on taking that keep. But hurry!",
+  "13.0.43.0" => "We've finally recaptured Hyrule Castle!
+Ganondorf, you are defeated!",
+  "13.0.44.0" => "I'll attack Ganondorf while he's in the Castle
+Keep! There's no time to argue! Let's go!",
+  "13.0.45.0" => "Ganondorf has fallen and we've recaptured
+the castle! Victory belongs to us!",
+  "13.0.46.0" => "We've recaptured the Castle Keep! Ganondorf,
+you've lost! Deal with the shame!",
+}

@@ -1,0 +1,150 @@
+Map {
+  "1.0.0.0" => "Help! Monsters!",
+  "1.0.1.0" => "Cia, leave that fairy alone! It hasn't hurt anybody!",
+  "1.0.2.0" => "I should have guessed that you would be the one protecting
+the fairies. Foolish and futile, Lana.",
+  "1.0.3.0" => "We're no match for Cia and her forces here. Let's send to
+Hyrule Castle for help!",
+  "1.0.4.0" => "We can't take on the whole Hyrulean army yet. Chase them
+down before they reach the castle!",
+  "1.0.5.0" => "We'll go get help!",
+  "1.0.6.0" => "Capture one of those keeps and force the gates open!",
+  "1.0.7.0" => "What do we do? I don't know how to fight monsters!",
+  "1.0.8.0" => "You go hide with the others. I'll take care of these guys!",
+  "1.0.9.0" => "Everybody there in the north! Hurry!",
+  "1.0.10.0" => "Cia, this is outrageous and I WILL stop you. You'll see!",
+  "1.0.11.0" => "Don't let them take another step!",
+  "1.0.12.0" => "They've escaped. We can expect the Hyrulean army soon.",
+  "1.0.13.0" => "Ha! You can't run from me!",
+  "1.0.14.0" => "That's enough. We did well.",
+  "1.0.15.0" => "Ugh. More than half of them escaped...",
+  "1.0.16.0" => "How can you call yourselves monsters when you can't kill ONE
+measly Goron?!",
+  "1.0.17.0" => "They made it! The Hyruleans will come to help us--we just have
+to hold tight a little longer!",
+  "1.0.18.0" => "Bah. Fairies, armies of humans--they're all the same to me.
+I can kill anything that breathes.",
+  "1.0.19.0" => "Where did all these creatures come from? And how did they
+appear so suddenly?",
+  "1.0.20.0" => "The princess! Never mind the fairies! All forces, kill Zelda!",
+  "1.0.21.0" => "Onward! For Hyrule!",
+  "1.0.22.0" => "How cute--the mice have organized a rebellion against the cats.",
+  "1.0.23.0" => "Hmm. I'm not sure my soldiers can handle this many...
+I'd better get involved directly.",
+  "1.0.24.0" => "Why, is that a general I see joining the battle? Excellent.
+Once she's down, the princess will have to come out of hiding.",
+  "1.0.25.0" => "Blast it! I've failed you, Your Highness. I have to fall back.",
+  "1.0.26.0" => "If General Impa had to retreat, what hope do the rest of
+us have?",
+  "1.0.27.0" => "The fairies are safe now. I just hope the Hyrulean troops can
+turn back the monster army!",
+  "1.0.28.0" => "Pah. These soldiers are all bark and no bite. I'll leave the rest
+to you--do try to enjoy yourselves.",
+  "1.0.29.0" => "I will not sit idly by! When Hyrule is threatened, we all must
+answer the call!",
+  "1.0.30.0" => "Princess Zelda has taken the field! We must defend Her Royal
+Highness!",
+  "1.0.31.0" => "...",
+  "1.0.32.0" => "What are you doing here, trainee? It's too dangerous--
+get back to the castle!",
+  "1.0.33.0" => "The princess? And she can hold her own, I see. I'll have to
+test her mettle...",
+  "1.0.34.0" => "Soldiers of Hyrule! I seek a worthy foe! Bring me your
+greatest warrior!",
+  "1.0.35.0" => "That knight is different than the others... We'll have to deal
+with him carefully.",
+  "1.0.36.0" => "Stop! You c-c-cannot pass!",
+  "1.0.37.0" => "Careful! She'ssss strong!",
+  "1.0.38.0" => "He's amazing... Could he be...",
+  "1.0.39.0" => "Don't lose hope, friends!",
+  "1.0.40.0" => "It will be our honor to fight at your side, Princess Zelda! ",
+  "1.0.41.0" => "For Hyrule and peace in our time!",
+  "1.0.42.0" => "For Hyrule!",
+  "1.0.43.0" => "Keep fighting, everyone! We mustn't lose!",
+  "1.0.44.0" => "If Her Highness won't give up, we can't give up, either!",
+  "1.0.45.0" => "...!",
+  "1.0.46.0" => "No! We have to cede this ground and withdraw, friends.
+We'll regroup and return later.",
+  "1.0.47.0" => "Awww, they went home to their castle and didn't even invite
+us in? Rude! We'll just have to come knocking! Gyahaha!",
+  "1.0.48.0" => "I didn't take them seriously enough, I suppose. We'll just have
+to start over...",
+  "1.0.49.0" => "Hmph. I underestimated them.",
+  "1.0.50.0" => "It can't end like this...",
+  "1.0.51.0" => "They escaped...",
+  "1.0.52.0" => "What do we do now?! There's so many of them!",
+  "1.0.53.0" => "Khh... We can't afford to lose just yet... Quickly, rally the
+troops! Strike back!",
+  "1.0.54.0" => "All hands, to arms! Anyone who can hold a weapon, rally on
+my position!",
+  "1.0.55.0" => "We're in trouble! Everyone's
+got to hurry!",
+  "1.0.56.0" => "The plan seems to have worked.
+Now it's time to play my part!",
+  "1.0.57.0" => "We're marching out as well!
+That base is as good as ours!",
+  "1.0.58.0" => "How did we fail? It's inconceivable...",
+  "1.0.59.0" => "Our plan didn't work, but we
+can't just run away!",
+  "1.0.60.0" => "Lady Impa...? No! Without our
+commander, we're lost!",
+  "13.0.0.0" => "Kya ha ha! Take the keep and force those gates open!",
+  "13.0.1.0" => "What are you doing, fools?! If any more escape, they'll do it
+over your dead bodies!",
+  "13.0.2.0" => "You let them get away?! Imbeciles! Useless pests!",
+  "13.0.3.0" => "So you came running when those escapees called you?
+How nauseatingly noble!",
+  "13.0.4.0" => "What kind of princess leaves her castle to fight alongside
+common minions? I'll have to show her the error of her ways!",
+  "13.0.5.0" => "To take a castle...first you need to take out the owner...
+I'll murder everyone! Me! Gyahahahaha!",
+  "13.0.6.0" => "The wizard is a real threat. Keep your guard up, everyone!",
+  "13.0.7.0" => "They took our base? You useless wretches! Now we have to
+start from scratch!",
+  "13.0.8.0" => "Hmph. At least you're good at running away...",
+  "13.0.9.0" => "No! We can't let that monster get ahead
+of us!",
+  "13.0.10.0" => "Princess Zelda! Forgive me! The enemy
+led me right into their trap...",
+  "13.0.11.0" => "We should be able to push the enemy back.
+Come! There isn't a moment to wait!",
+  "13.0.12.0" => "Impa, are you really hurt?",
+  "13.0.13.0" => "Are you...one of the trainees?",
+  "13.0.14.0" => "Princess, we must capture the Central and
+Eastern Keeps and close the North Gates!",
+  "13.0.15.0" => "I'll prepare our battle plan. Princess, please
+lead the troops on your siege of the keeps!",
+  "13.0.16.0" => "The enemy have forced themselves into the
+north. We need the Great Fairy's help now...",
+  "13.0.17.0" => "If our plan succeeds, we'll cripple their force
+all at once! Come! To the Goddess Fountain!",
+  "13.0.18.0" => "If we had some bombs, we could probably
+break open the Goddess Fountain's gate...",
+  "13.0.19.0" => "Hurry, over here! Blow up the Goddess
+Fountain's gate and get inside!",
+  "13.0.20.0" => "Be cautious, everyone. The enemy is
+attacking from the north!",
+  "13.0.21.0" => "What? The East Field Keep has been taken?",
+  "13.0.22.0" => "Over here! We have to pray to the Great Fairy
+together!",
+  "13.0.23.0" => "Princess, the plan was successful! The
+enemy has been greatly diminished!",
+  "13.0.24.0" => "Princess Zelda, the plan worked wonderfully!
+The enemy has suffered huge losses!",
+  "13.0.25.0" => "Impa, fall back and regroup our forces!",
+  "13.0.26.0" => "Understood. And, Princess--be careful!",
+  "13.0.27.0" => "We managed to pull through... Well done,
+everyone! This victory belongs to you!",
+  "13.0.28.0" => "Princess Zelda, horrible news! The enemy
+wizard has taken over the castle!",
+  "13.0.29.0" => "We have to protect Hyrule! C'mon, Link!
+Let's go!",
+  "13.0.30.0" => "With this, I could destroy those boulders and
+reach Impa...",
+  "13.0.31.0" => "Princess Zelda! Use this! It should help
+increase the impact of your bombs!",
+  "13.0.32.0" => "Princess Zelda... I've failed you...",
+  "13.0.33.0" => "The boulders are keeping us from getting to
+Impa... What are we supposed to do?",
+  "13.0.34.0" => "Link, look! I can see the princess!",
+}

@@ -1,0 +1,243 @@
+Map {
+  "1.0.0.0" => "El héroe del que tanto he oído hablar...
+Link, ven rápido. No me hagas esperar.",
+  "1.0.1.0" => "Cya está en las ruinas que hay en la cima. Si
+acabamos con ella, los monstruos desaparecerán.",
+  "1.0.2.0" => "Debemos tomar los bastiones que hay a ambos
+lados de las ruinas para poder llegar a la base.",
+  "1.0.3.0" => "¡Hagamos eso! Será mejor que nos dividamos
+y ataquemos por ambos lados a la vez.",
+  "1.0.4.0" => "Impa y yo iremos por el este, y vosotros,
+por el oeste.",
+  "1.0.5.0" => "Gracias, Sheik, pero prefiero ir sola.",
+  "1.0.6.0" => "¡Me divertiré un poco con vosotros!",
+  "1.0.7.0" => "El caballero dragón es demasiado fuerte.
+¡No aguantaremos mucho más!",
+  "1.0.8.0" => "Nos ha atacado con todo su poder...
+¡Debemos acabar con él!",
+  "1.0.9.0" => "¡Me aburrís! ¿No tenéis a alguien más fuerte?",
+  "1.0.10.0" => "El enemigo me ha acorralado y no puedo
+avanzar... ¿Podéis ir a ayudar?",
+  "1.0.11.0" => "Mucho ruido y pocas nueces. ¡Será mejor que
+os lo penséis bien antes de enfrentaros a mí!",
+  "1.0.12.0" => "He sido muy descuidado, pero la próxima
+vez no tendréis tanta suerte.",
+  "1.0.13.0" => "¡Es el momento de atacar!",
+  "1.0.14.0" => "Yo me ocuparé de la zona este.
+¡Id a por el bastión oeste!",
+  "1.0.15.0" => "¡Yo me encargaré del bastión este!",
+  "1.0.16.0" => "¡Ha llegado el momento de atacar!",
+  "1.0.17.0" => "¿Ya está? Me esperaba algo mejor.",
+  "1.0.18.0" => "¡El bastión oeste es nuestro!",
+  "1.0.19.0" => "¡No bajéis la guardia! Ahora debemos ir a por
+el bastión este.",
+  "1.0.20.0" => "¡Que no cunda el pánico!
+Podemos recuperarlo.",
+  "1.0.21.0" => "¡Hemos recuperado el bastión oeste!",
+  "1.0.22.0" => "Bien, el bastión este es nuestro.",
+  "1.0.23.0" => "¡No bajéis la guardia! Ahora debemos ir a por
+el bastión oeste.",
+  "1.0.24.0" => "¡Que no cunda el pánico!
+Podemos recuperarlo.",
+  "1.0.25.0" => "¡Hemos recuperado el bastión este!",
+  "1.0.26.0" => "¡Buen trabajo! Ahora solo nos queda ir
+a las ruinas.",
+  "1.0.27.0" => "Unos tentáculos nos impiden entrar a las ruinas.
+Debemos hacer algo.",
+  "1.0.28.0" => "¿Por qué os quedáis ahí?
+¿Queréis que os dé la bienvenida?",
+  "1.0.29.0" => "Si no podemos ir por delante, iremos por
+el lado. ¡Bajemos el puente del este!",
+  "1.0.30.0" => "Detendremos al enemigo delante de
+las ruinas, así podréis bajar el puente.",
+  "1.0.31.0" => "¡Están apareciendo más monstruos en
+el campo de batalla!",
+  "1.0.32.0" => "¿A que no hay nada más divertido que
+el poder de invocar monstruos? ¡Ja, ja!",
+  "1.0.33.0" => "¡Soy uno de los ingenieros de Hyrule!
+Yo me ocuparé del puente.",
+  "1.0.34.0" => "El ingeniero está saliendo de la base.
+¡Escóltalo hasta el lado este de las ruinas!",
+  "1.0.35.0" => "Ya que me hacéis esperar,
+os enviaré un regalito a la base.",
+  "1.0.36.0" => "Yo me ocuparé de los enemigos del oeste.
+Así tendréis tiempo para trabajar en el puente.",
+  "1.0.37.0" => "Entonces yo me ocuparé de la zona central.",
+  "1.0.38.0" => "¡Cuidado! Los enemigos que se aproximan
+por el oeste se dirigen a nuestra base.",
+  "1.0.39.0" => "¿Qué estáis tramando? Poco importa,
+yo me encargaré de que fracaséis.",
+  "1.0.40.0" => "¡Cuidado! El enemigo va tras el ingeniero.",
+  "1.0.41.0" => "¡Aquí el ingeniero de Hyrule! ¡El enemigo me ataca!",
+  "1.0.42.0" => "¡Aquí el ingeniero de Hyrule!
+No me vendría mal algo de ayuda.",
+  "1.0.43.0" => "¡Aquí el ingeniero de Hyrule!
+El puente está listo.",
+  "1.0.44.0" => "¡Por fin! Crucemos el puente para llegar
+a las ruinas.",
+  "1.0.45.0" => "Hemos perdido al ingeniero...",
+  "1.0.46.0" => "¿Tanto esfuerzo para llegar solo hasta aquí?
+Si hasta un necio podría bajar un puente...",
+  "1.0.47.0" => "¡Tanto esfuerzo no os ha servido de nada! Si
+estáis en apuros, ¿por qué no usáis mi puente?",
+  "1.0.48.0" => "¡Rápido! Cya está en la cima.",
+  "1.0.49.0" => "También hay tentáculos en el camino
+que lleva a la cima.",
+  "1.0.50.0" => "Al parecer en las ruinas se oculta un objeto
+que podría resultarnos muy útil.",
+  "1.0.51.0" => "Es de mala educación no dar la bienvenida
+a los invitados.",
+  "1.0.52.0" => "¡Un bumerán! Con esto será muy fácil
+acabar con esos tentáculos.",
+  "1.0.53.0" => "Aprovecha cuando los tentáculos cambien
+de color para atacar con el bumerán.",
+  "1.0.54.0" => "Qué lata de tentáculos... ¿Por qué no les hacen
+nada las flechas?",
+  "1.0.55.0" => "¡Centraos! Esto aún no ha terminado.
+El enemigo se ha escondido bajo tierra.",
+  "1.0.56.0" => "¡Mantengamos la calma! Hay que darle en
+el sitio correcto para que salga del suelo.",
+  "1.0.57.0" => "Entonces les daré a los tentáculos
+que están más cerca.",
+  "1.0.58.0" => "Es como jugar al escondite... ¡Pero no
+dejaré que eso me desanime!",
+  "1.0.59.0" => "¡Están atacando la base! Tenemos que
+acabar con el enemigo sin más dilación.",
+  "1.0.60.0" => "Si no acabamos con él cuanto antes, la base
+caerá.",
+  "1.0.61.0" => "La base no resistirá mucho más... ¡Rápido!",
+  "1.0.62.0" => "¿Dónde está el resto del cuerpo?",
+  "1.0.63.0" => "¡Esta vez no escapará! ¡Luchad con todas
+vuestras fuerzas!",
+  "1.0.64.0" => "¡Tenemos vía libre! Cya está en el altar,
+debemos darnos prisa.",
+  "1.0.65.0" => "Lo siento mucho...",
+  "1.0.66.0" => "Link y yo iremos por el este; vosotros,
+por el oeste.",
+  "1.0.67.0" => "Sheik, ¡tienes que echar una mano!
+Eres el único que puede hacerlo.",
+  "1.0.68.0" => "La puerta de las ruinas está cerrada.
+No podemos seguir adelante...",
+  "1.0.69.0" => "Aún no soy capaz de confiar en Sheik.",
+  "1.0.70.0" => "¿Por qué ha ido tan lejos?",
+  "1.0.71.0" => "¡Ahora veréisss nuessstro
+verdadero poder!",
+  "1.0.72.0" => "¡Osss haremosss pagar en nombre
+de nuessstro señor Volga!",
+  "1.0.73.0" => "Aún quedan enemigos... ¡Debemos
+proteger la zona de las ruinas!",
+  "1.0.74.0" => "¡Necesssito ayuda!",
+  "1.0.75.0" => "Soisss fuertesss...",
+  "1.0.76.0" => "¡Ha llegado el momento de huir!",
+  "1.0.77.0" => "¡Son demasssiado poderososss!
+¡Retirada!",
+  "1.0.78.0" => "A estos pequeños les encanta tomar
+bastiones. ¡Os divertiréis con ellos!",
+  "1.0.79.0" => "No podemos dejar que entren en la base.
+¡Tenemos que vencerlos ahora!",
+  "1.0.80.0" => "¡No osss olvidéisss de nosotrosss!",
+  "1.0.81.0" => "¡No tenéisss ninguna oportunidad
+contra nosotrosss!",
+  "1.0.82.0" => "Antes de llegar hasta Cya tenemos que
+vencer a los enemigos de retaguardia.",
+  "1.0.83.0" => "Bueno, creo que con eso basta.",
+  "1.0.84.0" => "¡Ahora, pequeños escamosos, aplastad
+a nuestros enemigos en las ruinas!",
+  "1.0.85.0" => "Debemos unir fuerzas
+si queremos vencerlo...",
+  "1.0.86.0" => "¡Proteged a nuessstro ssseñor Volga!",
+  "1.0.87.0" => "¡Aplassstad a las tropasss de Hyrule!",
+  "1.0.88.0" => "Aquí ya no sois necesarios.
+¡Ahora id a defender a Cya!",
+  "1.0.89.0" => "Ahora debemos acabar con Volga. ¡Lo
+venceremos e iremos hacia las ruinas!",
+  "1.0.90.0" => "¡El enemigo se dirige a la base!
+¡No podemos permitir que la alcance!",
+  "1.0.91.0" => "¡Bien! La base ya está segura.",
+  "1.0.92.0" => "¡Si no hacemos algo, la base caerá!
+¡Tenemos que vencer al enemigo!",
+  "1.0.93.0" => "¡Venid aquí ahora mismo!
+¡Yo os franquearé el paso!",
+  "1.0.94.0" => "¡Tengo una idea!
+¡Reuníos a su alrededor!",
+  "1.0.95.0" => "¡Usaré mi magia para aunar nuestras
+fuerzas! ¡Nadie podrá pararnos!",
+  "1.0.96.0" => "¡Es increíble la magia tan potente que
+puedo usar en el Valle de la Hechicera!",
+  "1.0.97.0" => "¡Gracias a Lana hemos vencido, Link!
+¡Venga, al altar donde está Cya!",
+  "1.0.98.0" => "Esta forma de usar la magia para aunar
+fuerzas es genial. ¡Volveré a usarla!",
+  "1.0.99.0" => "¡Si no actuamos de inmediato,
+la base caerá!",
+  "13.0.0.0" => "Si capturamos los dos bastiones que hay frente
+a las ruinas, podremos atacar la base de Cya.",
+  "13.0.1.0" => "El camino que lleva a los bastiones enemigos se
+divide. Será mejor separarnos y atacar ambos.",
+  "13.0.2.0" => "El camino vuelve a dividirse... ¡Debemos formar
+dos grupos y atacar ambos bastiones a la vez!",
+  "13.0.3.0" => "Volvemos a encontrarnos, mocoso.
+A ver si has mejorado desde la última vez.",
+  "13.0.4.0" => "¿Estás bien, Link? El caballero dragón no te
+da cuartel...",
+  "13.0.5.0" => "¡Así se hace! Aprovecha la ocasión y sigue
+atacando.",
+  "13.0.6.0" => "¡Gracias! Link estará bien; ¿podéis encargaros
+de los bastiones de la zona oeste?",
+  "13.0.7.0" => "¡Gracias! Link se ocupará de los bastiones de
+la zona este.",
+  "13.0.8.0" => "¡Bravo! ¡Seguid así!",
+  "13.0.9.0" => "¡Buen trabajo! El bastión del oeste
+es nuestro.",
+  "13.0.10.0" => "Ahora id a por el del este. ¡Rápido!",
+  "13.0.11.0" => "El enemigo ha recuperado uno de los bastiones...
+Lana, ¿podrías ayudarnos?",
+  "13.0.12.0" => "¡Bien! El bastión del oeste
+es nuestro.",
+  "13.0.13.0" => "¡Genial! El bastión del este
+es nuestro.",
+  "13.0.14.0" => "No deberíamos tener problema en
+capturar el del oeste también.",
+  "13.0.15.0" => "El enemigo ha recuperado uno de los bastiones.
+¡Lana, tienes que ayudarnos a capturarlo!",
+  "13.0.16.0" => "¡Estupendo! Hemos recuperado
+el bastión de la zona este.",
+  "13.0.17.0" => "¡Buen trabajo! Ya podemos ir a las ruinas.",
+  "13.0.18.0" => "Unos tentáculos muy raros nos impiden entrar
+en las ruinas. No sé cómo podremos pasar...",
+  "13.0.19.0" => "Quizás podamos reunir a los enemigos en
+la plaza de las ruinas y bajar el puente.",
+  "13.0.20.0" => "No paran de salir enemigos de
+ese bastión... ¡Hay que hacer algo!",
+  "13.0.21.0" => "El ingeniero ha salido de la base. ¡Debemos
+protegerlo hasta que llegue a las ruinas del este!",
+  "13.0.22.0" => "Link frenará el avance enemigo en
+el oeste. ¡Bajad el puente, rápido!",
+  "13.0.23.0" => "Deberías ocuparte de los enemigos
+que están frente a las ruinas.",
+  "13.0.24.0" => "¡Cuidado! Los enemigos que vienen por el oeste
+se dirigen a nuestra base.",
+  "13.0.25.0" => "¡Así se hace! Crucemos
+el puente hasta las ruinas.",
+  "13.0.26.0" => "Hemos perdido al ingeniero...",
+  "13.0.27.0" => "¡Vamos a la cima! Cya está allí.",
+  "13.0.28.0" => "¿Aún sigue con vida? Creo que se ha escondido
+bajo tierra.",
+  "13.0.29.0" => "¡Nosotros nos encargaremos! ¡A por él, Link!",
+  "13.0.30.0" => "¡Nosotros nos encargaremos!
+¡Acaba con él, Link!",
+  "13.0.31.0" => "Están atacando la base.
+¡Hay que hacer algo!",
+  "13.0.32.0" => "¡La base peligra! Debemos darnos prisa
+y acabar con él cuanto antes.",
+  "13.0.33.0" => "¡La base está a punto de caer! ¡Rápido!",
+  "13.0.34.0" => "Qué rabia... No hemos acabado con él.",
+  "13.0.35.0" => "¡Bravo! Ahora podemos llegar hasta Cya.
+Vayamos al altar que hay en la cima.",
+  "13.0.36.0" => "¡Link! ¿Estás bien?",
+  "13.0.37.0" => "¡Cuidado! El enemigo persigue al ingeniero.",
+  "13.0.38.0" => "Las puertas que dan a las ruinas están cerradas.
+¡Tendremos que buscar otra forma de entrar!",
+  "13.0.39.0" => "Link y yo iremos por el lado este; ¡vosotros id
+por el oeste!",
+}

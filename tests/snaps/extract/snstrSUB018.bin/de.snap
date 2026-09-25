@@ -1,0 +1,13 @@
+Map {
+  "0.1.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "Besiege A0%2sF6R, um A0%1sF6R zu befreien!",
+  "0.3.0" => "A0%1sF0R hat das Schlachtfeld verlassen, weil A0%2sF5R besiegt wurde!",
+  "0.4.0" => "Die Festung wurde erobert. A0%1sF0R ist zufrieden und hat das Schlachtfeld verlassen!",
+  "0.5.0" => "Die Lebensenergie A0%1sF2R wurde auf mysteriöse Weise erhöht!",
+  "0.6.0" => "A0%2sF0R kontrolliert A0%1sF6R und hält sich irgendwo versteckt!",
+  "0.7.0" => "A0%1sF0R wurde besiegt!",
+  "0.8.0" => "A0%1sF0R wurde besiegt. A0%2sF0R ist nun geschwächt!",
+  "0.9.0" => "Besiege auch A0%1sF6R!",
+  "0.10.0" => "A0%1sF0R wurde entdeckt!",
+  "0.11.0" => "Besiege A0%1sF6R!",
+}

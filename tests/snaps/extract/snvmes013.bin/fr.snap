@@ -1,0 +1,140 @@
+Map {
+  "1.0.0.0" => "Commençons par leur montrer toute l'étendue
+de notre pouvoir!",
+  "1.0.1.0" => "Très bien. Allez massacrer les monstres qui se
+cachent dans ce village pour montrer l'exemple.",
+  "1.0.2.0" => "Permettez-moi de prendre ce bâtiment, au nord.
+Son architecture macabre me plaît beaucoup.",
+  "1.0.3.0" => "Petits sssournois!
+Qu'est-ssse que vous préparez?",
+  "1.0.4.0" => "Psss... Imbésssiles! Masssacrez-les!",
+  "1.0.5.0" => "Exterminons les monstres des forts pour
+faire fuir ceux du village!",
+  "1.0.6.0" => "Vous terrer dans vos forts comme des rats ne
+vous protègera pas de notre terrible pouvoir!",
+  "1.0.7.0" => "On dirait qu'il ne nous reste qu'un seul fort à
+prendre. Finissons-en immédiatement!",
+  "1.0.8.0" => "Rah! Reprenez ssse fort immédiatement!",
+  "1.0.9.0" => "Ksss... Incapables!
+Vous ne ssservez à rien!",
+  "1.0.10.0" => "Kah! Défendez ssse fort!",
+  "1.0.11.0" => "Si nous voulons prendre le village, nous devons
+éliminer tous les monstres sortant de ce fort!",
+  "1.0.12.0" => "Kah! Les lizalfosss sssont trop forts et trop
+nombreux! Vous ne pouvez rien contre nous!",
+  "1.0.13.0" => "Ils sont sortis de leur tanière... Le moment
+semble idéal pour prendre le village.",
+  "1.0.14.0" => "Bien, ils sont acculés. Finissons-en
+avec eux en prenant le dernier fort.",
+  "1.0.15.0" => "Rah! Reprenez ssse fort d'urgenssse!",
+  "1.0.16.0" => "Ksss... Ne nous sssous-essstimez pas!",
+  "1.0.17.0" => "Vous êtes pathétiques...",
+  "1.0.18.0" => "Les portes du bâtiment sont toujours barrées.
+Il doit y avoir un moyen de les ouvrir.",
+  "1.0.19.0" => "Nous avons pris le fort mais ses portes restent
+closes... Je vais chercher une solution.",
+  "1.0.20.0" => "Kah! Quel est ssse bruit?",
+  "1.0.21.0" => "Ksss... Les ténèbres ssse rapprochent...",
+  "1.0.22.0" => "Éliminez tous ssseux qui menasssent nos terres!",
+  "1.0.23.0" => "Ces insectes veulent se joindre à la bataille?
+Comme c'est touchant...",
+  "1.0.24.0" => "Des monstres sont retenus captifs dans ces
+prisons. Peut-être pourrions-nous les recruter?",
+  "1.0.25.0" => "Laissez-moi m'occuper du roi dodongo...",
+  "1.0.26.0" => "Le roi dodongo peut attendre. Commençons par
+nous débarrasser de ces monstres devant nous.",
+  "1.0.27.0" => "Je dois honorer le nom de mon maître!",
+  "1.0.28.0" => "Voilà bien la force du roi démon!
+Sublime!",
+  "1.0.29.0" => "J'ai été... vaincu? Non! Ce n'est pas ce que
+j'avais prévu!",
+  "1.0.30.0" => "Et ainsi le monde est épargné
+d'une telle grandeur...",
+  "1.0.31.0" => "C'est tout ce dont vous êtes capables?",
+  "1.0.32.0" => "Leur chef est apparu? Parfait, si je l'élimine, ses
+serviteurs se prosterneront devant moi...",
+  "1.0.33.0" => "Les voir côte à côte est un plaisir. Je pourrais
+les regarder semer le chaos pendant des heures.",
+  "1.0.34.0" => "Le maître du désert n'est pas ma priorité...",
+  "1.0.35.0" => "En voilà déjà un de moins.
+Éliminons le reste de ces vermines.",
+  "1.0.36.0" => "Et vous espériez nous vaincre? Cela m'attriste
+presque que le combat soit aussi inégal...",
+  "1.0.37.0" => "C'est là la puissance d'un dieu!",
+  "1.0.38.0" => "Ganondorf me rappelle mon maître, l'Avatar
+du Néant. Puisse-t-il régner pour l'éternité!",
+  "1.0.39.0" => "Votre résistance fut vaine. Toutes les bataillles
+ne sont pas dignes d'entrer dans la légende.",
+  "1.0.40.0" => "Libérez-nous!",
+  "1.0.41.0" => "Ta vie m'appartient, désormais...",
+  "1.0.42.0" => "Non... que...?",
+  "1.0.43.0" => "Tu seras mon serviteur...",
+  "1.0.44.0" => "Aidez-nous!",
+  "1.0.45.0" => "Maintenant, obéis à ton maître!",
+  "1.0.46.0" => "Comment de tels adversaires peuvent me poser
+problème? Roi démon, j'implore votre aide!",
+  "1.0.47.0" => "Quelle conduite pathétique pour quelqu'un qui
+se fait appeler le monarque démoniaque...",
+  "1.0.48.0" => "Pa... Pardonnez-moi... Je dois battre en retraite
+et récupérer des forces...",
+  "1.0.49.0" => "Je n'attendais rien de toi, de toute façon.
+Je peux très bien conquérir ces terres seul...",
+  "1.0.50.0" => "Psss... Quelle arroganssse!
+Attaquez-le!",
+  "1.0.51.0" => "Argh... Mes pouvoirs ont atteint leurs limites.
+Venez à mon aide, seigneur, par pitié!",
+  "1.0.52.0" => "Aide? Pitié? N'es-tu pas le roi des ombres?
+Et tu me demandes de l'aide? Ha ha ha!",
+  "1.0.53.0" => "Argh... Pardonnez-moi, seigneur Ganondorf...
+Je dois me retirer...",
+  "1.0.54.0" => "Bon à rien, hors de ma vue...
+Je peux me débrouiller seul...",
+  "1.0.55.0" => "Admirez la forssse des lézalfosss!",
+  "1.0.56.0" => "Gah... Quelle puisssanssse!",
+  "1.0.57.0" => "Kah! Sssa forssse est sssans limites!",
+  "1.0.58.0" => "Masssacrez-les! Tout de sssuite!",
+  "1.0.59.0" => "Hmpf... Bande de vermines...",
+  "1.0.60.0" => "Cet endroit sera parfait pour mon maître.
+Prenons-le immédiatement!",
+  "1.0.61.0" => "Kah! Rasssemblez-vous!",
+  "1.0.62.0" => "Il semble que ces créatures primitives se
+renforcent... Prenez leurs forts! Vite!",
+  "1.0.63.0" => "Kah! Nous sssommes puisssants!
+Nous n'avons pas peur de vous!",
+  "1.0.64.0" => "Aucun fort ne peut résister
+à la volonté d'un roi!",
+  "1.0.65.0" => "J'entends des cris au sssud!
+Allons voir!",
+  "1.0.66.0" => "Les monstres au nord ont remarqué notre présence.
+Ils ne doivent pas se rejoindre. Je vais les arrêter!",
+  "1.0.67.0" => "Ils ne sont que des bêtes sans cervelle.
+Je n'aurai aucun mal à m'en défaire!",
+  "1.0.68.0" => "Le fort est en danger!
+Protégez-le!",
+  "1.0.69.0" => "Relâchez les prisonniers!
+Il faut qu'ils ssse battent pour nous!",
+  "1.0.70.0" => "Hum, ils comptent utiliser leurs prisonniers
+contre nous... Et si NOUS les utilisions?",
+  "1.0.71.0" => "Intéressant... Permettez-moi d'aller en parler
+avec les prisonniers du nord du désert!",
+  "1.0.72.0" => "Merveilleux. Je vais donc aller en discuter
+avec les prisonniers du sud du désert.",
+  "1.0.73.0" => "Vulgaires créatures! Servez Ganondorf, notre
+maître, pour donner un sens à votre existence!",
+  "1.0.74.0" => "Prisonniers! Vous êtes libres,
+mais battez-vous pour nous!",
+  "1.0.75.0" => "C'est compris.",
+  "1.0.76.0" => "Hum... Ce désert grouille
+de monstres.",
+  "1.0.77.0" => "Cette créature n'est pas de taille
+face à vous, maître.",
+  "1.0.78.0" => "Oh, je ne savais pas qu'une telle créature
+existait toujours sur ces terres...",
+  "1.0.79.0" => "Si nous la terrassons, tous
+ses sbires se soumettront!",
+  "1.0.80.0" => "Kah! Nos alliés ont été vaincus!
+Vengeanssse!",
+  "1.0.81.0" => "Nous sommes nés pour servir.",
+  "1.0.82.0" => "Maître, rassemblons-nous autour de ce
+monstre et prouvons-lui son infériorité!",
+}

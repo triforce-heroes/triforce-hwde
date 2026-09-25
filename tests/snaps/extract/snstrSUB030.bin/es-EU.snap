@@ -1,0 +1,7 @@
+Map {
+  "0.1.0" => "¡Se ha cerrado A0%1sF2R!",
+  "0.2.0" => "¡Han aparecido A0%1sF1R en A0%2sF2R!",
+  "0.3.0" => "¡Vence A0%1sF5R y huye A0%2sF6R!",
+  "0.4.0" => "¡A0%1sF3R han caído y A0%2sF2R se ha abierto!",
+  "0.5.0" => "¡Parece que hay un A2bastiónR con un tesoro escondido en su interior!",
+}

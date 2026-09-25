@@ -1,0 +1,268 @@
+Map {
+  "1.0.0.0" => "Cette grotte est infestée de monstres... Mais nous
+devons la traverser pour retrouver Son Altesse Zelda.",
+  "1.0.1.0" => "On dirait que la sortie est par là.
+Il va falloir faire un grand détour par le nord...",
+  "1.0.2.0" => "Des soldats d'Hyrule sont partis en éclaireurs vers
+la sortie. Link, commençons par les rejoindre.",
+  "1.0.3.0" => "Nous sommes bloqués par un rocher et encerclés par
+des monstres. Si ça continue, ils vont nous exterminer...",
+  "1.0.4.0" => "Comment... ?! Link et moi allons vous rejoindre.
+En attendant, tenez bon !",
+  "1.0.5.0" => "Merci, dame Impa !",
+  "1.0.6.0" => "Vous avez bien résisté.
+Link ne devrait plus tarder.",
+  "1.0.7.0" => "Mais qu'est-ce que c'est que cette grotte ? On a beau
+éliminer les monstres, il en arrive toujours d'autres...",
+  "1.0.8.0" => "Il y a forcément un fort d'où les monstres arrivent.
+Link, tu ne veux pas essayer de le trouver ?",
+  "1.0.9.0" => "Link ! As-tu trouvé le fort des monstres ?",
+  "1.0.10.0" => "Une bonne chose de faite ! Mais on dirait
+que des monstres arrivent d'un autre fort.",
+  "1.0.11.0" => "Le nombre de monstres a diminué !
+On va pouvoir combattre !",
+  "1.0.12.0" => "L'offensive ennemie est d'une grande violence !
+On ne va pas pouvoir tenir longtemps !",
+  "1.0.13.0" => "Malédiction...
+Link, viens vite !",
+  "1.0.14.0" => "Les renforts sont arrivés !
+On va pouvoir combattre !",
+  "1.0.15.0" => "Désolé ! Nous battons en retraite !",
+  "1.0.16.0" => "Nous arrivons trop tard... Pardonnez-moi.",
+  "1.0.17.0" => "Tant que ce gros rocher sera là...
+on ne pourra pas aller plus loin.",
+  "1.0.18.0" => "Hmm... Il faudrait trouver quelque chose pour
+détruire ce rocher.",
+  "1.0.19.0" => "On va vous aider ! Ce missile teigneux devrait
+pouvoir détruire ce gros rocher !",
+  "1.0.21.0" => "Oh, merci !
+Je compte sur vous !",
+  "1.0.22.0" => "Vous êtes tombés en plein dans mon piège !
+Cette grotte sera votre tombe !",
+  "1.0.23.0" => "Détruisez cet ignoble rat !
+Et plongez-les dans les abysses du désespoir !",
+  "1.0.24.0" => "Ils attaquent le missile teigneux !",
+  "1.0.25.0" => "Link ! Protège le missile teigneux !",
+  "1.0.26.0" => "Il y a encore beaucoup de monstres... Le missile
+teigneux ne va pas pouvoir détruire le rocher !",
+  "1.0.27.0" => "Bien... Éliminons les ennemis ici pour
+faciliter la destruction du grand rocher.",
+  "1.0.28.0" => "On aurait peut-être dû détruire les nids de monstres d'abord.
+C'est pas facile de protéger le missile teigneux...",
+  "1.0.29.0" => "Il faut ouvrir la porte nord de ce fort, sinon le
+missile teigneux ne pourra pas aller plus loin !",
+  "1.0.30.0" => "Link, je ne peux pas me rendre dans ce fort.
+Peux-tu t'en occuper ?",
+  "1.0.31.0" => "Oui ! Le missile teigneux va pouvoir avancer
+jusqu'au rocher !",
+  "1.0.32.0" => "Bien joué, Link !
+On va pouvoir avancer !",
+  "1.0.33.0" => "Allez ! En route vers la sortie !",
+  "1.0.34.0" => "Dépêche-toi, Link ! En avant !",
+  "1.0.35.0" => "Malédiction... Le missile teigneux a été détruit.",
+  "1.0.36.0" => "Il me reste des missiles teigneux !
+Je démarre le suivant !",
+  "1.0.37.0" => "C'est le dernier missile teigneux du fort...
+Il faut le protéger à tout prix !",
+  "1.0.38.0" => "Sans missile teigneux, on ne peut pas détruire le rocher...
+Tout est fini... Le monde va être plongé dans les ténèbres.",
+  "1.0.39.0" => "À l'attaque ! Traquez ces vermines !",
+  "1.0.40.0" => "L'attaque ennemie est très violente... Allons-y,
+il faut avancer coûte que coûte.",
+  "1.0.41.0" => "On dirait que la porte sud de ce fort donne vers
+la sortie. Il faut vite le conquérir.",
+  "1.0.42.0" => "Ouah ! Un coffre au trésor est apparu ! C'est notre
+récompense pour avoir pris le fort ? Ouvrons-le !",
+  "1.0.43.0" => "Ouah ! C'est sûrement une super arme !",
+  "1.0.44.0" => "Ce n'est pas le moment de plaisanter.
+La porte ne s'ouvre pas...",
+  "1.0.45.0" => "Ils ne peuvent plus s'enfuir !
+Écrasez-les ! Écrabouillez-les !",
+  "1.0.46.0" => "Des ennemis arrivent des galeries ? Cela voudrait dire
+que le maître des galeries se trouve dans cette direction !",
+  "1.0.47.0" => "Si on vainc le maître, le chemin s'ouvrira peut-être...
+Pouvez-vous aller voir au bout des galeries ?",
+  "1.0.48.0" => "Je vais protéger le poste, occupez-vous d'aller
+explorer les galeries.",
+  "1.0.49.0" => "Je vais retenir les ennemis qui arrivent
+par derrière. Je m'en sortirai.",
+  "1.0.50.0" => "Link ! Ce fantôme est sûrement
+le maître des galeries !",
+  "1.0.51.0" => "Si on parvient à le vaincre, on pourra revoir la
+lumière du jour... !",
+  "1.0.52.0" => "Link ! Va explorer les galeries !",
+  "1.0.53.0" => "Bravo ! On va pouvoir sortir de cette grotte !",
+  "1.0.54.0" => "Pardonnez-moi... Je suis à bout de forces. Je prie
+pour que vous sortiez sains et saufs de cette grotte.",
+  "1.0.55.0" => "Il retenait les monstres qui arrivaient par derrière.
+Maintenant, on va se retrouver encerclés...",
+  "1.0.56.0" => "Le chemin est encore bloqué par un gros rocher...",
+  "1.0.57.0" => "Pour faire exploser les rochers, laissez-nous faire !",
+  "1.0.58.0" => "Nous avons encore besoin de votre aide.
+Il y a un missile teigneux dans ce fort.",
+  "1.0.59.0" => "Les ennemis dans le fort empêchent le missile
+teigneux d'avancer. Reprenez le fort !",
+  "1.0.60.0" => "Il y a deux gros rochers... Un seul
+missile teigneux ne suffira pas...",
+  "1.0.61.0" => "Un de mes amis m'a dit qu'il avait oublié un missile
+teigneux dans cette grotte. Si on pouvait le trouver...",
+  "1.0.62.0" => "Je vais protéger les Gorons. Occupe-toi de trouver
+un missile teigneux.",
+  "1.0.63.0" => "Oui, c'est ça ! Tu l'as trouvé ! On va pouvoir
+détruire les gros rochers !",
+  "1.0.64.0" => "Link ! Élimine les ennemis de ce fort. Il faut
+dégager le chemin pour le missile teigneux.",
+  "1.0.65.0" => "On dirait qu'il n'est pas dans ce fort !",
+  "1.0.66.0" => "Bien joué ! Le missile teigneux va pouvoir avancer !",
+  "1.0.67.0" => "Tout est prêt, on dirait.
+En avant !",
+  "1.0.68.0" => "Bien ! Les deux missiles teigneux avancent !
+Le gros rocher est droit devant !",
+  "1.0.69.0" => "Raah, encore et toujours des gêneurs... Puisque
+c'est comme ça, je vais pulvériser ces rats moi-même.",
+  "1.0.70.0" => "Hyaaa ! Protégez les missiles teigneux des
+monstres !",
+  "1.0.71.0" => "Nous sommes prêts à sortir. Sheik... C'est bien
+ça ? Viens par ici.",
+  "1.0.72.0" => "Entendu...",
+  "1.0.73.0" => "La première explosion a réussi !",
+  "1.0.74.0" => "Le chemin est presque ouvert !
+Protégez l'autre missile teigneux.",
+  "1.0.75.0" => "Bien, la voie vers la sortie est libre !
+Merci Link et merci à vous, Gorons !",
+  "1.0.76.0" => "Dépêche-toi, Link !
+La sortie est par ici !",
+  "1.0.77.0" => "Dame Impa, vous êtes saine et sauve ?
+On vous attend à la sortie !",
+  "1.0.78.0" => "Bien, direction la forêt de Firone ! Je veux savoir si la rumeur au
+sujet d'une jeune femme combattant des monstres est vraie.",
+  "1.0.79.0" => "J'espère qu'il s'agit de Son Altesse Zelda...",
+  "1.0.80.0" => "Link, Impa... Bon travail. Je suis sûr que vous
+pourrez sauver Hyrule du danger qui la guette.",
+  "1.0.81.0" => "Quelle humiliation... J'ai été vaincue...",
+  "1.0.83.0" => "Il n'y a plus de missile teigneux...",
+  "1.0.84.0" => "Si on ne peut détruire ces rochers, on ne peut pas
+aller plus loin. Il faut tout recommencer...",
+  "1.0.85.0" => "Je n'ai pas d'autres missiles teigneux !
+Si ces deux-là sont détruits, c'est la fin !",
+  "1.0.86.0" => "Il reste encore des nids de monstres... Si on les
+avait tous détruits, ça aurait été plus facile...",
+  "1.0.87.0" => "Désolé d'être en retard !
+Nous allons combattre à vos côtés !",
+  "1.0.88.0" => "On aurait peut-être dû détruire
+les nids de monstres avant...",
+  "1.0.89.0" => "Est-ce que c'est encore à mon tour de jouer ?",
+  "1.0.90.0" => "Les soldats d'Hyrule sont ici. Mais la porte est
+fermée, on ne peut pas les rejoindre...",
+  "1.0.91.0" => "N'y aurait-il pas un moyen de se frayer
+un chemin pour aller plus loin... ?",
+  "1.0.92.0" => "La paroi est fissurée. Il devrait
+être possible de la détruire.",
+  "1.0.93.0" => "Si on prend ce fort, peut-être que les
+monstres cesseront d'apparaître...",
+  "1.0.94.0" => "Ouh hi hi hi... Tant qu'on a des invocateurs, on
+peut engendrer autant de monstres qu'on veut... !",
+  "1.0.95.0" => "C'est mou tout ça ! Redoublez vos
+attaques et prenez-les en tenaille !",
+  "1.0.96.0" => "Je vais les arrêter à l'est, ne les laissez
+pas s'approcher de la place des galeries !",
+  "1.0.97.0" => "Kh... L'ennemi est arrivé jusqu'ici... !",
+  "1.0.98.0" => "Je ne peux pas protéger les deux en même
+temps ! Link, protégeons-en chacun un !",
+  "1.0.99.0" => "De nouveaux ennemis... Je m'en occupe.",
+  "1.0.100.0" => "Y aurait-il quelque chose dans le fort vers lequel ils
+se dirigent ? C'est très louche, allons le prendre !",
+  "13.0.0.0" => "Dame Impa ! Link fait tout ce qu'il peut, lui aussi !
+Je suis sûre qu'il arrivera à nous sortir d'ici !",
+  "13.0.1.0" => "La sortie est... là-bas !
+Il va falloir faire un détour par le nord...",
+  "13.0.2.0" => "Je crois que des soldats d'Hyrule sont partis
+en éclaireurs. Rejoignons-les, dame Impa !",
+  "13.0.3.0" => "Les soldats d'Hyrule ont l'air d'être dans
+le pétrin ! Link, dame Impa, dépêchons-nous !",
+  "13.0.4.0" => "Merci ! Tu nous as sauvés, mon garçon !",
+  "13.0.5.0" => "On est là ! Dame Impa ne devrait plus tarder !
+Tout va bien se passer, maintenant.",
+  "13.0.6.0" => "Les monstres doivent être envoyés depuis un fort.
+Dame Impa, ne devrions-nous pas aller le prendre ?",
+  "13.0.7.0" => "Dame Impa ! Il s'agit certainement du repaire
+de ces monstres !",
+  "13.0.8.0" => "Bien joué ! Mais on dirait que les monstres
+viennent d'un autre fort.",
+  "13.0.9.0" => "Dame Impa, je vous en conjure !
+Venez nous aider !",
+  "13.0.10.0" => "Oh, non, le capitaine... Désolée...",
+  "13.0.11.0" => "Merci ! Allez missile teigneux, à toi de jouer !",
+  "13.0.12.0" => "Dame Impa ! Nous devons protéger le missile
+teigneux !",
+  "13.0.13.0" => "Link ! Pense au missile teigneux ! Nettoyons
+la zone devant le gros rocher !",
+  "13.0.14.0" => "C'est pas vrai ! Link ne peut pas accéder à ce fort !
+Dame Impa, nous comptons sur vous !",
+  "13.0.15.0" => "Nous n'avons pas encore réussi à empêcher
+les monstres d'apparaître.",
+  "13.0.16.0" => "Nous aurions dû nous occuper du fort des monstres.
+Ils ne cessent d'attaquer le missile teigneux...",
+  "13.0.17.0" => "Super ! On peut emmener le missile teigneux
+jusqu'au rocher !",
+  "13.0.18.0" => "Bravo, dame Impa !
+On peut continuer, maintenant !",
+  "13.0.19.0" => "Qu'est-ce qu'on va faire, maintenant ?
+Le missile teigneux a été détruit !",
+  "13.0.20.0" => "On ne peut plus rien faire sans missile teigneux...
+Et on ne peut pas retrouver la princesse !",
+  "13.0.21.0" => "Dame Impa ! Venez par ici, vite !",
+  "13.0.22.0" => "Les portes sud de ce fort semblent rejoindre la sortie.
+Elles s'ouvriront peut-être si on prend le fort...",
+  "13.0.23.0" => "Mais... ? La porte sud ne s'est pas ouverte !
+On a pris la place, pourtant ! C'est bizarre !",
+  "13.0.24.0" => "Les ennemis arrivent depuis les galeries ! Et au
+bout se trouve sûrement le maître des galeries...",
+  "13.0.25.0" => "Dame Impa ! Laissez Link s'occuper du fort !
+Il le protégera, ne vous inquiétez pas !",
+  "13.0.26.0" => "Il est louche, ce fantôme ! Dame Impa,
+c'est sûrement le maître des lieux !",
+  "13.0.27.0" => "Bravo, dame Impa ! On peut sortir, maintenant !",
+  "13.0.28.0" => "Ce garçon qui combattait derrière nous n'a pas
+réussi à s'en sortir... Et on va se faire encercler !",
+  "13.0.29.0" => "Oh, le chemin est encore bloqué par
+un rocher !",
+  "13.0.30.0" => "Tout juste ! S'il vous faut un missile
+teigneux, on en a trouvé un !",
+  "13.0.31.0" => "On ne peut pas déplacer le missile teigneux s'il
+reste des ennemis dans le fort. Reprenons-le !",
+  "13.0.32.0" => "Dame Impa, cherchez un missile teigneux !
+Link va protéger les Gorons !",
+  "13.0.33.0" => "Dame Impa, chassez l'ennemi du fort !
+On pourra alors déployer le missile teigneux !",
+  "13.0.34.0" => "Tout le monde est prêt ?
+Allez, c'est parti !",
+  "13.0.35.0" => "Sheik ! On va bientôt être dehors !
+Laisse tomber le combat et rejoins-nous !",
+  "13.0.36.0" => "Super ! Plus qu'un !",
+  "13.0.37.0" => "On va pouvoir sortir ! Merci, dame Impa !
+Merci, les grands Gorons !",
+  "13.0.38.0" => "On peut aller dans la forêt de Firone, et trouver
+la jeune femme dont on a entendu parler !",
+  "13.0.39.0" => "J'espère que c'est la princesse Zelda !",
+  "13.0.40.0" => "Link, reprends-toi ! Ce monde n'a aucun avenir
+sans son Héros !",
+  "13.0.41.0" => "On ne peut pas avancer si on ne détruit pas ce
+rocher... Reculons et réfléchissons à une stratégie.",
+  "13.0.42.0" => "Il y a des soldats, par là-bas ! Mais les portes
+sont fermées, on ne peut pas les rejoindre...",
+  "13.0.43.0" => "Dame Impa ! Il y a quelque chose
+de bizarre au fond des galeries !",
+  "13.0.44.0" => "Il n'y a rien qu'on puisse faire pour
+continuer... ?",
+  "13.0.45.0" => "Hé, mais il y a une fissure dans le mur !
+Si ça se trouve, on peut le faire exploser...",
+  "13.0.46.0" => "Link, dépêche-toi ! La sortie se trouve ici !",
+  "13.0.47.0" => "Tout va bien, dame Impa ?
+Nous vous attendons à la sortie !",
+  "13.0.48.0" => "Nous aurions peut-être dû prendre les
+forts des monstres avant.",
+  "13.0.49.0" => "Le nid des monstres
+est sûrement là-bas !",
+  "13.0.50.0" => "Oh non ! L'ennemi est arrivé jusqu'ici !",
+}

@@ -1,0 +1,44 @@
+Map {
+  "0.0.0" => "Le temps est écoulé. Vous avez perdu !",
+  "0.1.0" => "Le quiz comprend 3 problèmes ! Éliminez le bon A2ennemiR !",
+  "0.2.0" => "Premier problème !",
+  "0.3.0" => "Deuxième problème !",
+  "0.4.0" => "Troisième problème !",
+  "0.5.0" => "Vous avez éliminé le bon A2ennemiR !",
+  "0.6.0" => "Vous n'avez pas éliminé le bon A2ennemiR !",
+  "0.7.0" => "Vous avez résolu les 3 problèmes !",
+  "0.8.0" => "Vous avez 2 bonnes réponses sur 3 !",
+  "0.9.0" => "Vous avez 1 bonne réponse sur 3 !",
+  "0.10.0" => "Vous n'avez résolu aucun des 3 problèmes !",
+  "0.11.0" => "Avancez sur le A6fort de destinationR !",
+  "0.12.0" => "Avancez sur le A6fort suivantR !",
+  "0.13.0" => "Annonce des résultats !",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Éliminez l'A2adversaire
+qui bat des ailesR !",
+  "3.1.0" => "Éliminez l'A2adversaire qui
+gigote ventre à terreR !",
+  "3.2.0" => "Éliminez l'A2adversaire qui
+attaque avec sa queueR !",
+  "3.3.0" => "Éliminez l'A2adversaire dont
+le peuple vit dans l'eauR !",
+  "3.4.0" => "Éliminez l'adversaire qui
+appartient au A2clan sheikahR !",
+  "3.5.0" => "Éliminez l'A2adversaire dont
+le peuple vit dans les montagnesR !",
+  "3.6.0" => "Éliminez le A2monstre qui a attaqué
+le château d'Hyrule au débutR !",
+  "3.7.0" => "Éliminez l'A2adversaire qui a assailli
+le Vénérable Arbre MojoR !",
+  "3.8.0" => "Éliminez A2celle qui invoquait des monstres
+dans la vallée de la sorcièreR !",
+}

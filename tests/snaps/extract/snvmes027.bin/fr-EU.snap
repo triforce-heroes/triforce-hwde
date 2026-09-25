@@ -1,0 +1,221 @@
+Map {
+  "1.0.0.0" => "Le dragon de feu se terre au fond de cette grotte...
+Je vais le dompter et il se soumettra à mon autorité.",
+  "1.0.1.0" => "C'est étrange... Je ressens une énergie
+ténébreuse près d'ici... Qu'est-ce donc ?",
+  "1.0.2.0" => "Tu cherches la bague qu'on a scellée ?
+On te la donnera jamais de la vie !",
+  "1.0.3.0" => "Serait-ce de cette bague qu'émane l'énergie que j'ai
+sentie ? Si je l'imprègne de ma magie... Hu hu hu...",
+  "1.0.4.0" => "Ils ont dit qu'ils l'avaient scellée...
+Cherchons où elle pourrait se trouver.",
+  "1.0.5.0" => "Il n'y a pas de bague ici, dirait-on...",
+  "1.0.6.0" => "Ça s'est ouvert... Cet endroit par là-bas
+me semble très suspect.",
+  "1.0.7.0" => "Je ressens une puissante énergie ténébreuse...
+La bague est ici. Allez, montre-toi... !",
+  "1.0.8.0" => "C'est vous qui m'avez donné la vie ?
+Que désirez-vous ?",
+  "1.0.9.0" => "Hu hu hu... Tu devrais pouvoir m'être utile.
+Obéis-moi et commande mes monstres.",
+  "1.0.10.0" => "Commander des monstres ? Hya ha ha !
+Avec mes pouvoirs, ce sera un jeu d'enfant.",
+  "1.0.11.0" => "Je veux aussi assujettir le dragon de feu
+qui vit ici, mais je ne peux l'atteindre...",
+  "1.0.12.0" => "Hya hya hya... Ces portes vous bloquent ?
+Je peux vous les ouvrir sans problème.",
+  "1.0.13.0" => "Je ne lui fais pas du tout confiance...",
+  "1.0.14.0" => "Tu es bien Volga, le dragon de feu ?
+Rejoins-moi et tu pourras te déchaîner à ton gré.",
+  "1.0.15.0" => "Je refuse... Allez-vous-en.",
+  "1.0.16.0" => "Je vois... Dans ce cas, je vais devoir
+te forcer à m'obéir.",
+  "1.0.17.0" => "Laissez-moi tranquille... Je n'ai aucune raison
+de m'immiscer dans les guerres des humains.",
+  "1.0.18.0" => "Tu es un guerrier, non ? Le plaisir de
+combattre n'est-il pas une raison suffisante ?",
+  "1.0.19.0" => "Qu'est-ce qu'elle veut, celle-là ?
+Elle manque de respect à maître Volga !",
+  "1.0.20.0" => "Maître Volga, laissez-nous nous occuper d'elle !",
+  "1.0.21.0" => "Oui, vous n'avez pas besoin
+de vous salir les mains !",
+  "1.0.22.0" => "Très bien... Mais ne la sous-estimez pas.
+Cette femme n'est pas ordinaire...",
+  "1.0.23.0" => "En garde, sorcière !",
+  "1.0.24.0" => "Tous les monstres faiblards que tu manipules
+ne sont pas de taille face au clan des dragons !",
+  "1.0.25.0" => "Voilà des lézards bien bavards...
+Je vais vous montrer l'étendue de mon pouvoir.",
+  "1.0.26.0" => "Récupérez cette bague ! Si on ne la scelle pas
+à nouveau, ce sera une catastrophe !",
+  "1.0.27.0" => "Ces engins que contrôlent les Gorons semblent dangereux...
+Ne les laissons pas s'introduire dans notre base.",
+  "1.0.28.0" => "On dirait qu'il n'y a que ces deux-là qui
+savent parler dans le clan des dragons.",
+  "1.0.29.0" => "Huuum... Ramassons-la...
+Elle pourrait peut-être s'avérer utile.",
+  "1.0.30.0" => "Envoyez le missile teigneux !",
+  "1.0.31.0" => "Faites très attention aux missiles teigneux. Il semble
+qu'ils explosent tout seuls au bout d'un certain temps.",
+  "1.0.32.0" => "On a réussi ! On a repris un fort !",
+  "1.0.33.0" => "Ils sont pas si nuls que ça, ces Gorons.
+Bien fait pour toi, sale sorcière !",
+  "1.0.34.0" => "Ouais ! Encore un petit effort !",
+  "1.0.35.0" => "Hum... La perte des deux forts a
+un peu démoralisé les monstres.",
+  "1.0.36.0" => "Maintenant, on va pouvoir chasser
+la sorcière et sa clique !",
+  "1.0.37.0" => "Ils ont détruit le missile teigneux !",
+  "1.0.38.0" => "Ah, zut ! Utilisons notre dernier missile teigneux !
+Allez, en avant... Hein ?",
+  "1.0.39.0" => "Il ne bouge pas ! Est-ce qu'il est cassé... ?
+On n'a pas trop le choix, laissons-le ici...",
+  "1.0.40.0" => "Ces lézards deviennent redoutables... !
+Voilà ce qui arrive quand on traînasse...",
+  "1.0.41.0" => "Nous avons trouvé le mage
+au service de la sorcière !",
+  "1.0.42.0" => "Nous ne vous laisserons pas toucher
+à un cheveu de maître Volga !",
+  "1.0.43.0" => "Les membres du clan du dragon doués de parole...
+Je n'ai pas le choix, je vais vous affronter.",
+  "1.0.44.0" => "Hiii ! Ils sont plus forts que je ne le pensais...
+Maîtresse Cya, venez à mon aide !",
+  "1.0.45.0" => "Tu es pathétique... Avec tes pouvoirs magiques,
+tu devrais pouvoir leur tenir tête, non ?",
+  "1.0.46.0" => "Hyaaaa ! Je n'en peux plus ! C'est la fin !",
+  "1.0.47.0" => "Cesse de geindre...
+Je vais t'aider, essaie de résister encore un peu.",
+  "1.0.48.0" => "Maître Volga... Nous ne sommes pas de taille...",
+  "1.0.49.0" => "Vous avez défait mes semblables... Mais ça ne suffit pas
+à me convaincre de combattre les humains.",
+  "1.0.50.0" => "Si tu t'obstines à refuser, j'emploierai la force
+pour t'obliger à t'agenouiller devant moi !",
+  "1.0.51.0" => "Nous ne pouvons pas nous avouer vaincus,
+ce serait salir le nom du clan des dragons... !",
+  "1.0.52.0" => "Dans ce cas, nous allons devoir utiliser notre
+dernier atout... Montrez-vous, rois dodongo !!!",
+  "1.0.53.0" => "Profitons-en ! Je ne servirai pas cette sorcière ! Je vais
+dompter ces dragons et soumettre les humains moi-même !",
+  "1.0.54.0" => "Tu oses me trahir, bague de pacotille...
+Très bien, je vais vous donner une leçon à tous... !",
+  "1.0.55.0" => "Hya ha ha ha ! Si on fait tomber cet endroit,
+cette stupide sorcière ne pourra plus combattre !",
+  "1.0.56.0" => "Volga, le dragon de feu... Si je te vaincs,
+tu deviendras mon serviteur, entendu ?",
+  "1.0.57.0" => "Très bien... Je vais t'affronter.",
+  "1.0.58.0" => "Je n'ai aucune intention de me mêler des affaires des
+humains... Mais je vais récupérer les forts de mes semblables.",
+  "1.0.59.0" => "Hiiiiiii ! Je ne vous trahirai plus jamais !
+Pardonnez-moooooi !",
+  "1.0.60.0" => "Si tu ne te montres pas utile, je te rechangerai
+immédiatement en bague, tu es prévenu... Hu hu hu.",
+  "1.0.61.0" => "Impossible... J'ai été vaincu...",
+  "1.0.62.0" => "Tu m'appartiens, à présent.
+Tu vas m'obéir bien sagement.",
+  "1.0.63.0" => "Je veux être sûre que vous ne vous retourniez plus
+contre moi... Je vais utiliser ce sort... Haaaa !",
+  "1.0.64.0" => "Ah... Maîtresse Cya... Je vous jure fidélité...",
+  "1.0.65.0" => "Tout ce que je veux... c'est combattre
+de puissants adversaires... !",
+  "1.0.66.0" => "Je m'en contenterai. Nous allons maintenant
+pouvoir attaquer le château d'Hyrule.",
+  "1.0.67.0" => "Je dois battre en retraite...
+Aurais-je sous-estimé mes ennemis... ?",
+  "1.0.68.0" => "Gyaaa ! Pourquoi est-ce qu'il faut
+que ça m'arrive à moi ?!",
+  "1.0.69.0" => "Aaaah... Cette bague m'aurait été d'une
+grande utilité dans mon armée...",
+  "1.0.70.0" => "Nous manquons un peu de soldats, semble-t-il...
+Je vais appeler quelques monstres... Haaa !",
+  "1.0.71.0" => "Tu peux faire ça aussi... Ce n'est pas mal.",
+  "1.0.73.0" => "Je vous en prie, détruisez ce missile teigneux !
+Si on ne fait rien, notre base va tomber !",
+  "1.0.74.0" => "Il faut reprendre le fort pour y
+sceller la bague à nouveau !",
+  "13.0.2.0" => "Je crois que des soldats d'Hyrule sont partis
+en éclaireurs. Rejoignons-les, dame Impa !",
+  "13.0.3.0" => "Les soldats d'Hyrule ont l'air d'être dans
+le pétrin ! Link, dame Impa, dépêchons-nous !",
+  "13.0.4.0" => "Merci ! Tu nous as sauvés, mon garçon !",
+  "13.0.5.0" => "On est là ! Dame Impa ne devrait plus tarder !
+Tout va bien se passer, maintenant.",
+  "13.0.6.0" => "Les monstres doivent être envoyés depuis un fort.
+Dame Impa, ne devrions-nous pas aller le prendre ?",
+  "13.0.7.0" => "Dame Impa ! Il s'agit certainement du repaire
+de ces monstres !",
+  "13.0.8.0" => "Bien joué ! Mais on dirait que les monstres
+viennent d'un autre fort.",
+  "13.0.9.0" => "Dame Impa, je vous en conjure !
+Venez nous aider !",
+  "13.0.10.0" => "Oh, non, le capitaine... Désolée...",
+  "13.0.11.0" => "Merci ! Allez missile teigneux, à toi de jouer !",
+  "13.0.12.0" => "Dame Impa ! Nous devons protéger le missile
+teigneux !",
+  "13.0.13.0" => "Link ! Pense au missile teigneux ! Nettoyons
+la zone devant le gros rocher !",
+  "13.0.14.0" => "C'est pas vrai ! Link ne peut pas accéder à ce fort !
+Dame Impa, nous comptons sur vous !",
+  "13.0.15.0" => "Nous n'avons pas encore réussi à empêcher
+les monstres d'apparaître.",
+  "13.0.16.0" => "Nous aurions dû nous occuper du fort des monstres.
+Ils ne cessent d'attaquer le missile teigneux...",
+  "13.0.17.0" => "Super ! On peut emmener le missile teigneux
+jusqu'au rocher !",
+  "13.0.18.0" => "Bravo, dame Impa !
+On peut continuer, maintenant !",
+  "13.0.19.0" => "Qu'est-ce qu'on va faire, maintenant ?
+Le missile teigneux a été détruit !",
+  "13.0.20.0" => "On ne peut plus rien faire sans missile teigneux...
+Et on ne peut pas retrouver la princesse !",
+  "13.0.21.0" => "Dame Impa ! Venez par ici, vite !",
+  "13.0.22.0" => "Les portes sud de ce fort semblent rejoindre la sortie.
+Elles s'ouvriront peut-être si on prend le fort...",
+  "13.0.23.0" => "Mais... ? La porte sud ne s'est pas ouverte !
+On a pris la place, pourtant ! C'est bizarre !",
+  "13.0.24.0" => "Les ennemis arrivent depuis les galeries ! Et au
+bout se trouve sûrement le maître des galeries...",
+  "13.0.25.0" => "Dame Impa ! Laissez Link s'occuper du fort !
+Il le protégera, ne vous inquiétez pas !",
+  "13.0.26.0" => "Il est louche, ce fantôme ! Dame Impa,
+c'est sûrement le maître des lieux !",
+  "13.0.27.0" => "Bravo, dame Impa ! On peut sortir, maintenant !",
+  "13.0.28.0" => "Ce garçon qui combattait derrière nous n'a pas
+réussi à s'en sortir... Et on va se faire encercler !",
+  "13.0.29.0" => "Oh, le chemin est encore bloqué par
+un rocher !",
+  "13.0.30.0" => "Tout juste !
+S'il vous faut un missile teigneux, on en a un ici !",
+  "13.0.31.0" => "On ne peut pas déplacer le missile teigneux s'il
+reste des ennemis dans le fort. Reprenons-le !",
+  "13.0.32.0" => "Dame Impa, cherchez un missile teigneux !
+Link va protéger les Gorons !",
+  "13.0.33.0" => "Dame Impa, chassez l'ennemi du fort !
+On pourra alors déployer le missile teigneux !",
+  "13.0.34.0" => "Tout le monde est prêt ?
+Allez, c'est parti !",
+  "13.0.35.0" => "Sheik ! On va bientôt être dehors !
+Laisse tomber le combat et rejoins-nous !",
+  "13.0.36.0" => "Super ! Plus qu'un !",
+  "13.0.37.0" => "On va pouvoir sortir ! Merci dame Impa !
+Merci, les grands Gorons !",
+  "13.0.38.0" => "On peut aller dans la forêt de Firone, et trouver
+la jeune femme dont on a entendu parler !",
+  "13.0.39.0" => "J'espère que c'est la princesse Zelda !",
+  "13.0.40.0" => "Link, reprends-toi ! Ce monde n'a aucun avenir
+sans son Héros !",
+  "13.0.41.0" => "On ne peut pas avancer si on ne détruit pas ce
+rocher... Reculons et réfléchissons à une stratégie.",
+  "13.0.42.0" => "Il y a des soldats, par là-bas ! Mais la porte est
+fermée, on ne peut pas les rejoindre...",
+  "13.0.43.0" => "Dame Impa ! Il y a quelque chose
+de bizarre au fond des galeries !",
+  "13.0.44.0" => "Il n'y a rien qu'on puisse faire pour
+continuer... ?",
+  "13.0.45.0" => "Hé, mais il y a une fissure dans ce mur !
+Si ça se trouve, on peut le faire exploser...",
+  "13.0.46.0" => "Link, dépêche-toi ! La sortie se trouve ici !",
+  "13.0.47.0" => "Tout va bien, dame Impa ?
+Nous vous attendons à la sortie !",
+  "13.0.48.0" => "Nous aurions peut-être dû prendre les
+forts des monstres avant.",
+}

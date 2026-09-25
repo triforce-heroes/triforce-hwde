@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF0R bereitet sich zum Angriff auf A0%2sF6R vor!",
+  "0.3.0" => "A0%1sF0R muss schnell besiegt werden!",
+  "0.4.0" => "A0%1sF0R bereitet sich zum Angriff auf A0%2sF6R vor!",
+  "0.5.0" => "A0%1sF0R zieht sich für den Sturm auf A0%2sF6R zurück!",
+  "0.6.0" => "A0%1sF0R stürmt A0%2sF6R!",
+  "0.7.0" => "A0%1sF0R darf nicht fallen!",
+  "0.8.0" => "Der Angriff A0%1sF2R wurde zurückgeschlagen!",
+  "0.9.0" => "A0%1sF0R rückt Richtung A0%2sF4R vor!",
+}

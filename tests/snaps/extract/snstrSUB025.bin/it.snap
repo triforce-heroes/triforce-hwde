@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R si dirige verso l'A0%2sF7R!",
+  "0.3.0" => "A0%1sF0R pensava che A0%2sF2R avesse lanciato l'attacco!",
+  "0.4.0" => "Sconfiggi A0%1sF2R velocemente e salva A0%2sF2R!",
+  "0.5.0" => "A0%1sF0R comincia a combattere contro A0%2sF2R!",
+  "0.6.0" => "Hai sconfitto A0%1sF2R!",
+  "0.7.0" => "L'attacco di A0%2sF6R fa ritirare temporaneamente A0%1sF2R!",
+  "0.8.0" => "A0%1sF0R ha tradito l'A0%2sF3R e riappare!",
+  "0.9.0" => "A0%1sF0R si arrabbia e si dirige verso A0%2sF6R!",
+  "0.10.0" => "Attenzione, A0%1sF2R non deve ritirarsi!",
+}

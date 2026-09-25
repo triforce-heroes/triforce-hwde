@@ -1,0 +1,17 @@
+Map {
+  "0.1.0" => "A0%1sF4R rejoint le champ de bataille !",
+  "0.2.0" => "A0%1sF4R ne doit pas s'approcher !",
+  "0.3.0" => "A0%1sF6R vous a volé un objet !",
+  "0.4.0" => "Éliminez A0%1sF0R et récupérez ce qu'il vous a volé !",
+  "0.5.0" => "A0%1sF4R avance vers A0%2sF0R !",
+  "0.6.0" => "A0%1sF4R vous a volé vos A6bombesR !",
+  "0.7.0" => "A0%1sF4R vous a volé votre A6boomerangR !",
+  "0.8.0" => "A0%1sF4R vous a volé votre A6grappinR !",
+  "0.9.0" => "A0%1sF4R vous a volé votre A6arcR !",
+  "0.10.0" => "A0%1sF4R quitte temporairement le champ de bataille !",
+  "0.11.0" => "A0%1sF4R revient sur le champ de bataille depuis A0%2sF0R !",
+  "0.12.0" => "Vous avez vaincu A0%1sF0R !",
+  "0.13.0" => "Vous avez récupéré ce qu'on vous avait volé !",
+  "0.14.0" => "A0%1sF4R vous a volé votre A6marteauR !",
+  "0.15.0" => "A0%1sF4R vous a volé votre A6ocarinaR !",
+}

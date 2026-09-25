@@ -1,0 +1,150 @@
+Map {
+  "1.0.0.0" => "C'est... le monde des ombres dont il est question
+dans la mythologie... Elles ont tout envahi...",
+  "1.0.1.0" => "Nous sommes entourés d'étranges murs...
+Impossible de localiser la porte des âmes...",
+  "1.0.2.0" => "Il est difficile de discerner les mouvements
+des monstres. Restez sur vos gardes !",
+  "1.0.4.0" => "Hyaaa ! Au secours !",
+  "1.0.5.0" => "J'ai entendu une femme crier !
+Allons voir !",
+  "1.0.6.0" => "Noooon ! À l'aide !",
+  "1.0.7.0" => "Nous arrivons, tenez bon !",
+  "1.0.8.0" => "Les monstres semblent grouiller dans
+les ténèbres ! Soyez prudents !",
+  "1.0.9.0" => "Aaah... Je ne vais plus tenir très longtemps !",
+  "1.0.10.0" => "Vite, au village, avant qu'il ne soit trop tard !",
+  "1.0.11.0" => "Nous avons besoin de cette fille pour progresser
+dans le domaine des ombres. Protégez-la !",
+  "1.0.13.0" => "Le papillon nous dit que c'est par ici !
+Allons-y !",
+  "1.0.14.0" => "Les portes sont closes...
+Mais laissez-moi faire.",
+  "1.0.15.0" => "Hi hi... Je n'en ai peut-être pas l'air, mais
+je suis très douée en matière d'effraction.",
+  "1.0.17.0" => "Le papillon a peur... Vous devriez
+chasser les ténèbres de ce fort.",
+  "1.0.19.0" => "Si nous parvenons à vaincre ce gros ennemi,
+le papillon pourra continuer à avancer !",
+  "1.0.20.0" => "Ooh... Le papillon a l'air heureux !
+Il va continuer à nous guider.",
+  "1.0.21.0" => "Les monstres avancent dans l'ombre. Je crains
+que certains n'essayent d'aller vers notre base...",
+  "1.0.22.0" => "C'est moi qui vaincrai cette sorcière noire !
+Hé, les sbires ! Retenez-les !",
+  "1.0.23.0" => "Ooh... La petite chatte a volé
+mon précieux papillon...",
+  "1.0.24.0" => "Nous allons récupérer ce papillon. Ça devient
+dangereux. Machaon, rentre au village.",
+  "1.0.25.0" => "Très bien... Je compte sur vous
+pour retrouver mon joli papillon !",
+  "1.0.26.0" => "Pourquoi cet animal répugnant grogne-t-il... ?
+Est-ce qu'il veut jouer ?",
+  "1.0.27.0" => "Amuse-toi donc avec cette gentille bête...
+et aussi avec Lana, tant que tu y es.",
+  "1.0.28.0" => "Les ennemis arrivent par vagues ! Prenez les
+forts ennemis pour enrayer l'arrivée de renforts !",
+  "1.0.29.0" => "La base alliée est attaquée !
+Faites attention !",
+  "1.0.31.0" => "Bienvenue dans le monde des ténèbres. Je n'ai
+malheureusement pas le temps de jouer avec toi.",
+  "1.0.32.0" => "Je t'ai trouvée... Allez, lève le sort
+que tu m'as jeté !",
+  "1.0.33.0" => "À cause de vous, elle s'est enfuie !
+Vous êtes de son côté, c'est ça ?",
+  "1.0.34.0" => "Attends ! Nous ne sommes pas des ennemis !
+Nous voulons juste récupérer le papillon !",
+  "1.0.35.0" => "La ferme !
+Je suis de très mauvaise humeur !",
+  "1.0.36.0" => "Comme tu voudras... Si tu perds,
+tu devras nous rendre ce papillon.",
+  "1.0.37.0" => "Elle est dangereuse... ! Si elle combat sérieusement,
+je ne suis pas sûre de pouvoir la battre...",
+  "1.0.38.0" => "Je suis plus forte dans le Crépuscule... Pas étonnant,
+je fais partie du peuple des ombres, après tout...",
+  "1.0.39.0" => "Tu as créé le Crépuscule, n'est-ce pas ? Comptes-tu
+laisser ce monde en proie aux monstres des ténèbres ?",
+  "1.0.40.0" => "Pourquoi ferais-je ça ? Je n'en ai peut-être pas
+l'air, mais je suis la princesse du Crépuscule !",
+  "1.0.41.0" => "Si nous parvenons à prendre les forts plongés
+dans le Crépuscule, elle sera peut-être affaiblie.",
+  "1.0.42.0" => "Je n'y tiens plus...
+Je vais chercher mon papillon !",
+  "1.0.44.0" => "Je t'avais dit de rester au village...
+Enfin, je ne peux pas t'abandonner...",
+  "1.0.45.0" => "Je me sens plus faible... Est-ce parce que
+les forces du Crépuscule ont été réduites... ?",
+  "1.0.46.0" => "Je le savais... Continuons de réduire
+le Crépuscule pour l'affaiblir davantage !",
+  "1.0.47.0" => "Vous avez réduit les zones envahies
+par le Crépuscule ? Pas mal.",
+  "1.0.48.0" => "Je me retire...
+Essayez de gagner du temps.",
+  "1.0.49.0" => "Rattrapez cette petite chatte !
+Je dois récupérer mon papillon !",
+  "1.0.50.0" => "Ils ne veulent pas me laisser partir...
+Très bien, alors venez vous battre !",
+  "1.0.51.0" => "J'ai perdu... Faites ce que
+vous voulez de moi.",
+  "1.0.52.0" => "Ouille... J'ai perdu malgré
+la puissance du Crépuscule...",
+  "1.0.53.0" => "Euh... Je vous en prie.
+Rendez-moi mon papillon.",
+  "1.0.54.0" => "Tenez... Mais dites-moi, vous n'êtes pas
+des amis de cette sorcière, si ?",
+  "1.0.55.0" => "Nous sommes venus pour l'arrêter... Et pour cela,
+nous devons nous rendre à la porte des âmes.",
+  "1.0.56.0" => "... Attendez, je viens avec vous.
+J'ai des comptes à régler avec cette sorcière.",
+  "1.0.58.0" => "Notre base est tombée ?
+Alors, nous ne pouvons plus combattre...",
+  "1.0.59.0" => "Je... Je ne peux plus bouger...",
+  "1.0.60.0" => "Je n'ai rien pu faire... Désolée.",
+  "1.0.61.0" => "Je... J'ai été vaincue...",
+  "1.0.62.0" => "Je n'ai rien pu faire... Désolée.",
+  "1.0.63.0" => "Hé ! Hors de mon chemin ! J'ai un compte
+à régler avec la sorcière noire !",
+  "1.0.64.0" => "Cette apparence te sied parfaitement.
+Bien, je dois te laisser, ma jolie.",
+  "1.0.65.0" => "Je... Je ne peux plus bouger...",
+  "1.0.66.0" => "Je n'en peux plus... ! Aidez-moi !",
+  "1.0.67.0" => "Oh, tu m'as suivie jusqu'ici... Très
+bien, je vais m'amuser un peu avec toi.",
+  "1.0.68.0" => "Le fort central semble ouvert mais j'y ressens
+une étrange présence... Restez sur vos gardes !",
+  "1.0.69.0" => "Difficile de combattre plongés dans ces ténèbres.
+Il faut trouver un moyen de les dissiper...",
+  "1.0.70.0" => "Ce monstre est différent des autres... Peut-être que
+si on le vainc, les ténèbres du fort se dissiperont.",
+  "1.0.71.0" => "Quand on prend un fort prisonnier du Crépuscule,
+les ténèbres se dissipent, on dirait...",
+  "1.0.72.0" => "Dans ce cas, prenons ces forts
+les uns après les autres.",
+  "1.0.73.0" => "Hmpf, je ne vous rendrai pas ce papillon...
+Vous autres, retenez cette fille !",
+  "1.0.74.0" => "On s'occupe de récupérer le papillon.
+Attends-nous au village, Machaon, d'accord ?",
+  "1.0.75.0" => "Oui... C'est entendu.",
+  "1.0.76.0" => "Je n'ai pas encore assez de forces...
+Augmentez les zones de Crépuscule !",
+  "1.0.77.0" => "Plus le Crépuscule gagne du terrain,
+plus elle devient forte !",
+  "1.0.78.0" => "Dans ce cas, il nous faut vaincre les
+ennemis qui attaquent les forts... !",
+  "1.0.79.0" => "Voilà qui fait un souci de moins !",
+  "1.0.80.0" => "Fiou... Est-ce que ça va calmer
+les attaques ennemies ?",
+  "13.0.0.0" => "Nous nous occupons de cette zone.
+Retournez au village.",
+  "13.0.1.0" => "Ooh... Mon papillon... Mon si beau papillon...",
+  "13.0.2.0" => "Bien. Nous n'avons pas le choix... Nous le
+récupérerons... par la force, s'il le faut !",
+  "13.0.3.0" => "Cette chatte est très forte ! Restez vigilants !",
+  "13.0.4.0" => "Les forts aussi sont plongés dans les ténèbres...
+Est-ce qu'il s'agit du Crépuscule ?",
+  "13.0.5.0" => "Ce monstre a l'air différent des autres... Si on le
+bat, ça chassera peut-être les ténèbres des forts !",
+  "13.0.6.0" => "Où se trouve la porte des âmes... ?",
+  "13.0.7.0" => "J'ai entendu une femme crier !
+Allons voir !",
+}

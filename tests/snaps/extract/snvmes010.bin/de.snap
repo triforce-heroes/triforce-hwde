@@ -1,0 +1,246 @@
+Map {
+  "1.0.0.0" => "Nichts als Ruinen... Und hier soll das
+Master-Schwert sein?",
+  "1.0.1.0" => "Das Master-Schwert ist hier.
+Machen wir uns auf die Suche!",
+  "1.0.2.0" => "Es heißt, dass drei Siegelstatuen erweckt
+werden müssen, um es zu finden...",
+  "1.0.3.0" => "Wir müssen zuerst die Siegelstatuen finden.",
+  "1.0.4.0" => "Wir werden die Fähigkeiten von euch dreien
+benötigen, um die Siegelstatuen zu erwecken.",
+  "1.0.5.0" => "Unsere Fähigkeiten?",
+  "1.0.6.0" => "Meine auch?",
+  "1.0.7.0" => "Mir auch recht. Ich werde alles versuchen.",
+  "1.0.8.0" => "Die Siegelstatuen... Hm...
+Wo können sie nur sein?",
+  "1.0.9.0" => "Ich werde dort drüben nachsehen.",
+  "1.0.10.0" => "Gut, ich suche dort.",
+  "1.0.11.0" => "Ich werde mich dort auf die Suche machen...",
+  "1.0.12.0" => "Könnte das dort eine Siegelstatue sein?",
+  "1.0.13.0" => "Das sieht mir wie eine Siegelstatue aus...",
+  "1.0.14.0" => "Ich habe eine Siegelstatue gefunden!",
+  "1.0.15.0" => "So sieht also eine Siegelstatue aus...",
+  "1.0.16.0" => "Mir scheint, wir haben eine Siegelstatue
+gefunden.",
+  "1.0.17.0" => "Impa, dies ist die Statue der Treue.
+Bitte erwecke sie.",
+  "1.0.18.0" => "Wie Ihr wünscht, Prinzessin.",
+  "1.0.19.0" => "Ich werde wohl hierbleiben müssen, bis die
+Statue vollständig erwacht ist.",
+  "1.0.20.0" => "Darunia, das ist die Statue von Wasser und
+Feuer. Dein Feuer sollte sie erwecken!",
+  "1.0.21.0" => "Hmm... Ich versuch's mal.",
+  "1.0.22.0" => "Das scheint ein Weilchen zu dauern...
+Ich bleibe dann mal so lange hier.",
+  "1.0.23.0" => "Midna, das ist die Statue des Schattens. Deine
+Kräfte sollten sie erwecken können.",
+  "1.0.24.0" => "Ich verstehe.",
+  "1.0.25.0" => "Es scheint zu klappen. Ich behalte das
+Ganze noch ein bisschen im Auge.",
+  "1.0.26.0" => "Wir werden nicht zulassen, dass der Tempel
+entweiht wird!",
+  "1.0.27.0" => "Sind das Geister? Seid auf der Hut!",
+  "1.0.28.0" => "Das sind keine Monster, aber sie
+greifen uns an! Vorsicht!",
+  "1.0.29.0" => "Wir müssen die Siegelstatuen finden!",
+  "1.0.30.0" => "Die Statue ist noch nicht erwacht,
+sie dürfen mich nicht besiegen!",
+  "1.0.31.0" => "Ich muss die Statue erwecken!
+Jemand muss mir den Rücken freihalten!",
+  "1.0.32.0" => "Müssen die gerade jetzt hier hereinplatzen?
+Die Statue ist noch nicht erwacht!",
+  "1.0.33.0" => "Noch zwei übrig... Beschütze unsere
+Gefährten, bis alle Statuen erwacht sind.",
+  "1.0.34.0" => "Uns fehlt nur noch die letzte Statue.
+Beschütze unsere Gefährten!",
+  "1.0.35.0" => "Damit sollten sich die Tore zum Tempel öffnen...",
+  "1.0.36.0" => "Die Statuen sind noch nicht vollständig erwacht.
+Es wird noch dauern, bis der Tempel sich öffnet.",
+  "1.0.37.0" => "Der Tempel ist auch voller Geister!",
+  "1.0.38.0" => "Irgendetwas stimmt hier nicht... Vielleicht
+werden sie von jemandem gelenkt?",
+  "1.0.39.0" => "Werden sie von jemandem aus dem Hintergrund
+manipuliert? Aber wenn ja, von wem?",
+  "1.0.40.0" => "Tihihihi! Schnappt sie euch! Schnappt sie euch!",
+  "1.0.41.0" => "Lana hat eine Doppelgängerin!",
+  "1.0.42.0" => "Eine Doppelgängerin? Von mir?",
+  "1.0.43.0" => "Ich fühle die Aura des Bösen in der Nähe...",
+  "1.0.44.0" => "Ich spüre es auch... Vielleicht hat sich ein Feind
+unter unsere Truppen gemischt?",
+  "1.0.45.0" => "Das reicht noch nicht! Greift weiter an!",
+  "1.0.46.0" => "Moment mal... Lana, du wirkst irgendwie
+merkwürdig...",
+  "1.0.47.0" => "Wie lästig! Aber jetzt bist du fällig!",
+  "1.0.48.0" => "Ha! Dieses Mal will ich dir den Sieg
+zugestehen...",
+  "1.0.49.0" => "Was... Was tun wir hier?",
+  "1.0.50.0" => "Der Gebieter über das heilige Schwert ist hier!
+Wir werden Euch dienen!",
+  "1.0.51.0" => "Ich spüre die Macht, die sich in der Statue
+sammelt. Nicht mehr lang, und sie erwacht!",
+  "1.0.52.0" => "Vergebt mir, Zelda... Meine Kraft ist in der
+Statue. Ich fühle mich ganz schwach...",
+  "1.0.53.0" => "Ich habe fast all meine Kraft für die Statue
+verbraucht. Ich muss mich ausruhen...",
+  "1.0.54.0" => "Das hat sehr viel Kraft gekostet. Alles weitere
+müsst ihr allein schaffen.",
+  "1.0.55.0" => "Wir kümmern uns um den Rest.
+Auf zum Sockel des heiligen Schwertes!",
+  "1.0.56.0" => "Los, Link! Das Master-Schwert erwartet uns!",
+  "1.0.57.0" => "Hey, Link! Schnell zum Sockel
+des heiligen Schwertes!",
+  "1.0.58.0" => "Fordere dein Glück nicht heraus!
+Gib mir das Master-Schwert!",
+  "1.0.59.0" => "Ich werde das Master-Schwert nicht dem
+Bösen überlassen!",
+  "1.0.60.0" => "All diese Heiligkeit hier schwächt meine Macht.
+Zeit für einen Ortswechsel!",
+  "1.0.61.0" => "Versuchst du etwa, heimlich zu verschwinden?",
+  "1.0.62.0" => "Nichts läge mir ferner! Ich rufe lediglich
+Verstärkung herbei!",
+  "1.0.63.0" => "Die Macht des Master-Schwerts ist unglaublich!",
+  "1.0.64.0" => "Es sind zu viele! Wir ziehen uns in
+den Tempel zurück!",
+  "1.0.65.0" => "Das ist nicht fair...",
+  "1.0.66.0" => "Wenn ihr Cia wollt, findet ihr sie am Tempel
+der Seelen... Aber das wäre euer Ende...",
+  "1.0.67.0" => "Solange wir das Master-Schwert haben,
+sind wir unbesiegbar!",
+  "1.0.68.0" => "Dann steht unser nächstes Ziel fest!
+Mit diesem Schwert können wir Cia besiegen!",
+  "1.0.69.0" => "Wir hätten es fast geschafft...",
+  "1.0.70.0" => "Wir hätten uns besser verteidigen müssen...",
+  "1.0.71.0" => "Ich war nicht vorsichtig genug...",
+  "1.0.72.0" => "Sie haben mich tatsächlich besiegt...",
+  "1.0.73.0" => "Ich kann nicht weiterkämpfen...",
+  "1.0.74.0" => "So können wir den Tempel nicht öffnen...
+Wir müssen von vorn beginnen.",
+  "1.0.75.0" => "Solange das Tor nicht offen ist, kommen wir
+nicht hinein...",
+  "1.0.76.0" => "Endlich hat sich der Tempel geöffnet...
+Der Gebieter des heiligen Schwertes ist hier...",
+  "1.0.77.0" => "Bitte vergebt unsere Ungastlichkeit, Gebieter...",
+  "1.0.78.0" => "Jetzt ist der wahre Feind dran! Wir
+kämpfen uns zum heiligen Schwert durch!",
+  "1.0.79.0" => "Der Legende nach finden sich die Statuen am
+Rand der Stadt im Norden, Süden und Westen...",
+  "1.0.80.0" => "Ich habe keine Zeit, mich mit euch
+herumzuschlagen!",
+  "1.0.81.0" => "Ich komme hier nicht voran!
+Etwas Hilfe wäre nicht schlecht!",
+  "1.0.82.0" => "Diese Hartnäckigkeit, mit der man mich immer
+wieder unterbricht... Kann mir jemand helfen?",
+  "1.0.83.0" => "Es kann weitergehen.",
+  "1.0.84.0" => "So, dann kann ich ja weitermachen!",
+  "1.0.85.0" => "Endlich kann ich einigermaßen in Ruhe
+weitermachen...",
+  "1.0.86.0" => "Es gibt kein Entkommen!",
+  "1.0.87.0" => "Das ist nicht Lana! Greif sie an, Link!",
+  "1.0.88.0" => "Du kannst vielleicht dein Äußeres ändern...
+Deine schwarze Seele erkenne ich dennoch!",
+  "1.0.89.0" => "Wir müssen nur den Hexer besiegen,
+dann haben wir gewonnen! Haltet durch!",
+  "13.0.0.0" => "Brauchst du unsere Hilfe?",
+  "13.0.1.0" => "Ich werde dort drüben suchen.",
+  "13.0.2.0" => "Mit einer Wahrscheinlichkeit von 75 % gibt es
+in diesem Gebiet eine Siegelstatue.",
+  "13.0.3.0" => "Ich werde dort drüben suchen.",
+  "13.0.4.0" => "Ich werde auch nach diesen Siegelstatuen suchen!",
+  "13.0.5.0" => "Hier sind mehr Feinde, als mir lieb ist!
+Könnte mir vielleicht jemand zu Hilfe kommen?",
+  "13.0.6.0" => "Na, geht doch! Jetzt kann ich endlich loslegen.",
+  "13.0.7.0" => "Überall Feinde! Ich komme nicht voran!
+Es wäre wundervoll, wenn mir jemand hilft...",
+  "13.0.8.0" => "Jippieh! Jetzt kann es weitergehen!",
+  "13.0.9.0" => "Könnte das vielleicht eine Siegelstatue sein?",
+  "13.0.10.0" => "Ich kann die Position der Siegelstatue bestätigen.",
+  "13.0.11.0" => "Könnte das vielleicht eine Siegelstatue sein?",
+  "13.0.12.0" => "Oooh! Das ist eine Siegelstatue, oder?",
+  "13.0.13.0" => "Wir haben eine Siegelstatue entdeckt!",
+  "13.0.14.0" => "Das ist eine Statue der Treue, Phai. Stelle dich
+in ihre Nähe, um sie zu erwecken.",
+  "13.0.15.0" => "Bestätige, Prinzessin Zelda!",
+  "13.0.16.0" => "Ich bleibe hier, bis die Statue der Treue erweckt
+worden ist.",
+  "13.0.17.0" => "Das ist eine Statue von Wasser und Feuer, Ruto.
+Erwecke sie mit deiner Macht über das Wasser!",
+  "13.0.18.0" => "Also gut. Einen Versuch ist es wert...",
+  "13.0.19.0" => "Ein Zauber ist hier gefragt... und er muss eine
+Zeit lang wirken.",
+  "13.0.20.0" => "Agnetha, das ist eine Statue des Schattens!
+Mit deiner Macht kannst du sie erwecken.",
+  "13.0.21.0" => "Das müsste doch eigentlich möglich sein...",
+  "13.0.22.0" => "War das gut so? Ich sollte dann hier bei dieser
+Statue bleiben...",
+  "13.0.23.0" => "Jetzt auch noch Geister? Seid vorsichtig!",
+  "13.0.24.0" => "Haben wir die Siegelstatuen immer noch nicht?",
+  "13.0.25.0" => "Der Legende nach finden wir eine Statue im
+Norden, eine im Süden und eine im Westen...",
+  "13.0.26.0" => "Vorsicht! Die Erweckung der Siegelstatue ist nicht
+möglich, wenn ich diese Position aufgeben muss.",
+  "13.0.27.0" => "Wenn ich verliere, können wir die Siegelstatue
+nicht erwecken... Verstanden?",
+  "13.0.28.0" => "Oh nein! Da kommen diese Fieslinge... Und diese
+Statue schlummert immer noch vor sich hin...",
+  "13.0.29.0" => "Es wäre jetzt eine gute Idee, deine Freunde zu
+schützen, bis die Statuen erweckt sind.",
+  "13.0.30.0" => "Es dauert nicht mehr lange... Beschütze deine
+Freunde!",
+  "13.0.31.0" => "Wunderbar. Jetzt können wir rein in den Tempel.",
+  "13.0.32.0" => "Die Erweckung der Statuen erfordert einige Zeit.
+Erst dann haben wir Zutritt zum Tempel.",
+  "13.0.33.0" => "Irgendetwas stimmt nicht mit diesen Wächtern.
+Ob sie wohl von jemandem kontrolliert werden?",
+  "13.0.34.0" => "Die Doppelgängerin von Lana ist auf dem
+Schlachtfeld erschienen. Ich rate zur Vorsicht!",
+  "13.0.35.0" => "Ich spüre eine mächtige Aura des Bösen...",
+  "13.0.36.0" => "Diese Siegelstatue erwacht langsam! Bald sollte es
+so weit sein!",
+  "13.0.37.0" => "Die Aktivierung der Statue hat mich Kraft gekostet.
+Meine Teilnahme an der Schlacht ist beendet.",
+  "13.0.38.0" => "Ich bin so glücklich, dass ich die Statue erwecken
+konnte. Jetzt brauche ich erst einmal Ruhe...",
+  "13.0.39.0" => "Das macht ja richtig müde... Ich sollte heimgehen
+und ein Tässchen Tee trinken!",
+  "13.0.40.0" => "Wir müssen mit den Leuten kämpfen, die wir haben!
+Auf zum Sockel des heiligen Schwertes!",
+  "13.0.41.0" => "Sie wollen das heilige Schwert stehlen!
+Elende Diebe! Knöpfen wir uns den Zauberer vor!",
+  "13.0.42.0" => "Es sind zu viele! Wir sollten uns erst einmal in den
+Tempel zurückziehen, wenn wir gewinnen wollen!",
+  "13.0.43.0" => "Das war knapp...",
+  "13.0.44.0" => "Eine Fortsetzung der Teilnahme an der Schlacht ist
+mir nicht möglich... leider...",
+  "13.0.45.0" => "Au, au, au! Sei mir nicht böse... Aber ich kann nicht
+weitermachen...",
+  "13.0.46.0" => "Ich habe getan, was ich konnte. Aber ich kann nicht
+mehr... Es tut mir so leid!",
+  "13.0.47.0" => "So können wir die Tempeltore nicht öffnen...
+Wir dürfen aber nicht aufgeben...",
+  "13.0.48.0" => "Da kommen ein paar mies gelaunte Gestalten aus
+dem Tempel!",
+  "13.0.49.0" => "Das Master-Schwert sollte irgendwo vor uns sein.
+Wir müssen gemeinsam nach ihm suchen!",
+  "13.0.50.0" => "Wir müssen die drei Siegelstatuen erwecken,
+die sich in dieser Gegend befinden.",
+  "13.0.51.0" => "Die Fähigkeiten von euch dreien sind
+nötig, um die Siegelstatuen zu erwecken.",
+  "13.0.52.0" => "Impa, dies ist die Statue der Treue.
+Geh zu ihr und erwecke sie!",
+  "13.0.53.0" => "Darunia, das ist die Statue von Wasser und Feuer.
+Deine Macht über das Feuer sollte sie erwecken.",
+  "13.0.54.0" => "Midna, das ist die Statue des Schattens.
+Deine Schattenkräfte können sie erwecken.",
+  "13.0.55.0" => "Wir müssen weiter zum Tempel der Seelen...
+Mit dem Master-Schwert werden wir Cia besiegen!",
+  "13.0.56.0" => "Du wolltest dich also tatsächlich als Lana ausgeben,
+um uns zu täuschen? Dein Vorhaben ist gescheitert!",
+  "13.0.57.0" => "Dein hinterhältiges Täuschungsmanöver kann nur scheitern!",
+  "13.0.58.0" => "Hey, das ist nicht Lana! Und wenn du nicht Lana bist,
+erwartet dich jetzt ein fürchterlicher Steinschlag!",
+  "13.0.59.0" => "Ha! Glaubst du ernsthaft, ich falle auf diese
+Doppelgänger-Spielerei herein?!",
+  "13.0.60.0" => "Diese Kreatur ist mit einer Wahrscheinlichkeit von 0 % Lana.
+Angriffsmaßnahmen gegen diesen Feind sind zu empfehlen.",
+  "13.0.61.0" => "Hey! Hör gefälligst auf, alle hier in die Irre zu führen!",
+}

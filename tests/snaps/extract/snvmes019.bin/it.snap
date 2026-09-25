@@ -1,0 +1,188 @@
+Map {
+  "1.0.0.0" => "Ehi, tu! Dammi una mano a sconfiggere Volga!",
+  "1.0.1.0" => "Sei in difficoltà, eh?
+Va bene, conta su di me!",
+  "1.0.2.0" => "Col mio martello leggendario in mano non
+ho rivali! Ci penso io a sconfiggere Volga!",
+  "1.0.3.0" => "Da solo è troppo pericoloso! Usciamo
+dal tempio e andiamo ad aiutare Darunia!",
+  "1.0.4.0" => "Mi vuoi affrontare da solo?
+Interessante... vediamo che sai fare!",
+  "1.0.5.0" => "Che orda di orrendi mostri!
+Vi sistemerò tutti insieme!",
+  "1.0.6.0" => "La situazione è molto delicata...
+Presto, dobbiamo raggiungere Darunia!",
+  "1.0.7.0" => "Se vogliamo raggiungere Darunia,
+dobbiamo aprire il tempio!",
+  "1.0.8.0" => "Ci pensiamo noi a forzare
+l'entrata del tempio!",
+  "1.0.9.0" => "Di questo passo, non riusciremo
+mai a raggiungere la porta!",
+  "1.0.10.0" => "Aaargh! Sono più forti di noi!",
+  "1.0.11.0" => "Uhm... la porta sembra danneggiata...
+Da solo non posso ripararla!",
+  "1.0.12.0" => "Cosa?! Allora fatti dare una mano
+dagli altri due!",
+  "1.0.14.0" => "Unendo le nostre forze, ripareremo
+quella porta in un attimo!",
+  "1.0.15.0" => "Senza di loro, non riusciremo mai ad
+aprire la porta!",
+  "1.0.16.0" => "Se volete tanto aprire quella porta,
+vi posso dare una mano io!",
+  "1.0.17.0" => "La porta si è aperta!
+I nemici arrivano a fiumi!",
+  "1.0.18.0" => "Darunia è in difficoltà!
+Dobbiamo dargli una mano!",
+  "1.0.19.0" => "Sì, dobbiamo fare in fretta!",
+  "1.0.20.0" => "Forza! Conquistiamo la loro base!",
+  "1.0.21.0" => "Hanno preso di mira la nostra base!
+Dobbiamo difenderla a ogni costo!",
+  "1.0.22.0" => "Ci penso io a proteggere la base
+da quei brutti demoni!",
+  "1.0.23.0" => "Una porta si è aperta e arrivano
+un sacco di demoni!",
+  "1.0.24.0" => "Grazie per il tuo aiuto! Così potrò
+raggiungere Volga!",
+  "1.0.25.0" => "Non hai smesso un attimo di
+combattere... stai bene?!",
+  "1.0.26.0" => "Darunia, non fare pazzie!",
+  "1.0.27.0" => "Fiu... possiamo tirare un sospiro
+di sollievo... ma ancora non è finita!",
+  "1.0.28.0" => "Forza, tutti all'attacco della
+base nemica!!!",
+  "1.0.29.0" => "Il generale dell'armata Goron è
+più forte di quanto pensassi!",
+  "1.0.30.0" => "La porta è chiusa? Ci penso
+io ad aprirla con la forza!",
+  "1.0.31.0" => "Ottimo! Ora possiamo andare ad
+attaccare la loro base!",
+  "1.0.32.0" => "Non ci possono credere... mi hanno
+battuto...",
+  "1.0.33.0" => "Non mi farò certo sconfiggere da
+un'orda di mostri decrepiti!",
+  "1.0.34.0" => "Perfetto! Sembra che ci siano meno
+nemici ad attaccare la base!",
+  "1.0.35.0" => "Ho abbassato la guardia...
+e sono stato punito!",
+  "1.0.36.0" => "Evviva! Li abbiamo fermati!",
+  "1.0.37.0" => "La base adesso è al sicuro e
+possiamo stare un po' più tranquilli.",
+  "1.0.38.0" => "Siamo riusciti a difendere la base!",
+  "1.0.39.0" => "Accidenti... Per quanti ne eliminiamo,
+questi mostri non finiscono mai...",
+  "1.0.40.0" => "Hanno sconfitto i miei scagnozzi...
+Devo averli sottovalutati...",
+  "1.0.41.0" => "Volga, fatti sotto!!!
+Non hai scampo!",
+  "1.0.42.0" => "Non cantare vittoria così presto...",
+  "1.0.43.0" => "Con questi mostriciattoli tra i piedi
+non riesco a raggiungere Volga!",
+  "1.0.44.0" => "Qualcuno vada ad aiutare Darunia!",
+  "1.0.45.0" => "Devo andare ad aiutarlo immediatamente!",
+  "1.0.46.0" => "Il presidio è chiuso... E adesso come
+facciamo ad andare avanti?!",
+  "1.0.47.0" => "Le cose si mettono male... molto male...",
+  "1.0.48.0" => "Se continua così siamo spacciati!",
+  "1.0.49.0" => "Volga, sono venuto a sfidarti!
+Fatti sotto!",
+  "1.0.50.0" => "Ce l'hai fatta ad arrivare fino a me...
+Ti concederò l'onore di sfidarmi.",
+  "1.0.51.0" => "Aiutate Darunia, presto!
+Non lasciatelo da solo!",
+  "1.0.52.0" => "Sì, uniamo le nostre forze per vincere!",
+  "1.0.53.0" => "C-Com'è possibile? Non pensavo
+che i Goron fossero così forti...",
+  "1.0.54.0" => "Non hai scampo!
+Fatti sotto, per tutte le rocce!",
+  "1.0.55.0" => "Che te ne pare del mio martello?!",
+  "1.0.56.0" => "Questa volta... devo ammettere la
+sconfitta...!",
+  "1.0.57.0" => "Ce l'abbiamo fatta! Grazie dell'aiuto,
+fratello!",
+  "1.0.58.0" => "Fratello?! Guarda che sono una ragazza!
+Ma... la bussola sta ancora brillando!",
+  "1.0.59.0" => "M-Mi spiace... non ce l'ho fatta...",
+  "1.0.60.0" => "La base... è stata conquistata!",
+  "1.0.61.0" => "Levatevi di mezzo! Devo andare
+a eliminare Volga!",
+  "1.0.62.0" => "Le truppe che sono andate ad aprire
+la porta sono state prese di mira! Aiutatele!",
+  "1.0.63.0" => "Devo proteggerli? Niente di più facile per me!",
+  "1.0.64.0" => "Evviva! La porta è aperta!",
+  "1.0.65.0" => "Ottimo lavoro... Darunia sta bene?",
+  "1.0.66.0" => "Ma... la porta è stata aperta da dentro.
+Che sta succedendo nel tempio?",
+  "1.0.67.0" => "Hanno sfondato la porta?! Devo
+soccorrere i miei amici e trovare Volga!",
+  "1.0.68.0" => "Aaargh! Non mi lascerò frantumare!!!",
+  "1.0.69.0" => "Fermate quei demoni! Non devono
+raggiungere la nostra base!",
+  "1.0.70.0" => "Tutti stanno facendo del loro meglio...
+Non posso essere da meno!",
+  "1.0.71.0" => "Darunia è nei guai! Dobbiamo
+aiutarlo al più presto!",
+  "1.0.72.0" => "Posso aprire facilmente un presidio!
+Mi basta arrivare davanti alla porta!",
+  "1.0.73.0" => "Non ti arrendere! Tieni duro finché
+non arrivano i rinforzi!",
+  "1.0.74.0" => "Sarò io a sconfiggere Volga!",
+  "1.0.75.0" => "Guardate, Darunia non si arrende mai!
+Dobbiamo imparare da lui!",
+  "1.0.76.0" => "Forza, uniamo le nostre forze per
+difendere la base!",
+  "1.0.77.0" => "Ho chiuso la porta con troppa forza e l'ho rotta.
+Comunque i nemici non sono più una minaccia!",
+  "1.0.78.0" => "Di certo perché abbiamo sconfitto i
+demoni! Ora si va al castello di Hyrule!",
+  "13.0.2.0" => "Se quella è una copia...
+dobbiamo smascherare l'originale!",
+  "13.0.3.0" => "Io andrò a cercare a est...
+Voi occupatevi del lato ovest.",
+  "13.0.4.0" => "Si crede ancora una principessa...",
+  "13.0.5.0" => "Uhm... Sembra che i nemici
+ce l'abbiano con noi.",
+  "13.0.6.0" => "Molto bene...
+Ora bisogna entrare nel tempio dell'acqua.",
+  "13.0.7.0" => "Andiamo avanti...",
+  "13.0.8.0" => "Ci stanno attaccando.
+Dobbiamo fare qualcosa...",
+  "13.0.9.0" => "Grazie... Ora va tutto bene.
+Bisogna cercare di aprire le dighe.",
+  "13.0.10.0" => "Vedo che le acque si sono un po' ritirate...",
+  "13.0.11.0" => "Ora potrò salvare la principessa Ruto...",
+  "13.0.12.0" => "Li affronteremo in questo presidio...",
+  "13.0.13.0" => "Perfetto... Ora ci resta quella copia...!",
+  "13.0.14.0" => "Mi... mi spiace...",
+  "13.0.15.0" => "Senza volerlo, si è aperta la strada...",
+  "13.0.16.0" => "È difficile da battere... Ritirarsi nel presidio!",
+  "13.0.17.0" => "È riuscita a richiamare quel demone...
+Credo di aver capito chi è la copia!",
+  "13.0.18.0" => "Non ha senso andare avanti senza Ruto...",
+  "13.0.19.0" => "Prima sbarazziamoci dei nemici qui intorno
+prendendoli alle spalle dalla rupe a nord.",
+  "13.0.20.0" => "Grazie dell'aiuto! Io sto bene,
+adesso pensa a Ruto!",
+  "13.0.21.0" => "Grazie dell'aiuto... sto bene adesso!",
+  "13.0.22.0" => "Dobbiamo fermarli in un modo
+o nell'altro...",
+  "13.0.23.0" => "Ugh... a quanto pare abbiamo
+fatto prendere coraggio al nemico...",
+  "13.0.24.0" => "Mi... mi spiace...",
+  "13.0.25.0" => "Non ha senso andare avanti senza Ruto...",
+  "13.0.35.0" => "Non ha senso andare avanti senza Ruto...",
+  "13.0.36.0" => "Prima sbarazziamoci dei nemici qui intorno
+prendendoli alle spalle dalla rupe a nord.",
+  "13.0.37.0" => "Grazie dell'aiuto! Io sto bene,
+adesso pensa a Ruto!",
+  "13.0.38.0" => "Grazie dell'aiuto... sto bene adesso!",
+  "13.0.39.0" => "Dobbiamo fermarli in un modo
+o nell'altro...",
+  "13.0.40.0" => "Ugh... a quanto pare abbiamo
+fatto prendere coraggio al nemico...",
+  "13.0.41.0" => "Mi... mi spiace...",
+  "13.0.42.0" => "Non ha senso andare avanti senza Ruto...",
+  "13.0.52.0" => "Non possiamo continuare a combattere
+senza la principessa Ruto...",
+  "13.0.53.0" => "Prima sbarazziamoci dei nemici qui, poi
+prendiamo alle spalle gli altri dalla rupe a nord.",
+}

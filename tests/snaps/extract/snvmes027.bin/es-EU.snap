@@ -1,0 +1,223 @@
+Map {
+  "1.0.0.0" => "El caballero dragón está en algún
+lugar de la cueva. ¡Haré que me siga!",
+  "1.0.1.0" => "Aunque también percibo un poder
+maligno cerca... ¿Qué podrá ser?",
+  "1.0.2.0" => "¿Quieres el anillo que guardamos?
+¡Pues jamás te lo entregaremos!",
+  "1.0.3.0" => "Un anillo que alberga el poder de las
+tinieblas... ¡Qué gran adquisición!",
+  "1.0.4.0" => "Si lo habéis guardado, solo tengo
+que dar con el lugar en cuestión...",
+  "1.0.5.0" => "Parece que el anillo no está aquí...",
+  "1.0.6.0" => "Tenemos vía libre. Me da la sensación
+de que en la zona de atrás hay algo...",
+  "1.0.7.0" => "Noto una presencia oscura... ¡El anillo
+debe de estar aquí!",
+  "1.0.8.0" => "¿Eres tú quien me ha devuelto a la
+vida? Tus deseos son órdenes para mí.",
+  "1.0.9.0" => "Creo que me resultarás muy útil.
+¡Te ocuparás de dirigir mis tropas!",
+  "1.0.10.0" => "¿Dirigir tropas? Suena de lo más
+divertido. ¡Déjalo en mis manos!",
+  "1.0.11.0" => "Ahora reclutaré al caballero dragón que
+habita aquí. Si consigo abrir esas puertas...",
+  "1.0.12.0" => "No permitiré que unas míseras puertas se
+interpongan en tu camino. ¡Las abriré para ti!",
+  "1.0.13.0" => "No sé por qué, pero no
+confío en él...",
+  "1.0.14.0" => "¿Eres Volga, el caballero dragón? Sígueme
+y podrás dar rienda suelta a tu poder.",
+  "1.0.15.0" => "Me temo que debo rechazar tu propuesta.
+Será mejor que te marches.",
+  "1.0.16.0" => "¿Estás seguro? Entonces no me
+queda más remedio que obligarte.",
+  "1.0.17.0" => "¡Déjame en paz! Tus insignificantes
+problemas no son de mi incumbencia.",
+  "1.0.18.0" => "Todo guerrero que se precie disfruta
+luchando. Con eso debería bastarte.",
+  "1.0.19.0" => "¡Essstán insssultando al
+caballero dragón!",
+  "1.0.20.0" => "Nosss ocuparemosss de ella, amo.
+¡Vosss huid cuanto antes!",
+  "1.0.21.0" => "¡No ssserá rival para nosssotros!",
+  "1.0.22.0" => "No la subestiméis. Creo que es
+más que una simple mortal.",
+  "1.0.23.0" => "¡Prepárate, bruja!",
+  "1.0.24.0" => "Podéis mandar cuantos esssbirros queráis.
+¡Los aplastaremosss a todos!",
+  "1.0.25.0" => "Tenéis la lengua muy afilada.
+Tendré que demostraros mi poder.",
+  "1.0.26.0" => "¡Debemos recuperar el anillo-goro!
+Si no lo guardamos, todo estará perdido.",
+  "1.0.27.0" => "Tened cuidado con las poderosas armas
+goron; podrían acabar con la base.",
+  "1.0.28.0" => "Parece que esos dos lagartitos
+son los únicos que hablan...",
+  "1.0.29.0" => "¿Y si nos quedamos con uno?
+A lo mejor nos resulta útil...",
+  "1.0.30.0" => "¡Bombuchu en marcha!",
+  "1.0.31.0" => "Tened cuidado con los bombuchus. Si no se
+detienen a tiempo, acabarán explotando.",
+  "1.0.32.0" => "¡Buen trabajo-goro! Hemos
+recuperado uno de los bastiones.",
+  "1.0.33.0" => "Esssos goron no son tan inútilesss
+como parecen. ¡Asssí se hace!",
+  "1.0.34.0" => "¡Vamos, queda poco-goro!",
+  "1.0.35.0" => "Así que se han hecho con dos bastiones...
+¿Tendríamos que estar asustados?",
+  "1.0.36.0" => "Si seguimos así, lograremos alejar
+a las hordas de esa bruja-goro.",
+  "1.0.37.0" => "¡No! ¡Nuestro bombuchu!",
+  "1.0.38.0" => "Este es nuestro último bombuchu-goro.
+Pero ¡¿qué ocurre?!",
+  "1.0.39.0" => "¡No se mueve-goro! No nos queda
+más remedio que dejarlo aquí...",
+  "1.0.40.0" => "Los lagartos se están haciendo más
+fuertes. ¡No podemos perder el tiempo!",
+  "1.0.41.0" => "Hemosss dado con uno de los secuaces
+de la bruja. ¡Esss el hechicero!",
+  "1.0.42.0" => "¡No permitiremosss que os acerquéisss
+al caballero dragón!",
+  "1.0.43.0" => "¡Basta de cháchara!
+¡Acabaré con vosotros!",
+  "1.0.44.0" => "Son más fuertes de lo que parece...
+¡Cya, necesito tu ayuda!",
+  "1.0.45.0" => "Qué patético... Con tu magia
+debería ser más que suficiente.",
+  "1.0.46.0" => "¡Aaah! ¡Esto es el fin!",
+  "1.0.47.0" => "¡Deja de quejarte! Te echaré una
+mano, pero resiste un poco más.",
+  "1.0.48.0" => "Amo Volga, no podemosss ocuparnos
+de ellosss nosotros solosss.",
+  "1.0.49.0" => "Lo que hacéis es deleznable... pero aun
+así no lucharé con unos simples mortales.",
+  "1.0.50.0" => "¿Sigues sin dar el brazo a torcer?
+¡Te arrodillarás ante mí, te guste o no!",
+  "1.0.51.0" => "Derrota trasss derrota... Es una
+deshonra para nuestro amo.",
+  "1.0.52.0" => "Solo nosss queda una opción:
+¡losss reyesss dodongo!",
+  "1.0.53.0" => "No permitiré que una bruja me domine. ¡Me
+aliaré con Volga y acabaré con los mortales!",
+  "1.0.54.0" => "Un insignificante anillo me ha traicionado...
+¡Pero acabaré con vosotros igualmente!",
+  "1.0.55.0" => "Si acabo con este bastión, la bruja
+no podrá contratacar.",
+  "1.0.56.0" => "Caballero dragón... Si te derroto,
+¿te someterás a mi voluntad?",
+  "1.0.57.0" => "No tengo alternativa.
+Lucharé contigo.",
+  "1.0.58.0" => "No tengo interés en mezclarme con
+mortales, ¡pero recuperaré el bastión!",
+  "1.0.59.0" => "¡Ten piedad! ¡Te prometo
+que no volveré a traicionarte!",
+  "1.0.60.0" => "Si no demuestras tu valía, te devolveré
+al anillo. ¡Que no se te olvide!",
+  "1.0.61.0" => "Qué sinsentido... ¿Cómo
+he podido ser derrotado?",
+  "1.0.62.0" => "Ven a mí... Tu lugar
+está a mi lado.",
+  "1.0.63.0" => "Y para asegurarme de que no volvéis
+a tramar nada, ¡os hechizaré!",
+  "1.0.64.0" => "Te juro lealtad, mi señora Cya.",
+  "1.0.65.0" => "¡Mi único deseo es batirme con un
+adversario que esté a mi altura!",
+  "1.0.66.0" => "Perfecto. Ya podemos dirigirnos
+al Castillo de Hyrule.",
+  "1.0.67.0" => "No me queda más remedio que retirarme.
+Tendría que haber sido más dura...",
+  "1.0.68.0" => "¿Cómo es posible que
+esto haya acabado así?",
+  "1.0.69.0" => "Cómo deseaba poseer
+ese anillo...",
+  "1.0.70.0" => "Nuestras fuerzas están menguando...
+¡Invocaré más monstruos!",
+  "1.0.71.0" => "Sus habilidades no son
+nada despreciables...",
+  "1.0.73.0" => "¡Debéis destruir el bombuchu!
+Si explota, la base caerá con él.",
+  "1.0.74.0" => "¡Tenemos que tomar el bastión y
+poner el anillo a buen recaudo!",
+  "13.0.2.0" => "Los soldados hylianos se han adelantado.
+¡Impa, tenemos que seguirlos!",
+  "13.0.3.0" => "Los soldados de Hyrule están en apuros.
+Impa, ¡debemos ayudarlos!",
+  "13.0.4.0" => "¡Gracias por salvarnos!",
+  "13.0.5.0" => "¡Ya estamos aquí! Impa está a punto
+de llegar, así que todo irá bien.",
+  "13.0.6.0" => "Tiene que haber un bastión del que salgan todos
+estos monstruos. ¡Vayamos a por él!",
+  "13.0.7.0" => "¡Impa, esa debe de ser la guarida
+de los monstruos!",
+  "13.0.8.0" => "¡Buen trabajo! Aunque siguen apareciendo
+monstruos de algún otro bastión cercano.",
+  "13.0.9.0" => "¡Rápido, Impa, tienes que ayudarnos!",
+  "13.0.10.0" => "Lo siento mucho...",
+  "13.0.11.0" => "¡Gracias! Y ahora dejemos que el bombuchu
+haga su trabajo.",
+  "13.0.12.0" => "¡Impa, tenemos que proteger el bombuchu!",
+  "13.0.13.0" => "¡Link, ojo con el bombuchu! Acaba con
+los enemigos que hay de camino a la roca.",
+  "13.0.14.0" => "Link no consigue llegar al bastión...
+¡Impa, debes encargarte tú!",
+  "13.0.15.0" => "No hemos conseguido impedir que sigan
+apareciendo enemigos...",
+  "13.0.16.0" => "Tendríamos que habernos ocupado del
+bastión para que no atacasen al bombuchu...",
+  "13.0.17.0" => "¡Así se hace! Ahora el bombuchu podrá
+llegar a la roca.",
+  "13.0.18.0" => "¡Bien hecho, Impa! Ya podemos avanzar.",
+  "13.0.19.0" => "¡Han acabado con el bombuchu! ¿Qué hacemos?",
+  "13.0.20.0" => "Si perdemos el bombuchu, no podremos
+llegar hasta la princesa Zelda.",
+  "13.0.21.0" => "¡Impa, ven aquí cuanto antes!",
+  "13.0.22.0" => "La puerta sur de este bastión lleva a la salida.
+Puede que se abra si lo capturamos...",
+  "13.0.23.0" => "Qué raro, la puerta sur no se ha abierto...
+Al menos el bastión está en nuestras manos.",
+  "13.0.24.0" => "¡Están saliendo enemigos de los túneles!
+Quizás el Señor de las Cavernas esté por aquí.",
+  "13.0.25.0" => "¡Impa, Link puede ocuparse del bastión!
+Pase lo que pase, no se rendirá.",
+  "13.0.26.0" => "Ese enemigo es muy sospechoso... ¡Impa, debe de
+ser el Señor de las Cavernas!",
+  "13.0.27.0" => "¡Sabía que podías hacerlo, Impa! Ahora ya
+podemos salir.",
+  "13.0.28.0" => "El chico que protegía la retaguardia ha caído.
+¡Nos rodearán si no hacemos nada!",
+  "13.0.29.0" => "Vuelve a haber rocas que
+nos bloquean el paso.",
+  "13.0.30.0" => "¡Perfecto! Aquí tenemos un bombuchu.",
+  "13.0.31.0" => "Si aún hay enemigos en el bastión, no podemos
+sacar el bombuchu. ¡Debéis recuperarlo!",
+  "13.0.32.0" => "Impa, debes buscar el bombuchu.
+¡Link defenderá a los goron!",
+  "13.0.33.0" => "Impa, acaba con los enemigos del bastión
+para que podamos sacar al bombuchu.",
+  "13.0.34.0" => "¿Estáis todos listos? ¡Vamos allá!",
+  "13.0.35.0" => "¡Sheik, nos iremos enseguida! Ven con nosotros.",
+  "13.0.36.0" => "¡Bravo, ahora solo
+queda el otro!",
+  "13.0.37.0" => "¡Ya podemos ir a la salida! ¡Gracias a todos!",
+  "13.0.38.0" => "¡Vayamos al bosque de Farone! Tenemos que dar
+con la chica de la que tanto hemos oído hablar.",
+  "13.0.39.0" => "Ojalá sea la princesa Zelda.",
+  "13.0.40.0" => "¡Tranquilo, Link! Si te perdemos,
+todo habrá terminado...",
+  "13.0.41.0" => "Con esa roca no podemos avanzar. Deberíamos
+retirarnos y replantearnos la estrategia.",
+  "13.0.42.0" => "Más adelante hay soldados de Hyrule, pero no
+podemos llegar a ellos con las puertas cerradas...",
+  "13.0.43.0" => "Impa, en lo más profundo de los
+túneles hay algo sospechoso...",
+  "13.0.44.0" => "¿No habrá nada que podamos
+hacer para avanzar?",
+  "13.0.45.0" => "En esa pared hay una grieta... Quizás podamos
+usar algo para volarla.",
+  "13.0.46.0" => "¡Rápido, Link! La salida está por aquí.",
+  "13.0.47.0" => "¿Estás bien, Impa? Te esperaremos
+en la salida.",
+  "13.0.48.0" => "Quizás deberíamos habernos ocupado
+primero de los bastiones de los monstruos.",
+}

@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R subisce un attacco dall'A0%2sF5R!",
+  "0.3.0" => "Sconfiggi A0%1sF2R e salva A0%2sF2R!",
+  "0.4.0" => "A0%1sF3R hanno perso!",
+  "0.5.0" => "A0%1sF0R scappa dall'A0%2sF5R!",
+  "0.6.0" => "Hai salvato A0%1sF2R!",
+  "0.7.0" => "A0%1sF0R, per ringraziarti, si unisce all'A0%2sF5R!",
+}

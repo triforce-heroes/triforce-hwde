@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF1R appaiono sul campo di battaglia!",
+  "0.2.0" => "A0%1sF1R si mettono in marcia per chiedere rinforzi!",
+  "0.3.0" => "Sconfiggi A0%1sF3R prima che chiamino i rinforzi!",
+  "0.4.0" => "A0%1sF0R ha raggiunto la destinazione e chiede rinforzi!",
+  "0.5.0" => "A0%1sF0R chiama i rinforzi dell'A0%2sF5R!",
+  "0.6.0" => "Hai bloccato la richiesta di rinforzi!",
+  "0.7.0" => "A0%1sF0R ha perso!",
+  "0.8.0" => "A0%1sF1R appaiono sul campo di battaglia!",
+  "0.9.0" => "Ora sconfiggi il resto A0%1sF7R!",
+  "0.10.0" => "A0%1sF0R si ritira dal campo di battaglia!",
+}

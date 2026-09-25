@@ -1,0 +1,13 @@
+Map {
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "Trova e sconfiggi A0%2sF2R che controlla A0%1sF2R!",
+  "0.3.0" => "A0%1sF0R fugge dopo la distruzione di A0%2sF2R!",
+  "0.4.0" => "A0%1sF0R è felice per la conquista del presidio e si ritira.",
+  "0.5.0" => "A0%1sF0R si potenzia grazie a una misteriosa forza magica.",
+  "0.6.0" => "Trova A0%2sF2R che controlla A0%1sF2R!",
+  "0.7.0" => "Hai sconfitto A0%1sF2R!",
+  "0.8.0" => "A0%2sF0R ha perso e A0%1sF2R è più debole!",
+  "0.9.0" => "Adesso sconfiggi A0%1sF2R!",
+  "0.10.0" => "Hai trovato A0%1sF2R!",
+  "0.11.0" => "Sconfiggi A0%1sF2R!",
+}

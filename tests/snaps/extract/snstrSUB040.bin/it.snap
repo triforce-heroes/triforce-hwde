@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "Creatori di barriere"!",
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R va verso l'area A0%2sF6R!",
+  "0.3.0" => "Sconfiggi A0%1sF2R!",
+  "0.4.0" => "A0%1sF0R si prepara a creare una barriera!",
+  "0.5.0" => "A0%1sF0R sta creando una barriera!",
+  "0.6.0" => "Hai scoperto A0%1sF2R che stava per creare una barriera!",
+  "0.7.0" => "A0%1sF0R ha creato una barriera nell'area A0%2sF6R!",
+  "0.8.0" => "A0%1sF0R ha creato la barriera e si ritira!",
+  "0.9.0" => "Hai impedito che la barriera venisse creata!",
+  "0.10.0" => "Hai sconfitto A0%1sF2R!",
+  "0.11.0" => "Presto, sconfiggi A0%1sF2R!",
+  "0.12.0" => "Se creano una barriera nell'area A0%1sF0R, perderai quel presidio!",
+  "0.13.0" => "L'area C1%1sF0R è caduta a causa della barriera!",
+  "0.14.0" => "A0%1sF0R ha creato una barriera nell'area C1%2sF6R!",
+}

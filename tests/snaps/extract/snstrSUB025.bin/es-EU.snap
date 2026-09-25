@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "¡Han aparecido A0%1sF1R en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R se dirige hacia las A0%2sF1R!",
+  "0.3.0" => "¡A0%1sF0R ha creído que A0%2sF2R atacaba!",
+  "0.4.0" => "¡Vence A0%1sF4R y rescata A0%2sF4R!",
+  "0.5.0" => "¡A0%1sF0R ha empezado a luchar con A0%2sF2R!",
+  "0.6.0" => "¡Has vencido A0%1sF4R!",
+  "0.7.0" => "¡A0%2sF0R ha hecho que A0%1sF2R se retire!",
+  "0.8.0" => "¡A0%1sF0R ha traicionado a las A0%2sF1R y ha vuelto a aparecer!",
+  "0.9.0" => "¡A0%1sF0R se está acercando A0%2sF4R!",
+  "0.10.0" => "¡Impide que A0%1sF2R huya!",
+}

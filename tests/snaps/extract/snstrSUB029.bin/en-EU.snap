@@ -1,0 +1,10 @@
+Map {
+  "0.1.0" => "A0%1sF1R lost morale due to the strength of A0%2sF1R!",
+  "0.2.0" => "Defeat A0%1sF3R, and inspire A0%2sF3R!",
+  "0.3.0" => "The entirety of A0%1sF5R has stopped advancing!",
+  "0.4.0" => "A faction of A0%1sF5R improved its morale after seeing A0%2sF4R fight!",
+  "0.5.0" => "Defeat A0%1sF3R next, and inspire A0%2sF3R!",
+  "0.6.0" => "A0%1sF1R have improved their morale!",
+  "0.7.0" => "You inspired A0%1sF5R!",
+  "0.8.0" => "A faction of A0%1sF5R has resumed its advance!",
+}

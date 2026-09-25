@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Le super duo dynamique »!",
+  "0.1.0" => "A0%1sF6R et A0%2sF2R ont rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF4R se dirige vers A0%2sF0R!",
+  "0.3.0" => "Éliminez A0%1sF0R et A0%2sF0R!",
+  "0.4.0" => "A0%1sF4R et A0%2sF0R se renforcent mutuellement!",
+  "0.5.0" => "Vous avez éliminé A0%1sF0R et A0%2sF0R!",
+  "0.6.0" => "Vous avez éliminé A0%1sF0R!",
+  "0.7.0" => "Éliminez A0%1sF0R!",
+  "0.8.0" => "A0%1sF4R gagne en puissance! A0%2sF4R perd en puissance!",
+  "0.9.0" => "A0%1sF4R sent le danger et conserve une puissance décuplée!",
+  "0.10.0" => "A0%1sF4R semble ne plus pouvoir gagner en puissance!",
+  "0.11.0" => "A0%1sF4R gagne en puissance!",
+}

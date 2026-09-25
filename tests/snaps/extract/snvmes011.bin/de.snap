@@ -1,0 +1,216 @@
+Map {
+  "1.0.0.0" => "Jetzt, da du das Master-Schwert hast,
+sollte das ein leichter Sieg werden, Link!",
+  "1.0.1.0" => "Link, bitte werde nicht übermütig.",
+  "1.0.2.0" => "Ich bin hier, Link. Lass uns herausfinden,
+was das heilige Schwert wirklich vermag...",
+  "1.0.3.0" => "Wenn Link fällt, wird ein Sieg unmöglich.
+Behaltet ihn jederzeit im Auge.",
+  "1.0.5.0" => "Es gibt je drei Magiekammern im Osten und
+Westen. Sie sind über Magiekreise verbunden.",
+  "1.0.6.0" => "Ja, ich spüre die Magie, die von den
+Kammern ausgeht. Wir müssen sie erobern!",
+  "1.0.7.0" => "Ah... Ich kann sie fühlen...
+Die Macht des Triforce!",
+  "1.0.8.0" => "Was ist das? Ich spüre etwas...
+Etwas Furchterregendes...",
+  "1.0.9.0" => "„Etwas Furchterregendes“? Ich spüre
+nur die Zauberin und ihre Ungeheuer...",
+  "1.0.10.0" => "Aus den Magiekammern, die mit einem Magiefluss
+verbunden sind, kommen stärkere Feinde.",
+  "1.0.11.0" => "Das klingt nicht gut... Wir müssen
+die Magiekammern erobern.",
+  "1.0.12.0" => "Oho! Die Gegner hier sind voller
+Energie und stärker als gewöhnlich!",
+  "1.0.13.0" => "Wenn wir eine Magiekammer erobern,
+sollte der Magiefluss geschwächt werden.",
+  "1.0.14.0" => "Das müsste die Gegner geschwächt haben.
+Erobern wir auch die anderen Magiekammern!",
+  "1.0.15.0" => "Wenn wir die richtige Kammer zuerst erobern,
+wird der Magiefluss effektiver unterbrochen!",
+  "1.0.16.0" => "Die Magiekammern im Westen sind
+geschafft, bleiben noch die im Osten.",
+  "1.0.17.0" => "Für maximale Wirkung auf den Kampfverlauf
+empfehle ich, alle Verbindungen zu deaktivieren.",
+  "1.0.18.0" => "Die Magiekammern im Osten haben wir erobert.
+Holen wir uns die im Westen auch noch!",
+  "1.0.19.0" => "Für maximale Wirkung auf den Kampfverlauf
+empfehle ich, alle Verbindungen zu deaktivieren.",
+  "1.0.20.0" => "Gleich zwei Verbindungen wurden deaktiviert!
+Die Mitte zu erobern war die richtige Wahl!",
+  "1.0.21.0" => "Der Magiefluss wurde vollständig
+unterbrochen.",
+  "1.0.22.0" => "Komm, Link! Ich weiß, du willst mich mit
+deinem heiligen Schwert niederstrecken...",
+  "1.0.23.0" => "Link, die Türen haben sich geöffnet!
+Der Weg zu Cia ist frei!",
+  "1.0.24.0" => "Dunkel-Link kommt aus der Dunkelheit in
+deinem Herzen... Bist du dem gewachsen?",
+  "1.0.25.0" => "Es tut mir leid, Link! Damit habe ich nicht
+gerechnet... Aber er darf dich nicht besiegen!",
+  "1.0.26.0" => "Wir können Link nicht
+allein kämpfen lassen!",
+  "1.0.28.0" => "Sie hat den dunklen Teil seines Herzens gegen
+ihn gewandt... Wie können wir ihm helfen?",
+  "1.0.29.0" => "Noch mehr Dunkel-Links?
+Wir müssen sie aufhalten!",
+  "1.0.30.0" => "Ich bestätige das Erscheinen
+vier weiterer Dunkel-Links.",
+  "1.0.31.0" => "Gleich vier von ihnen! Das wird
+eine schöne Keilerei geben...",
+  "1.0.32.0" => "Sind wir damit diese Dunkel-Links
+endlich los?",
+  "1.0.33.0" => "Er hat sich geheilt? So bringen wir
+den Kampf nie zu Ende!",
+  "1.0.34.0" => "Ihr seid müde und geschwächt.
+Das Triforce ist so gut wie mein!",
+  "1.0.35.0" => "Er will das Triforce stehlen!",
+  "1.0.36.0" => "Noch mehr Feinde...",
+  "1.0.37.0" => "Wir werden umzingelt... Rückzug!",
+  "1.0.38.0" => "Wir müssen uns zurückziehen! Der Rosengarten
+im Westen scheint mir für ein Portal geeignet!",
+  "1.0.39.0" => "Alles klar! Rückzug in den
+Rosengarten im Westen!",
+  "1.0.40.0" => "Die Dunkel-Links werden im Saal der Zauberin
+wiedererweckt und hindern uns an der Flucht!",
+  "1.0.41.0" => "Link! Halte deine dunklen Doppelgänger auf,
+damit unsere Truppen fliehen können!",
+  "1.0.42.0" => "Sei vorsichtig, Link!",
+  "1.0.44.0" => "Ich bestätige die Eliminierung der Dunkel-Links.
+Ihre Rückkehr kann ausgeschlossen werden.",
+  "1.0.45.0" => "Ich fühle eine Macht...
+Sie wächst... Ist das...",
+  "1.0.46.0" => "Das Master-Schwert zeigt
+seine wahre Macht...",
+  "1.0.47.0" => "Auch gut, dann eben keine Dunkel-Links
+mehr. Meine bloßen Hände reichen auch!",
+  "1.0.48.0" => "Hör auf, Cia! Wenn du diese Magie
+einsetzt, gibt es kein Zurück mehr!",
+  "1.0.49.0" => "Schweig! Ich tue, was mir gefällt!
+Aber... ich bin etwas müde...",
+  "1.0.50.0" => "Link scheint wohlauf zu sein...
+Schnell, Rückzug!",
+  "1.0.51.0" => "Gut, ziehen wir uns zurück! Durch den
+Rosengarten im Westen können wir entkommen!",
+  "1.0.52.0" => "Die Prinzessin ist in Schwierigkeiten! Zieht
+euch wie geplant zurück, ich beschütze sie!",
+  "1.0.53.0" => "Impa! Mach dir keine Gedanken um mich!
+Zieh dich zurück, das ist ein Befehl!",
+  "1.0.54.0" => "A-a-aber... Gut, so sei es.
+Viel Glück, Prinzessin.",
+  "1.0.55.0" => "Ha! Ihr denkt, dass ich
+euch laufen lasse?",
+  "1.0.56.0" => "D-d-diese Kraft...
+Es gibt kein Entkommen...",
+  "1.0.57.0" => "Link... Du musst deine Gefährten beschützen!
+Besiege ihn, oder es ist um sie geschehen!",
+  "1.0.58.0" => "Er ist so unglaublich stark...",
+  "1.0.59.0" => "Erbärmlich. Aber versuch nur
+weiter, dich zu wehren.",
+  "1.0.60.0" => "Khh... Ich kann nicht...",
+  "1.0.61.0" => "Ich werde dich von
+deinem Leid erlösen, Kind.",
+  "1.0.62.0" => "Der Kampf läuft nicht gut für uns... Ich werde
+zusehen, dass unsere Truppen entkommen.",
+  "1.0.63.0" => "Ich bestätige das Erscheinen eines Portals, das
+mit 99 % Wahrscheinlichkeit von Midna stammt.",
+  "1.0.64.0" => "Los, ich habe einen Ausgang
+geöffnet! Kommt her!",
+  "1.0.66.0" => "Danke. Du hast mich gerettet.",
+  "1.0.67.0" => "Du führst das Bannschwert?
+Sei's drum. Meine Zeit wird kommen!",
+  "1.0.68.0" => "Du darfst nicht verlieren, Link!",
+  "1.0.69.0" => "Reiß dich zusammen, Link!
+Lass ihm keine Lücke!",
+  "1.0.70.0" => "Link! Link! Welche Chance
+haben wir jetzt noch?",
+  "1.0.71.0" => "Link! Wir können Cia
+nicht länger standhalten...",
+  "1.0.72.0" => "Und das an diesem Ort...",
+  "1.0.73.0" => "Ich kann nicht mehr weiter...",
+  "1.0.74.0" => "Ich hätte nicht gedacht, dass dieser Ort mein
+Ende sein würde... Vergebt mir, Prinzessin...",
+  "1.0.75.0" => "Rächt mich, Brüder...",
+  "1.0.76.0" => "Ich muss leider berichten, dass ich
+den Kampf nicht fortsetzen kann...",
+  "1.0.77.0" => "Ich... Es geht nicht mehr...",
+  "1.0.78.0" => "Wenn einer von uns fällt, ist es aus...",
+  "1.0.79.0" => "Und du willst ein Held sein?",
+  "1.0.80.0" => "Was ist das? Ich spüre etwas...
+Etwas Furchterregendes...",
+  "1.0.81.0" => "Der Magiefluss wurde wiederhergestellt!
+Wir bekommen es mit starken Monstern zu tun!",
+  "1.0.82.0" => "Wir müssen die Magiekammern zurückerobern,
+um den Magiefluss zu unterbrechen!",
+  "1.0.83.0" => "Damit sollten die Magiekammern inaktiv sein.
+Der Magiefluss ist unterbrochen!",
+  "1.0.84.0" => "So oft ihr auch die Magiekammern erobert,
+es wird euch nichts bringen!",
+  "1.0.85.0" => "Jaaa! Wir haben den Dunkel-Link
+zurückgeschlagen!",
+  "1.0.86.0" => "Lauft weg! Ich halte solange die Feinde auf!",
+  "1.0.87.0" => "Alle sind entkommen!
+Zieh dich auch zurück!",
+  "1.0.88.0" => "Wir müssen irgendwie entkommen...",
+  "1.0.89.0" => "So werden wir hier nie entkommen...",
+  "1.0.90.0" => "Sie wollen uns wohl nicht so leicht
+entkommen lassen...",
+  "1.0.91.0" => "Wie nervig! Nur ein bisschen noch, dann
+hätten wir entkommen können...",
+  "1.0.92.0" => "Meine Mitstreiter geben alles...
+Ich kann mich nicht geschlagen geben!",
+  "1.0.93.0" => "Sie lassen uns keine Verschnaufpause.
+Wenn es so weitergeht, dann...",
+  "1.0.94.0" => "Los, erobert die Magiekammern zurück!
+Die Magie muss wieder fließen!",
+  "13.0.0.0" => "Ohne Link ist unser Untergang gewiss...
+Wir dürfen ihn nicht aus den Augen lassen!",
+  "13.0.1.0" => "Die Festungen strahlen ungeheure Magie
+aus. Erobern wir diese Magiekammern!",
+  "13.0.2.0" => "Ein Magiefluss verbindet die Magiekammern
+und lässt stärkere Feinde erscheinen.",
+  "13.0.3.0" => "Ha! Mit jeder eroberten Magiekammer
+unterbrechen wir den Magiefluss.",
+  "13.0.4.0" => "Den Westen haben wir erobert. Jetzt müssen wir
+nur noch die Magiekammern im Osten einnehmen!",
+  "13.0.5.0" => "Den Osten haben wir erobert. Jetzt müssen wir
+nur noch die Magiekammern im Westen einnehmen!",
+  "13.0.6.0" => "Wir haben zwei Verbindungen auf einmal gestört!
+Es war gut, zuerst die Mitte zu erobern!",
+  "13.0.7.0" => "Es sind weitere Dunkel-Links aufgetaucht!
+Wir dürfen Link nicht alleine lassen!",
+  "13.0.8.0" => "Das sieht nicht gut aus, sie haben uns in
+die Ecke gedrängt... An alle! Rückzug!",
+  "13.0.9.0" => "Die Dunkel-Links werden im Saal der Zauberin
+wiedererweckt und hindern uns an der Flucht!",
+  "13.0.10.0" => "Link! Werd ja nicht übermütig!",
+  "13.0.11.0" => "Link kommt auch allein zurecht!
+Rückzug! Sofort!",
+  "13.0.12.0" => "Argh... Diese Kraft...
+Wir können ihr nicht entfliehen...",
+  "13.0.13.0" => "Ist... alles verloren?",
+  "13.0.14.0" => "Ist... Ist es schon zu spät?",
+  "13.0.15.0" => "Du hast das... für mich getan? Danke...",
+  "13.0.16.0" => "Link! Wenn unser Held fällt, ist Cia nicht
+mehr aufzuhalten!",
+  "13.0.17.0" => "Diese Bürde... Sie ist zu groß für mich...",
+  "13.0.18.0" => "Wenn auch nur einer unserer Freunde fallen sollte,
+verlieren wir den Kampf, der uns noch erwartet...",
+  "13.0.19.0" => "Meine Bürde... Sie ist zu groß...",
+  "13.0.20.0" => "Meine Bürde... Sie ist zu groß...",
+  "13.0.21.0" => "Meine Bürde... Sie ist zu groß...",
+  "13.0.22.0" => "Meine Bürde... Sie ist zu groß...",
+  "13.0.23.0" => "Zwei Dunkel-Links sind bezwungen!
+Erledigen wir jetzt noch die beiden anderen!",
+  "13.0.24.0" => "Wenn das so ist... wäre es am besten,
+durch den Rosengarten im Westen zu fliehen!",
+  "13.0.25.0" => "Es... tut mir leid...
+Ich... kann nicht mehr...",
+  "13.0.26.0" => "Link... Warte! Ich komme mit!",
+  "13.0.27.0" => "Erobert die Magiekammern und
+unterbrecht den Magiefluss!",
+  "13.0.28.0" => "Nanu? Ich spüre eine seltsame
+Präsenz, irgendwo in der Nähe...",
+  "13.0.29.0" => "Die Magiekammern haben ihre Kraft
+verloren! Es fließt keine Magie mehr.",
+}

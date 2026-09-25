@@ -1,0 +1,704 @@
+Map {
+  "0.0.0" => "Hordes of monsters began laying siege to the Kingdom of
+Hyrule.",
+  "0.1.0" => "Princess Zelda led a valiant defense against
+hopeless odds.",
+  "0.2.0" => "News of the Hyrulean army's imminent defeat reached the
+cadets at the knights' training yard.",
+  "0.4.0" => "As the elite troops fell in battle, Hyrule's trainees
+were left to wait helplessly inside the castle walls.",
+  "0.6.0" => "Despite the odds, one young knight took up his simple
+training sword and chose to fight.",
+  "0.7.0" => "This brave young man was named Link.",
+  "0.8.0" => "Compelled to act, he rushed to the monster-ridden
+battlefield to assist Zelda and defend Hyrule.",
+  "0.10.0" => "The Armies of Ruin",
+  "0.11.0" => "The Armies of Ruin",
+  "0.12.0" => "The Armies of Ruin",
+  "0.13.0" => "The Armies of Ruin",
+  "0.14.0" => "The Armies of Ruin",
+  "1.0.0" => "After an arduous battle, Link and his comrades slew
+King Dodongo, but the beast was only ever intended
+as a distraction.",
+  "1.1.0" => "The army of monsters had taken Hyrule Castle.",
+  "1.3.0" => "Worse, after the dust had settled Princess Zelda was
+nowhere to be found.",
+  "1.4.0" => "Impa and Link searched the battlefield for any sign of
+her, but to no avail.",
+  "1.5.0" => "Although the battle had been lost, Impa foresaw Link's
+importance to the coming war.",
+  "1.6.0" => "She bestowed upon him a green tunic--the sign of the
+legendary hero.",
+  "1.7.0" => "Link did not believe himself worthy of the honor, but he
+was determined to help Impa and her remaining soldiers
+locate Zelda.",
+  "1.8.0" => "Weeks passed.",
+  "1.9.0" => "Impa heard a rumor that a handful of soldiers were
+holding out against the monsters in Faron Woods.",
+  "1.10.0" => "The leader of this resistance was supposedly
+a young woman.",
+  "1.11.0" => "Impa dared to hope that this unknown woman was Zelda.",
+  "1.12.0" => "Link and Impa decided to make their way to the forest by
+way of the Eldin Caves, a path with its own dangers.",
+  "1.14.0" => "The Sheikah Tribesman",
+  "1.15.0" => "The Sheikah Tribesman",
+  "1.16.0" => "The Sheikah Tribesman",
+  "1.17.0" => "The Sheikah Tribesman",
+  "1.18.0" => "The Sheikah Tribesman",
+  "2.0.0" => "Link and his allies were saved from the dangers of the
+Eldin Caves by a mysterious youth named Sheik.",
+  "2.1.0" => "Joined by their new ally, Impa's troops exited the caves
+and emerged in Faron Woods.",
+  "2.2.0" => "There they found a hidden village overrun with monsters.",
+  "2.3.0" => "While Link and Impa wanted to continue their search for
+Zelda, they could not ignore the plight of the villagers.
+Without hesitation they sprang into battle.",
+  "2.4.0" => "The Sorceress of the Woods",
+  "2.5.0" => "The Sorceress of the Woods",
+  "2.6.0" => "The Sorceress of the Woods",
+  "2.7.0" => "The Sorceress of the Woods",
+  "2.8.0" => "The Sorceress of the Woods",
+  "3.0.0" => "The leader of the resistance in Faron Woods was
+a young sorceress named Lana.",
+  "3.1.0" => "She was of the same clan as Cia, who had summoned
+the monsters to Hyrule.",
+  "3.2.0" => "Lana had been fighting Cia's army since it arrived.",
+  "3.3.0" => "Cia now sought to complete the Triforce and use it to
+conquer Hyrule.",
+  "3.4.0" => "Link and Impa decided to join forces with Lana to
+prevent further tragedy.",
+  "3.5.0" => "Although the monsters of Faron Woods had been
+defeated, Cia still controlled most of Hyrule.",
+  "3.6.0" => "Every day more creatures appeared and swarmed the
+land.",
+  "3.7.0" => "Link and Impa fought on against the darkness, sorely
+missing Zelda's leadership.",
+  "3.8.0" => "Only one solution remained--stem the tide of monsters by
+closing the Gate of Souls.",
+  "3.9.0" => "The heroes headed to the Valley of Seers to put an end
+to the bloodshed.",
+  "3.10.0" => "The Sorceress of the Valley",
+  "3.11.0" => "The Sorceress of the Valley",
+  "3.12.0" => "The Sorceress of the Valley",
+  "3.13.0" => "The Sorceress of the Valley",
+  "3.14.0" => "The Sorceress of the Valley",
+  "4.0.0" => "Cia had already claimed the Triforce of Power.",
+  "4.1.0" => "From Link she stole the Triforce of Courage.",
+  "4.2.0" => "The Triforce of Wisdom was the birthright of the royal
+family of Hyrule...",
+  "4.3.0" => "yet Sheik bore it when Cia attacked.",
+  "4.4.0" => "Once Cia possessed all the pieces of the Triforce...",
+  "4.5.0" => "She used its incredible power to bend time and space and
+open doorways through the ages.",
+  "4.6.0" => "Portals to three eras appeared...",
+  "4.7.0" => "Lana explained to the others that a Gate of Souls had
+been opened in each of these eras, and it was through
+these gates that the monsters came.",
+  "4.8.0" => "By opening these gates, Cia had released the fragment
+of evil's spirit imprisoned in each of the other eras.",
+  "4.9.0" => "The task before the heroes was therefore to travel
+through each portal and close its gate.",
+  "4.10.0" => "Once all the gates were closed, they could begin
+repairing the damage Cia had inflicted on their land.",
+  "4.11.0" => "With time growing short, Link and his allies split up to
+handle all three gates simultaneously.",
+  "4.12.0" => "They each vowed to close their gate and return safely.",
+  "4.13.0" => "Separate Ways",
+  "4.14.0" => "Separate Ways",
+  "4.15.0" => "Separate Ways",
+  "4.16.0" => "Separate Ways",
+  "4.17.0" => "Separate Ways",
+  "5.0.0" => "Leading a small force of Hyrulean soldiers, Impa stepped
+into one of the newly opened portals.",
+  "5.1.0" => "The kingdom spread out before her seemed like the
+Hyrule she knew, yet it was somehow very different.",
+  "5.2.0" => "Before long, she realized that they had traveled back to
+the era of the mythical Hero of Time.",
+  "5.3.0" => "Awed, Impa began her search for the Gate of Souls.",
+  "5.4.0" => "She sensed an evil presence on Death Mountain and
+set out for the ominous peak.",
+  "5.5.0" => "And with her came the mysterious Sheik...",
+  "5.6.0" => "Land of Myth",
+  "5.7.0" => "Land of Myth",
+  "5.8.0" => "Land of Myth",
+  "5.9.0" => "Land of Myth",
+  "5.10.0" => "Land of Myth",
+  "6.0.0" => "At the fairy's request, Impa had fought her way to the
+summit of Death Mountain to rescue Princess Ruto.",
+  "6.1.0" => "There she subdued the Goron chieftain, Darunia,
+who had temporarily lost his senses.",
+  "6.2.0" => "Upon freeing Princess Ruto, however, Impa
+was shocked to learn the reason for the conflict
+between the Zora and Goron people.",
+  "6.3.0" => "The ancient Water Temple was teeming with monsters
+that poured from the Gate of Souls.",
+  "6.4.0" => "What's more, the monsters were apparently led by
+Princess Zelda herself!",
+  "6.5.0" => "Hoping to make sense of this disturbing revelation...",
+  "6.6.0" => "Impa and her newfound allies journeyed to Lake Hylia.",
+  "6.7.0" => "When they arrived, they were greeted by a Zelda
+seemingly consumed by evil...",
+  "6.8.0" => "The Water Temple",
+  "6.9.0" => "The Water Temple",
+  "6.10.0" => "The Water Temple",
+  "6.11.0" => "The Water Temple",
+  "6.12.0" => "The Water Temple",
+  "7.0.0" => "Lana stepped through her portal and found
+a jarring sight.",
+  "7.1.0" => "Wherever she looked, the kingdom was consumed
+by shadow.",
+  "7.2.0" => "Though she knew of the Twilight Realm, she had
+never seen it firsthand.",
+  "7.3.0" => "Lana's sorcery could not reveal who or what was
+causing the Twilight to cover Hyrule so completely.",
+  "7.5.0" => "She soon came upon a small village
+beset by monsters. Her mission to close
+the Gate of Souls would have to wait...",
+  "7.6.0" => "Land of Twilight",
+  "7.7.0" => "Land of Twilight",
+  "7.8.0" => "Land of Twilight",
+  "7.9.0" => "Land of Twilight",
+  "7.10.0" => "Land of Twilight",
+  "8.0.0" => "Lana had saved an unusual girl named Agitha from the
+Twilight.",
+  "8.1.0" => "To thank Lana for her rescue, Agitha gave her a
+Goddess Butterfly, an insect that could guide her
+wherever she wished to go.",
+  "8.2.0" => "A curious Twili named Midna also joined the party for
+reasons of her own.",
+  "8.4.0" => "The heroes followed the Goddess Butterfly,
+eventually arriving at the Palace of Twilight.",
+  "8.5.0" => "There they met a terrible foe.",
+  "8.6.0" => "It was Zant, the Usurper King of the Twilight Realm.",
+  "8.7.0" => "Lana and Midna would have to overcome his unnatural
+powers to complete their task.",
+  "8.8.0" => "The Shadow King",
+  "8.9.0" => "The Shadow King",
+  "8.10.0" => "The Shadow King",
+  "8.11.0" => "The Shadow King",
+  "8.12.0" => "The Shadow King",
+  "9.0.0" => "Link and his troops stepped through one of the portals,
+appearing in an era of fantastical sights.",
+  "9.1.0" => "He had heard tell of a land in the clouds, but now he
+could see Skyloft with his own eyes...though he was not
+the first new arrival.",
+  "9.3.0" => "Overrun with monsters, the floating island faced imminent
+destruction.",
+  "9.4.0" => "Though vastly outnumbered, Link did not hesitate.",
+  "9.5.0" => "He and his allies leapt into the fray to save Skyloft from
+disaster.",
+  "9.7.0" => "Land in the Sky",
+  "9.8.0" => "Land in the Sky",
+  "9.9.0" => "Land in the Sky",
+  "9.10.0" => "Land in the Sky",
+  "9.11.0" => "Land in the Sky",
+  "10.0.0" => "Fi, a servant of the goddess Hylia, joined Link and
+together they drove away the Dragon Knight Volga.",
+  "10.1.0" => "But despite the victory, Ghirahim managed to slip away
+in the chaos.",
+  "10.3.0" => "Hoping to destroy Ghirahim and close the
+Gate of Souls, Link followed Fi's advice and
+hurried to the Sealed Grounds.",
+  "10.4.0" => "The Hyrulean army advanced quickly in order to catch
+up to their quarry.",
+  "10.5.0" => "And that was when Ghirahim sprang his trap.",
+  "10.6.0" => "Sealed Ambition",
+  "10.7.0" => "Sealed Ambition",
+  "10.8.0" => "Sealed Ambition",
+  "10.9.0" => "Sealed Ambition",
+  "10.10.0" => "Sealed Ambition",
+  "11.0.0" => "With the Gate of Souls closed in each era, Link and his
+allies were reunited.",
+  "11.1.0" => "Sheik was at last revealed as Zelda, relieving much worry
+about her fate.",
+  "11.2.0" => "Meanwhile, Ganondorf had recovered three of his four
+spirit fragments.",
+  "11.3.0" => "He chose to leave Cia's body, her usefulness at an end.",
+  "11.4.0" => "Free of Ganondorf's control but tragically
+corrupted, Cia resolved to make Link and
+the Triforce hers and hers alone.",
+  "11.5.0" => "Using powerful rituals to strengthen her forces, she
+redoubled her attacks on Hyrule.",
+  "11.6.0" => "But all was not lost.",
+  "11.7.0" => "Zelda directed her forces to the Temple of the
+Sacred Sword in search of the one thing that could
+save them all...",
+  "11.8.0" => "The Sacred Sword",
+  "11.9.0" => "The Sacred Sword",
+  "11.10.0" => "The Sacred Sword",
+  "11.11.0" => "The Sacred Sword",
+  "11.12.0" => "The Sacred Sword",
+  "12.0.0" => "At long last, Link took up the Master Sword and proved
+himself the Hero of Legend.",
+  "12.1.0" => "Armed as he was with the blade of evil's bane, Link
+easily dispatched the newly revived Wizzro.",
+  "12.2.0" => "The evil magician's parting words in their ears, Link and
+his allies set out to confront Cia at the Temple of Souls.",
+  "12.4.0" => "With a string of victories behind them, the
+Hyrulean Army's morale had improved remarkably.",
+  "12.5.0" => "Even Link began to feel that he was invincible
+while the Master Sword was in his hands.",
+  "12.7.0" => "Soon he was allowing overconfidence to
+cloud his judgment, rushing headlong
+into hordes of enemies.",
+  "12.8.0" => "Cia had been waiting for Link to overextend himself,
+giving her a chance to strike.",
+  "12.9.0" => "And as the two sides battled, unknown eyes watched
+from the shadows...",
+  "12.10.0" => "A War of Spirit",
+  "12.11.0" => "A War of Spirit",
+  "12.12.0" => "A War of Spirit",
+  "12.13.0" => "A War of Spirit",
+  "12.14.0" => "A War of Spirit",
+  "13.0.0" => "Link's brashness nearly cost him his life as shadowy
+doubles overwhelmed him.",
+  "13.1.0" => "At the last moment, Link's allies salvaged a rescue from
+otherwise certain defeat.",
+  "13.2.0" => "The Master Sword is a mighty weapon...",
+  "13.3.0" => "but its true power can be used only by someone who
+understands the bonds of friendship.",
+  "13.5.0" => "The Hyrulean army was rallying its strength, but Cia's
+forces still controlled much of their homeland.",
+  "13.6.0" => "The only way to save Hyrule was to defeat Cia.",
+  "13.7.0" => "The Hyrulean Army headed to the Valley of Seers
+to force a decisive battle.",
+  "13.8.0" => "But Cia did not sit idle, despite her
+overwhelming advantage.",
+  "13.9.0" => "She found new ways to fortify her troops using her
+own life force. ",
+  "13.10.0" => "The cost to herself was irrelevant, so long as
+she crushed her enemies.",
+  "13.11.0" => "The final battle between the armies of light and darkness
+was about to unfold.",
+  "13.12.0" => "Shining Beacon",
+  "13.13.0" => "Shining Beacon",
+  "13.14.0" => "Shining Beacon",
+  "13.15.0" => "Shining Beacon",
+  "13.16.0" => "Shining Beacon",
+  "14.0.0" => "Link and his friends defeated Cia and her legions,
+returning peace to Hyrule.",
+  "14.1.0" => "But that peace would be short-lived.",
+  "14.2.0" => "At the moment when Link drew the Master Sword from its
+pedestal...",
+  "14.3.0" => "he had inadvertently broken the seal on the last spirit
+fragment's prison, setting it free to unite with the others.",
+  "14.4.0" => "His spirit made whole, Ganondorf was reborn.",
+  "14.5.0" => "His first act was to return to Gerudo Desert, the center
+of his power in Hyrule.",
+  "14.6.0" => "Once there, he summoned the spirits of Zant and Ghirahim
+from their imprisonment to serve him.",
+  "14.7.0" => "Finally, Ganondorf would hold the complete Triforce
+in his hands and wield its full power.",
+  "14.8.0" => "Knowing his enemies were approaching, he built a
+stronghold in Gerudo Desert for the coming battles.",
+  "14.9.0" => "With Zant and Ghirahim at his side, Ganondorf was
+poised to conquer Hyrule.",
+  "14.10.0" => "The future was bleak for the forces of light.",
+  "14.11.0" => "Ganondorf's Return",
+  "14.12.0" => "Ganondorf's Return",
+  "14.13.0" => "Ganondorf's Return",
+  "14.14.0" => "Ganondorf's Return",
+  "14.15.0" => "Ganondorf's Return",
+  "15.0.0" => "With terrifying speed, the reborn Ganondorf raised his
+army and fortified his position in Gerudo Desert.",
+  "15.2.0" => "More powerful than ever, he moved to take the scattered
+pieces of the Triforce.",
+  "15.3.0" => "His first target was the Triforce of Power, still in Lana's
+possession.",
+  "15.5.0" => "Ganondorf had wielded it long ago and claimed it as
+his right.",
+  "15.7.0" => "Regaining it would give him the might to seize the other
+two pieces.",
+  "15.8.0" => "With this thought, Ganondorf led a massive army to
+the Valley of Seers.",
+  "15.9.0" => "Knowing she could never defeat him, Lana fled the valley
+even as the Hyrulean army rushed to her aid.",
+  "15.11.0" => "But Ganondorf outmaneuvered her and cut off her
+retreat, attacking fiercely to retake the Triforce of
+Power.",
+  "15.12.0" => "March of the Demon King",
+  "15.13.0" => "March of the Demon King",
+  "15.14.0" => "March of the Demon King",
+  "15.15.0" => "March of the Demon King",
+  "15.16.0" => "March of the Demon King",
+  "16.0.0" => "Ganondorf's forces defeated the Hyrulean army and
+wrenched the Triforce of Power from Lana's grasp.",
+  "16.2.0" => "Yet, the other two pieces remained with Link and Zelda
+in Hyrule Castle.",
+  "16.3.0" => "If Ganondorf could take the castle and complete the
+Triforce, Hyrule would be at his mercy.",
+  "16.4.0" => "He readied his army for a siege.",
+  "16.5.0" => "Meanwhile, Zelda's forces stood ready to defend their
+home at all costs.",
+  "16.6.0" => "Link stood at the head of the army, the shining
+Triforce of Courage inspiring his troops.",
+  "16.7.0" => "This battle would decide Hyrule's fate.",
+  "16.8.0" => "Would the light endure...or would darkness spread to
+every corner of the land?",
+  "16.9.0" => "The next moments would decide.",
+  "16.10.0" => "Battle of the Triforce",
+  "16.11.0" => "Battle of the Triforce",
+  "16.12.0" => "Battle of the Triforce",
+  "16.13.0" => "Battle of the Triforce",
+  "16.14.0" => "Battle of the Triforce",
+  "17.0.0" => "Ganondorf had assembled all three pieces of
+the Triforce. With its unlimited might, he summoned
+ever-greater hordes of monsters.",
+  "17.1.0" => "Seeing the battle was won, Ganondorf vanished
+from sight.",
+  "17.2.0" => "When Zelda learned of the Demon King's disappearance,
+she saw a thin ray of hope.",
+  "17.4.0" => "If the remaining Hyrulean army could defeat Zant and
+Ghirahim in their master's absence, perhaps there was
+a chance.",
+  "17.5.0" => "Taking the fight to the enemy's stronghold in
+Gerudo Desert, Zelda was determined to end
+the war before the day was through.",
+  "17.7.0" => "Enduring Resolve",
+  "17.8.0" => "Enduring Resolve",
+  "17.9.0" => "Enduring Resolve",
+  "17.10.0" => "Enduring Resolve",
+  "17.11.0" => "Enduring Resolve",
+  "18.0.0" => "After Zelda's triumph in Gerudo Desert...",
+  "18.1.0" => "Impa's forces managed to pinpoint Ganondorf's location.",
+  "18.2.0" => "He had conquered Hyrule Castle and transformed it in
+his own image. From this fortress, he prepared for an
+unspeakable ritual.",
+  "18.3.0" => "Link, Zelda, and all of their allies...",
+  "18.4.0" => "from across the ages marched toward Ganon's Tower,
+ready for the final, decisive battle.",
+  "18.5.0" => "If they fell, all of Hyrule would fall with them...",
+  "18.6.0" => "Liberation of the Triforce",
+  "18.7.0" => "Liberation of the Triforce",
+  "18.8.0" => "Liberation of the Triforce",
+  "18.9.0" => "Liberation of the Triforce",
+  "18.10.0" => "Liberation of the Triforce",
+  "19.0.0" => "The goodness driven from her heart,
+Cia opened the Gate of Souls, summoning
+vast hordes of monsters to Hyrule.",
+  "19.1.0" => "Ganondorf's spirit counseled that her attack must be
+swift and devastating if she was to be victorious.",
+  "19.2.0" => "However, controlling an army would require
+a commander, and Cia realized she would need
+a powerful warrior to serve as her general.",
+  "19.3.0" => "The perfect candidate came readily to mind:
+the Dragon Knight of the Eldin Caves.",
+  "19.4.0" => "If he could be made to serve, such a creature would
+easily be able to command her minions' obedience.",
+  "19.5.0" => "Cia wasted no time.",
+  "19.6.0" => "She immediately set off for the Eldin Caves
+in search of her new champion.",
+  "19.7.0" => "The Dragon of the Caves",
+  "19.8.0" => "The Dragon of the Caves",
+  "19.9.0" => "The Dragon of the Caves",
+  "19.10.0" => "The Dragon of the Caves",
+  "19.11.0" => "The Dragon of the Caves",
+  "20.0.0" => "With Volga and Wizzro at the head of her army,
+Cia launched her invasion of Hyrule.",
+  "20.1.0" => "En route, Wizzro offered some advice.",
+  "20.2.0" => "He said their first priority should be the eradication
+of Hyrule's fairies.",
+  "20.3.0" => "The good-hearted fairies of Hyrule were known to
+provide aid and comfort to their chosen warriors.",
+  "20.4.0" => "Should the legendary hero appear and receive their
+assistance, Cia and her forces might be hard pressed.",
+  "20.5.0" => "Cia considered Wizzro's counsel and commanded
+her troops to begin hunting fairies.",
+  "20.6.0" => "Many fairies were captured throughout Hyrule,
+but a few eluded her grasp.",
+  "20.7.0" => "Unbeknownst to Cia, a mysterious young woman was
+working with the Gorons to protect the fairies.",
+  "20.8.0" => "Rather than delay her invasion further, Cia dispatched
+Volga and Wizzro to capture the last stragglers.",
+  "20.9.0" => "The Invasion Begins",
+  "20.10.0" => "The Invasion Begins",
+  "20.11.0" => "The Invasion Begins",
+  "20.12.0" => "The Invasion Begins",
+  "20.13.0" => "The Invasion Begins",
+  "21.0.0" => "Cia had conquered the land of Hyrule in
+the blink of an eye and claimed pieces of
+the Triforce as the spoils of her victory.",
+  "21.1.0" => "Intoxicated by the power of the complete Triforce,
+she fell further under Ganondorf's sway.",
+  "21.2.0" => "At his urging, she ripped time and space open
+to create portals to three other eras of Hyrule's
+storied past.",
+  "21.3.0" => "Immediately, she sensed a power emanating from the
+Era of Twilight. She set off to discover whether it
+was a resource to control...or an enemy to destroy.",
+  "21.4.0" => "The Usurper King",
+  "21.5.0" => "The Usurper King",
+  "21.6.0" => "The Usurper King",
+  "21.7.0" => "The Usurper King",
+  "21.8.0" => "The Usurper King",
+  "22.0.0" => "Cia sensed another powerful and unknown entity
+in a separate rift in time, this one on the floating
+island of Skyloft.",
+  "22.1.0" => "When she arrived there, she found it already
+beset by a vast army of monsters. But who
+commanded them, Cia wondered.",
+  "22.2.0" => "The inhabitants of Skyloft were clearly overwhelmed.
+Many thought that the end of the world was at hand.",
+  "22.3.0" => "Fi, a servant of the goddess, fought alongside
+the humans, but the beasts' advance could not
+be stopped.",
+  "22.4.0" => "A great darkness would soon overtake Skyloft.
+Though Cia cared nothing for the fate of the
+villagers, she began formulating a plan.",
+  "22.5.0" => "Whatever being had brought these creatures
+to Skyloft would make a powerful servant. She
+would need to subjugate it and make it her own.",
+  "22.6.0" => "Launching herself into battle to defend Skyloft,
+Cia looked for an opportunity to weaken this
+dark power...and then add it to her forces.",
+  "22.7.0" => "The Demon Lord",
+  "22.8.0" => "The Demon Lord",
+  "22.9.0" => "The Demon Lord",
+  "22.10.0" => "The Demon Lord",
+  "22.11.0" => "The Demon Lord",
+  "23.0.0" => "Link and his allies had defeated Wizzro, Zant,
+and Ghirahim. Cia's hopes were fading.",
+  "23.1.0" => "Meanwhile, Ganondorf was making his way to
+the Valley of Seers to wrest the Triforce of Power
+from her hands.",
+  "23.2.0" => "Cia had few options remaining.",
+  "23.3.0" => "Desperate to win at any cost, she tapped into
+her very life force to bolster her magic.",
+  "23.4.0" => "Cia knew this would cost her her life, but victory
+was now worth any price.",
+  "23.5.0" => "Darkness Falls",
+  "23.6.0" => "Darkness Falls",
+  "23.7.0" => "Darkness Falls",
+  "23.8.0" => "Darkness Falls",
+  "23.9.0" => "Darkness Falls",
+  "24.0.0" => "There once was a girl who lived in a small
+village. She led a simple life, tending to her
+flock of cuccos. Her name was Linkle.",
+  "24.1.0" => "For as long as she could remember, Linkle had
+believed in her heart that she was the Hero reborn.",
+  "24.2.0" => "One day, terrible news arrived at her village.",
+  "24.3.0" => "Monsters had laid siege to Hyrule Castle.",
+  "24.4.0" => "Linkle caught word of the monsters' attack
+and immediately began preparations. She dressed
+the part in her green tunic.",
+  "24.5.0" => "Equipped with her trusty crossbows and the
+ancient compass her grandmother had bestowed
+on her, Linkle set out from the village.",
+  "24.6.0" => "This treasured compass and a crude map were
+all she had to guide her way to Hyrule Castle. ",
+  "24.7.0" => "In no time at all, she found herself lost in a
+malevolent forest.",
+  "24.8.0" => "An imp in a curious mask appeared out of
+nowhere and stole Linkle's precious compass.",
+  "24.9.0" => "That compass, she knew, was proof of her
+destiny. She had to get it back!",
+  "24.10.0" => "And thus began Linkle's first true trial.",
+  "24.11.0" => "The Girl in the Green Tunic",
+  "24.12.0" => "The Girl in the Green Tunic",
+  "24.13.0" => "The Girl in the Green Tunic",
+  "24.14.0" => "The Girl in the Green Tunic",
+  "24.15.0" => "The Girl in the Green Tunic",
+  "25.0.0" => "At the Water Temple, Princess Zelda and Impa
+had defeated Wizzro, the twisted wizard. They
+returned to their own realm ahead of the others.",
+  "25.1.0" => "Ruto and Darunia stayed behind in order to
+patrol the grounds and keep vigil.",
+  "25.2.0" => "But they suddenly found themselves drawn into
+battle when they were attacked by a new wave of
+monsters.",
+  "25.3.0" => "It was the Dragon Knight, Volga, who led them.",
+  "25.4.0" => "He set his wrath upon Ruto and Darunia,
+and drew them into a vicious battle.",
+  "25.5.0" => "It was then that Linkle, in her quest to find
+Hyrule Castle, stumbled onto the scene.",
+  "25.6.0" => "She was quick to answer Ruto's plea for aid, for
+she knew a hero must always help those in need.
+Linkle leapt into battle.",
+  "25.7.0" => "Powers Collide",
+  "25.8.0" => "Powers Collide",
+  "25.9.0" => "Powers Collide",
+  "25.10.0" => "Powers Collide",
+  "25.11.0" => "Powers Collide",
+  "26.0.0" => "The sorceress Cia had acquired the Triforce and
+used it to bring forth other strange, new worlds.",
+  "26.1.0" => "Not long after this, Ghirahim discovered a
+Gate of Souls. It was in the Sealed Grounds
+below Skyloft.",
+  "26.2.0" => "Ghirahim knew a legendary beast was imprisoned
+deep within the land. He gathered a horde of
+monsters and plotted to awaken it.",
+  "26.3.0" => "Far above, among the clouds of Skyloft,
+the spirit Fi sensed disturbing changes
+taking place in the land.",
+  "26.4.0" => "Convinced that an evil force was stirring,
+Fi quickly left Skyloft and flew down to the
+Sealed Grounds.",
+  "26.5.0" => "As Fi raced to the land below, an unexpected ally
+stumbled upon the very same Sealed Grounds...",
+  "26.6.0" => "It was Linkle. She had not yet found Hyrule Castle,
+but she had managed to find another battle.",
+  "26.7.0" => "The Demon Lord's Plan",
+  "26.8.0" => "The Demon Lord's Plan",
+  "26.9.0" => "The Demon Lord's Plan",
+  "26.10.0" => "The Demon Lord's Plan",
+  "26.11.0" => "The Demon Lord's Plan",
+  "27.0.0" => "Now that Link had acquired the Master Sword,
+he and his companions began readying themselves
+for the coming war with Cia.",
+  "27.1.0" => "It was during this time that Princess Zelda
+sensed an ominous presence.",
+  "27.2.0" => "A dark magic, its source unknown, began to flow
+across the land and devour everything it touched.",
+  "27.3.0" => "If the flow of magic was not quickly stemmed,
+all light would soon be gone from the world. ",
+  "27.4.0" => "Believing the Palace of Twilight to be the
+source of this devastation, Zelda set out on
+her own to stop it.",
+  "27.5.0" => "Midna soon noticed that the princess was gone.
+She rushed after Zelda toward the palace.",
+  "27.6.0" => "Along the way, Midna came upon Linkle,
+who seemed to be utterly transfixed by
+an object she had found.",
+  "27.7.0" => "It was a black crystal, and Midna was mesmerized
+by it as well. She touched the crystal.",
+  "27.8.0" => "In the blink of an eye, Midna transformed
+from a tiny creature into a beautiful woman.",
+  "27.9.0" => "The powerful magic inside the crystal had returned
+Midna to her true form.",
+  "27.10.0" => "Linkle was left speechless, which was just
+as well. There was no time to talk about
+Midna's amazing transformation.",
+  "27.11.0" => "Midna had only one thing on her mind: to rescue
+Zelda. She recruited Linkle to join her mission.
+Together, they would enter the Palace of Twilight.",
+  "27.12.0" => "Her True Self",
+  "27.13.0" => "Her True Self",
+  "27.14.0" => "Her True Self",
+  "27.15.0" => "Her True Self",
+  "27.16.0" => "Her True Self",
+  "28.0.0" => "The dark beast Ganon had been defeated by
+Link and his allies. Hyrule Castle was free
+from the clutches of the powerful darkness.",
+  "28.1.0" => "Together, Zelda and Link set out for the
+Temple of the Sacred Sword. There they would
+seal away a fragment of the evil spirit.",
+  "28.2.0" => "This, surely, would bring peace back to the land.",
+  "28.3.0" => "Or so they believed. But no sooner had Link and
+Zelda departed when a new horde of monsters
+approached Hyrule Castle.",
+  "28.4.0" => "Ganondorf had fallen, and the monsters were
+left without a leader. But still, they showed
+no hesitation in attacking innocent Hyruleans.",
+  "28.5.0" => "Without Link or Zelda, or the allies who had
+come to their aid from other worlds, Hyrule Castle
+was left quite defenseless.",
+  "28.6.0" => "In order to protect the people of the land,
+Impa gathered together battle-weary soldiers
+whose wounds had not even begun to heal.",
+  "28.7.0" => "This, then, would be their sacrifice for Hyrule.
+They fought as valiantly as they could.",
+  "28.8.0" => "At that moment, a girl approached the battlefield.",
+  "28.9.0" => "Linkle's journey had been plagued by false starts
+from the moment she left her village. But she had
+finally arrived at Hyrule Castle.",
+  "28.10.0" => "She witnessed the brave soldiers struggling to
+defeat the attacking monsters.",
+  "28.11.0" => "Their courage kindled her spirit, and Linkle knew
+that the time had come to fulfill her destiny.",
+  "28.12.0" => "She gripped tightly the compass hanging around
+her neck and readied herself to save Hyrule.",
+  "28.13.0" => "Without another thought, Linkle leapt into the
+fray amid the hordes of screeching monsters.",
+  "28.14.0" => "The Other Hero",
+  "28.15.0" => "The Other Hero",
+  "28.16.0" => "The Other Hero",
+  "28.17.0" => "The Other Hero",
+  "28.18.0" => "The Other Hero",
+  "29.0.0" => "Though peace was expected to return to Hyrule
+after Ganon's fall, something rather ominous
+happened instead.",
+  "29.1.0" => "A new world appeared--a world of a different
+dimension.",
+  "29.2.0" => "Impa had summoned Link to Hyrule Castle.",
+  "29.3.0" => "She asked him to investigate this strange
+happening. Once the preparations for his
+adventure were complete, Link set off.",
+  "29.4.0" => "He entered this strange new world. It was
+a vast, mysterious dimension with an unfamiliar
+landscape.",
+  "29.5.0" => "There he met a girl who was battling monsters.",
+  "29.6.0" => "Her name was Tetra.",
+  "29.7.0" => "She was the leader of a gang of pirates.
+But she had become separated from her
+crew during the recent dimensional event.",
+  "29.8.0" => "Though strangers, the two could agree on
+one thing: the monsters Tetra was battling
+had to be defeated.",
+  "29.9.0" => "They joined forces to take on the enemy.",
+  "29.10.0" => "A New Disturbance",
+  "29.11.0" => "A New Disturbance",
+  "29.12.0" => "A New Disturbance",
+  "29.13.0" => "A New Disturbance",
+  "29.14.0" => "A New Disturbance",
+  "30.0.0" => "A short time before the strange happenings
+washed over the Kingdom of Hyrule...",
+  "30.1.0" => "Lana had returned to the Valley of Seers,
+where she used sorcery to search for clues
+to the vanished Cia.",
+  "30.2.0" => "It was there that a figure appeared and stole
+away the Triforce of Power.",
+  "30.3.0" => "It took Lana by such surprise that she never
+had a chance to identify the thieving villain. ",
+  "30.4.0" => "At this point the strange happening in Hyrule
+occurred, and Link was sent off to investigate.",
+  "30.5.0" => "Lana sensed that a Gate of Souls had appeared
+in Gerudo Desert.",
+  "30.6.0" => "She also sensed that she might be able to
+uncover new clues to Cia's disappearance,
+if only she visited that spot.",
+  "30.7.0" => "And so Lana left behind the Valley of Seers
+and set off for Gerudo Desert.",
+  "30.8.0" => "The Search for Cia",
+  "30.9.0" => "The Search for Cia",
+  "30.10.0" => "The Search for Cia",
+  "30.11.0" => "The Search for Cia",
+  "30.12.0" => "The Search for Cia",
+  "31.0.0" => "Link, Lana, and Tetra heeded the ancient king's
+advice and headed for a place of great darkness.",
+  "31.1.0" => "Tetra resolved to fight alongside Link and Lana
+until this world had returned to normal.",
+  "31.2.0" => "For she knew she could not sit idly by if someone
+lurking in her own world was the reason behind
+these strange happenings.",
+  "31.3.0" => "Upon nearing their destination, the trio could
+feel the power of the darkness grow stronger.
+",
+  "31.4.0" => "As the darkness enveloped her, Lana began
+to strongly sense Cia's presence in the land.",
+  "31.5.0" => "Reclaiming the Darkness",
+  "31.6.0" => "Reclaiming the Darkness",
+  "31.7.0" => "Reclaiming the Darkness",
+  "31.8.0" => "Reclaiming the Darkness",
+  "31.9.0" => "Reclaiming the Darkness",
+  "32.0.0" => "The heroes now knew the evil one had taken
+the Triforce of Power. He had robbed Cia of her
+magic and learned of her other half, Lana.",
+  "32.1.0" => "With the balance of the Triforce so shifted, there
+was little hope the world would return to normal.",
+  "32.2.0" => "And with her magic gone, in time
+Cia would completely disappear.",
+  "32.3.0" => "Cia used what little power she had left to seek
+out the one who had taken from her so much.
+She told Link and the others of her findings.",
+  "32.4.0" => "If they could defeat the shadowy presence,
+they could save not only the world from
+danger, but Cia as well.",
+  "32.5.0" => "Link and his allies held the promise of future
+peace in their hearts as they readied for this
+final, decisive battle.",
+  "32.6.0" => "Watchers of the Triforce",
+  "32.7.0" => "Watchers of the Triforce",
+  "32.8.0" => "Watchers of the Triforce",
+  "32.9.0" => "Watchers of the Triforce",
+  "32.10.0" => "Watchers of the Triforce",
+}

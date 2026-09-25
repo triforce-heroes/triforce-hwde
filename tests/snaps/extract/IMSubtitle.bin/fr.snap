@@ -1,0 +1,809 @@
+Map {
+  "0.0.0" => "Le royaume d'Hyrule était assailli par
+de vastes hordes de monstres.",
+  "0.1.0" => "Leur nombre incalculable réduisait à néant
+tous les efforts de résistance que la princesse
+Zelda put mettre en place.",
+  "0.2.0" => "La nouvelle de la défaite imminente de l'armée
+d'Hyrule atteignit rapidement les nouvelles
+recrues dans la cour du château.",
+  "0.4.0" => "Informés de la déroute de l'élite des soldats,
+ces jeunes soldats attendaient, impuissants,
+à l'abri derrière les murs du château.",
+  "0.6.0" => "Ignorant le danger, un jeune homme décida
+de prendre les armes et partit, une simple
+épée d'entraînement à la main.",
+  "0.7.0" => "Ce courageux garçon portait le nom de Link.",
+  "0.8.0" => "Poussé par sa bravoure, il se rua sur le
+champ de bataille infesté de monstres pour
+aider la princesse Zelda et défendre Hyrule.",
+  "0.10.0" => "L'armée des ténèbres",
+  "0.11.0" => "L'armée des ténèbres",
+  "0.12.0" => "L'armée des ténèbres",
+  "0.13.0" => "L'armée des ténèbres",
+  "0.14.0" => "L'armée des ténèbres",
+  "1.0.0" => "Au terme d'une bataille féroce, Link et ses compagnons
+parvinrent à éliminer le roi dodongo, mais l'attaque de 
+la gigantesque bête n'était en fait qu'une diversion.",
+  "1.1.0" => "L'armée des monstres en avait profité
+pour prendre le château d'Hyrule.",
+  "1.3.0" => "Pire encore, à la fin de la bataille,
+la princesse Zelda était introuvable.",
+  "1.4.0" => "Impa et Link retournèrent le champ de bataille
+à la recherche d'une trace de la princesse,
+mais sans succès.",
+  "1.5.0" => "Malgré leur défaite, Impa pouvait ressentir
+une force étrange émanant de Link, et son
+rôle capital dans la guerre à venir.",
+  "1.6.0" => "Elle lui confia alors une tunique verte,
+symbole du Héros de la légende.",
+  "1.7.0" => "Link ne se sentait pas digne d'un tel honneur, mais
+il était déterminé à aider Impa, et ce qui restait de
+l'armée d'Hyrule, à retrouver la princesse Zelda.",
+  "1.8.0" => "Les semaines passèrent...",
+  "1.9.0" => "Une étrange rumeur arriva aux oreilles d'Impa.
+Une poignée de soldats tenaient tête aux
+monstres dans la forêt de Firone.",
+  "1.10.0" => "Le meneur de la résistance était une mystérieuse
+jeune femme.",
+  "1.11.0" => "Impa caressait l'espoir qu'il s'agît de Zelda.",
+  "1.12.0" => "Link et Impa décidèrent alors de se mettre en
+route pour la forêt en passant par les grottes
+d'Ordinn, une route des plus périlleuses.",
+  "1.14.0" => "Le jeune Sheikah",
+  "1.15.0" => "Le jeune Sheikah",
+  "1.16.0" => "Le jeune Sheikah",
+  "1.17.0" => "Le jeune Sheikah",
+  "1.18.0" => "Le jeune Sheikah",
+  "2.0.0" => "Dans les grottes d'Ordinn, Link et ses
+compagnons furent sauvés par un mystérieux
+jeune homme nommé Sheik.",
+  "2.1.0" => "Fortes d'un nouvel allié, les troupes d'Impa
+parvinrent à sortir des grottes et pénétrèrent
+dans la forêt de Firone.",
+  "2.2.0" => "Ils y trouvèrent un village bâti dans les arbres
+et attaqué par des hordes de monstres.",
+  "2.3.0" => "Malgré leur désir de continuer les recherches, Link et
+Impa ne pouvaient ignorer la détresse des villageois.
+Sans hésitation, ils se jetèrent dans la bataille.",
+  "2.4.0" => "La sorcière de la forêt",
+  "2.5.0" => "La sorcière de la forêt",
+  "2.6.0" => "La sorcière de la forêt",
+  "2.7.0" => "La sorcière de la forêt",
+  "2.8.0" => "La sorcière de la forêt",
+  "3.0.0" => "À la tête de la résistance de la forêt de Firone
+se trouvait une jeune sorcière du nom de Lana.",
+  "3.1.0" => "Elle appartenait au même clan que Cya, la sorcière
+qui contrôlait les monstres qui attaquaient Hyrule.",
+  "3.2.0" => "Lana combattait l'armée de Cya
+depuis qu'elle était apparue.",
+  "3.3.0" => "Cya cherchait à reconstituer la Triforce, et à
+utiliser son pouvoir pour conquérir Hyrule.",
+  "3.4.0" => "À l'annonce de cette nouvelle, Link et
+Impa décidèrent de rejoindre les rangs
+de Lana pour mettre fin à cette tragédie.",
+  "3.5.0" => "Malgré leur victoire sur les monstres
+de la forêt de Firone, Cya contrôlait
+toujours la majeure partie d'Hyrule.",
+  "3.6.0" => "Chaque jour, davantage de créatures
+apparaissaient et déferlaient sur le
+royaume.",
+  "3.7.0" => "Link et Impa regrettaient amèrement l'absence
+de la princesse Zelda, mais il était de leur
+devoir de combattre les ténèbres.",
+  "3.8.0" => "Une seule solution se présentait à eux :
+enrayer l'arrivée de ces vagues de monstres
+en fermant la porte des âmes.",
+  "3.9.0" => "Nos héros se mirent en route pour la vallée
+des sorcières afin de mettre un terme à
+cette guerre sanglante.",
+  "3.10.0" => "La sorcière de la vallée",
+  "3.11.0" => "La sorcière de la vallée",
+  "3.12.0" => "La sorcière de la vallée",
+  "3.13.0" => "La sorcière de la vallée",
+  "3.14.0" => "La sorcière de la vallée",
+  "4.0.0" => "Cya possédait déjà la Triforce de la force.",
+  "4.1.0" => "À Link, elle déroba la Triforce du courage.",
+  "4.2.0" => "La Triforce de la sagesse, quant à elle,
+était le trésor héréditaire des membres
+de la famille royale d'Hyrule.",
+  "4.3.0" => "Pourtant, c'était Sheik qui l'avait en sa
+possession lors de l'attaque de Cya.",
+  "4.4.0" => "Une fois tous les fragments de la Triforce
+entre ses mains...",
+  "4.5.0" => "Cya utilisa son immense pouvoir pour
+distordre l'espace et le temps, et ouvrir
+des portes vers d'autres époques.",
+  "4.6.0" => "Des portails vers trois ères apparurent...",
+  "4.7.0" => "Lana expliqua qu'une porte des âmes avait
+été ouverte dans chacune de ces ères, et que
+c'était de ces portes qu'affluaient les monstres.",
+  "4.8.0" => "En ouvrant ces portes, Cya avait libéré
+les fragments de l'âme maléfique, autrefois
+scellés dans chacune de ces ères.",
+  "4.9.0" => "La tâche qui attendait nos héros était
+à présent de voyager dans chaque époque
+et d'y fermer la porte des âmes.",
+  "4.10.0" => "Une fois les portes fermées, ils pourraient
+commencer à réparer les dégâts que Cya
+avait infligés au royaume.",
+  "4.11.0" => "Pressés par le temps, Link et ses compagnons
+se séparèrent en plusieurs groupes pour
+rechercher les trois portes simultanément.",
+  "4.12.0" => "Ils se promirent de les refermer et
+de revenir sains et saufs.",
+  "4.13.0" => "Vers d'autres mondes",
+  "4.14.0" => "Vers d'autres mondes",
+  "4.15.0" => "Vers d'autres mondes",
+  "4.16.0" => "Vers d'autres mondes",
+  "4.17.0" => "Vers d'autres mondes",
+  "5.0.0" => "À la tête d'un bataillon de soldats d'Hyrule,
+Impa franchit l'un des portails qui venaient
+de s'ouvrir.",
+  "5.1.0" => "Le royaume qui s'étendait sous ses yeux
+ressemblait à l'Hyrule qu'elle connaissait,
+et pourtant il était différent.",
+  "5.2.0" => "Elle comprit bientôt qu'ils étaient retournés
+à l'ère du légendaire Héros du Temps.",
+  "5.3.0" => "Bouleversée, Impa se mit à la recherche
+de la porte des âmes.",
+  "5.4.0" => "Ressentant une présence maléfique
+provenant du mont de la Mort, Impa mit
+le cap sur l'inquiétante montagne.",
+  "5.5.0" => "Et à ses côtés, Sheik, toujours
+enveloppé de mystère...",
+  "5.6.0" => "Les terres mythiques",
+  "5.7.0" => "Les terres mythiques",
+  "5.8.0" => "Les terres mythiques",
+  "5.9.0" => "Les terres mythiques",
+  "5.10.0" => "Les terres mythiques",
+  "6.0.0" => "À la demande de la fée, Impa se fraya un chemin
+jusqu'au sommet du mont de la Mort pour
+sauver Ruto, la princesse des Zoras.",
+  "6.1.0" => "Là-bas, elle dut faire face à Darunia, le chef
+des Gorons, qui avait momentanément perdu
+la raison.",
+  "6.2.0" => "Une fois Ruto délivrée, Impa fut choquée
+lorsqu'elle apprit la raison du conflit entre
+les Zoras et les Gorons.",
+  "6.3.0" => "L'antique temple de l'eau grouillait de monstres
+qui arrivaient sans cesse de la porte des âmes.",
+  "6.4.0" => "Plus inquiétant encore, c'était la princesse Zelda
+elle-même qui semblait mener ces hordes.",
+  "6.5.0" => "Espérant mettre à l'épreuve cette
+troublante révélation...",
+  "6.6.0" => "Impa et ses nouveaux alliés se mirent
+en route vers le temple de l'eau.",
+  "6.7.0" => "Mais dès leur arrivée, ils furent accueillis par
+une Zelda au cœur corrompu par le mal.",
+  "6.8.0" => "Le temple de l'eau",
+  "6.9.0" => "Le temple de l'eau",
+  "6.10.0" => "Le temple de l'eau",
+  "6.11.0" => "Le temple de l'eau",
+  "6.12.0" => "Le temple de l'eau",
+  "7.0.0" => "Lana franchit l'un des portails et eut le souffle coupé
+par le spectacle qui s'offrait à elle.",
+  "7.1.0" => "Où que son regard puisse porter, ce royaume
+était dévoré par les ombres.",
+  "7.2.0" => "Les légendes sur le royaume du Crépuscule
+étaient nombreuses, mais elle le voyait de
+ses yeux pour la première fois.",
+  "7.3.0" => "Les pouvoirs de Lana ne lui permirent pas
+de découvrir ce qui permettait au Crépuscule
+d'envahir ainsi Hyrule.",
+  "7.5.0" => "Ses pas finirent par la conduire près d'un
+petit village attaqué par des monstres.
+La porte des âmes devrait attendre...",
+  "7.6.0" => "Les terres du Crépuscule",
+  "7.7.0" => "Les terres du Crépuscule",
+  "7.8.0" => "Les terres du Crépuscule",
+  "7.9.0" => "Les terres du Crépuscule",
+  "7.10.0" => "Les terres du Crépuscule",
+  "8.0.0" => "Lana avait sauvé du Crépuscule une étrange
+jeune fille nommée Machaon.",
+  "8.1.0" => "En remerciement, celle-ci lui offrit un
+papillon de la Déesse qui pourrait
+la conduire là où elle voudrait.",
+  "8.2.0" => "Midona, un curieux membre du peuple
+des ombres, se joignit à leur groupe pour
+des raisons qui lui étaient propres.",
+  "8.4.0" => "Nos héroïnes suivirent le papillon de la Déesse et
+atteignirent finalement le palais du Crépuscule.",
+  "8.5.0" => "Elles y rencontrèrent un impitoyable ennemi.",
+  "8.6.0" => "Xanto l'usurpateur, le cruel monarque qui régnait
+sur le domaine des ombres.",
+  "8.7.0" => "Lana et Midona devraient triompher de ses
+pouvoirs surnaturels pour mener à bien leur tâche.",
+  "8.8.0" => "Le roi des ombres",
+  "8.9.0" => "Le roi des ombres",
+  "8.10.0" => "Le roi des ombres",
+  "8.11.0" => "Le roi des ombres",
+  "8.12.0" => "Le roi des ombres",
+  "9.0.0" => "Link et ses compagnons franchirent l'un
+des portails et se retrouvèrent dans un
+endroit enchanteur.",
+  "9.1.0" => "On lui avait conté l'histoire des terres dans les
+cieux, mais il voyait à présent Célesbourg de ses
+propres yeux. Hélas, il n'était pas arrivé seul.",
+  "9.3.0" => "Envahie par les monstres, l'île céleste était
+sur le point d'être détruite.",
+  "9.4.0" => "Malgré leur infériorité numérique, Link et
+ses compagnons n'hésitèrent pas une seconde.",
+  "9.5.0" => "Ils se jetèrent à corps perdu dans la bataille
+pour avoir une chance de sauver Célesbourg
+du désastre qui la menaçait.",
+  "9.7.0" => "Les terres célestes",
+  "9.8.0" => "Les terres célestes",
+  "9.9.0" => "Les terres célestes",
+  "9.10.0" => "Les terres célestes",
+  "9.11.0" => "Les terres célestes",
+  "10.0.0" => "Rejoints par Fay, une servante de la Déesse
+Hylia, Link et ses compagnons repoussèrent
+Volga, le chevalier dragon.",
+  "10.1.0" => "Malgré leur victoire, Ghirahim, le monarque
+démoniaque, parvint à s'enfuir dans le
+chaos de la bataille.",
+  "10.3.0" => "Dans l'espoir d'éliminer Ghirahim et de fermer
+la porte des âmes, Link et Fay se mirent
+en route vers le site du sceau.",
+  "10.4.0" => "L'armée d'Hyrule avançait avec hâte pour
+rattraper sa proie au plus vite.",
+  "10.5.0" => "C'est le moment que choisit Ghirahim pour
+mettre son plan à exécution.",
+  "10.6.0" => "Une ambition scellée",
+  "10.7.0" => "Une ambition scellée",
+  "10.8.0" => "Une ambition scellée",
+  "10.9.0" => "Une ambition scellée",
+  "10.10.0" => "Une ambition scellée",
+  "11.0.0" => "Une fois les portes des âmes fermées dans
+chaque ère, Link et ses compagnons se
+retrouvèrent enfin.",
+  "11.1.0" => "Sheik révéla son identité à tous, dissipant
+toute inquiétude au sujet de la princesse
+Zelda.",
+  "11.2.0" => "Pendant ce temps, Ganondorf avait réussi
+à récupérer trois de ses quatre fragments
+d'âme...",
+  "11.3.0" => "Il décida alors de quitter le corps de Cya, qui
+ne lui était plus d'aucune utilité.",
+  "11.4.0" => "Libérée de l'emprise de Ganondorf, mais
+tragiquement corrompue, Cya était plus résolue
+que jamais à s'accaparer Link et la Triforce.",
+  "11.5.0" => "Cya utilisa ses pouvoirs pour renforcer son
+armée, et attaqua Hyrule encore plus
+violemment qu'auparavant.",
+  "11.6.0" => "Mais tout n'était pas perdu.",
+  "11.7.0" => "Zelda conduisit son armée au temple de l'épée
+sacrée à la recherche de l'arme légendaire
+qui pourrait tous les sauver.",
+  "11.8.0" => "L'épée sacrée",
+  "11.9.0" => "L'épée sacrée",
+  "11.10.0" => "L'épée sacrée",
+  "11.11.0" => "L'épée sacrée",
+  "11.12.0" => "L'épée sacrée",
+  "12.0.0" => "Link retira enfin l'épée maîtresse de son socle,
+prouvant à tous qu'il était bien le Héros de la
+légende.",
+  "12.1.0" => "Armé de la lame purificatrice, Link triompha
+sans peine du mage Wizzro, que Cya avait
+ramené à la vie.",
+  "12.2.0" => "Suivant les dernières paroles du magicien maléfique,
+Link et ses compagnons se mirent en route vers
+le temple des âmes pour affronter Cya.",
+  "12.4.0" => "Forte de ses récentes victoires, l'armée
+d'Hyrule avait un moral inébranlable.",
+  "12.5.0" => "Même Link commençait à se sentir invincible
+avec l'épée maîtresse entre ses mains.",
+  "12.7.0" => "Hélas, il finit par laisser l'arrogance obscurcir
+son jugement, fonçant tête baissée à travers
+des hordes d'ennemis.",
+  "12.8.0" => "Et Cya, qui attendait patiemment le moment où Link
+baisserait sa garde, en profita pour frapper.",
+  "12.9.0" => "Et alors que les deux camps s'affrontaient,
+des yeux inconnus les observaient dans
+l'ombre...",
+  "12.10.0" => "Un combat intérieur",
+  "12.11.0" => "Un combat intérieur",
+  "12.12.0" => "Un combat intérieur",
+  "12.13.0" => "Un combat intérieur",
+  "12.14.0" => "Un combat intérieur",
+  "13.0.0" => "La témérité de Link faillit lui coûter la vie lorsqu'il
+se retrouva submergé par des Link noirs.",
+  "13.1.0" => "Mais au dernier moment, ses compagnons
+le sortirent de cette situation désespérée.",
+  "13.2.0" => "L'épée maîtresse est une arme redoutable.",
+  "13.3.0" => "Mais elle ne révèle sa véritable puissance qu'à
+celui qui comprend les liens de l'amitié.",
+  "13.5.0" => "L'armée d'Hyrule avait trouvé un nouveau
+souffle, mais la plus grande partie du monde
+était toujours sous l'emprise de Cya.",
+  "13.6.0" => "Le seul moyen de sauver Hyrule était de la vaincre.",
+  "13.7.0" => "L'armée d'Hyrule se mit en marche vers la vallée
+des sorcières pour y mener une bataille décisive.",
+  "13.8.0" => "Malgré son avantage écrasant, Cya ne comptait
+pas rester sans rien faire.",
+  "13.9.0" => "Elle trouva de nouvelles manières de renforcer
+ses troupes en puisant jusque dans sa propre
+énergie vitale.",
+  "13.10.0" => "Peu importait si cela devait lui coûter la vie,
+elle devait exterminer ses ennemis.",
+  "13.11.0" => "La bataille finale entre les armées de la lumière
+et des ténèbres était sur le point de commencer.",
+  "13.12.0" => "Une lueur d'espoir",
+  "13.13.0" => "Une lueur d'espoir",
+  "13.14.0" => "Une lueur d'espoir",
+  "13.15.0" => "Une lueur d'espoir",
+  "13.16.0" => "Une lueur d'espoir",
+  "14.0.0" => "Link et ses compagnons avaient vaincu la
+sorcière Cya, ramenant ainsi la paix dans
+le royaume d'Hyrule.",
+  "14.1.0" => "Mais cette paix ne serait que de courte durée.",
+  "14.2.0" => "À l'instant où Link retira l'épée maîtresse de
+son socle, il brisa le sceau qui retenait le
+dernier fragment d'âme prisonnier.",
+  "14.3.0" => "Une fois libéré, celui-ci retrouva les autres fragments.",
+  "14.4.0" => "Son âme enfin complète, Ganondorf put renaître.",
+  "14.5.0" => "Il se rendit tout d'abord dans le désert gerudo,
+centre de son pouvoir à Hyrule.",
+  "14.6.0" => "Là, il invoqua les âmes de Xanto et de
+Ghirahim qui erraient dans les ténèbres
+et leur fit prêter allégeance.",
+  "14.7.0" => "Ganondorf allait enfin pouvoir reconstituer
+la Triforce et régner sur Hyrule à l'aide
+de son pouvoir.",
+  "14.8.0" => "Conscient de l'arrivée imminente de ses ennemis,
+Ganondorf fit construire une imposante forteresse
+dans le désert gerudo pour les batailles à venir.",
+  "14.9.0" => "Avec Xanto et Ghirahim à ses côtés,
+Ganondorf était prêt à se lancer
+dans la conquête d'Hyrule.",
+  "14.10.0" => "De sombres nuages obscurcissaient
+l'avenir des forces de la lumière.",
+  "14.11.0" => "Le retour de Ganondorf",
+  "14.12.0" => "Le retour de Ganondorf",
+  "14.13.0" => "Le retour de Ganondorf",
+  "14.14.0" => "Le retour de Ganondorf",
+  "14.15.0" => "Le retour de Ganondorf",
+  "15.0.0" => "Très rapidement, Ganondorf parvint à lever
+une armée et à fortifier sa position dans
+le désert gerudo.",
+  "15.2.0" => "Plus puissant que jamais, Ganondorf décida de
+se mettre en quête des fragments de la Triforce.",
+  "15.3.0" => "Sa première cible était la Triforce de la force
+que Lana avait en sa possession.",
+  "15.5.0" => "Ganondorf en était jadis le possesseur et
+la réclamait à présent comme son dû.",
+  "15.7.0" => "La récupérer lui donnerait la puissance nécessaire
+pour mettre la main sur les deux autres fragments.",
+  "15.8.0" => "C'est ainsi que Ganondorf, à la tête d'une
+grande armée, se mit en marche vers la
+vallée des sorcières.",
+  "15.9.0" => "Sachant qu'elle ne pourrait jamais le vaincre,
+Lana fuit la vallée alors même que l'armée
+d'Hyrule se précipitait à son secours.",
+  "15.11.0" => "Mais Ganondorf parvint à couper sa retraite,
+et lança une attaque sans merci pour
+reprendre la Triforce de la force.",
+  "15.12.0" => "La marche du roi démon",
+  "15.13.0" => "La marche du roi démon",
+  "15.14.0" => "La marche du roi démon",
+  "15.15.0" => "La marche du roi démon",
+  "15.16.0" => "La marche du roi démon",
+  "16.0.0" => "Les forces des ténèbres parvinrent à défaire
+l'armée d'Hyrule et Ganondorf arracha la
+Triforce de la force des mains de Lana.",
+  "16.2.0" => "Mais Link et Zelda conservaient toujours les
+deux autres fragments dans le château d'Hyrule.",
+  "16.3.0" => "Si Ganondorf parvenait à prendre le château et
+reconstituer la Triforce, Hyrule serait à sa merci.",
+  "16.4.0" => "Il ordonna donc à son armée de préparer
+le siège du château.",
+  "16.5.0" => "De leur côté, les forces de Zelda se préparaient
+à défendre leur terre natale à tout prix.",
+  "16.6.0" => "Link se tenait à la tête de l'armée d'Hyrule,
+la Triforce du courage insufflant de la
+bravoure aux soldats.",
+  "16.7.0" => "Cette bataille déciderait du destin d'Hyrule.",
+  "16.8.0" => "La lumière parviendrait-elle à résister... ou le monde
+serait-il envahi par les ténèbres?",
+  "16.9.0" => "Les dés étaient jetés.",
+  "16.10.0" => "La bataille de la Triforce",
+  "16.11.0" => "La bataille de la Triforce",
+  "16.12.0" => "La bataille de la Triforce",
+  "16.13.0" => "La bataille de la Triforce",
+  "16.14.0" => "La bataille de la Triforce",
+  "17.0.0" => "Ganondorf s'était emparé des trois fragments de la
+Triforce. À l'aide de son pouvoir à présent sans
+limites, il invoqua des hordes de monstres sans fin.",
+  "17.1.0" => "Et alors que le monde était tombé sous la domination
+des ténèbres, Ganondorf disparut.",
+  "17.2.0" => "La princesse Zelda vit en cette disparition
+un nouvel espoir pour les forces de la lumière.",
+  "17.4.0" => "Si les survivants de l'armée d'Hyrule pouvaient
+vaincre Xanto et Ghirahim en l'absence de
+leur maître, l'espoir subsistait.",
+  "17.5.0" => "Conduisant ses troupes vers la base ennemie
+dans le désert gerudo, Zelda était bien décidée
+à mettre fin à cette guerre avant la fin du jour.",
+  "17.7.0" => "Une détermination inébranlable",
+  "17.8.0" => "Une détermination inébranlable",
+  "17.9.0" => "Une détermination inébranlable",
+  "17.10.0" => "Une détermination inébranlable",
+  "17.11.0" => "Une détermination inébranlable",
+  "18.0.0" => "Le triomphe de Zelda dans le désert gerudo fut éclatant.",
+  "18.1.0" => "Entre temps, les troupes d'Impa étaient parvenues
+à déterminer l'emplacement de Ganondorf.",
+  "18.2.0" => "Il avait pris le château d'Hyrule et l'avait façonné
+à son image. Et dans cette forteresse, il préparait
+un innommable rituel.",
+  "18.3.0" => "Link, Zelda, et tous les compagnons qu'ils avaient
+rencontrés à travers les âges se rassemblèrent.",
+  "18.4.0" => "Ensemble, ils se rendirent à la tour de Ganon,
+prêt à livrer une ultime bataille.",
+  "18.5.0" => "S'ils venaient à échouer, ils entraîneraient
+Hyrule tout entier dans leur chute.",
+  "18.6.0" => "La libération de la Triforce",
+  "18.7.0" => "La libération de la Triforce",
+  "18.8.0" => "La libération de la Triforce",
+  "18.9.0" => "La libération de la Triforce",
+  "18.10.0" => "La libération de la Triforce",
+  "19.0.0" => "Une fois toute trace de bonté éliminée de son cœur,
+Cya ouvrit la porte des âmes, relâchant ainsi des
+hordes de monstres sur Hyrule.",
+  "19.1.0" => "L'esprit de Ganondorf l'avisa qu'une attaque expéditive
+et dévastatrice serait le meilleur moyen de remporter
+la victoire.",
+  "19.2.0" => "Cependant, Cya se rendit compte que diriger une
+armée telle que la sienne demanderait un commandant
+à la poigne de fer.",
+  "19.3.0" => "L'identité du guerrier qui correspondait à ses
+attentes lui sauta aux yeux. Le chevalier dragon
+des grottes d'Ordinn serait un meneur idéal.",
+  "19.4.0" => "Si elle parvenait à l'asservir, il n'aurait aucun mal
+à inspirer la crainte et le respect nécessaire pour
+commander ses sbires.",
+  "19.5.0" => "Cya ne perdit pas une minute.",
+  "19.6.0" => "Elle se mit en route pour les grottes d'Ordinn afin
+de recruter le nouveau commandant de son armée.",
+  "19.7.0" => "L'antre du dragon",
+  "19.8.0" => "L'antre du dragon",
+  "19.9.0" => "L'antre du dragon",
+  "19.10.0" => "L'antre du dragon",
+  "19.11.0" => "L'antre du dragon",
+  "20.0.0" => "Avec Wizzro et Volga sous ses ordres, Cya mit à
+exécution ses plans et partit à la conquête d'Hyrule.",
+  "20.1.0" => "En chemin, Wizzro lui donna toutefois un conseil.",
+  "20.2.0" => "Il lui suggéra de commencer par se
+débarrasser des fées d'Hyrule.",
+  "20.3.0" => "On disait de ces créatures bienveillantes qu'elles
+protégaient et guidaient les guerriers auxquels elles
+se liaient.",
+  "20.4.0" => "Si le Héros de la légende venait à apparaître et qu'il
+recevait la bénédiction d'une fée, les plans de conquête
+de Cya seraient mis en péril.",
+  "20.5.0" => "Cya écouta le conseil de Wizzro et ordonna à
+ses troupes de commencer la chasse aux fées.",
+  "20.6.0" => "La plupart furent capturées, mais une poignée d'entre
+elles parvint à passer entre les mailles de son filet.",
+  "20.7.0" => "Car à l'insu de Cya, une mystérieuse jeune femme,
+aidée par le peuple goron, mettait tous les moyens
+en œuvre pour protéger les fées.",
+  "20.8.0" => "Refusant de retarder davantage la conquête d'Hyrule,
+Cya ordonna à Wizzro et à Volga de capturer au plus
+vite les fées qui s'étaient échappées.",
+  "20.9.0" => "L'invasion d'Hyrule",
+  "20.10.0" => "L'invasion d'Hyrule",
+  "20.11.0" => "L'invasion d'Hyrule",
+  "20.12.0" => "L'invasion d'Hyrule",
+  "20.13.0" => "L'invasion d'Hyrule",
+  "21.0.0" => "Cya avait conquis Hyrule en un éclair, s'emparant
+par la même occasion des fragments de la Triforce.",
+  "21.1.0" => "Mais, aveuglée par le pouvoir immense de la Triforce,
+elle ne s'aperçut pas qu'elle tombait petit à petit
+sous les griffes de Ganondorf.",
+  "21.2.0" => "Il la poussa à déchirer le temps et l'espace pour
+faire apparaître trois portails vers d'autres époques.",
+  "21.3.0" => "Cya ressentit un immense pouvoir émaner du monde
+des ombres. Elle traversa le portail pour découvrir s'il
+serait un atout à contrôler... ou d'un ennemi à détruire.",
+  "21.4.0" => "L'usurpateur du trône",
+  "21.5.0" => "L'usurpateur du trône",
+  "21.6.0" => "L'usurpateur du trône",
+  "21.7.0" => "L'usurpateur du trône",
+  "21.8.0" => "L'usurpateur du trône",
+  "22.0.0" => "Une aura aussi puissante que mystérieuse
+retint également l'attention de Cya au travers
+du portail vers le monde de Célesbourg.",
+  "22.1.0" => "Quand elle atteignit l'île, elle s'aperçut que les humains
+de ces terres combattaient déjà d'autres monstres.
+Mais l'identité de leur meneur restait un mystère.",
+  "22.2.0" => "Les habitants de Célesbourg étaient dépassés.
+La fin de leur monde semblait proche.",
+  "22.3.0" => "Fay, la servante de la Déesse, combattait aux côtés
+des humains, mais les monstres ne cessaient de
+gagner du terrain.",
+  "22.4.0" => "Célesbourg s'apprêtait à connaître un funeste destin.
+Cya n'avait que faire du sort de ces humains, mais
+elle avait une idée derrière la tête.",
+  "22.5.0" => "Quel qu'il soit, l'être qui avait invoqué ces monstres
+ferait un puissant serviteur. Mais, elle devrait d'abord
+le soumettre à sa volonté.",
+  "22.6.0" => "S'alliant aux humains pour défendre Célesbourg,
+Cya cherchait une occasion d'affaiblir cet être
+démoniaque pour le recruter dans son armée.",
+  "22.7.0" => "Le monarque démoniaque",
+  "22.8.0" => "Le monarque démoniaque",
+  "22.9.0" => "Le monarque démoniaque",
+  "22.10.0" => "Le monarque démoniaque",
+  "22.11.0" => "Le monarque démoniaque",
+  "23.0.0" => "Link ayant défait Ghirahim, Xanto et Wizzro,
+les espoirs de Cya s'amenuisaient.",
+  "23.1.0" => "Pendant ce temps, Ganondorf se hâtait vers la vallée
+des sorcières pour lui arracher la Triforce de la Force.",
+  "23.2.0" => "Cya n'avait plus le choix.",
+  "23.3.0" => "Déterminée à remporter la victoire quel qu'en soit
+le prix, elle puisa dans son énergie vitale même
+pour décupler ses pouvoirs magiques.",
+  "23.4.0" => "Elle savait qu'elle y laisserait la vie, mais
+la victoire était à ce prix.",
+  "23.5.0" => "Le triomphe des ténèbres",
+  "23.6.0" => "Le triomphe des ténèbres",
+  "23.7.0" => "Le triomphe des ténèbres",
+  "23.8.0" => "Le triomphe des ténèbres",
+  "23.9.0" => "Le triomphe des ténèbres",
+  "24.0.0" => "Il était une fois une jeune éleveuse de
+cocottes qui vivait paisiblement dans un
+petit village. Elle portait le nom de Linkle.",
+  "24.1.0" => "Aussi loin que remontent ses souvenirs,
+Linkle avait toujours été persuadée d'être
+la réincarnation du héros de la légende.",
+  "24.2.0" => "Un jour, une terrible nouvelle atteignit
+son village.",
+  "24.3.0" => "Le château d'Hyrule était assailli par des
+hordes de monstres.",
+  "24.4.0" => "Lorsque Linkle eut vent de l'attaque, elle
+commença à se préparer. Prête à faire face
+à son destin, elle enfila sa tunique verte.",
+  "24.5.0" => "Armée de ses fidèles arbalètes et avec la
+vieille boussole qu'elle avait reçue de sa
+grand-mère en main, Linkle se mit en route.",
+  "24.6.0" => "Sa boussole adorée et une carte toute simple
+étaient tout ce dont elle disposait pour trouver
+le chemin du château d'Hyrule.",
+  "24.7.0" => "Mais à peine partie, elle se perdit dans les
+méandres sinueux d'une profonde forêt.",
+  "24.8.0" => "C'est alors qu'un malicieux lutin lui sauta
+dessus et lui vola sa précieuse boussole.",
+  "24.9.0" => "Linkle savait que cette boussole prouvait
+qu'elle était l'Héroïne de la légende. Elle
+devait la récupérer à tout prix.",
+  "24.10.0" => "C'est ainsi que la première bataille
+de Linkle commença!",
+  "24.11.0" => "La jeune fille à la tunique verte",
+  "24.12.0" => "La jeune fille à la tunique verte",
+  "24.13.0" => "La jeune fille à la tunique verte",
+  "24.14.0" => "La jeune fille à la tunique verte",
+  "24.15.0" => "La jeune fille à la tunique verte",
+  "25.0.0" => "Zelda et Impa avaient vaincu Wizzro, le perfide
+sorcier, au temple de l'eau. Elles retournèrent
+dans leur monde avant leurs compagnons.",
+  "25.1.0" => "Ruto et Darunia restèrent un peu plus longtemps
+pour s'assurer qu'aucun danger ne menacerait
+plus ces terres.",
+  "25.2.0" => "Mais il se retrouvèrent à nouveau plongés
+au cœur de la bataille quand surgit une
+nouvelle vague de monstres.",
+  "25.3.0" => "C'était Volga, le puissant chevalier dragon,
+qui dirigeait ces hordes.",
+  "25.4.0" => "Animé d'une colère ardente, l'impitoyable
+guerrier se jeta sur Ruto et Darunia et
+les mit dans une situation désespérée.",
+  "25.5.0" => "Et c'est à ce moment que Linkle, convaincue
+d'être sur la route du château d'Hyrule,
+surgit sur le champ de bataille.",
+  "25.6.0" => "Elle répondit à l'appel au secours de Ruto, car
+il est du devoir du Héros d'aider les gens,
+et sans hésiter se jeta dans la mélée.",
+  "25.7.0" => "Le choc des guerriers",
+  "25.8.0" => "Le choc des guerriers",
+  "25.9.0" => "Le choc des guerriers",
+  "25.10.0" => "Le choc des guerriers",
+  "25.11.0" => "Le choc des guerriers",
+  "26.0.0" => "Cya avait acquis la Triforce et l'avait
+utilisé pour ouvrir des voies vers
+d'autres ères.",
+  "26.1.0" => "Peu de temps après cela, Ghirahim découvrit
+une porte des âmes au cœur du site du sceau,
+loin sous l'île de Célesbourg.",
+  "26.2.0" => "Il savait que sur ces terres était emprisonnée
+une créature légendaire. Il rassembla une horde
+de monstres et se prépara à invoquer la bête.",
+  "26.3.0" => "Haut dans le ciel, sur l'île de Célesbourg,
+Fay, l'esprit de l'épée, se rendit compte
+des perturbations qui touchaient son monde.",
+  "26.4.0" => "Convaincue qu'une présence malfaisante
+était à l'œuvre, elle quitta Célesbourg et
+descendit sur le site du sceau.",
+  "26.5.0" => "Alors que Fay filait pour rejoindre la terre 
+au plus vite, une alliée inattendue fit son
+apparition au site du sceau.",
+  "26.6.0" => "Linkle, qui pensait enfin atteindre le château
+d'Hyrule, venait de mettre les pieds au
+cœur d'une nouvelle bataille.",
+  "26.7.0" => "Le plan du monarque démoniaque",
+  "26.8.0" => "Le plan du monarque démoniaque",
+  "26.9.0" => "Le plan du monarque démoniaque",
+  "26.10.0" => "Le plan du monarque démoniaque",
+  "26.11.0" => "Le plan du monarque démoniaque",
+  "27.0.0" => "Link ayant obtenu l'épée maîtresse, lui et
+ses compagnons s'apprêtaient maintenant
+à affronter Cya.",
+  "27.1.0" => "Pendant ces préparatifs, Zelda ressentit
+la présence d'une énergie menaçante.",
+  "27.2.0" => "Un sombre pouvoir, dont l'origine restait
+inconnue avait commencé à envahir ces
+terres et à tout dévorer sur son passage.",
+  "27.3.0" => "Si rien n'était fait pour l'arrêter, la lumière
+disparaitrait bientôt de ce monde.",
+  "27.4.0" => "Convaincue que la source de ce mal se trouvait
+dans le palais du Crépuscule, Zelda partit
+seule, bien déterminée à l'éliminer.",
+  "27.5.0" => "Midona s'aperçut bientôt de l'absence
+de la princesse et partit aussitôt au
+palais pour la retrouver.",
+  "27.6.0" => "Sur son chemin, elle rencontra Linkle, qui
+semblait subjuguée par une étrange objet.",
+  "27.7.0" => "Il s'agissait d'un cristal noir. Midona, tout
+aussi fascinée, s'en approcha et le toucha.",
+  "27.8.0" => "Et en un éclair, Midona se changea d'un
+étrange lutin en une femme magnifique.",
+  "27.9.0" => "Le mystérieux pouvoir renfermé dans 
+le cristal lui avait permis de retrouver
+sa véritable apparence.",
+  "27.10.0" => "Linkle, stupéfaite, restait sans voix.
+Mais Midona n'avait pas le temps de lui
+expliquer cette incroyable transformation.",
+  "27.11.0" => "Elle n'avait qu'une chose en tête : aller au
+secours de Zelda. Elle entraîna alors Linkle
+avec elle dans le palais du Crépuscule.",
+  "27.12.0" => "La véritable apparence",
+  "27.13.0" => "La véritable apparence",
+  "27.14.0" => "La véritable apparence",
+  "27.15.0" => "La véritable apparence",
+  "27.16.0" => "La véritable apparence",
+  "28.0.0" => "Ganon, le roi démon, avait été vaincu par Link
+et ses amis. Le château d'Hyrule était libéré
+de l'emprise des ténèbres.",
+  "28.1.0" => "Link et Zelda se rendirent au temple de l'épée
+sacrée afin de sceller un fragment de l'âme
+maléfique.",
+  "28.2.0" => "Ainsi, la paix reviendrait en ces terres.",
+  "28.3.0" => "C'est en tout cas ce que tout le monde croyait.
+À peine Link et Zelda furent-ils partis qu'une
+horde de monstres déferla sur le château d'Hyrule.",
+  "28.4.0" => "Ganondorf était tombé. Sans personne pour les
+mener, les monstres cédèrent à leurs pulsions
+et attaquèrent les habitants d'Hyrule.",
+  "28.5.0" => "Sans Link ni Zelda, ni aucun de leurs alliés
+à travers les ères, le château d'Hyrule
+se trouvait sans défense.",
+  "28.6.0" => "Déterminée à protéger le peuple d'Hyrule, Impa
+rassembla ses soldats, dont les blessures
+n'avaient même pas commencé à guérir.",
+  "28.7.0" => "Prêts à se sacrifier pour Hyrule, ils
+combattaient aussi vaillamement
+que leur état ne le permettait.",
+  "28.8.0" => "Au même moment, une jeune fille
+s'approchait du champ de bataille.",
+  "28.9.0" => "De nombreux détours avait marqué le périple de
+Linkle depuis son départ du village, mais elle
+était enfin arrivée au château d'Hyrule.",
+  "28.10.0" => "Elle aperçut les soldats qui luttait bravement
+pour repousser l'attaque des monstres.",
+  "28.11.0" => "Leur courage réaffirma sa détermination. À ce
+moment, Linkle savait que le temps était venu
+pour elle d'accomplir sa destinée.",
+  "28.12.0" => "Serrant la précieuse boussole qu'elle portait
+autour du cou, elle était prête à sauver Hyrule.",
+  "28.13.0" => "Sans hésitation, Linkle se jeta dans la bataille,
+au milieu des hordes de monstres enragés.",
+  "28.14.0" => "Un Héros d'un autre genre",
+  "28.15.0" => "Un Héros d'un autre genre",
+  "28.16.0" => "Un Héros d'un autre genre",
+  "28.17.0" => "Un Héros d'un autre genre",
+  "28.18.0" => "Un Héros d'un autre genre",
+  "29.0.0" => "Après la chute de Ganondorf, le retour de la paix
+à Hyrule semblait assuré, mais un inquiétant
+spectacle vint troubler cet espoir.",
+  "29.1.0" => "Un nouveau portail était apparu, menant
+vers des terres encore inconnues.",
+  "29.2.0" => "Link fut aussitôt appelé au château
+d'Hyrule par Impa.",
+  "29.3.0" => "Elle lui demanda d'aller enquêter sur cet
+étrange phénomène. Une fois ses préparatifs
+terminés, Link se mit en route sans attendre.",
+  "29.4.0" => "Quand il franchit le portail, il fut accueilli par
+de vastes terres, aussi magnifiques qu'étranges.",
+  "29.5.0" => "Il y rencontra une jeune fille aux prises
+avec un groupe de monstres.",
+  "29.6.0" => "Son nom était Tetra.",
+  "29.7.0" => "À la tête d'une bande de pirates, elle
+avait été séparée de son équipage
+suite à l'apparition du portail.",
+  "29.8.0" => "Bien qu'ils se soient à peine rencontrés, Link
+et Tetra étaient d'accord sur un point : ces
+monstres devaient être éliminés.",
+  "29.9.0" => "Ils décidèrent de faire équipe et de faire
+face à leurs ennemis.",
+  "29.10.0" => "Une nouvelle épreuve",
+  "29.11.0" => "Une nouvelle épreuve",
+  "29.12.0" => "Une nouvelle épreuve",
+  "29.13.0" => "Une nouvelle épreuve",
+  "29.14.0" => "Une nouvelle épreuve",
+  "30.0.0" => "Peu de temps avant qu'un nouveau
+portail ne s'ouvre à Hyrule...",
+  "30.1.0" => "Lana, de retour dans la vallée des sorcières
+pour assumer son rôle de veilleuse du temps,
+cherchait des traces de Cya.",
+  "30.2.0" => "C'est alors qu'une ombre mystérieuse
+apparut et déroba la Triforce de la Force.",
+  "30.3.0" => "L'agression fut si soudaine que Lana
+ne put identifier le voleur.",
+  "30.4.0" => "Au même moment, un nouveau portail s'ouvrit
+à Hyrule, et Link fut envoyé en mission pour
+enquêter à son sujet.",
+  "30.5.0" => "Lana sentit qu'une porte des âmes était
+apparue dans le désert gerudo.",
+  "30.6.0" => "Son intuition lui disait qu'elle trouverait
+sûrement des indices sur la disparition
+de Cya en se rendant sur place.",
+  "30.7.0" => "Lana quitta la vallée des sorcières et
+se mit en route pour le désert gerudo.",
+  "30.8.0" => "À la recherche de Cya",
+  "30.9.0" => "À la recherche de Cya",
+  "30.10.0" => "À la recherche de Cya",
+  "30.11.0" => "À la recherche de Cya",
+  "30.12.0" => "À la recherche de Cya",
+  "31.0.0" => "Suivant les conseils du roi, Link, Lana
+et Tetra se mirent en route vers un
+endroit dévoré par les ténèbres.",
+  "31.1.0" => "Tetra décida de rester aux côtés de Link
+et de Lana jusqu'à ce que le problème
+soit résolu.",
+  "31.2.0" => "Elle ne pouvait pas rester les bras croisés
+si le responsable de tout ce chaos se
+cachait dans son propre monde.",
+  "31.3.0" => "Plus nos trois héros se rapprochaient de
+leur destination, plus la puissance des
+ténèbres se faisait sentir. ",
+  "31.4.0" => "Et au cœur des ténèbres, Lana se mit
+à ressentir très clairement la présence
+de Cya.",
+  "31.5.0" => "La reconquête des ténèbres",
+  "31.6.0" => "La reconquête des ténèbres",
+  "31.7.0" => "La reconquête des ténèbres",
+  "31.8.0" => "La reconquête des ténèbres",
+  "31.9.0" => "La reconquête des ténèbres",
+  "32.0.0" => "L'être maléfique avait acquis la Triforce de
+la force. Il avait dépouillé Cya de sa magie,
+et également appris l'existence de Lana.",
+  "32.1.0" => "Tant que l'équilibre de la Triforce serait
+perturbé, le monde n'aurait aucune
+chance de revenir à son état normal.",
+  "32.2.0" => "Et sans ses pouvoirs magiques, Cya finirait
+par disparaître.",
+  "32.3.0" => "Affaiblie, elle puisa dans ses dernières forces
+pour localiser celui qui lui avait tant volé et
+indiqua l'endroit à Link et ses compagnons.",
+  "32.4.0" => "S'ils parvenaient à vaincre cet être malfaisant,
+non seulement Hyrule serait sauvé, mais
+Cya serait elle aussi hors de danger.",
+  "32.5.0" => "En se préparant pour cette ultime et décisive
+bataille, Link et ses compagnons se jurèrent
+de ramener la paix en Hyrule.",
+  "32.6.0" => "Les gardiens de la Triforce",
+  "32.7.0" => "Les gardiens de la Triforce",
+  "32.8.0" => "Les gardiens de la Triforce",
+  "32.9.0" => "Les gardiens de la Triforce",
+  "32.10.0" => "Les gardiens de la Triforce",
+}

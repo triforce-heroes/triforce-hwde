@@ -1,0 +1,10 @@
+Map {
+  "0.1.0" => "¡Defiende A0%1sF4R mientras vence a los enemigos!",
+  "0.2.0" => "¡Las A0%2sF1R han inspirado A0%1sF4R!",
+  "0.3.0" => "¡Han aparecido más A0%1sF1R en el campo de batalla!",
+  "0.4.0" => "¡A0%1sF0R ha solicitado ayuda A0%2sF5R!",
+  "0.5.0" => "¡A0%1sF0R ha aparecido como parte de las A0%2sF1R!",
+  "0.6.0" => "¡Vence a más enemigos para recibir ayuda A0%1sF7R!",
+  "0.7.0" => "¡A0%1sF0R ha pedido refuerzos!",
+  "0.8.0" => "¡A0%1sF3R se dirigen hacia las A0%2sF1R!",
+}

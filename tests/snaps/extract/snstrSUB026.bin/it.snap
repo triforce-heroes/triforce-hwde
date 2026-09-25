@@ -1,0 +1,13 @@
+Map {
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "A0%1sF0R attacca i presidi intorno all'area A0%2sF4R!",
+  "0.3.0" => "A0%1sF0R va all'area A0%2sF4R per abbattere le fortificazioni!",
+  "0.4.0" => "Sconfiggi A0%1sF2R e ferma il piano per distruggere i presidi!",
+  "0.5.0" => "Hai sconfitto A0%1sF3R!",
+  "0.6.0" => "A0%1sF0R ha distrutto l'area A0%2sF2R!",
+  "0.7.0" => "Sconfiggi A0%1sF2R e proteggi il resto dell'area A0%2sF2R!",
+  "0.8.0" => "A0%1sF0R ha distrutto i presidi intorno all'area A0%2sF4R!",
+  "0.9.0" => "L'area A0%1sF4R non deve cadere!",
+  "0.10.0" => "A0%1sF0R ha raggiunto l'area A0%2sF6R!",
+  "0.11.0" => "A0%1sF0R ha avviato il piano per distruggere l'area A0%2sF4R!",
+}

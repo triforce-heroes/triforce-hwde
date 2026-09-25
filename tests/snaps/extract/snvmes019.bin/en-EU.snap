@@ -1,0 +1,188 @@
+Map {
+  "1.0.0.0" => "You there! We need your help to defeat
+a terrible monster named Volga!",
+  "1.0.1.0" => "You're in trouble...? Sounds like a job
+for a hero!",
+  "1.0.2.0" => "That Volga character will lose! I'm not concerned,
+because I have the legendary hammer!",
+  "1.0.3.0" => "It's too dangerous to go alone! Hurry, you
+need to get outside and rescue Darunia!",
+  "1.0.4.0" => "Coming alone... How foolish. Meet me
+in battle, if you wish to perish.",
+  "1.0.5.0" => "The monsters are all huddled? That makes
+it easier to mash 'em all with one swing!",
+  "1.0.6.0" => "Things are looking dire! Hurry, and save
+Darunia from himself!",
+  "1.0.7.0" => "To join with him, you'll first need to open
+the temple's entrance.",
+  "1.0.8.0" => "Leave it to us! We'll get that door open!",
+  "1.0.9.0" => "Hrk... At this rate, we'll never even
+reach the door...!",
+  "1.0.10.0" => "Grah! We're getting beaten! Goro!",
+  "1.0.11.0" => "...Huh? Oh no! This gate is broken!
+I can't fix this by myself!",
+  "1.0.12.0" => "Broken?! No... Join with the others and
+try to find a solution!",
+  "1.0.14.0" => "I bet if we work together, we'll be able
+to fix that door in no time at all!",
+  "1.0.15.0" => "Without the Gorons, we'll
+never get that door open!",
+  "1.0.16.0" => "You want door opened?
+We do it for you! Gya ha!",
+  "1.0.17.0" => "The door's open! Ah! And the enemy's
+already pouring in!",
+  "1.0.18.0" => "Darunia will not survive on his own if
+we don't help. We must act quickly!",
+  "1.0.19.0" => "Yeah, we need to hurry!",
+  "1.0.20.0" => "Hya! Crush their puny base!",
+  "1.0.21.0" => "The enemy is targeting our base! We'll
+lose everything if we don't protect it!",
+  "1.0.22.0" => "Don't worry! I can protect the base!
+It'll be no problem at all!",
+  "1.0.23.0" => "Hey, a gate just opened. Looks like
+we've got more monsters coming in!",
+  "1.0.24.0" => "Thanks for the save! Now, why don't we
+go knock Volga around, huh? Ha ha ha!",
+  "1.0.25.0" => "Are you sure you're OK? There is a high
+chance you have a concussion...",
+  "1.0.26.0" => "Darunia! Don't be reckless!",
+  "1.0.27.0" => "We can finally catch our breath, but
+be careful. We're not done yet!",
+  "1.0.28.0" => "Kya! Swarm their base!",
+  "1.0.29.0" => "Gya! Gorons too tough!
+Destroy them!",
+  "1.0.30.0" => "Door closed? Hya! Smash it open!",
+  "1.0.31.0" => "Gya! Now we make for their base!",
+  "1.0.32.0" => "Gyarg! Weaklings...beat meeeeeee!",
+  "1.0.33.0" => "Are you scared yet, lizards? We're not
+so dainty!",
+  "1.0.34.0" => "Yes! Looks like our base is all right.
+I think the monsters are backing down!",
+  "1.0.35.0" => "Kyah! You...defeat...me...?
+Carelessssssss!",
+  "1.0.36.0" => "Phew! I'm just glad we stopped those
+scaly things.",
+  "1.0.37.0" => "Good, with those foul snakes defeated,
+our base should be easier to defend.",
+  "1.0.38.0" => "Our base is safe again!",
+  "1.0.39.0" => "Ugh... It's so tiring having to beat them
+back again and again...",
+  "1.0.40.0" => "They've slain my allies? Hmm... Perhaps
+they are worthy of a challenge after all.",
+  "1.0.41.0" => "I'll drag Volga out of his little hiding place
+with my bare hands!",
+  "1.0.42.0" => "Hah, you'll find that I'm not to be
+trifled with.",
+  "1.0.43.0" => "Gah! Come on! I'll never get to the
+dragon knight if this keeps up!",
+  "1.0.44.0" => "Someone needs to go help Darunia out!",
+  "1.0.45.0" => "I can help!",
+  "1.0.46.0" => "Drat. It seems the keep is shut tight...
+How are we gonna move forward now?",
+  "1.0.47.0" => "Whoo, they're tougher than I expected!
+This is gonna get rocky...!",
+  "1.0.48.0" => "Grah! I'm rock sirloin if I don't
+get some help or something!",
+  "1.0.49.0" => "Hey, Volga! If you're so tough, fight me
+yourself and leave the cronies outta this!",
+  "1.0.50.0" => "An interesting proposition. If you made it
+this far, you're worth my true strength!",
+  "1.0.51.0" => "Go, help Darunia! He doesn't realize
+what he's getting himself into!",
+  "1.0.52.0" => "If we work together, I know we can beat him!",
+  "1.0.53.0" => "We're being pushed back...? But how? The
+Gorons are strong, but not this strong.",
+  "1.0.54.0" => "I'll flatten you all! Ga ha ha!",
+  "1.0.55.0" => "Anyone else like a little taste of
+a Goron's hammer?!",
+  "1.0.56.0" => "Haaa... I hate being forced to retreat,
+but we have no choice. Fall back!",
+  "1.0.57.0" => "We did it! Thanks for the help, brother.",
+  "1.0.58.0" => "Brother? More like SISTER! Ha ha ha!
+Oh wait, the compass! It's glowing again!",
+  "1.0.59.0" => "Grk--! They got me...",
+  "1.0.60.0" => "Our base! How did we let it fall?",
+  "1.0.61.0" => "Outta my way! That pathetic
+fire-muncher is mine!",
+  "1.0.62.0" => "The Gorons fixing the door are being
+targeted! Protect them immediately!",
+  "1.0.63.0" => "If someone needs protecting, then leave it
+to the legendary hero herself! I'm on it!",
+  "1.0.64.0" => "We did it! The door's open!",
+  "1.0.65.0" => "Wonderful! Is Darunia OK?",
+  "1.0.66.0" => "Huh? The temple opened from the inside!
+What in the world just happened?",
+  "1.0.67.0" => "Wasn't the door broken? Doesn't matter!
+My brothers need me to smash Volga now!",
+  "1.0.68.0" => "RAAAAH! I'm not about to die in a
+place like this!",
+  "1.0.69.0" => "Stop the monsters! We can't let them
+get into our base!",
+  "1.0.70.0" => "My brothers... They're all fighting so hard.
+I can't let them down!",
+  "1.0.71.0" => "Darunia's in trouble! We must save him,
+right away!",
+  "1.0.72.0" => "I can open that keep, no problem!
+I just need to get in front of the gate!",
+  "1.0.73.0" => "Don't give up! We're coming to rescue you!
+Just hold on a little longer!",
+  "1.0.74.0" => "If anyone is gonna crush Volga,
+it's gonna be ME!",
+  "1.0.75.0" => "We have to keep up with Darunia!
+Hurry! Follow him into battle!",
+  "1.0.76.0" => "If we work together to protect the base,
+the enemy won't stand a chance!",
+  "1.0.77.0" => "Oops, I think I broke the door. In any
+case, they should be safe inside.",
+  "1.0.78.0" => "I bet it's because we drove off the monsters.
+Anyway, I need to get to Hyrule Castle. See ya!",
+  "13.0.2.0" => "If that one's a fake, then we need to
+find the REAL one.",
+  "13.0.3.0" => "I'll search the east. The rest of you,
+search the west.",
+  "13.0.4.0" => "So, she still insists that she's the princess?
+How puzzling...",
+  "13.0.5.0" => "It appears that the enemy is targeting us.",
+  "13.0.6.0" => "Well done. Now, we must attack the
+Water Temple.",
+  "13.0.7.0" => "Good, we should head to the front as well.",
+  "13.0.8.0" => "We're being pushed back... This is concerning.",
+  "13.0.9.0" => "Thank you. I should be all right. Please, go
+look for the floodgate switch.",
+  "13.0.10.0" => "Good, the water seems to have receded.",
+  "13.0.11.0" => "Now we can rescue Princess Ruto.",
+  "13.0.12.0" => "All we can do for now is take this keep.",
+  "13.0.13.0" => "The enemy is taken care of. All that's left is
+that impostor!",
+  "13.0.14.0" => "I'm sorry... Forgive me...",
+  "13.0.15.0" => "We managed to open the way, even
+without a plan.",
+  "13.0.16.0" => "That one could be a threat! We must fall
+back to the keep!",
+  "13.0.17.0" => "Hmm... If the impostor was able to call forth
+THAT creature, then I think I know who she is...",
+  "13.0.18.0" => "We can't continue this fight without
+Princess Ruto...",
+  "13.0.19.0" => "Let's wipe out the enemy around here first. We
+can flank them by leaping from the North Cliff.",
+  "13.0.20.0" => "Thank you for saving me. Now, please,
+Ruto needs you more than I do!",
+  "13.0.21.0" => "You've saved me... Thank you, I should
+be fine.",
+  "13.0.22.0" => "We've managed to stop them somehow...",
+  "13.0.23.0" => "No... We've managed to embolden our foes!",
+  "13.0.35.0" => "We can't continue this fight without
+Princess Ruto...",
+  "13.0.36.0" => "Let's wipe out the enemy around here first. We
+can flank them by leaping from the North Cliff.",
+  "13.0.37.0" => "Thank you for saving me. Now, please,
+Ruto needs you more than I do!",
+  "13.0.38.0" => "You've saved me... Thank you, I should
+be fine.",
+  "13.0.39.0" => "We've managed to stop them somehow...",
+  "13.0.40.0" => "No... We've managed to embolden our foes!",
+  "13.0.52.0" => "Without Princess Ruto, our efforts will
+be in vain...",
+  "13.0.53.0" => "We must first dispatch the enemies before
+us, then flank the rest from the north.",
+}

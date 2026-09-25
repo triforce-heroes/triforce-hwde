@@ -1,0 +1,769 @@
+Map {
+  "0.0.0" => "Horden von Monstern begannen, Hyrule zu belagern.",
+  "0.1.0" => "Prinzessin Zelda selbst stellte sich tapfer
+der übermächtigen Bedrohung entgegen.",
+  "0.2.0" => "Die Kunde der drohenden Niederlage erreichte
+auch die Rekruten in ihrem Ausbildungslager.",
+  "0.4.0" => "Während ihre erfahrenen Kameraden im Kampf fielen,
+waren die Rekruten zum Warten verdammt.",
+  "0.6.0" => "Nur einer von ihnen ergriff sein Übungsschwert
+und beschloss zu kämpfen.",
+  "0.7.0" => "Der Name dieses tapferen jungen Mannes war Link.",
+  "0.8.0" => "Er konnte nicht anders, als auf das
+Schlachtfeld voller Monster zu stürmen,
+um Zelda zu helfen und Hyrule zu verteidigen.",
+  "0.10.0" => "Die Armeen der Verderbnis",
+  "0.11.0" => "Die Armeen der Verderbnis",
+  "0.12.0" => "Die Armeen der Verderbnis",
+  "0.13.0" => "Die Armeen der Verderbnis",
+  "0.14.0" => "Die Armeen der Verderbnis",
+  "1.0.0" => "In einem aufreibenden Kampf hatten Link und
+seine Kameraden König Dodongo besiegt, doch
+das Ungeheuer hatte nur als Ablenkung gedient.",
+  "1.1.0" => "So war es den Monsterhorden gelungen,
+Schloss Hyrule zu erobern.",
+  "1.3.0" => "Doch es kam noch schlimmer...
+Prinzessin Zelda war verschwunden.",
+  "1.4.0" => "Impa und Link suchten das Schlachtfeld
+nach ihr ab, jedoch ohne Erfolg.",
+  "1.5.0" => "Obwohl die Schlacht verloren war, erkannte
+Impa Links Bedeutung im nahenden Kampf.",
+  "1.6.0" => "Sie gab ihm ein grünes Gewand – das
+Zeichen des legendären Helden.",
+  "1.7.0" => "Link glaubte nicht, dieser Ehre gerecht werden zu
+können, aber er wollte sein Bestes geben, um Impa und
+ihren Mannen bei ihrer Suche nach Zelda zu helfen.",
+  "1.8.0" => "Wochen vergingen.",
+  "1.9.0" => "Dann kam Impa das Gerücht zu Ohren,
+eine Handvoll Soldaten würde den Monstern
+im Wald von Phirone noch Widerstand leisten.",
+  "1.10.0" => "Und an der Spitze dieses Widerstandes
+stünde eine junge Frau...",
+  "1.11.0" => "Impa hoffte, dass es sich bei dieser
+Frau um Zelda handelte.",
+  "1.12.0" => "Und so nahmen Impa und Link den gefahrvollen
+Weg zum Wald auf sich, der sie auch durch die
+Höhlen von Eldin führen würde.",
+  "1.14.0" => "Der Shiekah-Krieger",
+  "1.15.0" => "Der Shiekah-Krieger",
+  "1.16.0" => "Der Shiekah-Krieger",
+  "1.17.0" => "Der Shiekah-Krieger",
+  "1.18.0" => "Der Shiekah-Krieger",
+  "2.0.0" => "Ein mysteriöser Fremder namens Shiek
+hatte Link und seine Verbündeten vor den
+Gefahren der Höhlen von Eldin gerettet.",
+  "2.1.0" => "Zusammen mit ihrem neuen Weggefährten erreichten
+Impas Truppen schließlich den Wald von Phirone.",
+  "2.2.0" => "In den Wipfeln fanden sie ein Dorf, das in einen
+aussichtslosen Kampf mit den Monstern verstrickt war.",
+  "2.3.0" => "Link und Impa wollten zwar die Suche nach Zelda
+fortsetzen, konnten aber die Not der Dorfbewohner nicht
+ignorieren und stürzten sich an ihrer Seite in den Kampf.",
+  "2.4.0" => "Die Zauberin der Wälder",
+  "2.5.0" => "Die Zauberin der Wälder",
+  "2.6.0" => "Die Zauberin der Wälder",
+  "2.7.0" => "Die Zauberin der Wälder",
+  "2.8.0" => "Die Zauberin der Wälder",
+  "3.0.0" => "Die Anführerin des Widerstands im Wald von Phirone
+war eine junge Zauberin namens Lana gewesen.",
+  "3.1.0" => "Lana gehörte demselben Clan an wie Cia, die
+die Monster auf Hyrule losgelassen hatte.",
+  "3.2.0" => "Seit Cias Armee erschienen war,
+hatte Lana sie erbittert bekämpft.",
+  "3.3.0" => "Cia war auf der Suche nach den Teilen des Triforce,
+mit dem sie ganz Hyrule unterjochen wollte.",
+  "3.4.0" => "Link und Impa beschlossen, Lana zur Seite
+zu stehen, um Schlimmeres zu verhindern.",
+  "3.5.0" => "Die Monster im Wald von Phirone waren
+zwar bezwungen, doch Cia herrschte
+noch immer über weite Teile Hyrules.",
+  "3.6.0" => "Jeden Tag erschienen mehr ihrer Ungeheuer.",
+  "3.7.0" => "So mussten sich Link und Impa auch ohne
+Zeldas Führung der Finsternis entgegenstellen.",
+  "3.8.0" => "Es gab nur einen Ausweg: Sie mussten
+der Monsterflut Einhalt gebieten, indem
+sie das Seelenportal schlossen.",
+  "3.9.0" => "Die Helden machten sich auf ins Tal der Seher,
+um das Blutvergießen zu beenden.",
+  "3.10.0" => "Die Zauberin des Tales",
+  "3.11.0" => "Die Zauberin des Tales",
+  "3.12.0" => "Die Zauberin des Tales",
+  "3.13.0" => "Die Zauberin des Tales",
+  "3.14.0" => "Die Zauberin des Tales",
+  "4.0.0" => "Das Triforce der Kraft hatte Cia bereits
+an sich gebracht.",
+  "4.1.0" => "Von Link stahl sie das Triforce des Mutes.",
+  "4.2.0" => "Das Triforce der Weisheit war von jeher im Besitz
+des Königshauses von Hyrule gewesen...",
+  "4.3.0" => "...Doch jetzt hatte Shiek es in sich getragen.",
+  "4.4.0" => "Sobald alle Teile des Triforce in Cias Besitz waren...",
+  "4.5.0" => "...nutzte sie seine unglaubliche Macht, um die
+Ordnung von Zeit und Raum durcheinander zu bringen.",
+  "4.6.0" => "Es gelang ihr, eine Verbindung mit drei
+verschiedenen Zeitaltern herzustellen...",
+  "4.7.0" => "Lana zufolge hatte sich in jeder der Zeiten
+ein Seelenportal geöffnet, das diese mit
+Kreaturen des Bösen flutete.",
+  "4.8.0" => "Durch das Öffnen der Portale hatte Cia
+das Seelenfragment des Bösen befreit,
+das in jeder der Zeiten gefangen war.",
+  "4.9.0" => "Es lag nun an den Helden, durch Zeit und
+Raum zu reisen und die Portale zu schließen.",
+  "4.10.0" => "Sobald alle Portale geschlossen wären, könnten
+sie sich daran machen, die Verwüstungen zu
+beseitigen, die Cia ihrem Reich zugefügt hatte.",
+  "4.11.0" => "Doch es blieb nur noch wenig Zeit, und
+so teilten sie sich auf, um jedes der
+Portale gleichzeitig anzugreifen.",
+  "4.12.0" => "Jeder von ihnen würde alles daran setzen, die
+Portale zu schließen und sicher zurückzukehren.",
+  "4.13.0" => "Getrennte Wege",
+  "4.14.0" => "Getrennte Wege",
+  "4.15.0" => "Getrennte Wege",
+  "4.16.0" => "Getrennte Wege",
+  "4.17.0" => "Getrennte Wege",
+  "5.0.0" => "Zusammen mit einigen Soldaten
+betrat Impa eines der Portale.",
+  "5.1.0" => "Das Königreich auf der anderen Seite erschien
+vertraut und doch irgendwie ganz anders.",
+  "5.2.0" => "Schon bald wurde ihr klar, dass sie in die Ära
+des mystischen Helden der Zeit gereist waren.",
+  "5.3.0" => "Voller Ehrfurcht machte sich Impa
+auf die Suche nach dem Seelenportal.",
+  "5.4.0" => "Sie spürte eine böse Präsenz am Todesberg und
+brach zu seinem Unheil verheißenden Gipfel auf.",
+  "5.5.0" => "Der geheimnisvolle Shiek wich ihr dabei
+nicht von der Seite...",
+  "5.6.0" => "Das Land der Mythen",
+  "5.7.0" => "Das Land der Mythen",
+  "5.8.0" => "Das Land der Mythen",
+  "5.9.0" => "Das Land der Mythen",
+  "5.10.0" => "Das Land der Mythen",
+  "6.0.0" => "Auf die Bitte der Fee hatte sich Impa bis
+zum Gipfel des Todesbergs gekämpft, um
+Prinzessin Ruto zu befreien.",
+  "6.1.0" => "Dort hatte Impa auch Darunia besiegt,
+den Häuptling der Goronen, der nicht
+mehr Herr seiner Sinne gewesen war.",
+  "6.2.0" => "Nachdem sie Prinzessin Ruto befreit hatte,
+erfuhr Impa den Grund für die Zwietracht
+zwischen Zoras und Goronen.",
+  "6.3.0" => "Der Wassertempel quoll über vor Monstern, die durch
+das Seelenportal in diese Welt eingedrungen waren.",
+  "6.4.0" => "Und es sah so aus, als wäre Prinzessin
+Zelda die Anführerin der Monster!",
+  "6.5.0" => "Um dieser beunruhigenden Enthüllung
+auf den Grund zu gehen...",
+  "6.6.0" => "...brachen Impa und ihre neuen
+Verbündeten zum Hylia-See auf.",
+  "6.7.0" => "Bei ihrer Ankunft wurden sie bereits von
+einer Zelda erwartet, die dem Bösen
+anheimgefallen zu sein schien...",
+  "6.8.0" => "Der Wassertempel",
+  "6.9.0" => "Der Wassertempel",
+  "6.10.0" => "Der Wassertempel",
+  "6.11.0" => "Der Wassertempel",
+  "6.12.0" => "Der Wassertempel",
+  "7.0.0" => "Auf der anderen Seite des Portals
+erwartete Lana ein Bild des Grauens.",
+  "7.1.0" => "Das gesamte Land schien von
+Dunkelheit verschlungen zu sein.",
+  "7.2.0" => "Zwar kannte sie das Schattenreich aus Erzählungen,
+doch sie hatte es nie mit eigenen Augen gesehen.",
+  "7.3.0" => "Selbst mit ihren magischen Fähigkeiten
+konnte Lana nicht erkennen, wer Hyrule
+in Finsternis getaucht hatte.",
+  "7.5.0" => "Schließlich kam sie zu einem Dorf, das
+von Monstern angegriffen wurde.
+Das Seelenportal würde warten müssen...",
+  "7.6.0" => "Das Schattenreich",
+  "7.7.0" => "Das Schattenreich",
+  "7.8.0" => "Das Schattenreich",
+  "7.9.0" => "Das Schattenreich",
+  "7.10.0" => "Das Schattenreich",
+  "8.0.0" => "Lana hatte ein ungewöhnliches Mädchen
+namens Agnetha vor den Schatten gerettet.",
+  "8.1.0" => "Als Dank für ihre Rettung hatte Agnetha
+Lana einen Schmetterling der Göttin
+geschenkt, der sie zu jedem Ort führen würde.",
+  "8.2.0" => "Midna, eine etwas merkwürdige Bewohnerin
+des Schattenreichs, schloss sich ihnen aus
+eigenen Beweggründen an.",
+  "8.4.0" => "Die Helden folgten dem Schmetterling
+der Göttin zum Schattenpalast.",
+  "8.5.0" => "Dort trafen sie auf einen schrecklichen Gegner.",
+  "8.6.0" => "Es war niemand Geringeres als Zanto, der den
+Thron des Schattenreichs an sich gerissen hatte.",
+  "8.7.0" => "Lana und Midna blieb keine andere Wahl, als sich
+ihm und seinen widernatürlichen Kräften zu stellen.",
+  "8.8.0" => "Der Schattenkönig",
+  "8.9.0" => "Der Schattenkönig",
+  "8.10.0" => "Der Schattenkönig",
+  "8.11.0" => "Der Schattenkönig",
+  "8.12.0" => "Der Schattenkönig",
+  "9.0.0" => "Link und seinen Soldaten bot sich ein
+unglaublicher Anblick.",
+  "9.1.0" => "Er kannte Geschichten von einem Land in den Wolken,
+doch jetzt hatte er den Wolkenhort selbst vor Augen.
+Aber er war nicht der einzige Neuankömmling...",
+  "9.3.0" => "Die schwebenden Inseln wurden von den
+Kreaturen des Bösen angegriffen und
+standen kurz vor der Vernichtung.",
+  "9.4.0" => "Obwohl sie zahlenmäßig weit unterlegen waren,
+zögerten Link und seine Soldaten keinen Augenblick.",
+  "9.5.0" => "Sie stürzten sich ins Gefecht, um den
+Fall des Wolkenhorts zu verhindern.",
+  "9.7.0" => "Das Land in den Wolken",
+  "9.8.0" => "Das Land in den Wolken",
+  "9.9.0" => "Das Land in den Wolken",
+  "9.10.0" => "Das Land in den Wolken",
+  "9.11.0" => "Das Land in den Wolken",
+  "10.0.0" => "Zusammen mit Phai, einer Dienerin der
+Göttin Hylia, hatte Link den Drachenritter
+Volga zum Rückzug gezwungen.",
+  "10.1.0" => "Doch in den Wirren der Schlacht
+war Ghirahim die Flucht gelungen.",
+  "10.3.0" => "Um Ghirahim aufzuhalten und das Seelenportal
+zu schließen, folgte Link Phais Rat und eilte
+zum Siegelhain.",
+  "10.4.0" => "Die hylianischen Truppen rückten unverzüglich
+vor, um ihren Gegner einzuholen.",
+  "10.5.0" => "Doch Ghirahim hatte ihnen eine Falle gestellt...",
+  "10.6.0" => "In die Verbannung",
+  "10.7.0" => "In die Verbannung",
+  "10.8.0" => "In die Verbannung",
+  "10.9.0" => "In die Verbannung",
+  "10.10.0" => "In die Verbannung",
+  "11.0.0" => "Nachdem sie die Seelenportale in jeder der
+drei Zeiten wieder geschlossen hatten, waren
+Link und seine Gefährten endlich wieder vereint.",
+  "11.1.0" => "Und als sich Shiek als Zelda offenbarte, war
+den Helden auch diese Sorge genommen.",
+  "11.2.0" => "In der Zwischenzeit allerdings hatte Ganondorf drei
+seiner vier Seelenfragmente wiedergefunden.",
+  "11.3.0" => "Cia war nicht länger von Nutzen für ihn,
+und so verließ er ihren Körper.",
+  "11.4.0" => "Doch auch von Ganondorfs Einfluss befreit blieb
+ein schwarzer Fleck in ihrer Seele zurück. Link und
+das Triforce sollten ihr gehören. Ihr ganz allein!",
+  "11.5.0" => "Durch mächtige magische Rituale verstärkte
+sie ihre Truppen und begann mit noch
+unbarmherzigeren Attacken auf Hyrule.",
+  "11.6.0" => "Doch noch gab es Hoffnung.",
+  "11.7.0" => "Zelda brachte ihre Truppen zum Tempel des heiligen
+Schwertes, um dort nach dem Artefakt zu suchen,
+das ihrer aller Rettung bedeuten würde...",
+  "11.8.0" => "Das heilige Schwert",
+  "11.9.0" => "Das heilige Schwert",
+  "11.10.0" => "Das heilige Schwert",
+  "11.11.0" => "Das heilige Schwert",
+  "11.12.0" => "Das heilige Schwert",
+  "12.0.0" => "Link hatte sich als des Master-Schwertes würdig
+erwiesen. Er war der legendäre Held.",
+  "12.1.0" => "Mit dem Bannschwert war es Link ein Leichtes
+gewesen, den wiederbelebten Pyroma zu besiegen.",
+  "12.2.0" => "Pyromas letzten Worten folgend eilten Link und seine
+Gefährten zum Tempel der Seelen, um Cia aufzuhalten.",
+  "12.4.0" => "Mit etlichen Siegen im Rücken war der Kampfeswille
+der hylianischen Truppen stark wie nie.",
+  "12.5.0" => "Auch Link fühlte sich mit dem
+Master-Schwert in der Hand unbesiegbar.",
+  "12.7.0" => "Doch er wurde Opfer seiner neu gewonnen
+Zuversicht, als er sich mitten in die dichteste
+Ansammlung von Monstern stürzte.",
+  "12.8.0" => "Denn Cia hatte nur auf eine solche Gelegenheit
+gewartet.",
+  "12.9.0" => "Während beide Seiten aufeinanderprallten,
+wurden sie aus den Schatten beobachtet...",
+  "12.10.0" => "Das dunkle Herz",
+  "12.11.0" => "Das dunkle Herz",
+  "12.12.0" => "Das dunkle Herz",
+  "12.13.0" => "Das dunkle Herz",
+  "12.14.0" => "Das dunkle Herz",
+  "13.0.0" => "Beinahe hätte Link für seine Selbstüberschätzung
+teuer bezahlt und wäre seinen schattenhaften
+Doppelgängern zum Opfer gefallen.",
+  "13.1.0" => "Doch im letzten Moment hatten seine Gefährten
+eingegriffen und das Blatt zum Sieg gewendet.",
+  "13.2.0" => "Das Master-Schwert ist eine mächtige Waffe...",
+  "13.3.0" => "Aber seine wahre Macht ist nur jenem zugänglich,
+der den Wert von Freundschaft zu erkennen vermag.",
+  "13.5.0" => "Obwohl die hylianischen Truppen langsam
+wieder zu alter Stärke fanden, war der
+Großteil Hyrules noch fest in Cias Griff.",
+  "13.6.0" => "Nur ein Sieg über Cia würde dem
+Land die Freiheit wiederbringen.",
+  "13.7.0" => "Die hylianische Armee marschierte zum Tal der Seher,
+um dort die entscheidende Schlacht zu schlagen.",
+  "13.8.0" => "Doch Cia ruhte sich nicht auf ihren Lorbeeren aus,
+obwohl sie fast alle Vorteile auf ihrer Seite hatte.",
+  "13.9.0" => "Sie verstärkte ihre Truppen noch weiter,
+indem sie ihre eigene Lebenskraft opferte.",
+  "13.10.0" => "Die Folgen für sie selbst waren ihr gleichgültig,
+solange nur ihre Feinde vernichtet würden.",
+  "13.11.0" => "Der alles entscheidende Kampf zwischen den
+Armeen von Licht und Finsternis stand bevor.",
+  "13.12.0" => "Ein Licht in der Finsternis",
+  "13.13.0" => "Ein Licht in der Finsternis",
+  "13.14.0" => "Ein Licht in der Finsternis",
+  "13.15.0" => "Ein Licht in der Finsternis",
+  "13.16.0" => "Ein Licht in der Finsternis",
+  "14.0.0" => "Link und seine Gefährten hatten Cia besiegt
+und den Frieden nach Hyrule zurückgebracht.",
+  "14.1.0" => "Doch dieser Frieden währte nicht lange.",
+  "14.2.0" => "Als Link das Master-Schwert aus
+seinem Sockel gezogen hatte...",
+  "14.3.0" => "...hatte er unwissentlich das Siegel des
+letzten Seelenfragments gebrochen, das
+sich so mit den anderen vereinen konnte.",
+  "14.4.0" => "Der Wiedergeburt Ganondorfs stand nun
+nichts mehr im Weg.",
+  "14.5.0" => "Als Erstes begab er sich in die Gerudo-Wüste,
+wo seine Macht am stärksten war.",
+  "14.6.0" => "Dort rief er die Geister von Zanto und Ghirahim
+aus ihrer Verbannung herbei und ließ sie ihm
+Treue schwören.",
+  "14.7.0" => "Die volle Macht des Triforce befand sich
+endlich in Ganondorfs Reichweite.",
+  "14.8.0" => "In Erwartung seiner Feinde errichtete
+er einen Stützpunkt in der Gerudo-Wüste.",
+  "14.9.0" => "Mit Zanto und Ghirahim an seiner Seite würde es für
+Ganondorf ein Leichtes sein, Hyrule an sich zu reißen.",
+  "14.10.0" => "Den Kräften des Lichts drohte eine düstere Zukunft.",
+  "14.11.0" => "Ganondorfs Rückkehr",
+  "14.12.0" => "Ganondorfs Rückkehr",
+  "14.13.0" => "Ganondorfs Rückkehr",
+  "14.14.0" => "Ganondorfs Rückkehr",
+  "14.15.0" => "Ganondorfs Rückkehr",
+  "15.0.0" => "Mit erschreckender Schnelligkeit stampfte
+Ganondorf eine Armee aus dem Boden und
+festigte seine Position in der Gerudo-Wüste.",
+  "15.2.0" => "Mächtiger denn je machte er sich daran, die
+übrigen Teile des Triforce an sich zu reißen.",
+  "15.3.0" => "Sein erstes Ziel war das Triforce der
+Kraft, das sich im Besitz von Lana befand.",
+  "15.5.0" => "Vor langer Zeit hatte es Ganondorf gehört, der sich
+als seinen rechtmäßigen Besitzer betrachtete.",
+  "15.7.0" => "Würde er es wiedererlangen, wäre er stark genug,
+auch die anderen beiden Teile an sich zu bringen.",
+  "15.8.0" => "Und so führte Ganondorf seine Horden in das
+Tal der Seher.",
+  "15.9.0" => "Lana wusste, dass sie ihm nicht standhalten konnte...
+Und so floh sie, obwohl bereits hylianische Truppen
+zu ihrer Unterstützung eilten.",
+  "15.11.0" => "Doch Ganondorf schnitt ihr den Weg ab
+und griff rücksichtslos an, um ihr das
+Triforce der Kraft zu entreißen.",
+  "15.12.0" => "Der Zorn des Dämonenkönigs",
+  "15.13.0" => "Der Zorn des Dämonenkönigs",
+  "15.14.0" => "Der Zorn des Dämonenkönigs",
+  "15.15.0" => "Der Zorn des Dämonenkönigs",
+  "15.16.0" => "Der Zorn des Dämonenkönigs",
+  "16.0.0" => "Ganondorf war es gelungen, die hylianischen
+Truppen zu besiegen und Lana das Triforce
+der Kraft zu rauben.",
+  "16.2.0" => "Doch die beiden anderen Teile waren im Besitz von
+Link und Zelda, die sich in Schloss Hyrule aufhielten.",
+  "16.3.0" => "Würde Ganondorf das Schloss erstürmen
+und das Triforce vereinen, wäre Hyrule
+seiner Gnade ausgeliefert.",
+  "16.4.0" => "Und so bereitete Ganondorf seine
+Armee auf eine Belagerung vor.",
+  "16.5.0" => "Zeldas Truppen waren bereit, ihre
+Heimat um jeden Preis zu verteidigen.",
+  "16.6.0" => "An der Spitze der Truppen stand Link, und
+sein Triforce des Mutes gab ihnen Zuversicht.",
+  "16.7.0" => "Diese Schlacht würde das Schicksal von
+Hyrule entscheiden.",
+  "16.8.0" => "Würde das Licht weiter erstrahlen, oder
+würde das Land in Finsternis stürzen?",
+  "16.9.0" => "Der Moment der Entscheidung war gekommen.",
+  "16.10.0" => "Kampf um das Triforce",
+  "16.11.0" => "Kampf um das Triforce",
+  "16.12.0" => "Kampf um das Triforce",
+  "16.13.0" => "Kampf um das Triforce",
+  "16.14.0" => "Kampf um das Triforce",
+  "17.0.0" => "Ganondorf hatte alle Teile des Triforce in seinen
+Besitz gebracht. Mit dieser Macht würde er eine
+nicht endende Flut an Monstern beschwören können.",
+  "17.1.0" => "Im Gefühl des sicheren Sieges verschwand Ganondorf.",
+  "17.2.0" => "Als Zelda davon erfuhr, schöpfte sie neue Hoffnung.",
+  "17.4.0" => "Wenn sie Zanto und Ghirahim besiegen konnte, gäbe
+es in Abwesenheit ihres Meisters vielleicht noch eine
+Chance, das scheinbar Unausweichliche abzuwenden.",
+  "17.5.0" => "Zelda beschloss, den Kampf zu ihren Gegnern
+zu tragen und den Krieg in der Gerudo-Wüste
+zu einem Ende zu bringen.",
+  "17.7.0" => "Bis zum Ende",
+  "17.8.0" => "Bis zum Ende",
+  "17.9.0" => "Bis zum Ende",
+  "17.10.0" => "Bis zum Ende",
+  "17.11.0" => "Bis zum Ende",
+  "18.0.0" => "Nach Zeldas Triumph in der Gerudo-Wüste...",
+  "18.1.0" => "...gelang es Impas Truppen, Ganondorf aufzuspüren.",
+  "18.2.0" => "Er hatte das eroberte Schloss Hyrule seinen
+Vorstellungen gemäß umgestaltet. In dieser Feste
+bereitete er sich auf ein schreckliches Ritual vor.",
+  "18.3.0" => "Link, Zelda und ihre Verbündeten...",
+  "18.4.0" => "...aus den verschiedenen Zeitaltern marschierten auf
+Ganons Turm zu, bereit für das letzte Gefecht.",
+  "18.5.0" => "Wenn sie fielen, würde ganz Hyrule mit ihnen fallen...",
+  "18.6.0" => "Die Bewahrung des Triforce",
+  "18.7.0" => "Die Bewahrung des Triforce",
+  "18.8.0" => "Die Bewahrung des Triforce",
+  "18.9.0" => "Die Bewahrung des Triforce",
+  "18.10.0" => "Die Bewahrung des Triforce",
+  "19.0.0" => "Alles Gute war aus Cias Herz verschwunden.
+Sie öffnete das Seelenportal und überflutete
+Hyrule mit ihren Monsterhorden.",
+  "19.1.0" => "Ganondorfs Seele flüsterte ihr ein, ihr Angriff
+müsse schnell und erbarmungslos sein,
+wenn sie siegen wollte.",
+  "19.2.0" => "Doch so eine riesige Armee brauchte einen Anführer,
+und Cia wurde bewusst, dass sie einen mächtigen Krieger
+brauchen würde, der ihr als General dienen würde.",
+  "19.3.0" => "Sie brauchte nicht lange, um einen perfekten
+Kandidaten dafür zu finden: den Drachenritter
+der Höhlen von Eldin.",
+  "19.4.0" => "Wenn sie ihn unterwerfen könnte, würde
+eine mächtige Kreatur wie er mühelos ihre
+Lakaien kontrollieren können.",
+  "19.5.0" => "Cia hatte keine Zeit zu verlieren.",
+  "19.6.0" => "Sie brach unverzüglich zu den Höhlen von Eldin
+auf, um ihren neuen Mitstreiter zu suchen.",
+  "19.7.0" => "Von Dunkelheit beherrscht",
+  "19.8.0" => "Von Dunkelheit beherrscht",
+  "19.9.0" => "Von Dunkelheit beherrscht",
+  "19.10.0" => "Von Dunkelheit beherrscht",
+  "19.11.0" => "Von Dunkelheit beherrscht",
+  "20.0.0" => "Mit Volga und Pyroma an der Spitze ihrer Armee
+begann Cia ihren Einmarsch in Hyrule.",
+  "20.1.0" => "Auf dem Weg dorthin erteilte Pyroma ihr einen Rat.",
+  "20.2.0" => "Er schlug vor, zuerst die Feen von Hyrule
+auszurotten.",
+  "20.3.0" => "Denn diese gutherzigen Feen waren bekannt dafür,
+auserwählten Kämpfern mit Rat und Tat beizustehen.",
+  "20.4.0" => "Wenn der legendäre Held erschiene und die
+Hilfe der Feen bekäme, könnten Cia und ihre
+Streitkräfte in Schwierigkeiten geraten.",
+  "20.5.0" => "Cia befolgte Pyromas Rat und befahl ihren Truppen,
+mit der Feenjagd zu beginnen.",
+  "20.6.0" => "Viele Feen in ganz Hyrule wurden gefangen, aber
+ein paar wenige entkamen ihren Häschern.",
+  "20.7.0" => "Ohne Cias Wissen hatte sich eine geheimnisvolle
+junge Frau mit den Goronen zusammengetan,
+um die Feen zu beschützen.",
+  "20.8.0" => "Cia wollte ihre Invasion nicht weiter aufschieben
+und entsandte Volga und Pyroma, um die letzten
+der Feen einzufangen.",
+  "20.9.0" => "Die Invasion Hyrules",
+  "20.10.0" => "Die Invasion Hyrules",
+  "20.11.0" => "Die Invasion Hyrules",
+  "20.12.0" => "Die Invasion Hyrules",
+  "20.13.0" => "Die Invasion Hyrules",
+  "21.0.0" => "Im Handumdrehen hatte Cia Hyrule erobert
+und schließlich alle Teile des Triforce in
+ihre Gewalt gebracht.",
+  "21.1.0" => "Von der Macht des vollständigen Triforce verzaubert,
+geriet sie noch weiter unter Ganondorfs Bann.",
+  "21.2.0" => "Auf sein Drängen hin riss sie Zeit und Raum
+auseinander, um Portale zu drei denkwürdigen
+Epochen in Hyrules Vergangenheit zu öffnen.",
+  "21.3.0" => "Sofort spürte sie eine große Macht in der Epoche
+der Schatten. Sie brach auf, um sich diese Macht
+entweder zunutze zu machen... oder sie zu zerstören.",
+  "21.4.0" => "Der Usurpator",
+  "21.5.0" => "Der Usurpator",
+  "21.6.0" => "Der Usurpator",
+  "21.7.0" => "Der Usurpator",
+  "21.8.0" => "Der Usurpator",
+  "22.0.0" => "Cia spürte ein weiteres mächtiges Wesen
+hinter einem ihrer Zeitportale, diesmal auf
+den fliegenden Inseln des Wolkenhorts.",
+  "22.1.0" => "Als sie dort ankam, fand sie die Inseln im
+Kampf gegen eine Armee von Monstern vor.
+Cia fragte sich, wer wohl ihr Anführer war.",
+  "22.2.0" => "Die Bewohner des Wolkenhorts wurden
+überrannt, und viele von ihnen sahen das
+Ende der Welt gekommen.",
+  "22.3.0" => "Phai, eine Dienerin der Göttin, stand den
+Menschen zur Seite, aber die Angriffe der
+Monster waren nicht aufzuhalten.",
+  "22.4.0" => "Eine große Dunkelheit war im Begriff, sich über
+den Wolkenhort zu legen. Obwohl die Bewohner
+ihr gleichgültig waren, ersann Cia einen Plan.",
+  "22.5.0" => "Das Wesen, welches diese Monster in den Wolkenhort
+geführt hatte, könnte ihr ein nützlicher Diener sein.
+Sie beschloss, es sich untertan zu machen.",
+  "22.6.0" => "Cia stürzte sich in den Kampf um den Wolkenhort und
+suchte nach einer Möglichkeit, diese dunkle Macht zu
+schwächen, um sie dann ihren Truppen hinzuzufügen.",
+  "22.7.0" => "Der Dunkelfürst",
+  "22.8.0" => "Der Dunkelfürst",
+  "22.9.0" => "Der Dunkelfürst",
+  "22.10.0" => "Der Dunkelfürst",
+  "22.11.0" => "Der Dunkelfürst",
+  "23.0.0" => "Link und seine Mitstreiter hatten Pyroma, Zanto
+und Ghirahim besiegt. Cias Lage war zunehmend
+hoffnungslos.",
+  "23.1.0" => "Unterdessen machte sich Ganondorf ins Tal der Seher
+auf, um ihr das Triforce der Kraft abzuringen.",
+  "23.2.0" => "Cia war in einer ausweglosen Lage.",
+  "23.3.0" => "Entschlossen, um jeden Preis zu siegen,
+verbrauchte sie einen Teil ihrer eigenen
+Lebenskraft, um ihre Magie zu stärken.",
+  "23.4.0" => "Cia war bewusst, dass dies ihr Ende
+bedeutete, aber der Sieg war es ihr wert.",
+  "23.5.0" => "Das verlorene Licht",
+  "23.6.0" => "Das verlorene Licht",
+  "23.7.0" => "Das verlorene Licht",
+  "23.8.0" => "Das verlorene Licht",
+  "23.9.0" => "Das verlorene Licht",
+  "24.0.0" => "Es war einmal ein Mädchen, das in einem
+kleinen Dorf lebte und sich um ihre Hühner
+kümmerte. Ihr Name war Linkle.",
+  "24.1.0" => "Von klein auf war sie immer davon
+überzeugt gewesen, der wiedergeborene
+legendäre Held zu sein.",
+  "24.2.0" => "Eines Tages erreichte eine schreckliche
+Nachricht das Dorf...",
+  "24.3.0" => "Eine Monsterhorde belagerte Schloss Hyrule!",
+  "24.4.0" => "Als Linkle davon hörte, wusste sie sofort,
+was zu tun war und streifte sich ihr
+grünes Gewand über.",
+  "24.5.0" => "Ausgerüstet mit ihren Armbrüsten und dem
+alten Kompass, den ihre Großmutter ihr
+hinterlassen hatte, verließ Linkle das Dorf.",
+  "24.6.0" => "Sie hoffte, dass der Kompass und eine ungenaue
+Karte ihr den Weg zu Schloss Hyrule weisen würden.",
+  "24.7.0" => "Doch bevor sie sich's versah, hatte sie
+sich in einem unheimlichen Wald verlaufen.",
+  "24.8.0" => "Plötzlich tauchte ein Kobold mit einer
+seltsamen Maske auf und stibitzte Linkle
+ihren unersetzlichen Kompass.",
+  "24.9.0" => "Der Kompass war ganz bestimmt mit
+ihrem Schicksal verknüpft. Sie musste
+ihn zurückerlangen!",
+  "24.10.0" => "Linkle stand vor ihrer ersten großen Prüfung.",
+  "24.11.0" => "Das Mädchen in Grün",
+  "24.12.0" => "Das Mädchen in Grün",
+  "24.13.0" => "Das Mädchen in Grün",
+  "24.14.0" => "Das Mädchen in Grün",
+  "24.15.0" => "Das Mädchen in Grün",
+  "25.0.0" => "Nachdem Prinzessin Zelda und Impa im Wassertempel
+den bösen Hexer Pyroma besiegt hatten, kehrten
+sie als Erste in ihr Reich zurück.",
+  "25.1.0" => "Ruto und Darunia blieben noch eine Weile zurück,
+um sicherzustellen, dass die Bedrohung auch
+wirklich vorüber war.",
+  "25.2.0" => "Ihr Verdacht bestätigte sich, als plötzlich
+eine neue Horde von Monstern auftauchte.",
+  "25.3.0" => "Diesmal führte der Drachenritter Volga die
+Monster ins Feld.",
+  "25.4.0" => "Hasserfüllt stürzte er sich auf Ruto und
+Darunia und zwang sie zu einem verzweifelten
+Überlebenskampf.",
+  "25.5.0" => "In diesem Augenblick erschien Linkle,
+die sich auf dem Weg zu Schloss
+Hyrule wähnte.",
+  "25.6.0" => "Ohne zu zögern, kam sie Ruto zu Hilfe,
+denn ein wahrer Held lässt niemanden im Stich!
+Linkle stürzte sich in die Schlacht.",
+  "25.7.0" => "Kampf der Giganten",
+  "25.8.0" => "Kampf der Giganten",
+  "25.9.0" => "Kampf der Giganten",
+  "25.10.0" => "Kampf der Giganten",
+  "25.11.0" => "Kampf der Giganten",
+  "26.0.0" => "Die Zauberin Cia hatte das Triforce errungen
+und Hyrule mit anderen Welten verbunden.",
+  "26.1.0" => "Kurz darauf entdeckte Ghirahim ein Seelenportal
+im Siegelhain, unter dem Wolkenhort.",
+  "26.2.0" => "Ghirahim wusste, dass unter dem Siegelhain ein
+legendäres Monstrum ruhte. Mithilfe einer Legion
+von Monstern strebte er an, das Wesen zu erwecken.",
+  "26.3.0" => "Hoch oben im Wolkenhort spürte der
+Schwertgeist Phai, dass etwas
+Unheimliches vor sich ging.",
+  "26.4.0" => "Überzeugt davon, dass eine böse Macht dafür
+verantwortlich war, verließ sie den Wolkenhort
+und flog hinunter zum Siegelhain.",
+  "26.5.0" => "Während Phai hinabeilte, betrat eine
+unerwartete Verbündete den Siegelhain.",
+  "26.6.0" => "Es war Linkle. Anstelle von Schloss Hyrule
+hatte sie einen neuen Kampf gefunden.",
+  "26.7.0" => "Der Plan des Dunkelfürsten",
+  "26.8.0" => "Der Plan des Dunkelfürsten",
+  "26.9.0" => "Der Plan des Dunkelfürsten",
+  "26.10.0" => "Der Plan des Dunkelfürsten",
+  "26.11.0" => "Der Plan des Dunkelfürsten",
+  "27.0.0" => "Nun, da Link das Master-Schwert errungen
+hatte, bereiteten er und seine Freunde sich
+auf die drohende Schlacht mit Cia vor.",
+  "27.1.0" => "Zu diesem Zeitpunkt bemerkte Zelda eine
+unheimliche Präsenz.",
+  "27.2.0" => "Dunkle Magie unbekannter Herkunft strömte über
+das Land und drohte, alles zu verschlingen.",
+  "27.3.0" => "Wenn niemand die magische Flut eindämmte, würde
+bald alles Licht aus der Welt verschwunden sein.",
+  "27.4.0" => "Zelda war überzeugt, dass der Ursprung des
+Unheils im Schattenpalast lag, und brach
+allein auf, um ihm Einhalt zu gebieten.",
+  "27.5.0" => "Midna bemerkte bald die Abwesenheit der
+Prinzessin und eilte ihr hinterher.",
+  "27.6.0" => "Auf dem Weg stieß sie auf Linkle, die wie
+versteinert vor einer seltsamen Entdeckung stand.",
+  "27.7.0" => "Es handelte sich um einen schwarzen
+Kristall. Midna trat fasziniert hinzu und
+streckte ihre Hand danach aus.",
+  "27.8.0" => "Von einem Moment auf den anderen verwandelte
+Midna sich von einem kleinen Gnom in eine
+wunderschöne Frau.",
+  "27.9.0" => "Offenbar hatte die Magie des Kristalls
+ihre wahre Form wiederhergestellt.",
+  "27.10.0" => "Linkle fand sich sprachlos im Angesicht
+dieser wundersamen Verwandlung, aber es
+fehlte sowieso die Zeit, dies zu erörtern.",
+  "27.11.0" => "Midna hatte jetzt nur ein Ziel: Zelda zu retten.
+Sie bat Linkle, ihr dabei zu helfen. Gemeinsam
+betraten sie den Schattenpalast.",
+  "27.12.0" => "Der Schatten wahre Form",
+  "27.13.0" => "Der Schatten wahre Form",
+  "27.14.0" => "Der Schatten wahre Form",
+  "27.15.0" => "Der Schatten wahre Form",
+  "27.16.0" => "Der Schatten wahre Form",
+  "28.0.0" => "Link und seine Gefährten hatten Ganon besiegt
+und somit Schloss Hyrule vor den Mächten der
+Finsternis bewahrt.",
+  "28.1.0" => "Zelda und Link brachen gemeinsam zum Tempel
+des heiligen Schwertes auf, um dort Ganons
+Seelenfragment wieder zu versiegeln.",
+  "28.2.0" => "Damit würde der Frieden dauerhaft in das
+Reich zurückkehren.",
+  "28.3.0" => "Zumindest glaubten sie dies. Doch kaum waren
+Link und Zelda weg, fiel eine neue Monsterhorde
+über Schloss Hyrule her.",
+  "28.4.0" => "Auch wenn sie ohne Ganondorf keinen Anführer
+mehr hatten, hielt sie dies nicht davon ab,
+unschuldige Hylianer anzugreifen.",
+  "28.5.0" => "Ohne Link, Zelda und ihre Freunde aus den
+anderen Zeitaltern stand Schloss Hyrule dem
+Ansturm nahezu wehrlos gegenüber.",
+  "28.6.0" => "Um die Bürger ihres Landes zu beschützen,
+versammelte Impa die kriegsmüden Soldaten,
+deren Wunden noch nicht einmal verheilt waren.",
+  "28.7.0" => "Sie waren bereit, sich für Hyrule zu opfern.
+Mit letzten Kräften warfen sie sich dem Feind
+entgegen.",
+  "28.8.0" => "Zu diesem Zeitpunkt erschien ein Mädchen
+auf dem Schlachtfeld.",
+  "28.9.0" => "Linkles Reise war voller Irrungen und Wirrungen
+gewesen, doch nun hatte sie Schloss Hyrule
+endlich erreicht.",
+  "28.10.0" => "Vor ihren Augen bemühten sich die tapferen
+Soldaten mit Klauen und Zähnen, die angreifenden
+Monster abzuwehren.",
+  "28.11.0" => "Ihr Mut entzündete ein neues Feuer in Linkle.
+Sie wusste, dass ihre Schicksalsstunde nun
+gekommen war.",
+  "28.12.0" => "Linkle umklammerte den Kompass, der um
+ihren Hals hing, und machte sich bereit,
+Hyrule zu retten.",
+  "28.13.0" => "Ohne einen weiteren Gedanken stürzte Linkle
+sich in die Wogen der brüllenden Monster.",
+  "28.14.0" => "Die legendäre Heldin",
+  "28.15.0" => "Die legendäre Heldin",
+  "28.16.0" => "Die legendäre Heldin",
+  "28.17.0" => "Die legendäre Heldin",
+  "28.18.0" => "Die legendäre Heldin",
+  "29.0.0" => "Kaum schien durch den Sieg über Ganon der Frieden
+in Hyrule wiederhergestellt, warfen erneut düstere
+Ereignisse ihre Schatten voraus.",
+  "29.1.0" => "Eine neue Welt erschien – ein Portal
+zu einer anderen Dimension.",
+  "29.2.0" => "Impa hatte Link nach Schloss Hyrule gerufen.",
+  "29.3.0" => "Sie trug Link auf, diese Vorgänge zu untersuchen.
+Nachdem er seine Vorbereitungen abgeschlossen
+hatte, brach er sofort auf.",
+  "29.4.0" => "Die seltsame neue Welt, die Link betrat, stellte
+sich als eine geheimnisvolle Dimension voller
+fremdartiger Landschaften heraus.",
+  "29.5.0" => "Dort traf er auf ein Mädchen, das sich im
+Kampf mit Monstern befand.",
+  "29.6.0" => "Ihr Name lautete Tetra.",
+  "29.7.0" => "Sie war die Anführerin einer Piratenbande,
+aber beim Zusammenstoß der Dimensionen
+war sie von ihrer Mannschaft getrennt worden.",
+  "29.8.0" => "Obwohl sie sich nicht kannten, waren sich
+Link und Tetra sofort einig – jemand musste
+den Monstern Einhalt gebieten.",
+  "29.9.0" => "Sie schlossen sich zusammen, um es mit
+den Feinden aufzunehmen.",
+  "29.10.0" => "Ein neues Unheil",
+  "29.11.0" => "Ein neues Unheil",
+  "29.12.0" => "Ein neues Unheil",
+  "29.13.0" => "Ein neues Unheil",
+  "29.14.0" => "Ein neues Unheil",
+  "30.0.0" => "Kurz bevor Hyrule von neuerlichem
+Unheil heimgesucht wurde...",
+  "30.1.0" => "Lana war gerade ins Tal der Seher zurückgekehrt,
+wo sie mithilfe von Zauberei nach Spuren der
+verschwundenen Cia suchte.",
+  "30.2.0" => "Plötzlich erschien eine Gestalt vor Lana
+und entriss ihr das Triforce der Kraft.",
+  "30.3.0" => "All dies geschah so plötzlich, dass Lana nicht
+einmal ihren Angreifer erkennen konnte.",
+  "30.4.0" => "Wenig später spielten sich in Hyrule die seltsamen
+Ereignisse ab, denen Link nachgehen sollte.",
+  "30.5.0" => "Lana spürte, dass sich ein Seelenportal
+in der Gerudo-Wüste aufgetan hatte.",
+  "30.6.0" => "Sie vermutete auch, dass sie an diesem Ort neue
+Hinweise zum Verbleib Cias finden könnte.",
+  "30.7.0" => "Lana ließ das Tal der Seher hinter sich und
+machte sich auf den Weg in die Gerudo-Wüste.",
+  "30.8.0" => "Auf der Suche nach Cia",
+  "30.9.0" => "Auf der Suche nach Cia",
+  "30.10.0" => "Auf der Suche nach Cia",
+  "30.11.0" => "Auf der Suche nach Cia",
+  "30.12.0" => "Auf der Suche nach Cia",
+  "31.0.0" => "Link, Lana und Tetra begaben sich zu dem
+dunklen Ort, den der König vergangener
+Zeiten ihnen gewiesen hatte.",
+  "31.1.0" => "Tetra war entschlossen, an Links und
+Lanas Seite zu kämpfen, bis diese Welt
+wieder im Lot war.",
+  "31.2.0" => "Schließlich konnte sie nicht untätig
+zusehen, wie jemand aus ihrer Welt
+all dieses Unheil verursachte.",
+  "31.3.0" => "Je näher die drei ihrem Ziel kamen, desto
+erdrückender wurde die Macht der Dunkelheit.",
+  "31.4.0" => "Inmitten der Dunkelheit begann Lana,
+Cias Präsenz zu spüren.",
+  "31.5.0" => "Die Rückeroberung der Dunkelheit",
+  "31.6.0" => "Die Rückeroberung der Dunkelheit",
+  "31.7.0" => "Die Rückeroberung der Dunkelheit",
+  "31.8.0" => "Die Rückeroberung der Dunkelheit",
+  "31.9.0" => "Die Rückeroberung der Dunkelheit",
+  "32.0.0" => "Das böse Wesen hatte das Triforce der Kraft
+geraubt, nachdem es Cia ihre Magie gestohlen und
+so von ihrer anderen Hälfte, Lana, erfahren hatte.",
+  "32.1.0" => "Solange das Gleichgewicht des Triforce
+gestört war, konnte die Welt schwerlich
+wieder ins Lot gebracht werden.",
+  "32.2.0" => "Und ohne ihre Magie war es nur eine
+Frage der Zeit, bis Cia vollständig
+verschwinden würde.",
+  "32.3.0" => "Mit letzter Kraft spürte Cia das Wesen auf,
+das ihr alles genommen hatte, und wies
+Link und den anderen den Weg.",
+  "32.4.0" => "Wenn es ihnen gelänge, dieses schattenhafte
+Wesen zu besiegen, wäre nicht nur die Welt,
+sondern auch Cia gerettet.",
+  "32.5.0" => "Link und seine Freunde trugen die Hoffnung
+auf Frieden in ihren Herzen, als sie sich auf
+die entscheidende Schlacht vorbereiteten.",
+  "32.6.0" => "Die Hüter des Triforce",
+  "32.7.0" => "Die Hüter des Triforce",
+  "32.8.0" => "Die Hüter des Triforce",
+  "32.9.0" => "Die Hüter des Triforce",
+  "32.10.0" => "Die Hüter des Triforce",
+}

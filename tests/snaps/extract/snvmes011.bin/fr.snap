@@ -1,0 +1,226 @@
+Map {
+  "1.0.0.0" => "Allez, Link, massacre-les! Avec l'épée
+maîtresse, ce sera un jeu d'enfant!",
+  "1.0.1.0" => "Link a l'air trop confiant...
+J'espère qu'il ne fera pas de bêtise...",
+  "1.0.2.0" => "Hé hé! Link! Quel est donc ce nouveau jouet
+étincelant? Viens donc me le montrer!",
+  "1.0.3.0" => "Le destin d'Hyrule dépend de Link.
+Protégez-le à tout prix!",
+  "1.0.5.0" => "Il devrait y avoir trois chambres ensorcelées
+à l'est et trois autres à l'ouest...",
+  "1.0.6.0" => "Moi aussi, je ressens leur puissante magie. 
+Nous devons en prendre le contrôle et vite!",
+  "1.0.7.0" => "Ah... Je ressens la puissance de la Triforce...",
+  "1.0.8.0" => "Étrange... Je sens une présence différente
+des autres quelque part sur ces terres...",
+  "1.0.9.0" => "Différente? Je ne sens que les présences
+maléfiques de la sorcière et des monstres.",
+  "1.0.10.0" => "De puissants ennemis apparaissent dans les
+chambres parcourues par les flux magiques.",
+  "1.0.11.0" => "C'est ennuyeux en effet... Nous devons prendre
+le contrôle de ces chambres ensorcelées.",
+  "1.0.12.0" => "Waouh! Ces ennemis ne plaisantent pas!
+Ils sont plus coriaces que d'habitude!",
+  "1.0.13.0" => "C'est bien ça! Il faut prendre ces chambres pour
+couper le flux magique et affaiblir leur magie!",
+  "1.0.14.0" => "Cela devrait affaiblir nos ennemis! Prenons
+les autres chambres ensorcelées maintenant!",
+  "1.0.15.0" => "L'ordre dans lequel nous prenons les chambres
+influence peut-être l'interruption du flux.",
+  "1.0.16.0" => "Les flux sont interrompus à l'ouest. Concentrons
+nos efforts sur les chambres de l'est à présent.",
+  "1.0.17.0" => "Maître, l'interruption de tous les flux magiques
+augmentera nos chances de victoire.",
+  "1.0.18.0" => "Toutes les chambres sont tombées à l'est.
+Concentrons-nous sur celles de l'ouest.",
+  "1.0.19.0" => "Ces chambres ensorcelées nous posent un gros
+problème. Nous devons les prendre au plus vite.",
+  "1.0.20.0" => "Les deux flux ont disparu d'un coup! Prendre le
+fort central en premier était une brillante idée!",
+  "1.0.21.0" => "Maître, Fay au rapport.
+Tous les flux magiques ont été interrompus.",
+  "1.0.22.0" => "Link, cesse de t'occuper de ces vermines. Viens
+me montrer le véritable pouvoir de cette épée!",
+  "1.0.23.0" => "Link, les portes sont ouvertes! Cya est
+là-bas! Allons lui régler son compte!",
+  "1.0.24.0" => "Je perçois les ténèbres dans ton cœur. Seras-tu
+capable de les surmonter? Ne me déçois pas!",
+  "1.0.25.0" => "J'ai eu tort de te pousser à être aussi imprudent.
+Ne laisse pas ces Link noirs te dominer!",
+  "1.0.26.0" => "Link s'est précipité dans la chambre de la
+sorcière! Ne le laissez pas seul, allez l'aider!",
+  "1.0.28.0" => "Elle s'est servie des ténèbres de son cœur...
+Il faut faire quelque chose!",
+  "1.0.29.0" => "D'autres Link noirs sont apparus?
+Il faut aider Link!",
+  "1.0.30.0" => "Fay au rapport. Quatre Link noirs sont apparus.
+Nous devons les éliminer rapidement.",
+  "1.0.31.0" => "Quatre Link noirs! Oh, mon frère, tu t'es mis
+dans un beau pétrin.",
+  "1.0.32.0" => "Voilà! On devrait être débarrassés de
+tous ces casse-pieds de Link noirs!",
+  "1.0.33.0" => "Il a été ranimé... Comment allons-nous nous en
+sortir si l'ennemi revient sans cesse?!",
+  "1.0.34.0" => "Les deux camps montrent des signes de fatigue.
+C'est le moment de s'emparer de la Triforce!",
+  "1.0.35.0" => "Comment? C'est impossible! Il est venu voler
+la Triforce de la force!",
+  "1.0.36.0" => "Woh oh oh! De nouveaux ennemis sont apparus!",
+  "1.0.37.0" => "Nos troupes vont être exterminées si ça
+continue. Soldats d'Hyrule, battez en retraite!",
+  "1.0.38.0" => "Il faut battre en retraite! Vite, la roseraie
+à l'ouest est notre meilleure option!",
+  "1.0.39.0" => "Entendu! Replions-nous par la roseraie ouest!",
+  "1.0.40.0" => "Nous devons prendre la chambre de la sorcière.
+C'est là que les Link noirs sont ranimés. ",
+  "1.0.41.0" => "Link! Tu dois vaincre tous ces Link noirs pour
+permettre à nos compagnons de s'enfuir!",
+  "1.0.42.0" => "Link! Fais attention à toi!",
+  "1.0.44.0" => "Maître, tous les Link noirs ont été éliminés.
+La probabilité de leur retour est de 0 %.",
+  "1.0.45.0" => "Je sens une quantité immense d'énergie irradier
+de l'épée maîtresse. Link, est-ce toi qui...?",
+  "1.0.46.0" => "Le véritable pouvoir de l'épée maîtresse
+doit être en train de s'éveiller!",
+  "1.0.47.0" => "Les ténèbres du cœur de Link ne suffisent
+plus... Peu importe, j'utiliserai celles du mien!",
+  "1.0.48.0" => "Cya, arrête! Tu utilises un
+pouvoir qui te dépasse!",
+  "1.0.49.0" => "Silence! Ce n'est pas une enfant insouciante
+comme toi qui va me faire la leçon!",
+  "1.0.50.0" => "Link semble sain et sauf...
+Vite! Repliez-vous tous!",
+  "1.0.51.0" => "Bien, replions-nous! On devrait
+pouvoir s'enfuir par la roseraie ouest!",
+  "1.0.52.0" => "La princesse Zelda est en danger! Partez
+devant! Je vais aller la chercher!",
+  "1.0.53.0" => "Impa! Je peux me débrouiller! Bats en retraite
+avec les autres! C'est un ordre!",
+  "1.0.54.0" => "M... Mais...! ... À vos ordres.
+Soyez prudente, Votre Altesse!",
+  "1.0.55.0" => "Hé hé... Vous ne m'échapperez pas...",
+  "1.0.56.0" => "Qu... Quelle puissance...
+Je suis complètement paralysée...",
+  "1.0.57.0" => "Link... Maintenant, c'est à toi de protéger tes
+amis! Tu dois le vaincre pour eux!",
+  "1.0.58.0" => "C'est encore pire que tout ce que j'ai pu
+imaginer.",
+  "1.0.59.0" => "Pff... Vous êtes faibles.
+Vous pourriez résister un peu plus...",
+  "1.0.60.0" => "Argh... Ça ne sert à rien!",
+  "1.0.61.0" => "Pathétique...
+Je vais abréger vos souffrances.",
+  "1.0.62.0" => "Ça va mal! Je vais me rendre au point d'évasion
+en éclaireur et je vous guiderai de là-bas.",
+  "1.0.63.0" => "Maître, je détecte une aura en mouvement. 
+Il s'agit de Midona.",
+  "1.0.64.0" => "Hé, vous autres! Le point d'évasion est ici!
+Rejoignez-moi et vous serez en sécurité!",
+  "1.0.66.0" => "Merci.
+Tu m'as sauvée!",
+  "1.0.67.0" => "Tu es donc le porteur de la lame purificatrice?
+Soit! Tu porteras le blâme de la chute d'Hyrule!",
+  "1.0.68.0" => "N'abandonne pas, Link! Courage!",
+  "1.0.69.0" => "Link, ressaisis-toi!
+Tu n'as pas le droit de perdre!",
+  "1.0.70.0" => "Link! Oh non, Link! Si le Héros est vaincu, que
+deviendront tous les autres?",
+  "1.0.71.0" => "Oh... Link... Comment avons-nous pu en
+arriver là?",
+  "1.0.72.0" => "Alors, c'est ici que s'arrête notre route...
+Pardonnez-moi, mes amis...",
+  "1.0.73.0" => "Je n'en peux plus... Pardonnez-moi...",
+  "1.0.74.0" => "Être vaincue dans un tel endroit...
+Votre Altesse, je n'ai pas été à la hauteur...",
+  "1.0.75.0" => "Arh! Je... Je me suis fait avoir...!
+Mes frères, vengez-moi!",
+  "1.0.76.0" => "Maître, je suis dans l'impossibilité de poursuivre
+le combat. M... mes forces me quittent.",
+  "1.0.77.0" => "Gah... Comment j'ai pu me laisser avoir?
+Désolée, tout le monde...",
+  "1.0.78.0" => "Si l'un d'entre nous tombe, ce sera la fin
+pour tous les autres...",
+  "1.0.79.0" => "Franchement... Tu parles d'un Héros, il faut
+toujours venir à ton secours.",
+  "1.0.80.0" => "Qu'est-ce que c'est que ça? Je ressens une
+présence inhabituelle dans les environs...",
+  "1.0.81.0" => "Le flux magique a été restauré! De puissants
+monstres ne vont pas tarder à réapparaître!",
+  "1.0.82.0" => "Nous devons reprendre les chambres
+ensorcelées pour couper les flux magiques!",
+  "1.0.83.0" => "Nous avons pris les chambres ensorcelées!
+Cela devrait interrompre les flux magiques!",
+  "1.0.84.0" => "Prenez ces chambres tant que vous voudrez,
+nous finirons toujours par les récupérer!",
+  "1.0.85.0" => "On a réussi! On a vaincu
+le Link noir!",
+  "1.0.86.0" => "Ne faiblissez pas! Je vais
+retenir nos ennemis!",
+  "1.0.87.0" => "Tout le monde est parti! Il est temps
+que tu t'enfuies, toi aussi!",
+  "1.0.88.0" => "Il faut que nous nous échappions...
+Il doit bien y avoir un moyen...",
+  "1.0.89.0" => "Impossible de s'enfuir.
+En tout cas, pas comme ça!",
+  "1.0.90.0" => "On dirait que s'enfuir ne va pas être
+une partie de plaisir finalement!",
+  "1.0.91.0" => "On était si proches de s'échapper!
+Ça prend une mauvaise tournure!",
+  "1.0.92.0" => "Tout le monde donne son maximum... Je ne
+peux échouer quand on compte sur moi!",
+  "1.0.93.0" => "L'ennemi ne relâche pas ses efforts!
+Combien de temps pourrons-nous tenir?",
+  "1.0.94.0" => "En avant, soldats! Récupérez les chambres
+ensorcelées et rétablissez les flux magiques!",
+  "13.0.0.0" => "Nous ne pouvons pas gagner sans Link.
+Alors gardez tous un œil sur lui!",
+  "13.0.1.0" => "Une puissante magie émane des chambres
+ensorcelées. Il faut les prendre à tout prix.",
+  "13.0.2.0" => "Trois chambres se trouvent à l'est, et trois à
+l'ouest. De puissants ennemis y apparaissent.",
+  "13.0.3.0" => "Je le savais! Prendre une chambre interrompt le
+flux magique qu'elle maintient avec les autres.",
+  "13.0.4.0" => "Nous avons terminé à l'ouest. Prenez les
+chambres ensorcelées de l'est à présent.",
+  "13.0.5.0" => "Nous avons terminé à l'est. Prenez les
+chambres ensorcelées de l'ouest à présent.",
+  "13.0.6.0" => "Fantastique! En capturant le fort central, le flux
+magique de deux forts a cessé. Brillante idée!",
+  "13.0.7.0" => "Comment? D'autres Link noirs sont apparus?
+Soyez tous extrêmement prudents!",
+  "13.0.8.0" => "On ne s'en sortira pas si ça continue
+comme ça... Sonnez la retraite!",
+  "13.0.9.0" => "Nous devons prendre la chambre de la sorcière
+si nous voulons arrêter le retour des Link noirs.",
+  "13.0.10.0" => "Link, fais attention! N'en fais pas trop!",
+  "13.0.11.0" => "Link est en sécurité! Battez en retraite!",
+  "13.0.12.0" => "Grr... Elle est trop puissante...
+Impossible de fuir...",
+  "13.0.13.0" => "Alors... il n'y a plus aucun espoir?",
+  "13.0.14.0" => "Est-ce que... Est-ce qu'il est déjà trop tard?",
+  "13.0.15.0" => "S'il te plaît! Mène à bien cette mission...
+pour moi...",
+  "13.0.16.0" => "Link...! Si nous perdons le Héros, nous
+perdons toutes chances de vaincre Cya!",
+  "13.0.17.0" => "Ce fardeau était trop lourd à porter pour moi...",
+  "13.0.18.0" => "Si nous voulons gagner, nous ne pouvons pas
+nous permettre de perdre un seul compagnon!",
+  "13.0.19.0" => "Ce combat... Je n'étais pas préparée...",
+  "13.0.20.0" => "Je pensais... être plus forte que ça...",
+  "13.0.21.0" => "J'aurais dû... mieux connaître mes limites...",
+  "13.0.22.0" => "J'ai été imprudente...",
+  "13.0.23.0" => "Nous avons vaincu la moitié des Link noirs.
+Occupons-nous des deux derniers.",
+  "13.0.24.0" => "Bien... Il devrait être possible de fuir par
+la roseraie ouest, vous ne croyez pas?",
+  "13.0.25.0" => "Veuillez... Veuillez me pardonner...
+J'ai atteint mes limites...",
+  "13.0.26.0" => "Link, attends! Je viens avec toi!",
+  "13.0.27.0" => "Reprenez les chambres ensorcelées
+pour interrompre les flux magiques!",
+  "13.0.28.0" => "Qu'est-ce que... Je ressens une étrange
+présence dans les environs...",
+  "13.0.29.0" => "Les chambres ont perdu leur pouvoir. Les flux
+magiques sont interrompus pour de bon!",
+}

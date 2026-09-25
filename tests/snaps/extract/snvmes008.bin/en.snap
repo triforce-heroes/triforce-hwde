@@ -1,0 +1,163 @@
+Map {
+  "1.0.0.0" => "Whoa, Link! I can't believe it!
+This island is floating in the sky!",
+  "1.0.1.0" => "Ha! Every last human in these lands will
+fall to my blade!",
+  "1.0.2.0" => "That Volga, so full of himself. He forgets that
+it is I, Ghirahim, who leads the demon tribe.",
+  "1.0.3.0" => "At this rate, we're bound to lose Skyloft!",
+  "1.0.4.0" => "Is that dragon knight from before in charge
+of the opposing forces? We can take him!",
+  "1.0.5.0" => "There are plenty of enemies near our base
+already! You should be careful!",
+  "1.0.7.0" => "Oh my! That lightning near the base is
+keeping enemies away!",
+  "1.0.8.0" => "I must defend the humans' base...",
+  "1.0.9.0" => "Ah, so the Great Spirit of the Sky has shown
+up... Levias, you flying nuisance! Begone!",
+  "1.0.10.0" => "Help, someone! They're stealing Lord
+Levias's soup! It's vital he gets it!",
+  "1.0.11.0" => "We need that soup to persuade Levias to
+connect the paths for us! Without it...",
+  "1.0.12.0" => "Sounds like we've got to get that soup back.
+Let's head to the Goddess Statue and help!",
+  "1.0.13.0" => "Thank you for coming to our aid! We have
+to guard this soup for Skyloft's sake!",
+  "1.0.14.0" => "Ack! I'm done for...
+Someone...protect...the soup...!",
+  "1.0.15.0" => "Oh no! The enemy's broken through!
+We have to hurry to the Goddess Statue!",
+  "1.0.16.0" => "Link... Master... I wait for you underneath
+the Goddess Statue...",
+  "1.0.17.0" => "Hey, listen! Did you hear that voice just now?
+It's coming from under the Goddess Statue!",
+  "1.0.18.0" => "Link. Greetings. Until our shared mission is
+complete, please allow me to call you Master.",
+  "1.0.19.0" => "Use this soup to convince Lord Levias to help!
+We'd do it, but we're a little...um...wounded...",
+  "1.0.20.0" => "I shall carry this pumpkin soup.",
+  "1.0.21.0" => "Can you...help our friends too? They're
+stranded north of the Academy Keep!",
+  "1.0.22.0" => "We can't leave anyone behind!
+We have to help them!",
+  "1.0.23.0" => "Oh, but how can you help your friends when
+the road is impassable...? Such a quandary...",
+  "1.0.24.0" => "The Skyloft soldiers say that Levias will
+connect the road if we ask him! Let's go!",
+  "1.0.25.0" => "Master, carrying this soup and calling Levias
+will help us advance. I shall assist in this task.",
+  "1.0.26.0" => "I have completed my transport of the soup.",
+  "1.0.27.0" => "Ho ho! My favorite soup!
+Did you bring it for me?",
+  "1.0.28.0" => "The road is open once more... Well, taking the
+enemy's base should brighten my mood.",
+  "1.0.29.0" => "Master, I shall aid the allied troops. Please
+take care of the enemy commander.",
+  "1.0.30.0" => "Take care of the enemy commander?
+With pleasure! C'mon, Link!",
+  "1.0.32.0" => "Thanks for the help! Hey, uh... Could you
+carry this soup to the western edge?",
+  "1.0.33.0" => "Ugh... Can't go any farther. Take...this
+pumpkin soup...to the western cliff...",
+  "1.0.34.0" => "The enemy has improved its morale.
+Master, use caution when fighting.",
+  "1.0.35.0" => "Master, I will transport the soup to its
+intended destination.",
+  "1.0.36.0" => "Master, there is an 85% chance that this soup
+will call Lord Levias to assist us again.",
+  "1.0.37.0" => "It's time to flatten the humans' base! And I
+may as well destroy some humans while I'm there!",
+  "1.0.38.0" => "Oh no! They're going after our base!",
+  "1.0.39.0" => "Grrr. These fools are so insensitive...
+Volga! Make yourself useful!",
+  "1.0.40.0" => "Master, the second batch of soup has
+been properly transported.",
+  "1.0.41.0" => "Ho ho... Was it you who called me?
+Shall I connect the paths for you again?",
+  "1.0.42.0" => "Master, further progress can be made.
+The Enemy Base is now accessible.",
+  "1.0.43.0" => "Hoorah! Now we can take on that dragon
+knight!",
+  "1.0.44.0" => "Master, a faction of enemies is advancing on
+the Allied Base. A defense may be needed.",
+  "1.0.45.0" => "Ahh, this might just be interesting. Are
+you ready to fight a real warrior?",
+  "1.0.46.0" => "Volga's out! Let's show him why he
+should have stayed hidden!",
+  "1.0.47.0" => "My dragon blood has begun to boil...
+Come at me, fools!",
+  "1.0.48.0" => "Disappointing! Come at me again!",
+  "1.0.49.0" => "Don't make me laugh! I was expecting a
+battle worth my time, not this child's play!",
+  "1.0.50.0" => "How impudent... If only I were at full strength, I
+would crush that dragon like the snake he is...",
+  "1.0.51.0" => "Master, I have a suggestion. The local Great
+Fairy may be able to increase Levias's strength.",
+  "1.0.52.0" => "The Great Fairy? Where is she? Over there?
+We'll have to defeat some enemies first!",
+  "1.0.53.0" => "Excellent! Now, use the Magic Circle and
+ask the Great Fairy to lend us her strength!",
+  "1.0.54.0" => "Master, I strongly recommend using the
+Magic Circle.",
+  "1.0.55.0" => "Is that enough divine intervention for you?
+Good. I grow tired...",
+  "1.0.56.0" => "Ugh... How could you...",
+  "1.0.57.0" => "Master, Volga is weak. You must deliver
+the final blow!",
+  "1.0.58.0" => "My strength is insufficient to stop Volga.",
+  "1.0.59.0" => "Fi is surrounded! We have to help her!
+Her? It? Whatever--let's just go help!",
+  "1.0.60.0" => "I would have defeated you if not for the
+sky lord's interference...",
+  "1.0.61.0" => "We won! Phew! That should give us a chance
+to breathe easy for a second or two!",
+  "1.0.62.0" => "You had us worried for a minute there!
+Thanks for pulling through!",
+  "1.0.63.0" => "How drab. I should bring this little moment to
+an end to make things a bit more tolerable.",
+  "1.0.64.0" => "No... On second thought, it might be more fun
+to destroy them from the inside... Ha ha ha!",
+  "1.0.65.0" => "Hrk--!
+          ...What is your bidding, Master?",
+  "1.0.66.0" => "Our base has fallen!
+It's all over, Link!",
+  "1.0.67.0" => "Continuing the battle is no longer an
+option. My apologies, Master.",
+  "1.0.68.0" => "S-s-someone, please help!
+We can't carry the soup like this!",
+  "1.0.69.0" => "H-help! The soup is in danger!",
+  "1.0.70.0" => "Lord Levias, we ask for your help to defeat
+those threatening the sky. Will you aid us?",
+  "1.0.71.0" => "Ah yes. So the roads have crumbled?
+Well, let me see what I can do...",
+  "1.0.72.0" => "Pardon me! Would you mind carrying
+this soup to the western cliff? Thanks!",
+  "1.0.73.0" => "I will wait for Levias here while you
+dispatch the enemy commander.",
+  "1.0.74.0" => "Master, please make haste to the Great Fairy.
+I can distract Volga while you accomplish this.",
+  "1.0.75.0" => "Their southern defenses appear to be lacking.
+Servants, invade their base from the south!",
+  "1.0.76.0" => "What are you doing sneaking about?
+I suppose I'll have to destroy you myself.",
+  "1.0.77.0" => "Stop the floating blue girl! While you do
+that, I'll take the goody-goodies' base!",
+  "1.0.78.0" => "Attack! Take their keep by force!",
+  "1.0.79.0" => "Oh, Volga, imitation isn't necessary. There is
+only one Ghirahim, and thankfully, it's me!",
+  "1.0.80.0" => "I can confirm that our keep is safe.
+Our forces have done a good job.",
+  "1.0.81.0" => "Come! Destroy these insolent weaklings'
+base!",
+  "1.0.82.0" => "Yessssss! Now is our turnssssss!",
+  "1.0.83.0" => "Gya! Will follow ordersssss!",
+  "1.0.84.0" => "I will dispatch the Lizalfos Chieftain.
+Master, you must handle the Dinolfos.",
+  "1.0.85.0" => "So...ssssstrong...",
+  "1.0.86.0" => "Gya! Pain... Failure...",
+  "1.0.87.0" => "I can confirm that both the Lizalfos and
+Dinolfos Chieftains have been defeated.",
+  "1.0.88.0" => "I can confirm that the Allied Base is safe.",
+  "1.0.89.0" => "Cowards! If you can still fight, fight on
+and push forward!",
+}

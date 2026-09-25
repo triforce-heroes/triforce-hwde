@@ -1,0 +1,8 @@
+Map {
+  "0.1.0" => "Un A2invocateurR rejoint le champ de bataille !",
+  "0.2.0" => "A0%2sF5R invoqués par l'A2invocateurR menacent A0%1sF0R !",
+  "0.3.0" => "Éliminez l'A2invocateurR avant qu'il n'appelle plus de renforts !",
+  "0.4.0" => "L'A2invocateurR bat en retraite !",
+  "0.5.0" => "Vous avez vaincu l'A2invocateurR !",
+  "0.6.0" => "L'A2invocateurR a encore invoqué A0%1sF3R !",
+}

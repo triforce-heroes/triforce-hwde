@@ -1,0 +1,201 @@
+Map {
+  "1.0.0.0" => "¡Acaba con ellos, Link! Con la Espada
+Maestra tendría que ser pan comido.",
+  "1.0.1.0" => "No te adelantes a los acontecimientos, Link.
+Es necesario mantener la prudencia.",
+  "1.0.2.0" => "¡Aquí estoy, Link! A ver de qué es capaz
+esa espada.",
+  "1.0.3.0" => "Si Link cae, será imposible ganar.
+¡No lo perdáis de vista!",
+  "1.0.5.0" => "Hay tres bastiones en el este y tres en el oeste;
+cada grupo conectado por un vínculo mágico.",
+  "1.0.6.0" => "Noto un poder mágico que emana de los
+bastiones. Debemos ir a por ellos sin dilación.",
+  "1.0.7.0" => "¡Ja, ja, ja! Percibo el poder de la Trifuerza.",
+  "1.0.8.0" => "Percibo una inquietante presencia...
+¿Qué puede ser?",
+  "1.0.9.0" => "¡Qué extraño! Yo solo percibo las auras
+malignas de la hechicera y sus secuaces.",
+  "1.0.10.0" => "De los bastiones mágicos que están conectados
+salen enemigos más fuertes.",
+  "1.0.11.0" => "Eso no me gusta nada... Lo que debemos hacer
+es tomar los bastiones.",
+  "1.0.12.0" => "Estos enemigos tienen demasiada energía...
+¡Son mucho más fuertes que de costumbre!",
+  "1.0.13.0" => "Al capturar los bastiones mágicos se
+anula el vínculo que los conecta.",
+  "1.0.14.0" => "Ahora los enemigos no serán tan fuertes.
+Deberíamos ir a por los otros bastiones mágicos.",
+  "1.0.15.0" => "Si conquistamos los bastiones en cierto
+orden, acabaremos antes con el vínculo.",
+  "1.0.16.0" => "Hemos terminado con el lado oeste. Ahora solo
+quedan los bastiones mágicos del este.",
+  "1.0.17.0" => "Si queremos avanzar hacia la victoria, es
+necesario anular los vínculos mágicos.",
+  "1.0.18.0" => "Hemos terminado con el lado este. Ahora solo
+quedan los bastiones mágicos del oeste.",
+  "1.0.19.0" => "Si queremos avanzar hacia la victoria, es
+necesario anular los vínculos mágicos.",
+  "1.0.20.0" => "Al conquistar el bastión central, hemos
+anulado el vínculo mágico por completo.",
+  "1.0.21.0" => "Finalizada la eliminación de vínculos mágicos.",
+  "1.0.22.0" => "Déjate de jueguecitos y ven aquí, Link.
+¿No quieres enfrentarte a mí con esa espada?",
+  "1.0.23.0" => "¡Las puertas se han abierto! Cya está dentro;
+será mejor que entremos.",
+  "1.0.24.0" => "El Link oscuro es un reflejo de la oscuridad que
+hay en tu interior. ¿Crees que puedes vencerlo?",
+  "1.0.25.0" => "Lo siento, Link. Había bajado la guardia...
+¡No dejes que el impostor te gane!",
+  "1.0.26.0" => "¡No podemos dejar a Link solo ante el peligro!",
+  "1.0.28.0" => "Ha utilizado su lado oscuro... Tiene que haber algo
+que podamos hacer.",
+  "1.0.29.0" => "¿Más Links oscuros?
+¡No bajéis la guardia!",
+  "1.0.30.0" => "Mis datos confirman la aparición de cuatro
+Links oscuros.",
+  "1.0.31.0" => "¡Cuatro! La cosa pinta bastante mal...",
+  "1.0.32.0" => "Buf, parece que los Links oscuros
+ya no nos molestarán más, ¿no?",
+  "1.0.33.0" => "¿Se ha recuperado? A este ritmo,
+esto no acabará nunca.",
+  "1.0.34.0" => "¡Esperaré a que se agoten por completo
+y luego me haré con la Trifuerza!",
+  "1.0.35.0" => "¡Es él! ¡Ha venido a robar la Trifuerza!",
+  "1.0.36.0" => "Han aparecido más enemigos-goro.",
+  "1.0.37.0" => "Nos están rodeando. ¡Tropas, retiraos!",
+  "1.0.38.0" => "Lo único que podemos hacer es retirarnos.
+¡Vayamos a la rosaleda del oeste!",
+  "1.0.39.0" => "¡De acuerdo! Vamos, huyamos por la rosaleda
+que se encuentra al oeste.",
+  "1.0.40.0" => "Los Links oscuros reviven en la sala de la
+hechicera e impiden huir a nuestros aliados.",
+  "1.0.41.0" => "Detén a los Links oscuros para que
+los demás puedan huir.",
+  "1.0.42.0" => "¡Ten cuidado, Link!",
+  "1.0.44.0" => "Amo, confirmo que todos los
+Links oscuros han sido eliminados.",
+  "1.0.45.0" => "Percibo un poder creciente...
+¿Será lo que creo que es?",
+  "1.0.46.0" => "La Espada Maestra empieza a revelar
+su verdadero poder.",
+  "1.0.47.0" => "Ya no puedo invocar más Links oscuros, así
+que basta de trucos. ¡Lucharé yo misma!",
+  "1.0.48.0" => "¡Cya, detente! Si utilizas tanta magia,
+no habrá vuelta atrás.",
+  "1.0.49.0" => "¡Chitón! Haré lo que quiera. Aunque me noto
+algo cansada...",
+  "1.0.50.0" => "Parece que Link está sano y salvo.
+¡Rápido, retirémonos!",
+  "1.0.51.0" => "¡Retirémonos! Podemos huir por la rosaleda
+que hay al oeste.",
+  "1.0.52.0" => "¡La princesa está en apuros!
+Rápido, huid. Yo la protegeré.",
+  "1.0.53.0" => "¡No te preocupes por mí y vete, Impa!
+¡Te lo ordeno!",
+  "1.0.54.0" => "Pero... Está bien, princesa. ¡Suerte!",
+  "1.0.55.0" => "No escaparás.",
+  "1.0.56.0" => "Qué poder más descomunal... No puedo huir.",
+  "1.0.57.0" => "¡Link, debes hacer algo! Acaba con él.",
+  "1.0.58.0" => "Es implacable, tal y como temía.",
+  "1.0.59.0" => "Qué patético. ¿Quieres seguir luchando?",
+  "1.0.60.0" => "Mis esfuerzos no sirven de nada...",
+  "1.0.61.0" => "Pobrecita... Haré que dejes de sufrir.",
+  "1.0.62.0" => "La batalla no pinta bien. Me adelantaré hasta
+el punto de huida y os guiaré hasta la salida.",
+  "1.0.63.0" => "He detectado un aura en movimiento, muy
+posiblemente asociada a Midna.",
+  "1.0.64.0" => "¡El punto de huida está aquí! Tratad de llegar.",
+  "1.0.66.0" => "¡Gracias por salvarme!",
+  "1.0.67.0" => "La espada destructora del Mal, ¿eh? Es igual,
+no puedes hacer nada para alejar las tinieblas.",
+  "1.0.68.0" => "¡No puedes rendirte ahora, Link!",
+  "1.0.69.0" => "¡Cálmate, Link! ¡No dejes que te alcance!",
+  "1.0.70.0" => "¡Link! Si caes ahora, estaremos perdidos...",
+  "1.0.71.0" => "¡Link! No podremos hacer frente a Cya durante
+mucho tiempo más...",
+  "1.0.72.0" => "En un lugar como este...",
+  "1.0.73.0" => "Lo siento, pero no puedo continuar.",
+  "1.0.74.0" => "Nunca pensé que mi fin llegaría aquí.
+¡Os he fallado, princesa!",
+  "1.0.75.0" => "Me han derrotado...",
+  "1.0.76.0" => "Amo, debo abandonar la lucha.",
+  "1.0.77.0" => "Lo siento mucho...",
+  "1.0.78.0" => "Si alguno de nosotros cae aquí, no podremos
+continuar.",
+  "1.0.79.0" => "¿Qué clase de héroe eres tú?",
+  "1.0.80.0" => "Noto una presencia extraña...",
+  "1.0.81.0" => "¡El vínculo mágico reactivado hará que
+aparezcan enemigos más poderosos!",
+  "1.0.82.0" => "¡Debemos capturar los bastiones mágicos
+y anular el vínculo entre ellos!",
+  "1.0.83.0" => "¡Los bastiones ya son nuestros!
+¡Eso anulará su vínculo!",
+  "1.0.84.0" => "Podéis conquistar todos los bastiones
+que queráis; ¡no servirá de nada!",
+  "1.0.85.0" => "¡Lo hemos logrado, Link! ¡Hemos
+vencido al Link oscuro!",
+  "1.0.86.0" => "¡Escapad! ¡Yo me encargo de
+contener al enemigo!",
+  "1.0.87.0" => "¡Todos han huido!
+¡Escapa tú también!",
+  "1.0.88.0" => "¡Tenemos que escapar de aquí!",
+  "1.0.89.0" => "¡Así no conseguiremos escapar!",
+  "1.0.90.0" => "Parece que no vamos a poder
+escapar tan fácilmente...",
+  "1.0.91.0" => "Hemos estado a punto de huir,
+pero no hemos podido...",
+  "1.0.92.0" => "Todos están luchando hasta el final...
+¡No puedo fallarles!",
+  "1.0.93.0" => "El enemigo no va a cejar nunca...
+¡pero no sé cuánto aguantaremos!",
+  "1.0.94.0" => "¡Adelante! ¡Recuperad los bastiones
+mágicos y reactivad sus vínculos!",
+  "13.0.0.0" => "Sin Link no podremos vencer...
+¡No lo perdáis de vista!",
+  "13.0.1.0" => "Percibo un poder mágico muy fuerte en los
+bastiones. ¡Debemos hacernos con ellos!",
+  "13.0.2.0" => "Un vínculo mágico conecta los bastiones
+y hace que sigan apareciendo monstruos.",
+  "13.0.3.0" => "Al capturar los bastiones mágicos, anularemos
+el vínculo que los conecta.",
+  "13.0.4.0" => "Nos hemos ocupado de la zona oeste; ahora
+solo queda centrarse en los bastiones del este.",
+  "13.0.5.0" => "Nos hemos ocupado de la zona este; ahora solo
+queda centrarse en los bastiones del oeste.",
+  "13.0.6.0" => "Al capturar el bastión central hemos anulado
+dos conexiones mágicas. ¡Bien hecho!",
+  "13.0.7.0" => "Han aparecido más Links oscuros.
+¡Que nadie baje la guardia!",
+  "13.0.8.0" => "Si seguimos así, acabaremos arrinconados.
+¡Tropas, retiraos!",
+  "13.0.9.0" => "Los Links oscuros reviven en la sala de
+la hechicera e impiden nuestra retirada.",
+  "13.0.10.0" => "¡Link, ten cuidado! Todo el mundo
+tiene un límite.",
+  "13.0.11.0" => "Link estará bien. ¡Retiraos, rápido!",
+  "13.0.12.0" => "Son demasiado fuertes... No podemos huir.",
+  "13.0.13.0" => "Creo que todo está perdido...",
+  "13.0.14.0" => "Puede que sea demasiado tarde...",
+  "13.0.15.0" => "Gracias por salvarme...",
+  "13.0.16.0" => "¡Link! Si te perdemos, Cya
+se alzará con la victoria.",
+  "13.0.17.0" => "Era demasiada responsabilidad para mí...",
+  "13.0.18.0" => "Con que caiga uno solo de nosotros, estaremos
+perdidos...",
+  "13.0.19.0" => "No he estado a la altura de las circunstancias.",
+  "13.0.20.0" => "Ha sido demasiado para mí...",
+  "13.0.21.0" => "Tendría que saber dónde están mis límites...",
+  "13.0.22.0" => "Pensé que podría hacerlo...",
+  "13.0.23.0" => "Han derrotado a la mitad de los Links oscuros.
+¡Vayamos a por los otros dos!",
+  "13.0.24.0" => "¿No será más fácil huir por la rosaleda del oeste?",
+  "13.0.25.0" => "No puedo seguir adelante...",
+  "13.0.26.0" => "¡Espera, Link! Yo también voy.",
+  "13.0.27.0" => "¡Tomad los bastiones mágicos
+y anulad sus vínculos!",
+  "13.0.28.0" => "Percibo una presencia extraña
+en los alrededores...",
+  "13.0.29.0" => "Los bastiones mágicos han perdido
+su poder. ¡Hemos anulado el vínculo!",
+}

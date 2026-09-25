@@ -1,0 +1,14 @@
+Map {
+  "0.1.0" => "Die A0%1sF1R wurden auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "Sprich mit A0%1sF4R, um einen Verbündeten zu gewinnen!",
+  "0.3.0" => "A0%1sF0R wurde angesprochen!",
+  "0.4.0" => "Die A0%1sF1R wurden überzeugt, die A0%2sF7R zu unterstützen!",
+  "0.5.0" => "Die A0%1sF1R sind bei A0%2sF4R!",
+  "0.6.0" => "Die A0%1sF1R greifen die A0%2sF7R an!",
+  "0.7.0" => "Erreiche A0%2sF6R, bevor die A0%1sF1R ausgelöscht werden!",
+  "0.8.0" => "Die A0%1sF1R wurden überzeugt, die A0%2sF7R zu unterstützen!",
+  "0.9.0" => "Die A0%1sF1R haben A0%2sF6R besiegt!",
+  "0.10.0" => "Die A0%1sF1R unterstützen erzürnt die A0%3sF7R!",
+  "0.11.0" => "A0%1sF0R ist geflohen!",
+  "0.12.0" => "Die gesamten A0%1sF1R haben sich vom Schlachtfeld zurückgezogen!",
+}

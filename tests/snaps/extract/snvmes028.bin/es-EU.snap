@@ -1,0 +1,176 @@
+Map {
+  "1.0.0.0" => "¡Los monstruos nos atacan!
+¡Necesitamos ayuda!",
+  "1.0.1.0" => "¡Ya es suficiente, Cya! ¿Qué te
+han hecho las pobres hadas?",
+  "1.0.2.0" => "Así que eras tú quien las protegía...
+¡No te inmiscuyas en mis asuntos!",
+  "1.0.3.0" => "No lograremos detener a Cya aquí.
+¡Vayamos al Castillo de Hyrule!",
+  "1.0.4.0" => "Aún no podemos enfrentarnos a los hylianos.
+¡Acabad con los que van a por refuerzos!",
+  "1.0.5.0" => "Nos encargaremos de
+pedir ayuda-goro.",
+  "1.0.6.0" => "¡Haceos con alguno de esos bastiones
+y abrid las puertas!",
+  "1.0.7.0" => "¿Qué podemos hacer?
+¡Hay monstruos por todas partes!",
+  "1.0.8.0" => "Intentaré conseguir un poco más de
+tiempo. ¡Escóndete con las demás hadas!",
+  "1.0.9.0" => "Los que estáis en el norte también
+debéis daros prisa, ¡vamos!",
+  "1.0.10.0" => "¡Te pararé los pies, Cya!
+Espera y verás...",
+  "1.0.11.0" => "¡No dejéis que avancen
+ni un paso más!",
+  "1.0.12.0" => "Se nos han escapado... Las tropas de Hyrule
+podrían aparecer en cualquier momento.",
+  "1.0.13.0" => "¡No podéis huir de mí!",
+  "1.0.14.0" => "No lo hemos hecho nada mal.",
+  "1.0.15.0" => "Es increíble que se nos hayan escapado
+más de la mitad... A ver cómo acaba esto.",
+  "1.0.16.0" => "¡Es patético, no hemos conseguido
+atrapar ni siquiera a uno de ellos!",
+  "1.0.17.0" => "Las tropas hylianas acudirán en nuestra
+ayuda. ¡Resistid un poco más!",
+  "1.0.18.0" => "¿Han solicitado refuerzos? Poco
+importa, ¡los aplastaré a todos!",
+  "1.0.19.0" => "¿Cómo han podido aparecer estos
+monstruos en la llanura de Hyrule?",
+  "1.0.20.0" => "¡Es su princesa! ¡Olvidaos de
+las hadas e id a por ella!",
+  "1.0.21.0" => "¡Avanzad! Lucharemos
+por la paz de Hyrule.",
+  "1.0.22.0" => "Pueden enviar todos los refuerzos que
+quieran. ¡Acabaremos con ellos!",
+  "1.0.23.0" => "Los monstruos son más fuertes de lo
+que parece... ¡Yo también lucharé!",
+  "1.0.24.0" => "Su comandante ha dado la cara. ¡Acabad
+con ella! Así aprenderán una lección.",
+  "1.0.25.0" => "He fracasado... Princesa,
+¡debo retirarme!",
+  "1.0.26.0" => "Los monstruos han logrado derrotar
+a Impa. Ya no hay esperanza...",
+  "1.0.27.0" => "Las hadas ya están a salvo. Ahora
+todo depende de las tropas hylianas.",
+  "1.0.28.0" => "Sus soldados son tan débiles que me
+aburren. ¡Ocupaos vosotros de ellos!",
+  "1.0.29.0" => "¡Yo también lucharé! Debemos
+defender Hyrule a toda costa.",
+  "1.0.30.0" => "La princesa en persona está luchando,
+¡no podemos quedarnos atrás!",
+  "1.0.31.0" => "(...)",
+  "1.0.32.0" => "¡Recluta! ¿Qué haces aquí?
+Es muy peligroso para ti, ¡largo!",
+  "1.0.33.0" => "La princesa ha aparecido... Será
+interesante ver lo fuerte que es.",
+  "1.0.34.0" => "¡Soldados de Hyrule! ¡Necesito un
+contrincante que esté a mi altura!",
+  "1.0.35.0" => "La fuerza del caballero dragón es
+descomunal. ¡No bajéis la guardia!",
+  "1.0.36.0" => "¡Alto ahí! No passsarás de aquí.",
+  "1.0.37.0" => "¡No la subessstimes! Es másss
+fuerte de lo que parece...",
+  "1.0.38.0" => "¡Ese chico es todo un prodigio!
+Quizás sea él quien...",
+  "1.0.39.0" => "¡No os rindáis!",
+  "1.0.40.0" => "¡No os abandonaremos, princesa!
+Lucharemos a vuestro lado.",
+  "1.0.41.0" => "¡Defenderemos la paz de Hyrule!",
+  "1.0.42.0" => "¡El destino de Hyrule está
+en nuestras manos!",
+  "1.0.43.0" => "¡Tropas, seguidme! Debemos
+seguir luchando.",
+  "1.0.44.0" => "Hasta la princesa está luchando...
+¡Debemos pelear hasta el final!",
+  "1.0.45.0" => "(...)",
+  "1.0.46.0" => "No nos queda más remedio que retirarnos
+e intentar conseguir cierta ventaja.",
+  "1.0.47.0" => "¿Se han retirado al castillo?
+¡Entonces les haré una visita!",
+  "1.0.48.0" => "Los subestimamos por completo...
+Tendremos que volver a intentarlo.",
+  "1.0.49.0" => "Creo que os había subestimado.
+¡Pero quiero volver a intentarlo!",
+  "1.0.50.0" => "Esto no puede acabar así...",
+  "1.0.51.0" => "Hemos dejado que se nos escapen.",
+  "1.0.52.0" => "¿Qué hacemos? ¡No podemos
+controlar la situación!",
+  "1.0.53.0" => "No podemos perder ahora.
+¡Rápido, debemos contratacar!",
+  "1.0.54.0" => "¡A las armas! Todo aquel que pueda
+luchar, ¡que me siga!",
+  "1.0.55.0" => "Si no hacemos algo, estaremos perdidos.
+¡Daos prisa!",
+  "1.0.56.0" => "Parece que el plan ha dado resultado.
+Ahora debo llevar a cabo mi cometido.",
+  "1.0.57.0" => "¡Nosotros iremos a invadir su base!",
+  "1.0.58.0" => "Es increíble que no hayamos
+logrado detenerlos.",
+  "1.0.59.0" => "El plan no ha dado resultado, ¡pero
+ese no es motivo para rendirse!",
+  "1.0.60.0" => "Si Impa ha sido derrotada,
+estamos perdidos...",
+  "13.0.0.0" => "¡Haceos con alguno de esos bastiones
+y abrid las puertas!",
+  "13.0.1.0" => "¿Se puede saber qué hacéis? Como
+se escape uno más, lo pagaréis caro.",
+  "13.0.2.0" => "¿Cómo los habéis dejado escapar?
+¡Sois una panda de inútiles!",
+  "13.0.3.0" => "Así que han hecho venir a sus
+amiguitos... ¡Qué previsible!",
+  "13.0.4.0" => "¡Qué inepta! ¿A quién se le ocurre salir
+a luchar? ¡Yo me ocuparé de ella!",
+  "13.0.5.0" => "Primero, a por la princesa... ¡Y luego
+me haré con el castillo! ¡Jia, jia!",
+  "13.0.6.0" => "No debéis subestimar al hechicero.
+¡Estad alerta!",
+  "13.0.7.0" => "Han conquistado nuestra base. ¡Cretinos!
+Tendremos que empezar de cero.",
+  "13.0.8.0" => "¡Huid, gusanos! Eso sí que
+se os da bien...",
+  "13.0.9.0" => "¡No dejéis que se adelante!",
+  "13.0.10.0" => "Lo siento mucho, princesa. No sé cómo he podido
+caer en su trampa.",
+  "13.0.11.0" => "Desde aquí podemos hacer retroceder al enemigo.
+¡Vamos allá!",
+  "13.0.12.0" => "¿Estás bien, Impa?",
+  "13.0.13.0" => "¿Eres uno de los soldados novatos?",
+  "13.0.14.0" => "Debemos tomar el bastión central y el
+del este, y luego cerrar sus puertas norte.",
+  "13.0.15.0" => "Yo me dispondré a trazar el plan de batalla.
+Princesa, encargaos de tomar los bastiones.",
+  "13.0.16.0" => "El enemigo se ha abierto paso en el norte.
+Necesitamos que la Gran Hada nos ayude.",
+  "13.0.17.0" => "Si el plan tiene éxito, asestaremos un buen golpe
+a todas las tropas. ¡A la fuente del hada!",
+  "13.0.18.0" => "Si tuviésemos bombas, podríamos echar
+abajo el muro de la fuente del hada.",
+  "13.0.19.0" => "¡Rápido, por aquí! Echad abajo el muro
+de la fuente del hada y entrad.",
+  "13.0.20.0" => "Tened mucho cuidado; el enemigo está atacando
+en el norte.",
+  "13.0.21.0" => "¡Han tomado el bastión este de la llanura!",
+  "13.0.22.0" => "¡Por aquí! Debemos rezar todos juntos a
+la Gran Hada.",
+  "13.0.23.0" => "Princesa, el plan ha sido todo un éxito.
+Hemos logrado mermar sus filas.",
+  "13.0.24.0" => "Princesa, todo ha salido según lo planeado.
+El enemigo ha sufrido muchas bajas.",
+  "13.0.25.0" => "Yo me encargaré de esto, Impa. Tú tendrás
+que dirigir a las tropas hylianas.",
+  "13.0.26.0" => "De acuerdo. ¡Mucha suerte, princesa!",
+  "13.0.27.0" => "¡Buen trabajo! Tanto esfuerzo al fin ha dado
+sus frutos.",
+  "13.0.28.0" => "¡Tenemos malas noticias, princesa!
+¡El hechicero se ha apoderado del castillo!",
+  "13.0.29.0" => "¡Link, tenemos que luchar por Hyrule!",
+  "13.0.30.0" => "Con esto podremos volar esas rocas y llegar
+hasta Impa.",
+  "13.0.31.0" => "¡Tomad esto, princesa! Hará que las bombas
+sean más potentes.",
+  "13.0.32.0" => "Os he fallado, princesa...",
+  "13.0.33.0" => "Las rocas nos impiden llegar hasta Impa...
+¿No habrá nada que podamos hacer?",
+  "13.0.34.0" => "¡Mira, Link! ¡Es la princesa!",
+}

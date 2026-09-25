@@ -1,0 +1,323 @@
+Map {
+  "1.0.0.0" => "La porta delle anime è in fondo al palazzo.
+Eliminiamo le guardie e chiudiamola!",
+  "1.0.1.0" => "La porta delle anime è in fondo al palazzo.
+Eliminiamo le guardie e chiudiamola!",
+  "1.0.2.0" => "Povera principessa Midna... io ti seppellirò!
+Vi annienterò col potere del crepuscolo!",
+  "1.0.3.0" => "Ma quello... è Zant!
+Perché protegge la porta delle anime?",
+  "1.0.4.0" => "Guiderò la nostra armata, dopotutto
+conosco bene questo palazzo!",
+  "1.0.5.0" => "Resterò a difesa della base!
+Conto su di te se le cose si mettono male!",
+  "1.0.6.0" => "Difendere la base e combattere al fianco
+del comandante! Tutto chiaro!",
+  "1.0.7.0" => "Bene, prima di tutto avanziamo a est!
+Conquistiamo i presidi nemici!",
+  "1.0.8.0" => "Bene, prima di tutto avanziamo a est!
+Conquistiamo i presidi nemici!",
+  "1.0.9.0" => "Uh uh uh... farò del mio meglio!!!",
+  "1.0.10.0" => "Non perdete tempo! Conquistate i
+presidi a est!",
+  "1.0.11.0" => "Che succede? Conquistate i presidi a est!",
+  "1.0.12.0" => "Forza! Riuscite a conquistare il presidio
+a nord?!",
+  "1.0.13.0" => "Buttate giù i ponti! Separate il nemico
+dalla base!",
+  "1.0.14.0" => "Il ponti sono caduti! E allora?
+Pensiamo a conquistare il presidio!",
+  "1.0.15.0" => "Anche se i ponti sono caduti, non è grave!
+Conquistate il presidio!",
+  "1.0.16.0" => "Allora... devo continuare a fare quello
+che sto facendo, giusto? All'attacco!",
+  "1.0.17.0" => "Troppo forte! Abbiamo conquistato
+i presidi del palazzo est!",
+  "1.0.18.0" => "Oooh... è la ricompensa per la conquista?
+Forza, guarda cosa c'è dentro!",
+  "1.0.19.0" => "Uno scrigno... non si rifiuta mai!",
+  "1.0.20.0" => "L'arpione ti fa volare a grande distanza.
+Potremmo usarlo dov'è caduto il ponte!",
+  "1.0.21.0" => "Nessuno si può avvicinare alla porta delle
+anime! Vi farò vedere il potere di un re!!!",
+  "1.0.22.0" => "Ugh...! Ha evocato un drago...
+Il potere di Zant non è da sottovalutare...",
+  "1.0.24.0" => "Vieni giù, codardo!!! Così non riesco
+a difendermi...",
+  "1.0.25.0" => "Ci attacca dal cielo... cosa possiamo
+fare da qui?",
+  "1.0.26.0" => "Quel drago vola troppo in alto...
+Come facciamo ad attaccarlo?",
+  "1.0.27.0" => "Bene! Ora assaggerà la mia magia!",
+  "1.0.28.0" => "Creerò un cerchio magico nel presidio
+sotto di lui! Datemi una mano!",
+  "1.0.29.0" => "L'unico modo per abbattere quel drago
+volante è usare la magia!",
+  "1.0.30.0" => "Voglio creare un cerchio magico nel
+presidio sotto al drago! Datemi una mano!",
+  "1.0.31.0" => "Dei demoni mi bloccano la strada!
+Inviate rinforzi!",
+  "1.0.32.0" => "Ci sono dei demoni che bloccano la strada.
+Non posso andare avanti! Inviate soccorsi!",
+  "1.0.33.0" => "Ce la farai da sola? Se noi andiamo avanti
+rimarremo isolati in prima linea!",
+  "1.0.34.0" => "E voi, piuttosto? Vi ritroverete in prima
+linea senza alcun aiuto!",
+  "1.0.35.0" => "I nostri alleati ce la stanno mettendo tutta!
+Voglio dare una mano anche io!",
+  "1.0.36.0" => "La base nemica sembra indebolita!
+Approfittiamone, mandate dei rinforzi!",
+  "1.0.37.0" => "Ha sfruttato la mia assenza... Dobbiamo
+completare il cerchio magico al più presto!",
+  "1.0.38.0" => "Hanno approfittato della mia assenza...!
+Completiamo al più presto il cerchio!",
+  "1.0.39.0" => "Bene, il cerchio magico è completo!
+Usatelo per abbattere il drago!",
+  "1.0.40.0" => "Abbiamo completato il cerchio magico!
+Usatelo per abbattere il drago!",
+  "1.0.41.0" => "Che ci vuole ad abbattere quel drago?
+Forza, adesso c'è anche il cerchio magico!",
+  "1.0.42.0" => "La base alleata non reggerà a lungo! Usa
+il cerchio magico per abbattere il drago!",
+  "1.0.43.0" => "Ottimo lavoro!
+Però era meglio abbatterlo...",
+  "1.0.44.0" => "Siete riusciti a cacciare Argorok... ma i
+miei piani non finiscono qua.",
+  "1.0.45.0" => "Ben fatto! Spero sia l'ultima volta
+che vediamo quel drago!",
+  "1.0.46.0" => "Ammirate il piano del re del crepuscolo!
+Catturate il capitano nemico!",
+  "1.0.47.0" => "Eh? Il nemico si sta avvicinando...
+Vorrà parlare con me?",
+  "1.0.48.0" => "Come fa a essere così spensierata? Non
+fate avvicinare il nemico a quella ragazzina!",
+  "1.0.49.0" => "Attenzione! Stanno puntando su Xenia!
+Tenetela lontana dal nemico!",
+  "1.0.50.0" => "Eeehi! Che succede?!",
+  "1.0.51.0" => "Il nemico l'ha rapita...
+Le difese a est si sono indebolite...",
+  "1.0.52.0" => "Xenia è stata catturata! L'armata nemica
+a est prenderà coraggio!",
+  "1.0.53.0" => "Grazie, stavo quasi per accettare l'invito
+del nemico.",
+  "1.0.54.0" => "Le ferite sono guarite...
+Torna all'attacco della base!",
+  "1.0.55.0" => "Uff... basta con questo drago!",
+  "1.0.56.0" => "Attacca il drago con il cerchio magico!
+Conquista il presidio sotto di lui!",
+  "1.0.57.0" => "Va bene!
+Stessa strategia di prima!",
+  "1.0.58.0" => "Con il cerchio magico possiamo abbattere il
+drago! Conquistate la piazza sotto di lui!",
+  "1.0.59.0" => "Stessa strategia di prima! Ci penso io!",
+  "1.0.62.0" => "Ha di nuovo attaccato la base...
+Lo caccerò in un attimo!",
+  "1.0.63.0" => "Ha preso di mira la base...
+Dobbiamo allontanarlo al più presto!",
+  "1.0.65.0" => "Bene, il cerchio magico è pronto!
+Abbattiamolo una volta per tutte!",
+  "1.0.66.0" => "Il cerchio magico è completo!
+Usa la sua magia per sconfiggere il drago!",
+  "1.0.67.0" => "Vuoi perdere ancora tanto tempo con quel
+drago? Usa il cerchio magico!",
+  "1.0.68.0" => "Non resisterò ancora a lungo... Usa il
+cerchio magico per abbattere il drago!",
+  "1.0.69.0" => "È scappato di nuovo... Per dargli il colpo
+di grazia dobbiamo riuscire ad attaccarlo!",
+  "1.0.70.0" => "È scappato di nuovo?!",
+  "1.0.71.0" => "Uhm... Se vogliamo sconfiggere il drago,
+dobbiamo fare in modo che voli più basso.",
+  "1.0.73.0" => "Accidenti, è la terza volta!",
+  "1.0.74.0" => "Basta! Sono già tre volte!
+Fino a quando dobbiamo combattere?!",
+  "1.0.75.0" => "Ogni volta che lo cacciamo, torna sempre
+indietro! Cocciuto come un mulo!!!",
+  "1.0.76.0" => "Gli attacchi col mio cerchio magico non
+hanno fatto effetto! Che possiamo fare?",
+  "1.0.77.0" => "Gli attacchi con il mio cerchio magico
+sono stati inutili... Che possiamo fare?!",
+  "1.0.78.0" => "La mia farfalla ha qualcosa da dirci...
+Ci vuole condurre da qualche parte...",
+  "1.0.81.0" => "Bene... Seguiamo la farfalla verso l'edificio
+a sud est. Lì c'è la fontana della dea!",
+  "1.0.82.0" => "Raggiungiamo l'edificio a sud est. Anche se
+è assurdo, dobbiamo seguire la farfalla...",
+  "1.0.84.0" => "Il cerchio magico nella fontana della dea
+riuscirà ad abbattere quel drago!",
+  "1.0.85.0" => "Un cerchio magico nella fontana della dea?
+Potrebbe riuscire a eliminare quel drago!",
+  "1.0.86.0" => "Attaccate insieme ad Argorok!
+Non lasciate loro scampo!",
+  "1.0.87.0" => "Ci è rimasta solo la base! Se la perdiamo,
+siamo finiti!",
+  "1.0.88.0" => "Solo la nostra base è ancora salva...
+Dobbiamo difenderla a ogni costo.",
+  "1.0.89.0" => "Sono troppo deboli per contrattaccare.
+Piano piano li annienterò del tutto!",
+  "1.0.90.0" => "Maledetto Zant... Non cantare vittoria!",
+  "1.0.91.0" => "Uff, che fastidio!
+Conquistiamo un presidio nemico!",
+  "1.0.92.0" => "Urrà!",
+  "1.0.93.0" => "Che te ne pare, Zant? La prossima volta
+non mi accontenterò di un presidio!",
+  "1.0.94.0" => "Hai visto? Siamo più forti di quanto
+tu credessi!",
+  "1.0.95.0" => "Come osate prendervi gioco della
+mia armata?!",
+  "1.0.96.0" => "Guardate! L'attacco magico ha avuto
+effetto! Il drago adesso vola più basso!",
+  "1.0.97.0" => "Ora il nostro attacco andrà a segno!
+Dobbiamo scagliare il colpo di grazia!",
+  "1.0.98.0" => "Non ci posso credere... hanno messo
+in difficoltà Argorok...!",
+  "1.0.99.0" => "Tutte le truppe all'attacco! Seguitemi!
+Il vostro re vi mostrerà come si fa!!!",
+  "1.0.100.0" => "Il drago è raggiungibile e Zant è uscito
+allo scoperto! Ora possiamo annientarli!",
+  "1.0.101.0" => "Se riusciamo a sconfiggere Zant e quel
+drago, la vittoria sarà nostra!",
+  "1.0.102.0" => "Non ci posso credere... come avete potuto
+battere il re del crepuscolo?",
+  "1.0.103.0" => "La tua brama è il tuo punto debole...
+Sparisci nelle tenebre eterne!",
+  "1.0.104.0" => "La tua brama ti ha condannato... proprio
+come Cia.",
+  "1.0.106.0" => "Finalmente ce l'abbiamo fatta, al terzo
+tentativo...",
+  "1.0.107.0" => "Ce l'abbiamo fatta... grazie al lavoro
+di squadra!",
+  "1.0.108.0" => "Abbiamo sconfitto il comandante nemico!
+La porta delle anime non è più sorvegliata!",
+  "1.0.109.0" => "Abbiamo eliminato tutti i nemici! Ora
+dovremmo chiudere la porta delle anime!",
+  "1.0.110.0" => "La base è in pericolo! Rinforzate le difese!",
+  "1.0.111.0" => "I nemici stanno circondando la base!
+Proteggetela!",
+  "1.0.112.0" => "Se conquistano la nostra base, abbiamo
+perso! Presto, difendetela!",
+  "1.0.113.0" => "La nostra base sta per cedere...
+Presto, inviate soccorsi!",
+  "1.0.114.0" => "Oh, no... ho fallito... perdonatemi...",
+  "1.0.115.0" => "Ugh... non avrei mai pensato di perdere...
+perdonatemi.",
+  "1.0.117.0" => "La nostra base è stata conquistata?
+Allora è stato tutto inutile...!",
+  "1.0.118.0" => "Abbiamo perso la nostra base?
+Allora non serve più combattere...",
+  "1.0.119.0" => "Il presidio è nostro, ma la porta è ancora
+chiusa. Serve un'altra strada.",
+  "1.0.120.0" => "Ma il ponte che abbiamo usato all'andata
+è crollato... che altro ci resta?",
+  "1.0.121.0" => "Midna, conosci quel tipo con la maschera?",
+  "1.0.122.0" => "Sì... si chiama Zant ed è un re impostore
+che controlla il regno del crepuscolo.",
+  "1.0.123.0" => "Il drago ha ferito i nostri alleati alla base!
+Se vengono attaccati ora, potrebbe cadere!",
+  "1.0.124.0" => "Accidenti... in qualche modo l'abbiamo
+scampata...",
+  "1.0.125.0" => "Ehi, se non facciamo subito qualcosa,
+la nostra base verrà conquistata!",
+  "1.0.126.0" => "Riprendetevi al più presto tutti
+i presidi!",
+  "1.0.127.0" => "Tsk... non possiamo farli avvicinare...
+Qualcuno vada all'attacco!!!",
+  "1.0.128.0" => "Eh? Dici a me?
+Va bene, farò del mio meglio!",
+  "1.0.129.0" => "Qualcuno sistemi al più presto
+quella ragazzina insolente!",
+  "1.0.130.0" => "Uh uh uh... sono stata proprio brava!",
+  "1.0.131.0" => "Io mi occupo dei nemici a ovest!
+Tu tieni d'occhio la base!",
+  "1.0.132.0" => "Allora io penserò ai nemici che arrivano
+dal centro!",
+  "1.0.133.0" => "Mi occupo io di quel drago! Tu cerca
+di sconfiggere Zant al più presto!",
+  "1.0.134.0" => "La loro base si è aperta!
+Andiamo all'attacco!!!",
+  "1.0.135.0" => "La base è in pericolo!
+Qualcuno vada a difenderla!",
+  "1.0.136.0" => "Questa volta non ha scampo!
+Tutti a raccolta intorno all'Argorok!",
+  "1.0.137.0" => "Se non torniamo indietro, la nostra
+base cadrà!",
+  "13.0.0.0" => "La porta delle anime è in fondo al palazzo.
+Sconfiggiamo il guardaporta e chiudiamola!",
+  "13.0.1.0" => "Io difenderò la base.
+Conto sul vostro aiuto!",
+  "13.0.2.0" => "Prima avanziamo verso est per occupare
+i presidi nemici!",
+  "13.0.3.0" => "Cosa sta succedendo?
+Sbrigatevi a conquistare i presidi est!",
+  "13.0.4.0" => "Il ponte è fuori uso!
+Presto, intanto conquistiamo i presidi!",
+  "13.0.5.0" => "Un forziere...? Lo accetto volentieri!",
+  "13.0.6.0" => "Ci sta attaccando dall'alto...
+Cosa possiamo fare?",
+  "13.0.7.0" => "L'unico modo per sconfiggere un drago
+volante... potrebbe essere la magia!",
+  "13.0.8.0" => "Creerò un cerchio magico nel presidio sotto
+al drago! C'è qualcuno che può aiutarmi?",
+  "13.0.9.0" => "I demoni mi stanno bloccando e non
+riesco a proseguire...! Aiutatemi!",
+  "13.0.10.0" => "Ehi, tutto bene?
+Io sono da sola nelle prime linee...",
+  "13.0.11.0" => "Ha approfittato della mia assenza...
+Sbrighiamoci a creare il cerchio magico!",
+  "13.0.12.0" => "Il cerchio magico è ultimato!
+Usatelo per attaccare il drago!",
+  "13.0.13.0" => "Di questo passo la base alleata cadrà!
+Usate il cerchio magico per attaccare!",
+  "13.0.14.0" => "Ottimo lavoro! Spero che quel drago non
+si faccia più vedere...",
+  "13.0.15.0" => "Oh, no! Stanno per attaccare Xenia!
+Non lasciate che si avvicinino troppo!",
+  "13.0.16.0" => "Xenia è stata catturata dal nemico?! Di
+sicuro i nemici a est ne saranno contenti...",
+  "13.0.17.0" => "Potete colpire il drago usando il cerchio
+magico! Occupate la piazza lì sotto!",
+  "13.0.18.0" => "Di nuovo quel piano? Ci sto!",
+  "13.0.19.0" => "Sta attaccando di nuovo la base...
+Dobbiamo fermarlo, e subito!",
+  "13.0.20.0" => "Il cerchio magico è ultimato!
+Stavolta non fatevi scappare il drago!",
+  "13.0.21.0" => "È quasi finita... Presto, usate il cerchio
+magico per sconfiggere il drago!",
+  "13.0.22.0" => "Guarda! L'attacco magico ha fatto effetto!
+Il drago ha perso quota!",
+  "13.0.23.0" => "È già la terza volta...
+Quanto durerà ancora...?",
+  "13.0.24.0" => "Gli attacchi effettuati con il cerchio magico
+non hanno effetto... Cosa possiamo fare...?",
+  "13.0.25.0" => "Dirigiamoci verso l'edificio a sud est che
+la farfalla ci ha mostrato. Dobbiamo fidarci!",
+  "13.0.26.0" => "Il cerchio magico nella fontana della dea è
+ciò che ci serve per sconfiggere il drago!",
+  "13.0.27.0" => "Ci resta solo la base...
+Dobbiamo difenderla a costo della vita...",
+  "13.0.28.0" => "Visto? Ce l'abbiamo fatta!",
+  "13.0.29.0" => "Una volta sconfitti il drago e Zant... la
+vittoria sarà nostra, giusto? Forza!",
+  "13.0.30.0" => "Hai rinunciato ai tuoi desideri...
+Come Cia...",
+  "13.0.31.0" => "Finalmente ce l'abbiamo fatta...
+Bravi, ottimo lavoro!",
+  "13.0.32.0" => "Li abbiamo sconfitti tutti!
+Ora possiamo chiudere la porta delle anime!",
+  "13.0.33.0" => "La base sta per cadere nelle mani del
+nemico! Ho bisogno di aiuto!",
+  "13.0.34.0" => "La base sta per arrendersi!
+Presto, mandate dei rinforzi!",
+  "13.0.35.0" => "Ah... Non ce l'ho fatta...
+Mi dispiace...",
+  "13.0.36.0" => "La base è caduta...?
+Quindi la battaglia è finita...",
+  "13.0.37.0" => "Il drago ha ferito i nostri alleati alla base!
+Se vengono attaccati ora, potrebbe cadere!",
+  "13.0.38.0" => "Fiu... ce l'abbiamo fatta!",
+  "13.0.39.0" => "Oh, no! La nostra base sta per cadere!",
+  "13.0.40.0" => "Ci penso io al drago! Tu cerca di
+sconfiggere Zant!",
+  "13.0.41.0" => "Qualcuno difenda la base!!!",
+  "13.0.42.0" => "Se non torniamo indietro al più presto,
+la nostra base cadrà!",
+}

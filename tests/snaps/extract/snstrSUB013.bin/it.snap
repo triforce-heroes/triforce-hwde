@@ -1,0 +1,14 @@
+Map {
+  "0.1.0" => "L'A0%1sF1R appare sul campo di battaglia!",
+  "0.2.0" => "Avvicinati e convinci A0%1sF6R a passare dalla tua parte! ",
+  "0.3.0" => "Hai raggiunto A0%1sF2R!",
+  "0.4.0" => "L'A0%1sF1R si è convinta a unirsi all'A0%2sF7R!",
+  "0.5.0" => "L'A0%1sF1R si avvicina a A0%2sF6R!",
+  "0.6.0" => "L'A0%1sF1R vuole attaccare l'A0%2sF7R!",
+  "0.7.0" => "Prima che l'A0%1sF1R venga annientata, raggiungi A0%2sF2R!",
+  "0.8.0" => "L'A0%1sF1R si è convinta a unirsi all'A0%2sF7R!",
+  "0.9.0" => "L'A0%1sF1R ha sconfitto A0%2sF2R!",
+  "0.10.0" => "A0%2sF0R perde! L'A0%1sF1R si unisce all'A0%3sF7R!",
+  "0.11.0" => "A0%1sF0R è in fuga!",
+  "0.12.0" => "Tutta l'A0%1sF2R si ritira dal campo di battaglia!",
+}

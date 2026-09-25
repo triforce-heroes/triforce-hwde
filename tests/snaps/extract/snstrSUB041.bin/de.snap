@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Beginn der Episode „Schattenkräfte“!",
+  "0.1.0" => "A0%1sF0R und A0%2sF5R wurden gesichtet!",
+  "0.2.0" => "A0%1sF0R rückt gegen A0%2sF6R vor!",
+  "0.3.0" => "A0%1sF0R wurde besiegt!",
+  "0.4.0" => "A0%1sF0R ist zurückgekehrt!",
+  "0.5.0" => "A0%2sF0R wurde durch A0%1sF6R zurückgeholt!",
+  "0.6.0" => "Besiege A0%1sF6R!",
+  "0.7.0" => "A0%2sF0R ist nach der Niederlage A0%1sF2R verschwunden!",
+  "0.8.0" => "A0%1sF0R wurde besiegt!",
+}

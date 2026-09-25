@@ -1,0 +1,261 @@
+Map {
+  "1.0.0.0" => "Estas cuevas están llenas de monstruos, pero
+debemos cruzarlas para llegar a la princesa.",
+  "1.0.1.0" => "Eso de ahí parece una salida. Tendremos
+que dar un rodeo y acercarnos por el norte.",
+  "1.0.2.0" => "Los soldados hylianos han avanzado a la
+siguiente salida. Debemos ir con ellos, Link.",
+  "1.0.3.0" => "Una gran roca bloquea el paso y los
+monstruos nos rodean. ¡Debemos hacer algo!",
+  "1.0.4.0" => "¿Cómo? Link y yo vamos de camino.
+¡Aguanten hasta que lleguemos!",
+  "1.0.5.0" => "¡Señora Impa! ¡Nos ha salvado!",
+  "1.0.6.0" => "Han hecho un buen trabajo. Link no
+tardará mucho en llegar.",
+  "1.0.7.0" => "¿Qué pasa con estas cuevas? No importa
+cuántos monstruos derrotemos, salen más.",
+  "1.0.8.0" => "Tiene que haber un bastión en
+alguna parte. Link, ¿podrías localizarlo?",
+  "1.0.9.0" => "¡Link! ¿Has localizado el bastión del
+que proceden los monstruos?",
+  "1.0.10.0" => "¡Bien hecho! Aunque parece que hay más
+bastiones que siguen enviando monstruos.",
+  "1.0.11.0" => "¡El número de monstruos se ha reducido!
+Esto ya está mejor.",
+  "1.0.12.0" => "¡El enemigo ataca sin piedad! No podemos
+resistir por nuestra cuenta.",
+  "1.0.13.0" => "Eso no es bueno...
+¡Rápido, Link, ven aquí!",
+  "1.0.14.0" => "¡Han llegado los refuerzos! ¡Menos mal!",
+  "1.0.15.0" => "¡No nos queda más remedio que retirarnos!",
+  "1.0.16.0" => "Hemos llegado tarde... Lo siento mucho.",
+  "1.0.17.0" => "La roca nos impide avanzar.
+¡Debemos destruirla!",
+  "1.0.18.0" => "Seguro que hay alguna forma
+de romperla...",
+  "1.0.19.0" => "¡Los ayudaremos! Esa roca
+no es rival para un bombchu.",
+  "1.0.21.0" => "¡Eso nos ayudaría mucho! ¡Dense prisa!",
+  "1.0.22.0" => "Mi plan funcionó a la perfección. Ahora que
+están en las cuevas, ¡nunca podrán salir!",
+  "1.0.23.0" => "¡Destruyan a esos gusanos!
+¡Hagan que sufran!",
+  "1.0.24.0" => "¡Van por el bombchu!",
+  "1.0.25.0" => "¡Link! ¡Protege el bombchu!",
+  "1.0.26.0" => "Aún quedan demasiados monstruos... Si no
+hacemos algo, el bombchu no podrá avanzar.",
+  "1.0.27.0" => "Claro... Despejaré la zona junto a esta
+roca, así el bombchu podrá llegar hasta acá.",
+  "1.0.28.0" => "Cuántos monstruos... ¡Quizás sería mejor
+tomar antes los bastiones!",
+  "1.0.29.0" => "Si no abrimos la puerta norte del bastión,
+el bombchu no podrá avanzar.",
+  "1.0.30.0" => "Link, no puedo llegar al bastión.
+¿Te encargas tú?",
+  "1.0.31.0" => "¡Así se hace! Ahora el bombchu podrá
+llegar hasta la roca.",
+  "1.0.32.0" => "¡Bien hecho, Link! Ya podemos avanzar.",
+  "1.0.33.0" => "¡Diríjanse a la salida!",
+  "1.0.34.0" => "¡Rápido, Link, sigue avanzando!",
+  "1.0.35.0" => "¡Han destruido el bombchu!",
+  "1.0.36.0" => "No pasa nada, tenemos más.
+¡Sacaremos otro!",
+  "1.0.37.0" => "Este es el último bombchu del bastión.
+¡Cuídenlo bien!",
+  "1.0.38.0" => "No hay salida sin un bombchu... Si no
+avanzamos, la oscuridad se extenderá.",
+  "1.0.39.0" => "¡Avancen! ¡Aplasten a esos gusanos!",
+  "1.0.40.0" => "El enemigo ataca con fuerza, pero
+debemos seguir avanzando.",
+  "1.0.41.0" => "La puerta sur del bastión lleva a la salida.
+¡Debemos tomar el control!",
+  "1.0.42.0" => "¡Vaya, ha aparecido un cofre! Debe de ser
+la recompensa por tomar el bastión. ¡Ábrelo!",
+  "1.0.43.0" => "¡Vaya! Seguro que ahí dentro
+hay algo muy interesante...",
+  "1.0.44.0" => "Hemos cantado victoria antes de tiempo.
+La puerta sur no se abre...",
+  "1.0.45.0" => "¡No tienen adónde ir! ¡Aplástenlos!",
+  "1.0.46.0" => "Vienen enemigos de los túneles... Entonces
+el Señor de las Cavernas estará ahí.",
+  "1.0.47.0" => "Si lo derrotan, puede que se abra la salida.
+Búsquenlo en los túneles más profundos.",
+  "1.0.48.0" => "Me quedaré defendiendo la posición;
+te encomiendo a ti la búsqueda.",
+  "1.0.49.0" => "Yo defenderé la retaguardia. Intentaré
+resistir cuanto pueda.",
+  "1.0.50.0" => "¡Link! Ese monstruo debe de ser
+el Señor de las Cavernas.",
+  "1.0.51.0" => "¡Debemos acabar con él!
+Es nuestra única esperanza.",
+  "1.0.52.0" => "¡Link! Busca en los túneles más profundos.",
+  "1.0.53.0" => "¡Bien hecho! Ya podemos salir
+de las cuevas.",
+  "1.0.54.0" => "Lo siento, pero debo dejarlos aquí. Espero
+que no les pase nada en las cuevas.",
+  "1.0.55.0" => "Él frenaba a los monstruos que nos
+seguían. Si no hacemos nada, nos rodearán.",
+  "1.0.56.0" => "Las rocas todavía bloquean el paso...",
+  "1.0.57.0" => "¡Nos encanta volar rocas!",
+  "1.0.58.0" => "Necesitamos su ayuda una vez más.
+Hay un bombchu en ese bastión.",
+  "1.0.59.0" => "Pero los enemigos impiden su avance.
+¡Deben recuperar el bastión!",
+  "1.0.60.0" => "Dos rocas... Un bombchu
+no será suficiente.",
+  "1.0.61.0" => "Otro goron nos contó que había dejado un
+bombchu en estas cuevas. ¿Dónde estará?",
+  "1.0.62.0" => "Yo defenderé a los goron;
+tú busca el bombchu.",
+  "1.0.63.0" => "¡Ahí está! ¡Lo has encontrado!
+Ya podemos volar la roca.",
+  "1.0.64.0" => "¡Link! ¡Acaba con los enemigos del bastión!
+Yo me encargaré de preparar el bombchu.",
+  "1.0.65.0" => "Creo que no está en ese bastión.",
+  "1.0.66.0" => "¡Bravo! Ya podemos soltar el bombchu.",
+  "1.0.67.0" => "¡Ya está todo listo! ¡Pónganlo en marcha!",
+  "1.0.68.0" => "¡De acuerdo! ¡Lanzando los dos bombchus,
+en línea recta hacia las rocas!",
+  "1.0.69.0" => "¿Por qué siempre se cruzan en mi camino?
+¡Yo mismo aplastaré a esos gusanos!",
+  "1.0.70.0" => "¡Hay que alejar a los monstruos
+de los bombchus!",
+  "1.0.71.0" => "Estamos listos para irnos.
+Te llamabas Sheik, ¿no? ¡Ven aquí!",
+  "1.0.72.0" => "Voy de camino.",
+  "1.0.73.0" => "¡El primer ataque ha salido bien!",
+  "1.0.74.0" => "Dentro de poco el camino estará abierto.
+¡Defiendan el segundo bombchu!",
+  "1.0.75.0" => "¡Genial! El camino a la salida
+está despejado. ¡Gracias a todos!",
+  "1.0.76.0" => "¡Date prisa, Link! La salida está por aquí.",
+  "1.0.77.0" => "Comandante Impa, ¿estás bien?
+¡Estamos esperando en la salida!",
+  "1.0.78.0" => "¡Al bosque de Farone! Oí que hay una
+joven que lidera la resistencia contra el mal.",
+  "1.0.79.0" => "Espero que sea la princesa Zelda.",
+  "1.0.80.0" => "¡Buen trabajo! Tal vez ambos sean capaces
+de evitar el caos que se acerca a Hyrule.",
+  "1.0.81.0" => "Qué vergüenza perder así...",
+  "1.0.83.0" => "Ya no quedan bombchus...",
+  "1.0.84.0" => "Si no rompemos esas rocas, no podremos
+salir. Debemos volver a intentarlo...",
+  "1.0.85.0" => "¡Ya no quedan más bombchus! Si destruyen
+esos dos, estamos perdidos.",
+  "1.0.86.0" => "Todavía quedan bastiones de los que salen
+monstruos... Deberíamos haberlos destruido.",
+  "1.0.87.0" => "¡Llegamos tarde, pero estamos aquí
+para pelear!",
+  "1.0.88.0" => "Quizás deberíamos habernos ocupado
+primero de los bastiones.",
+  "1.0.89.0" => "¿Necesitan nuestra ayuda?",
+  "1.0.90.0" => "Más allá hay soldados de Hyrule. Si abrimos
+las puertas, podremos ir con ellos.",
+  "1.0.91.0" => "Debemos hallar la forma de avanzar...",
+  "1.0.92.0" => "Esta pared tiene una grieta...
+¡Tal vez podamos derribarla!",
+  "1.0.93.0" => "Si conquistamos el bastión, quizá
+paremos las hordas de monstruos...",
+  "1.0.94.0" => "¡Jia, jia, jia! Mientras contemos con
+invocadores, no nos faltarán monstruos.",
+  "1.0.95.0" => "¡Vayan tras ellos y rodéenlos
+para derrotarlos!",
+  "1.0.96.0" => "Yo me encargo del enemigo del este. ¡No
+dejen que lleguen a la plaza del túnel!",
+  "1.0.97.0" => "No puede ser... ¡El enemigo nos
+ha seguido hasta aquí!",
+  "1.0.98.0" => "¡No puedo defender los dos a la vez!
+¡Ocúpate tú de uno, Link!",
+  "1.0.99.0" => "Así que llegan más enemigos...
+¡Yo me ocuparé de ellos!",
+  "1.0.100.0" => "¿Por qué se dirigen a ese bastión?
+¡Hay algo allá! ¡Debemos conquistarlo!",
+  "13.0.0.0" => "Impa, ¡Link se esforzará cuanto pueda!
+¡Pondremos a salvo a todo el mundo!",
+  "13.0.1.0" => "La salida está por ahí, pero tenemos que dar
+un rodeo por el norte para entrar.",
+  "13.0.2.0" => "Los soldados hylianos se han adelantado.
+¡Impa, tenemos que seguirlos!",
+  "13.0.3.0" => "Los soldados de Hyrule están en apuros.
+Impa, ¡debemos ayudarlos!",
+  "13.0.4.0" => "¡Gracias por salvarnos!",
+  "13.0.5.0" => "¡Ya estamos aquí! Impa está a punto
+de llegar, así que todo irá bien.",
+  "13.0.6.0" => "Tiene que haber un bastión del que salgan todos
+estos monstruos. ¡Vayamos por él!",
+  "13.0.7.0" => "¡Impa, esa debe de ser la guarida
+de los monstruos!",
+  "13.0.8.0" => "¡Buen trabajo! Aunque siguen apareciendo
+monstruos de algún otro bastión cercano.",
+  "13.0.9.0" => "¡Rápido, Impa, tienes que ayudarnos!",
+  "13.0.10.0" => "Lo siento mucho...",
+  "13.0.11.0" => "¡Gracias! Y ahora dejemos que el bombchu
+haga su trabajo.",
+  "13.0.12.0" => "¡Impa, tenemos que proteger el bombchu!",
+  "13.0.13.0" => "¡Link, cuidado con el bombchu! Elimina a
+los enemigos que hay de camino a la roca.",
+  "13.0.14.0" => "Link no consigue llegar al bastión...
+¡Impa, debes encargarte tú!",
+  "13.0.15.0" => "No hemos conseguido impedir que sigan
+apareciendo enemigos...",
+  "13.0.16.0" => "Tendríamos que habernos ocupado del
+bastión para que no atacaran al bombchu...",
+  "13.0.17.0" => "¡Así se hace! Ahora el bombchu podrá
+llegar a la roca.",
+  "13.0.18.0" => "¡Bien hecho, Impa! Ya podemos avanzar.",
+  "13.0.19.0" => "¡Han acabado con el bombchu! ¿Qué hacemos?",
+  "13.0.20.0" => "Si perdemos el bombchu, no podremos llegar
+hasta la princesa Zelda.",
+  "13.0.21.0" => "¡Impa, ven aquí cuanto antes!",
+  "13.0.22.0" => "La puerta sur de este bastión lleva a la salida.
+Puede que se abra si lo capturamos...",
+  "13.0.23.0" => "Qué raro, la puerta sur no se ha abierto...
+Al menos el bastión está en nuestras manos.",
+  "13.0.24.0" => "¡Están saliendo enemigos de los túneles!
+Quizás el Señor de las Cavernas esté por aquí.",
+  "13.0.25.0" => "¡Impa, Link puede ocuparse del bastión!
+Pase lo que pase, no se rendirá.",
+  "13.0.26.0" => "Ese enemigo es muy sospechoso... ¡Impa, debe de
+ser el Señor de las Cavernas!",
+  "13.0.27.0" => "¡Sabía que podías hacerlo, Impa! ¡Ahora ya
+podemos salir!",
+  "13.0.28.0" => "El chico que protegía la retaguardia ha caído.
+¡Nos rodearán si no hacemos nada!",
+  "13.0.29.0" => "Vuelve a haber rocas que
+nos bloquean el paso.",
+  "13.0.30.0" => "¡Perfecto! Un bombchu es justo
+lo que necesitamos.",
+  "13.0.31.0" => "Si aún hay enemigos en el bastión, no podemos
+sacar el bombchu. ¡Deben recuperarlo!",
+  "13.0.32.0" => "Impa, debes buscar el bombchu.
+¡Link defenderá a los goron!",
+  "13.0.33.0" => "Impa, acaba con los enemigos del bastión
+para que podamos sacar al bombchu.",
+  "13.0.34.0" => "¿Están todos listos? ¡Adelante!",
+  "13.0.35.0" => "¡Sheik, nos iremos enseguida! ¡Ven con nosotros!",
+  "13.0.36.0" => "¡Bravo, ahora solo queda el otro!",
+  "13.0.37.0" => "¡Ya podemos ir a la salida! ¡Gracias a todos!",
+  "13.0.38.0" => "¡Vayamos al bosque de Farone! ¿Encontraremos
+a esa chica de la que hemos oído hablar?",
+  "13.0.39.0" => "Ojalá sea la princesa Zelda.",
+  "13.0.40.0" => "¡Tranquilo, Link! Si te perdemos,
+todo habrá terminado...",
+  "13.0.41.0" => "Con esa roca no podemos avanzar. ¡Deberíamos
+retirarnos y replantearnos la estrategia!",
+  "13.0.42.0" => "Más adelante hay soldados de Hyrule, pero no
+podemos llegar a ellos con las puertas cerradas...",
+  "13.0.43.0" => "Impa, en lo más profundo de los
+túneles hay algo sospechoso...",
+  "13.0.44.0" => "¿No habrá nada que podamos
+hacer para avanzar?",
+  "13.0.45.0" => "En esa pared hay una grieta... ¡Quizás
+podamos usar algo para volarla!",
+  "13.0.46.0" => "¡Rápido, Link! ¡La salida está por aquí!",
+  "13.0.47.0" => "¿Estás bien, Impa? ¡Te esperaremos
+en la salida!",
+  "13.0.48.0" => "Quizás deberíamos habernos ocupado
+primero de los bastiones de los monstruos.",
+  "13.0.49.0" => "¡Seguro que es la guarida
+de un monstruo!",
+  "13.0.50.0" => "¡Oh, no! ¡Hay enemigos por todas partes!",
+}

@@ -1,0 +1,113 @@
+Map {
+  "1.0.0.0" => "Oh non! La ville est attaquée par les monstres!
+Il faut qu'on fasse quelque chose, Link!",
+  "1.0.1.0" => "Ces ennemis arrivent du fort de la Désolation.
+Je suis sûr que c'est là que leur chef se terre!",
+  "1.0.2.0" => "Un gros rocher nous barre la route! Il faut
+qu'on trouve un moyen de le briser!",
+  "1.0.3.0" => "Ils ont pris l'un des forts de la ville!
+On ne peut pas les laisser faire!",
+  "1.0.4.0" => "On se charge des monstres qu'on rencontre
+et on cherche un moyen de détruire le rocher!",
+  "1.0.5.0" => "Si on arrive à chasser cet oiseau de
+malheur, la forteresse sera à nous!",
+  "1.0.6.0" => "Ils veulent étendre leur territoire, mais ils
+n'auront pas un pied de Mercantîle!",
+  "1.0.7.0" => "Ils nous attaquent par trois côtés! Il faut
+qu'on se sépare pour les repousser!",
+  "1.0.8.0" => "Nous nous occuperons des monstres à l'est
+si vous pouvez éliminer ceux du centre!",
+  "1.0.9.0" => "Hé, regardez! Il y a un bateau là-bas!",
+  "1.0.10.0" => "Regardez-moi ce beau canon! Oh! Je sais
+exactement comment on va s'en servir!",
+  "1.0.11.0" => "Attendez! Mon flair de pirate me dit
+qu'un trésor se cache sur ce chemin!",
+  "1.0.12.0" => "La ville devrait être en sécurité... au moins
+pour un moment! Continuez comme ça!",
+  "1.0.13.0" => "Je suis sûr que ce marteau est suffisamment
+lourd pour enfoncer les interrupteurs!",
+  "1.0.14.0" => "Ces sales humains préparent quelque chose!
+Allez voir et essayez d'en savoir plus!",
+  "1.0.15.0" => "Tous ces monstres, ça n'en finit pas! Il faut
+détruire les rochers et passer à l'attaque!",
+  "1.0.16.0" => "Parfait! L'oiseau a déguerpi!",
+  "1.0.17.0" => "Oh non! Un énorme oiseau
+sème le chaos à Mercantîle!",
+  "1.0.18.0" => "C'est le roi Cuirasse, il enlève les habitants!
+Et si ça continue, il va faire tomber le fort!",
+  "1.0.19.0" => "Quel oiseau de malheur! Il vole beaucoup
+trop vite pour qu'on puisse l'attraper!",
+  "1.0.20.0" => "On a réussi à le chasser! Allons trouver
+le chef des monstres à présent!",
+  "1.0.21.0" => "D'accord, d'accord! On peut déjà
+attaquer de notre côté au moins.",
+  "1.0.22.0" => "Encore ces rochers bizarres!
+Réduisons-les en miettes, Link!",
+  "1.0.23.0" => "Bien joué! La voie est libre!",
+  "1.0.24.0" => "On peut endiguer l'arrivée des monstres en
+prenant les forts aux entrées de la forteresse!",
+  "1.0.25.0" => "Les monstres viennent aussi des autres
+entrées. Prenons-les, sinon ça n'arrêtera pas!",
+  "1.0.26.0" => "Bon, on devrait être débarrassés des
+renforts venant du fort de la Désolation.",
+  "1.0.27.0" => "On n'est plus très loin du chef
+des monstres!",
+  "1.0.28.0" => "Ne les laissez pas récupérer notre
+territoire! Attaquez les intrus!",
+  "1.0.29.0" => "Aïe! Il se dirige vers la ville!",
+  "1.0.30.0" => "Il faut qu'on protège la ville!",
+  "1.0.31.0" => "J'arrive pas à croire qu'il vole toujours, lui.
+Je vais lui remettre les pattes sur terre!",
+  "1.0.32.0" => "Encore en train d'essayer de
+t'enfuir! N'y pense même pas!",
+  "1.0.33.0" => "Hein?! Où est passée Tetra? Elle est pas
+partie après le gros oiseau quand même?",
+  "1.0.34.0" => "Battus?! Mais comment? Incapables!
+Chassez les humains de notre territoire!",
+  "1.0.35.0" => "On a vaincu cette créature!
+Allons nous occuper du chef maintenant!",
+  "1.0.36.0" => "Nous ne pouvons pas vaincre cette créature!
+Il faut trouver une solution ou la ville est finie!",
+  "1.0.37.0" => "On a battu le chef des monstres! On a plus
+qu'à s'occuper de ce gros oiseau!",
+  "1.0.38.0" => "Les monstres battent en retraite!
+On a gagné!",
+  "1.0.39.0" => "Mais où est Tetra? Qu'est-ce
+qu'elle est partie faire?",
+  "1.0.40.0" => "Ils ont pris notre base... Comment on
+va faire pour se battre maintenant...?",
+  "1.0.41.0" => "Nooon! Je ne voulais pas
+finir comme ça...",
+  "1.0.42.0" => "Des monstres affluent sans cesse
+du fort de la Désolation!",
+  "1.0.43.0" => "Nous devons empêcher l'arrivée des
+renforts ou la ville sera en grand danger!",
+  "1.0.44.0" => "Les monstres ont vaincu nos alliés sur le
+chemin à l'est! Il faut qu'on protège la ville!",
+  "1.0.45.0" => "Hourra! Mercantîle est sauvé!
+Mais... euh... où est partie Tetra?",
+  "1.0.46.0" => "Où est passé cet oiseau?
+Il ne peut pas être allé bien loin...",
+  "1.0.47.0" => "Il s'est encore envolé! Grrr, tant pis...
+Notre priorité, c'est la ville pour l'instant.",
+  "1.0.48.0" => "Si tu écrases cet interrupteur près du
+bateau, ça devrait faire tirer le canon!",
+  "1.0.49.0" => "Il ne faut pas manquer notre coup.
+Visez bien!",
+  "1.0.50.0" => "Il faut qu'on travaille ensemble, c'est compris?
+La coopération est la clé de la réussite!",
+  "1.0.51.0" => "Des monstres attaquent depuis l'est!
+Renvoie-les d'où ils viennent!",
+  "1.0.52.0" => "Cette île était le repaire de pirates de pacotille.
+Mais aujourd'hui, elle a l'air plutôt menaçante.",
+  "1.0.53.0" => "L'ennemi a pénétré dans notre
+base! On ferait mieux d'y retourner!",
+  "1.0.54.0" => "Venez donc m'affronter si vous
+vous en croyez vraiment capables!",
+  "1.0.55.0" => "Ces monstres ont l'air forts! Ce serait trop
+risqué de les laisser entrer dans la ville!",
+  "1.0.56.0" => "Ce stupide volatile revient nous embêter!
+Il est tenace, faut bien l'avouer...",
+  "1.0.57.0" => "Servons-nous de l'ocarina!
+Ça devrait nous aider à le chasser!",
+}

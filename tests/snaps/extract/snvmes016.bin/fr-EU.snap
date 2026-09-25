@@ -1,0 +1,229 @@
+Map {
+  "1.0.0.0" => "C'est notre dernière chance de sauver Hyrule...
+Nous devons vaincre Xanto et Ghirahim !",
+  "1.0.1.0" => "Si vous voulez me tuer, alors je vais m'amuser
+avec vous, mais vous vivrez un enfer de douleur !",
+  "1.0.2.0" => "L'ennemi est en supériorité numérique... Si un seul
+d'entre nous fuit, nous ne pourrons pas gagner.",
+  "1.0.3.0" => "Tout va bien se passer ! On ne va pas se
+laisser faire comme ça !",
+  "1.0.4.0" => "Oui, tout va bien se passer !
+Pas vrai, Link ?",
+  "1.0.5.0" => "Xanto et Ghirahim sont nos cibles... Dirigeons-
+nous tout d'abord vers Ghirahim, au sud.",
+  "1.0.6.0" => "Ah, la chaleur du désert nous fait perdre
+de l'énergie... Faites tous bien attention !",
+  "1.0.7.0" => "Aaah... J'ai la tête qui tourne... Il y a trop
+d'ennemis... Et cette chaleur... Au secours...",
+  "1.0.8.0" => "Pfiou ! Je vais beaucoup mieux ! Tant qu'il y aura
+cette oasis, ce désert ne me fera pas peur !",
+  "1.0.9.0" => "Il y a une autre oasis au sud. Prenons le contrôle
+des deux, alors nous n'aurons plus rien à craindre.",
+  "1.0.10.0" => "Pfiou... Si on s'empare des oasis, on
+pourra se débrouiller dans le désert !",
+  "1.0.11.0" => "Mais je rêve ?! C'est par ici, le combat,
+au cas où vous ne l'auriez pas remarqué !",
+  "1.0.12.0" => "Vous êtes plus forts que je ne l'aurais cru...
+Je vais me retirer pour le moment.",
+  "1.0.13.0" => "Mais... Ghirahim... a fui ?!",
+  "1.0.14.0" => "Étrange... Mais nous ne pouvons hésiter.
+Rattrapons-le et éliminons-le.",
+  "1.0.15.0" => "On a vaincu Ghirahim, mais c'était presque trop
+facile...",
+  "1.0.17.0" => "Il a réussi à attirer une partie de leurs troupes...
+Fermons les portes pour diviser l'armée ennemie !",
+  "1.0.18.0" => "J'ai été séparée de mes alliés ! Je crois bien
+que je me suis jetée dans la gueule du loup...",
+  "1.0.19.0" => "Il est trop dangereux de rester séparés !
+Regroupez-vous le plus vite possible !",
+  "1.0.20.0" => "Argh... Il y a trop d'ennemis... Si seulement
+tout le monde était là, avec moi...",
+  "1.0.21.0" => "Non ! Ce n'est pas le moment de se décourager !
+Je dois retrouver les autres... !",
+  "1.0.22.0" => "Je n'y arriverai pas... ! Je suis encerclée...
+Je dois réussir à me sortir de là !",
+  "1.0.23.0" => "Les ennemis m'empêchent d'avancer...
+Qu'est-ce que je dois faire... ?",
+  "1.0.24.0" => "Oh, non ! Les monstres encerclent Lana !
+Il faut vite aller l'aider !",
+  "1.0.25.0" => "L'ennemi nous empêche d'avancer !
+Qu'est-ce qu'on doit faire... ?",
+  "1.0.26.0" => "Non ! Il faut aider Link !",
+  "1.0.27.0" => "Je ne veux pas abandonner ! Je suis encerclée,
+mais il doit y avoir un moyen de me libérer !",
+  "1.0.28.0" => "Vous aurez beau résister, ça ne changera rien.
+Vous mourrez, perdus dans le désert.",
+  "1.0.29.0" => "L'ennemi est proche... ! Fermez l'entrée
+du hameau pour défendre notre base !",
+  "1.0.30.0" => "Les soldats qui se trouvent autour de l'oasis au
+nord doivent revenir immédiatement à la base !",
+  "1.0.31.0" => "Vous pourrez rejoindre vos alliés si vous
+me battez... Encore faudrait-il y arriver...",
+  "1.0.32.0" => "Il évite le combat... ? Vite, éliminez Xanto !",
+  "1.0.33.0" => "Votre armée est impuissante face au pouvoir
+des ténèbres... Vous mourrez dans le désert !",
+  "1.0.34.0" => "Essaye-t-il de gagner du temps ? On ne peut
+pas le laisser faire ! Vite, éliminez Xanto !",
+  "1.0.35.0" => "Misérables... Mais ce n'est pas terminé !",
+  "1.0.36.0" => "C'est étrange... La défaite de Xanto et de Ghirahim
+n'a eu aucun effet négatif sur le moral de l'ennemi.",
+  "1.0.37.0" => "J'ai un mauvais pressentiment. Vite,
+que toutes les troupes se regroupent !",
+  "1.0.38.0" => "Vous avez entendu mon appel ? Merci d'y
+avoir répondu ! On va contre-attaquer !",
+  "1.0.39.0" => "Nos chances sont faibles et pourtant, je sens que nous ne
+perdrons pas. C'est ce que l'on doit appeler la « confiance ».",
+  "1.0.40.0" => "Tant que je suis là, il ne peut rien t'arriver,
+mon frère !",
+  "1.0.41.0" => "Je me suis laissée embarquer dans une drôle
+d'histoire... Pas le choix, je vais vous aider !",
+  "1.0.42.0" => "On nous attaque depuis le nord. J'espère que
+vous êtes tous prêts, parce que ça va barder...",
+  "1.0.43.0" => "Ils arrivent depuis le sud ! Ça va chauffer,
+moi j'vous le dis !",
+  "1.0.44.0" => "Même sans Ghirahim et Xanto, les troupes
+ennemies n'ont pas l'air désorganisées...",
+  "1.0.45.0" => "Ils ont peut-être un autre commandant...",
+  "1.0.46.0" => "En effet, c'est possible... Pour le moment,
+repoussons les troupes qui arrivent !",
+  "1.0.47.0" => "Ils ont franchi les portes ! Ils sont trop nombreux...",
+  "1.0.48.0" => "Ils arrivent les uns après les autres. Quelqu'un doit
+les commander dans l'ombre...",
+  "1.0.49.0" => "Les attaques se sont faites plus virulentes
+depuis que Xanto et Ghirahim se sont enfuis...",
+  "1.0.50.0" => "D'ailleurs, ces deux-là avaient l'air bizarres...",
+  "1.0.51.0" => "Non... ! C'étaient des imposteurs ?! Les vrais
+Xanto et Ghirahim doivent se cacher quelque part !",
+  "1.0.52.0" => "Je défendrai notre base, même s'il doit m'en
+coûter la vie ! Éliminez Xanto et Ghirahim !",
+  "1.0.53.0" => "Cherchez là où vous n'êtes pas encore allés ! Les
+vrais ne se cacheront pas là où étaient les imposteurs !",
+  "1.0.54.0" => "Ils se cachent sûrement dans les hauteurs
+pour observer le champ de bataille !",
+  "1.0.55.0" => "Hmm... Je crois que nous avons été démasqués.",
+  "1.0.56.0" => "Débarrassons-nous d'eux. Attaque générale !",
+  "1.0.57.0" => "Ils s'en prennent à la base alliée ! Vite ! Éliminons
+Xanto et Ghirahim aussi vite que possible !",
+  "1.0.58.0" => "Vous êtes enfin arrivés, pauvres fous. Pensez-vous
+réellement pouvoir nous vaincre ?",
+  "1.0.59.0" => "On s'est peut-être un peu trop amusés... ? Je ne
+vous pardonnerai pas de nous avoir interrompus.",
+  "1.0.60.0" => "Pfff ! Ils racontent n'importe quoi ! On a juste
+à vous vaincre et on aura gagné !",
+  "1.0.61.0" => "Im... Impudents ! Comment avez-vous pu
+tourner la situation à votre avantage... ?!",
+  "1.0.62.0" => "Il ne reste plus que Ghirahim !
+Allez, courage ! On va le vaincre !",
+  "1.0.63.0" => "Comment ai-je pu être battu par des humains... ?
+Ce monde... appartient... à mon maître...",
+  "1.0.64.0" => "Il ne reste plus que Xanto ! Il faut qu'on
+se débarrasse de lui !",
+  "1.0.65.0" => "Nous avons détruit l'armée des monstres !
+La lumière brille de nouveau sur Hyrule...",
+  "1.0.66.0" => "Ils s'en prennent à notre base ! Surveillez
+les déplacements des monstres !",
+  "1.0.67.0" => "Notre base va tomber si nous ne faisons rien...
+Vite, allez la défendre !",
+  "1.0.68.0" => "C'est un peu trop difficile pour moi...
+J'aurais besoin d'un coup de main.",
+  "1.0.69.0" => "Je ne vais plus tenir longtemps !
+S'il vous plaît, venez m'aider !",
+  "1.0.70.0" => "Veuillez me pardonner... Je n'ai pas su
+nous défendre des attaques ennemies...",
+  "1.0.71.0" => "Notre base est tombée... Nous ne pouvons plus
+combattre...",
+  "1.0.72.0" => "C'est fini... Je n'en peux plus... Pardonnez-moi...",
+  "1.0.73.0" => "Je vais essayer de ne pas me faire blesser.
+Restons prudents.",
+  "1.0.74.0" => "Hmpf... La chaleur les fait souffrir, semble-t-il...
+Écoutez-moi, mes sbires ! Arrêtez-les au nord !",
+  "1.0.75.0" => "Débarrassons les forts de l'ennemi
+et ouvrons les portes !",
+  "1.0.76.0" => "Il y a une autre oasis au nord. Prenons le contrôle
+des deux, alors nous n'aurons plus rien à craindre.",
+  "1.0.77.0" => "J'ai repéré des ennemis se dirigeant
+vers le fort. Je vais les intercepter.",
+  "1.0.78.0" => "Ils faut pas qu'ils prennent le fort !
+Allons avec Fay !",
+  "1.0.79.0" => "Je détecte une présence suspecte.
+Je vous conseille de l'éliminer au plus vite.",
+  "1.0.80.0" => "Il faut éliminer tous ceux qui sont louches,
+c'est ça ! Ça roule ! Allons-y, Midona !",
+  "1.0.81.0" => "Je crois que je n'ai pas trop le choix.
+Je ne serais pas rassurée si tu y vas tout seul.",
+  "1.0.82.0" => "Je constate la disparition de la présence suspecte.
+J'en déduis que la défense en sera facilitée.",
+  "1.0.83.0" => "Ksh ksh... Je n'en ai fait qu'une
+bouchée de ces ennemis.",
+  "1.0.84.0" => "Hé oh ! T'étais pas toute seule !",
+  "1.0.85.0" => "Il y a moins d'ennemis dangereux.
+Lançons une attaque générale !",
+  "1.0.86.0" => "Mission accomplie. Je vais continuer
+à éliminer les ennemis.",
+  "13.0.0.0" => "C'est notre dernière chance de débarrasser Hyrule
+de ces monstres. Il faut vaincre Xanto et Ghirahim !",
+  "13.0.1.0" => "Les ennemis sont plus nombreux... Si un seul
+d'entre nous fuit, c'est la fin du combat, c'est ça ?",
+  "13.0.2.0" => "Je vais essayer de ne pas me faire blesser.
+Essayons de rester prudents.",
+  "13.0.3.0" => "Ghirahim se trouve au sud !
+Allez, on doit le vaincre !",
+  "13.0.4.0" => "Je sais ! Mais la chaleur du désert nous fait
+perdre de l'énergie, alors faites attention !",
+  "13.0.5.0" => "Link a besoin d'aide ! Il souffre ! Il y a trop
+d'ennemis et il fait horriblement chaud !",
+  "13.0.6.0" => "Pfiou... Si on s'empare des oasis, on pourra
+se débrouiller dans le désert !",
+  "13.0.7.0" => "Il y a aussi une oasis au sud ! Prenons les deux,
+après, ce sera plus facile pour nous !",
+  "13.0.8.0" => "Y a quelque chose de pas net... Mais quoi qu'il
+en soit, on peut pas laisser Ghirahim s'enfuir !",
+  "13.0.9.0" => "Il faut qu'on reste soudés, sinon on pourra
+pas gagner... Alors retrouvons vite Lana !",
+  "13.0.10.0" => "Il y a trop d'ennemis... Il faut faire une percée !",
+  "13.0.11.0" => "Link ! N'abandonne pas ! Tout le monde fait de son
+mieux ! Il doit bien y avoir un moyen de partir d'ici !",
+  "13.0.12.0" => "L'ennemi est proche... ! Fermons l'entrée
+du hameau pour protéger la base !",
+  "13.0.13.0" => "Hé ! Tous ceux qui se trouvent près de l'oasis
+au nord devraient retourner à la base !",
+  "13.0.14.0" => "C'est de la triche de s'enfuir ! Allez,
+débarrassez-nous de ce Xanto !",
+  "13.0.15.0" => "Il essaye de gagner du temps... ?
+Allez, il faut s'en débarrasser !",
+  "13.0.16.0" => "On a éliminé Xanto et Ghirahim, et pourtant,
+l'ennemi n'en a rien à faire...",
+  "13.0.17.0" => "Bon, au moins, on a ouvert les portes.
+Retrouvons vite nos alliés !",
+  "13.0.18.0" => "On s'est débarrassés de Xanto et de Ghirahim,
+mais ça n'a pas l'air de déranger nos ennemis...",
+  "13.0.19.0" => "On a pas le temps de chercher pour le moment...
+Il faut d'abord empêcher l'ennemi d'avancer !",
+  "13.0.20.0" => "J'ai l'impression que nos ennemis sont plus forts
+depuis que Xanto et Ghirahim ne sont plus là.",
+  "13.0.21.0" => "A... Alors... C'était des imposteurs ?!
+Les vrais ne sont peut-être pas loin !",
+  "13.0.22.0" => "On s'occupe de la base ! Vous, éliminez
+les vrais Xanto et Ghirahim !",
+  "13.0.23.0" => "Cherchez là où nous ne sommes jamais allés ! Les
+vrais ne se trouveront pas là où étaient les faux !",
+  "13.0.24.0" => "On a vaincu l'armée ennemie ! Tu crois
+qu'on a réussi à sauver le monde, Link ?",
+  "13.0.25.0" => "Ils s'en prennent à notre base ! Faites attention !",
+  "13.0.26.0" => "Notre base va tomber si ça continue comme ça !
+Revenez vite dans la base !",
+  "13.0.27.0" => "Link a l'air en difficulté...
+Quelqu'un peut venir l'aider ?",
+  "13.0.28.0" => "Link est en difficulté ! Il a besoin d'aide !",
+  "13.0.29.0" => "Non ! Link a été vaincu ! C'est fini...",
+  "13.0.30.0" => "Notre base est tombée...
+On ne peut plus combattre...",
+  "13.0.31.0" => "Non ! Link a été vaincu ! C'est fini...",
+  "13.0.32.0" => "Oui, tout va bien se passer ! Pas vrai, Link ?",
+  "13.0.33.0" => "Tout va bien se passer ! On ne va pas se
+laisser faire comme ça !",
+  "13.0.34.0" => "Les portes s'ouvriront sûrement si nous nous
+débarrassons des ennemis dans les forts !",
+  "13.0.35.0" => "Il y a aussi une oasis au nord ! Prenons les deux,
+après, ce sera plus facile pour nous !",
+}

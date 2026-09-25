@@ -1,0 +1,204 @@
+Map {
+  "1.0.0.0" => "La princesse est sûrement dans la base
+ennemie... Allons l'aider !",
+  "1.0.1.0" => "D'accord ! Je viens avec toi ! Mais... on
+dirait qu'il y a un gardien devant les portes...",
+  "1.0.2.0" => "Ce gardien et ses portes sont renforcés par la
+magie. Affaiblissons-la en prenant les forts.",
+  "1.0.3.0" => "Nous ferions mieux de nous séparer.
+Je vais à l'est. Toi, va à l'ouest !",
+  "1.0.4.0" => "L'ennemi est sacrément puissant... Il y a tellement
+de monstres que le palais ne peut pas les contenir...",
+  "1.0.5.0" => "Quelle que soit la puissance de notre
+ennemi, je nous en débarrasserai !",
+  "1.0.6.0" => "La princesse repousse la magie des ombres...
+Mais elle ne tiendra pas seule longtemps !",
+  "1.0.7.0" => "Ils renforcent les forts et essayent
+de maintenir la magie des ombres...",
+  "1.0.8.0" => "Si on n'affaiblit pas la magie des ombres, on ne pourra
+pas entrer dans la base ennemie, si ? Il faut agir !",
+  "1.0.9.0" => "Ce gardien... C'est l'ombre de Xanto ? Nous
+pourrions le vaincre en affaiblissant la magie...",
+  "1.0.10.0" => "Si on fait tomber les forts, la magie des ombres
+sera affaiblie, c'est bien ça ? Alors, c'est parti !",
+  "1.0.11.0" => "C'est l'œuvre du chef des ennemis ? L'affaiblissement
+de la princesse lui redonne des forces...",
+  "1.0.12.0" => "L'ennemi a l'air puissant, mais on peut
+l'affaiblir en faisant tomber plus de forts !",
+  "1.0.13.0" => "Pas besoin de prendre tous les forts.
+Trois devraient suffire.",
+  "1.0.14.0" => "Ah ! La base alliée se fait attaquer !
+Il vaut mieux la défendre...",
+  "1.0.15.0" => "Bien ! Prenons les autres forts !
+La princesse nous attend !",
+  "1.0.16.0" => "Parfait.
+On va pouvoir être un peu tranquilles.",
+  "1.0.17.0" => "Tss... Ils ont repris des forces, on dirait...",
+  "1.0.18.0" => "Pfiou... Il ne nous reste plus qu'à prendre
+les forts.",
+  "1.0.19.0" => "Un fort a été renforcé ! Ça va être
+difficile d'aller secourir la princesse.",
+  "1.0.20.0" => "Ça s'est arrêté de ce côté-là !
+Vite, prenons les forts !",
+  "1.0.21.0" => "Les forts ont été renforcés...
+Nous n'arriverons pas à temps !",
+  "1.0.22.0" => "Ça va, Zelda ? N'en fais pas trop !
+Tu n'y survivras pas, sinon !",
+  "1.0.23.0" => "Je dois retenir leur commandant...
+Essaye d'affaiblir l'ennemi qui est apparu !",
+  "1.0.24.0" => "J'empêcherai le Crépuscule de nous envahir,
+même si je dois le payer de ma vie !",
+  "1.0.25.0" => "Non ! Arrête ça ! Je ne te laisserai
+pas mourir sous mes yeux !",
+  "1.0.26.0" => "Vous avez affaibli l'ennemi
+en prenant ses forts... !",
+  "1.0.27.0" => "Super ! Il n'y aura plus d'autres
+monstres, maintenant !",
+  "1.0.28.0" => "Hein ? Il y a d'autres monstres !",
+  "1.0.29.0" => "C'est quoi ce truc ?! Attention !
+Il rigole pas, celui-là !",
+  "1.0.30.0" => "Le plus important, c'est de prendre les forts
+d'où émane la magie des ombres ! Compris ?",
+  "1.0.31.0" => "Nous n'avons pas les forces nécessaires pour
+arrêter l'ennemi ! Je vais appeler des renforts !",
+  "1.0.32.0" => "Nous voilà ! Nous allons vous aider
+à arrêter ces monstres.",
+  "1.0.33.0" => "Merci ! On peut se concentrer sur les
+forts, maintenant !",
+  "1.0.34.0" => "Merci de nous avoir protégés !
+Notre mission ici est terminée !",
+  "1.0.35.0" => "On n'a pas pu appeler des renforts...
+Mais alors, la base est peut-être en danger !",
+  "1.0.36.0" => "Je devrais pouvoir l'ouvrir moi-même,
+maintenant. Attends-moi, princesse !",
+  "1.0.37.0" => "Zelda, ça va ?!
+Je vais te donner de ma magie !",
+  "1.0.38.0" => "Merci... !",
+  "1.0.39.0" => "Comment avez-vous osé faire du mal
+à Zelda ? Vous allez me le payer !",
+  "1.0.40.0" => "Hein... ? Ma boussole...
+Elle brille encore... !",
+  "1.0.41.0" => "C'est ça, vantez-vous d'avoir pris le palais... mais
+n'oubliez pas que je suis la princesse des ombres !",
+  "1.0.42.0" => "On a tué l'ennemi qui avait l'air
+le plus fort !",
+  "1.0.43.0" => "Certes... Mais la magie des ombres semble
+encore faire effet... Que faire... ?",
+  "1.0.44.0" => "Ne t'inquiète pas, j'ai une idée. Je suis la princesse
+des ombres, c'est à moi de mettre un terme à tout ça.",
+  "1.0.45.0" => "La base... !
+Impossible d'aller aider la princesse... !",
+  "1.0.46.0" => "Pardonnez-moi... !
+Je... Je ne peux plus...",
+  "1.0.47.0" => "Hé !
+La base ennemie ne s'est pas ouverte !",
+  "1.0.48.0" => "Vous ne vous en sortirez pas comme ça !",
+  "1.0.49.0" => "Ça s'est arrêté de ce côté-là !
+Vite, prenons les forts !",
+  "1.0.50.0" => "Si... Si ça continue, je...",
+  "1.0.51.0" => "Je me moque bien de ce qui peut m'arriver... Je dois
+empêcher la magie des ombres de nous envahir... !",
+  "1.0.52.0" => "La magie semble provenir d'un fort au nord.
+Il faut le prendre.",
+  "1.0.53.0" => "C'est l'œuvre du chef des ennemis ? L'affaiblissement
+de la princesse redonne des forces à l'ennemi...",
+  "1.0.54.0" => "J'ai l'impression qu'ils préparent
+quelque chose...",
+  "1.0.55.0" => "La magie est affaiblie !
+Allez, dégagez, maintenant !",
+  "1.0.56.0" => "Le gardien des portes a été éliminé ! Prenons
+les forts, la base ennemie s'ouvrira sûrement !",
+  "1.0.57.0" => "Moi aussi, je vais me battre !
+Et je vais protéger la princesse !",
+  "1.0.58.0" => "Si nous continuons à prendre les forts, le gardien
+et les portes de la base ennemie seront affaiblis !",
+  "1.0.59.0" => "Midona... J'ai pris ce que tu m'as donné...
+Merci... Merci à toi aussi, jeune Héroïne...",
+  "1.0.60.0" => "L'ennemi a arrêté ses invocations, mais il a utilisé sa
+magie restante pour appeler de puissants monstres !",
+  "1.0.61.0" => "Un nouveau monstre est apparu !
+Nous devons faire quelque chose !",
+  "1.0.62.0" => "Bien compris !
+Je me charge du côté ouest !",
+  "1.0.63.0" => "Si on affaiblit le gardien et les portes,
+je pourrai ouvrir le passage !",
+  "1.0.64.0" => "Midona ! Tu es... !
+Et qui est cette fille... ?",
+  "1.0.65.0" => "Je m'appelle Linkle ! Et je suis venue
+l'aider à te sauver, ô princesse !",
+  "1.0.66.0" => "Hé, on discutera plus tard ! Pour le
+moment, il faut sauver la princesse !",
+  "1.0.67.0" => "Le rôle d'une Héroïne, comme celui d'un
+Héros, c'est de sauver les princesses !",
+  "1.0.68.0" => "Un usurpateur ne reste qu'un imposteur ! Il ne peut
+triompher de l'original, et je vais le lui prouver !",
+  "13.0.2.0" => "Marchons d'abord vers l'est !
+Il faut prendre les postes ennemis !",
+  "13.0.3.0" => "Qu'est-ce que vous faites ?
+Prenez vite les forts à l'est !",
+  "13.0.4.0" => "Les ponts sont détruits mais on va trouver une
+solution ! Pour l'instant, prenons vite les forts !",
+  "13.0.5.0" => "Un coffre au trésor...
+Je ne vais pas me priver.",
+  "13.0.6.0" => "Il nous attaque depuis les airs...
+Que faire... ?",
+  "13.0.7.0" => "Pour vaincre un dragon en plein vol,
+il faut utiliser la magie... !",
+  "13.0.8.0" => "Je vais créer un cercle magique dans le fort
+sous le dragon, mais il me faut de l'aide !",
+  "13.0.9.0" => "Les monstres m'empêchent d'avancer... !
+J'ai besoin de renfort !",
+  "13.0.10.0" => "Hé, ça va aller ? La première ligne
+va rester sans défense...",
+  "13.0.11.0" => "Il profite de mon absence pour attaquer...
+Je dois vite aller créer le cercle magique... !",
+  "13.0.12.0" => "Le cercle magique est prêt !
+Utilisons-le pour attaquer le dragon !",
+  "13.0.13.0" => "Notre base ne va plus tenir très longtemps !
+Utilisez vite le cercle magique pour attaquer !",
+  "13.0.14.0" => "On a réussi ! J'espère qu'on
+ne reverra plus ce dragon...",
+  "13.0.15.0" => "Oh non ! Ils visent Machaon !
+Ne laissez pas l'ennemi l'approcher !",
+  "13.0.16.0" => "Machaon a été capturée ?! Les forces
+ennemies vont augmenter à l'est...",
+  "13.0.17.0" => "On peut attaquer ce dragon avec un cercle magique !
+Prenez la place qu'il survole !",
+  "13.0.18.0" => "C'est le même plan que tout à l'heure !
+Je m'en occupe !",
+  "13.0.19.0" => "Il vise encore notre base...
+Il faut vite le chasser !",
+  "13.0.20.0" => "J'ai terminé le cercle magique ! Cette fois-ci,
+on va l'avoir avec la magie !",
+  "13.0.21.0" => "On ne va plus tenir longtemps... Utilisez vite
+le cercle magique pour vaincre le dragon !",
+  "13.0.22.0" => "Regardez ! On dirait que l'attaque magique a
+marché ! Le dragon a perdu beaucoup d'altitude !",
+  "13.0.23.0" => "C'est déjà la troisième fois...
+Combien de temps ça va encore durer... ?",
+  "13.0.24.0" => "Ça ne sert à rien de l'attaquer avec mon cercle
+magique... Comment faire... ?",
+  "13.0.25.0" => "Suivons le papillon vers le bâtiment au sud-est !
+Lui faire confiance, c'est tout ce qu'on peut faire !",
+  "13.0.26.0" => "Peut-être qu'on pourra vaincre le dragon avec
+le cercle magique de la fontaine de la Déesse... !",
+  "13.0.27.0" => "Il ne nous reste plus que notre base.
+Il faut la protéger coûte que coûte...",
+  "13.0.28.0" => "Tu as vu ? Voilà de quoi on est capables !",
+  "13.0.29.0" => "Si on arrive à vaincre ce dragon et
+Xanto, on aura gagné... Courage !",
+  "13.0.30.0" => "C'est justement l'ambition qui a causé
+votre perte... à Cya et à toi...",
+  "13.0.31.0" => "On l'a enfin vaincu...
+C'est grâce à vous tous !",
+  "13.0.32.0" => "On a vaincu tous les ennemis puissants !
+On devrait pouvoir aller fermer la porte des âmes !",
+  "13.0.33.0" => "Les ennemis attaquent notre base !
+Protégez-la !",
+  "13.0.34.0" => "Notre base va bientôt tomber !
+Il nous faut du renfort, vite !",
+  "13.0.35.0" => "Argh, j'ai été vaincue...
+Pardonnez-moi...",
+  "13.0.36.0" => "La base est tombée... ?
+Nous ne pouvons plus combattre...",
+}

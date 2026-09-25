@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "¡Ha aparecido A0%1sF2R con un A6tesoroR!",
+  "0.2.0" => "¡A0%1sF0R avanza camuflado entre los enemigos!",
+  "0.3.0" => "¡Vence A0%1sF4R y hazte con el A6tesoroR!",
+  "0.4.0" => "¡Has descubierto A0%1sF4R!",
+  "0.5.0" => "¡A0%1sF0R está huyendo!",
+  "0.6.0" => "¡Has perdido de vista A0%1sF4R!",
+  "0.7.0" => "¡Has vencido A0%1sF4R!",
+}

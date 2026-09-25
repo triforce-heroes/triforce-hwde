@@ -1,0 +1,14 @@
+Map {
+  "0.1.0" => "A0%1sF4R a invoqué A0%2sF2R sur le champ de bataille !",
+  "0.2.0" => "Vaincre A0%1sF0R et A0%2sF0R !",
+  "0.3.0" => "Vous avez vaincu A0%1sF0R !",
+  "0.10.0" => "Les troupes A0%1sF3R avancent vers A0%2sF0R !",
+  "0.11.0" => "Le moral des troupes A0%1sF3R augmente !",
+  "0.12.0" => "A0%1sF4R ne doit pas s'enfuir !",
+  "0.20.0" => "A0%1sF4R encourage A0%2sF1R !",
+  "0.21.0" => "Le moral A0%1sF3R augmente !",
+  "0.22.0" => "Éliminez immédiatement A0%1sF0R !",
+  "0.23.0" => "A0%2sF4R est K.-O. ! Le moral A0%1sF3R baisse !",
+  "0.24.0" => "Vous avez vaincu A0%1sF0R !",
+  "0.25.0" => "A0%1sF4R rejoint le champ de bataille !",
+}

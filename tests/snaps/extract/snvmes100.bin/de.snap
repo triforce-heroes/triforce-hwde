@@ -1,0 +1,221 @@
+Map {
+  "1.0.0.0" => "Der Drache ist dort hinten in der Höhle...
+Er wird mir gehorchen... Ob er will oder nicht!",
+  "1.0.1.0" => "Aber da ist noch etwas anderes...
+Eine dunkle Macht... Was kann das sein?",
+  "1.0.2.0" => "Du! Du willst den verbotenen Ring?
+Das werden wir nicht zulassen!",
+  "1.0.3.0" => "Ein verbotener Ring?
+Danke für den Hinweis!",
+  "1.0.4.0" => "Stellt sich nur die Frage, wo diese
+Genies ihn versteckt haben.",
+  "1.0.5.0" => "Hier scheint der Ring nicht zu sein...",
+  "1.0.6.0" => "Der Weg ist frei. Ich glaube, dort weiter hinten
+ist etwas....",
+  "1.0.7.0" => "Ich fühle Dunkelheit... Der Ring muss hier sein!
+Zeig dich!",
+  "1.0.8.0" => "Habt Ihr mich erweckt?
+Was ist Euer Wunsch?",
+  "1.0.9.0" => "Etwas wie dich könnte ich gebrauchen. Diene
+mir als Befehlshaber meiner Monsterarmee!",
+  "1.0.10.0" => "Monster befehligen? Hahahaaa! Das könnte
+mir gefallen. Ich zeige Euch meine Macht!",
+  "1.0.11.0" => "Ich will auch den Drachen, der in dieser Höhle
+haust. Aber der Weg ist versperrt...",
+  "1.0.12.0" => "Hahahaaa... Ich werde selbstverständlich
+jedes Hindernis für Euch überwinden!",
+  "1.0.13.0" => "Ich traue ihm nicht...",
+  "1.0.14.0" => "Bist du der Drache Volga? Folge mir, und du kannst
+deiner Zerstörungswut freien Lauf lassen!",
+  "1.0.15.0" => "Ich werde mich dir nicht anschließen.
+Und jetzt geh.",
+  "1.0.16.0" => "Tststs... Dann muss ich dich
+wohl zu deinem Glück zwingen.",
+  "1.0.17.0" => "Leg dich nicht mit mir an... Eure
+Händel interessieren mich nicht.",
+  "1.0.18.0" => "Aber du bist ein Krieger, oder? Ist der
+Kampf allein nicht Grund genug?",
+  "1.0.19.0" => "Wasss sssoll dasss?
+Du beleidigssst unseren Herrn!",
+  "1.0.20.0" => "Großer Volga, überlassst sssie unsss!
+",
+  "1.0.21.0" => "Sssie issst kein Gegner für unsss!",
+  "1.0.22.0" => "Hrm... Unterschätzt sie nicht. Ich kann
+spüren, dass sie große Macht besitzt.",
+  "1.0.23.0" => "Losss geht's, Hexe!",
+  "1.0.24.0" => "Egal, wie viele Monssster du ssschickst,
+der Ssstamm des Drachen wird sssie besssiegen!",
+  "1.0.25.0" => "Ganz schön redselig für eine Eidechse.
+Gut, dann zeige ich dir meine Macht...",
+  "1.0.26.0" => "Wir müssen den verbotenen Ring zurückholen!
+Sonst wird etwas Schreckliches geschehen!",
+  "1.0.27.0" => "Die Goronen verfügen über starke Waffen.
+Wir müssen gut auf unser Hauptquartier achten.",
+  "1.0.28.0" => "Anscheinend können nur diese beiden
+vom Stamm des Drachen reden.",
+  "1.0.29.0" => "Hm... Vielleicht sollten wir sie behalten?
+Wer weiß, wofür es mal gut ist...",
+  "1.0.30.0" => "Ich schicke eine Krabbelmine
+in eine ihrer Festungen!",
+  "1.0.31.0" => "Behaltet die Krabbelminen im Auge. Ehe man
+sich's versieht, explodieren sie...",
+  "1.0.32.0" => "Saubere Arbeit! Wir haben eine ihrer Festungen!",
+  "1.0.33.0" => "Diessse Goronen sind ja doch zu etwasss gut.
+Wie gefällt dir dasss, Hexe?",
+  "1.0.34.0" => "Ja! Fast geschafft!",
+  "1.0.35.0" => "Sie haben zwei Festungen eingenommen und
+unsere Truppen schlottern vor Angst...",
+  "1.0.36.0" => "Weiter so, dann sind sie bald besiegt!",
+  "1.0.37.0" => "Neiiin! Unsere Krabbelmine!",
+  "1.0.38.0" => "Grrr... Ich schicke unsere letzte Krabbelmine los.
+Auf geht's! ...Hä? Was?!",
+  "1.0.39.0" => "Irgendwas ist kaputt... Sie macht keinen Mucks.
+Dann müssen wir sie wohl hierlassen.",
+  "1.0.40.0" => "Die Echsen werden stärker!
+Wir waren nicht schnell genug!",
+  "1.0.41.0" => "Wir haben einen der Handlanger der Zauberin
+gefunden! Den Hexer!",
+  "1.0.42.0" => "Du wirssst unserem Herrn
+keine Ssschuppe krümmen!",
+  "1.0.43.0" => "Sie können reden, wie putzig...
+Ich werde euch zum Schweigen bringen!",
+  "1.0.44.0" => "Oh... Sie sind erstaunlich stark.
+Helft mir, Herrin Cia!",
+  "1.0.45.0" => "Also wirklich... Bei deiner Macht solltest
+du doch allein damit fertig werden, oder?",
+  "1.0.46.0" => "Das ist mein Ende!",
+  "1.0.47.0" => "Hör auf zu winseln! Gut, ich werde dir
+helfen. Halte noch ein wenig durch.",
+  "1.0.48.0" => "Großer Volga... Allein können wir nicht
+gewinnen...",
+  "1.0.49.0" => "Es ist beachtlich, wie du dich gegen mein Volk schlägst.
+Aber deswegen werde ich nicht an deiner Seite kämpfen!",
+  "1.0.50.0" => "Du weigerst dich noch immer? Du hast
+gar keine Wahl, du wirst vor mir knien!",
+  "1.0.51.0" => "Wir haben verloren... Wir sssind eine Ssschande
+für den Ssstamm des Drachen...",
+  "1.0.52.0" => "Esss issst noch nicht allesss verloren...",
+  "1.0.53.0" => "Das ist meine Chance! Warum sollte ich dieser Zauberin
+dienen, wenn ich die Welt selbst beherrschen kann?",
+  "1.0.54.0" => "Betrogen von einem dämlichen Ring...
+Auch egal. Ich werde euch alle besiegen!",
+  "1.0.55.0" => "Hahahaaa! Ich brauche nur diese Festung
+einzunehmen, dann ist die törichte Zauberin am Ende!",
+  "1.0.56.0" => "Volga... Wirst du mir gehorchen,
+wenn ich dich besiege?",
+  "1.0.57.0" => "Einverstanden. Doch wenn ich gewinne,
+gehst du mir für immer aus den Augen.",
+  "1.0.58.0" => "Ich will nichts mit euch Kreaturen zu tun haben... Aber
+ich werde die Festungen meines Volkes zurückerobern!",
+  "1.0.59.0" => "Argh! Ich schwöre, ich werde
+euch nicht wieder verraten!",
+  "1.0.60.0" => "Wenn du dich nicht würdig erweist, verbanne ich
+dich zurück in den Ring. Vergiss das nur nicht.",
+  "1.0.61.0" => "Ich wurde besiegt?
+Wie konnte das geschehen?",
+  "1.0.62.0" => "Hör auf, dich zu beschweren, und komm mit.
+Schließlich gehörst du jetzt mir.",
+  "1.0.63.0" => "Und damit ihr nicht auf dumme Gedanken kommt,
+belege ich euch mit einem kleinen Zauber...",
+  "1.0.64.0" => "Ich schwöre... meiner Herrin Cia... ewige Treue...",
+  "1.0.65.0" => "Mein einziges Begehr ist fortan...
+der Kampf mit mächtigen Gegnern!",
+  "1.0.66.0" => "Das sollte reichen. Jetzt können wir uns
+um Schloss Hyrule kümmern.",
+  "1.0.67.0" => "Ich muss mich zurückziehen.
+Ich habe sie wohl unterschätzt...",
+  "1.0.68.0" => "Wie konnte es so weit kommen?",
+  "1.0.69.0" => "Zu schade... Den Ring hätte ich
+wirklich gern gehabt.",
+  "1.0.70.0" => "Wir sind in der Unterzahl...
+Lasst mich ein paar Monster beschwören!",
+  "1.0.71.0" => "So etwas beherrschst du? Nicht schlecht.",
+  "1.0.73.0" => "Diese Krabbelminen müssen zerstört werden,
+oder wir verlieren unser Hauptquartier!",
+  "1.0.74.0" => "Wir holen uns die Festung zurück und
+versiegeln diesen Ring wieder!",
+  "13.0.2.0" => "Einige hylianische Soldaten sind schon
+vorausmarschiert. Wir sollten ihnen folgen!",
+  "13.0.3.0" => "Link! Impa! Die hylianischen Soldaten stecken
+in Schwierigkeiten! Bitte beeilt euch!",
+  "13.0.4.0" => "Danke! Du hast uns gerettet!",
+  "13.0.5.0" => "Verzeiht, dass ihr warten musstet! Impa steht
+uns zur Seite. Ihr seid jetzt also in Sicherheit.",
+  "13.0.6.0" => "Die Monster müssen aus Festungen kommen.
+Impa, sollten wir uns nicht darum kümmern?",
+  "13.0.7.0" => "Da ist das Loch, aus dem diese Monster
+kriechen, Impa!",
+  "13.0.8.0" => "Sehr gut! Aber es werden kaum weniger!
+Es muss sicher eine andere Festung geben.",
+  "13.0.9.0" => "Impa, bitte komm uns zu Hilfe!
+Schnell!",
+  "13.0.10.0" => "Es... tut mir leid...",
+  "13.0.11.0" => "Vielen Dank!
+Jetzt ist die Krabbelmine an der Reihe!",
+  "13.0.12.0" => "Impa! Wir müssen die Krabbelmine beschützen!",
+  "13.0.13.0" => "Link! Verteidige die Krabbelmine! Beseitige
+die Feinde auf dem Weg zu der Felssäule!",
+  "13.0.14.0" => "Oh nein! Link wird diese Festung nicht
+erreichen... Impa, jetzt bist du dran!",
+  "13.0.15.0" => "Wir konnten nicht verhindern, dass
+die Monster Verstärkung bekommen...",
+  "13.0.16.0" => "Hätten wir die Festungen eingenommen!
+Die Krabbelmine ist von Monstern umzingelt...",
+  "13.0.17.0" => "Gute Arbeit! Jetzt sollte die Krabbelmine
+die Felssäule erreichen können!",
+  "13.0.18.0" => "Gute Arbeit, Impa! Endlich können wir weiter!",
+  "13.0.19.0" => "Was sollen wir nur tun?! Sie haben die Krabbelmine
+zerstört!",
+  "13.0.20.0" => "Ohne Krabbelmine können wir nicht weiter...
+Und Prinzessin Zelda bleibt unerreichbar...",
+  "13.0.21.0" => "Impa! Wir brauchen dich hier! Schnell!",
+  "13.0.22.0" => "Das Südtor dieser Festung führt zum Ausgang.
+Können wir durch, wenn wir die Festung erobern?",
+  "13.0.23.0" => "Oh! Das Südtor lässt sich nicht öffnen... obwohl
+wir die Festung erobert haben. Seltsam!",
+  "13.0.24.0" => "Sie kriechen aus ihren Tunneln! Hier muss
+irgendwo der Tunnelmeister lauern...",
+  "13.0.25.0" => "Überlass Link diese Festung, Impa!
+Bei ihm ist sie in sicheren Händen!",
+  "13.0.26.0" => "Dieses Monster sieht aber merkwürdig aus!
+Das muss der Tunnelmeister sein, Impa!",
+  "13.0.27.0" => "Ich wusste doch, dass du es schaffst, Impa!
+Jetzt kommen wir hier endlich raus!",
+  "13.0.28.0" => "Dieses Kind hinter uns steckt in Schwierigkeiten...
+Wenn das so weitergeht, werden wir überrannt!",
+  "13.0.29.0" => "Oh nein! Schon wieder versperren
+Lava und Felssäulen den Weg!",
+  "13.0.30.0" => "Gute Idee! Eine Krabbelmine
+haben wir auch schon hier!",
+  "13.0.31.0" => "Solange Feinde in der Festung sind, können wir
+die Krabbelmine nicht losschicken. Erobere sie!",
+  "13.0.32.0" => "Impa, suche eine weitere Krabbelmine!
+Link wird den Goronen zur Seite stehen!",
+  "13.0.33.0" => "Vertreibe die Feinde aus der Festung, Impa!
+Dann können wir die Krabbelmine einsetzen!",
+  "13.0.34.0" => "Sind alle bereit? Legen wir los!",
+  "13.0.35.0" => "Wir sind so gut wie raus aus diesem Loch, Shiek!
+Also bleib ganz ruhig und komm hierher!",
+  "13.0.36.0" => "Hurra! Das war der erste Streich...",
+  "13.0.37.0" => "Wunderbar! Der Weg zum Ausgang ist frei!
+Danke, Impa! Und Dank auch dir, Gorone!",
+  "13.0.38.0" => "Der Weg ist frei zum Wald von Phirone... Und zu
+dieser jungen Frau, von der wir gehört haben!",
+  "13.0.39.0" => "Hoffen wir, dass es Prinzessin Zelda ist!",
+  "13.0.40.0" => "Link, geh kein unnötiges Risiko ein! Diese Welt
+braucht einen Helden, der am Leben ist...",
+  "13.0.41.0" => "Wir kommen nicht voran, solange diese
+Felssäule noch steht...",
+  "13.0.42.0" => "Da sind unsere Soldaten! Doch wir erreichen
+sie nicht, solange das Tor geschlossen ist...",
+  "13.0.43.0" => "Impa! Irgendetwas Seltsames versteckt
+sich in diesen Tunneln!",
+  "13.0.44.0" => "Wir müssen irgendeinen Weg finden!",
+  "13.0.45.0" => "Hey! Diese Felswand ist am Bröckeln. Man muss
+sie doch irgendwie zum Einsturz bringen können!",
+  "13.0.46.0" => "Beeilung, Link! Der Ausgang ist hier drüben!",
+  "13.0.47.0" => "Alles in Ordnung, Impa?
+Ich erwarte dich am Ausgang!",
+  "13.0.48.0" => "Hätten wir die Festungen der Monster
+zuerst erobern sollen?",
+}

@@ -1,0 +1,6 @@
+Map {
+  "0.1.0" => "A0%1sF4R lance une attaque sur A1la base alliéeR !",
+  "0.2.0" => "A0%1sF4R et ses troupes ne doivent pas mener à bien leur attaque !",
+  "0.3.0" => "Vous avez empêché l'attaque !",
+  "0.4.0" => "A0%1sF6R et ses troupes rejoignent le champ de bataille !",
+}

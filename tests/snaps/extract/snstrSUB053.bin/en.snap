@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "Prepare for recon soldiers!",
+  "0.1.0" => "A A0%1sF0R appeared on the battlefield to look for A0%2sF2R!",
+  "0.3.0" => "If the A0%1sF0R finds A0%2sF6R, enemy reinforcements will appear!",
+  "0.4.0" => "Don't let the A0%1sF0R succeed!",
+  "0.5.0" => "The A0%1sF0R found A0%2sF2R!",
+  "0.6.0" => "The A0%1sF0R is summoning reinforcements!",
+  "0.7.0" => "Defeat A0%1sF6R before the enemy can receive reinforcements!",
+  "0.8.0" => "A0%1sF1R appeared after being summoned by A0%2sF6R!",
+  "0.9.0" => "The A0%1sF0R has left the battlefield!",
+  "0.10.0" => "The A0%1sF0R gave up the search for A0%2sF2R!",
+  "0.11.0" => "You defeated the A0%1sF0R!",
+  "0.12.0" => "You prevented the enemy from receiving reinforcements!",
+}

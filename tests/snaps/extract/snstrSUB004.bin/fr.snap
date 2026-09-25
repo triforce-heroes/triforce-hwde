@@ -1,0 +1,15 @@
+Map {
+  "0.1.0" => "A0%1sF4R appelle A2l'unité spécialeR en renfort!",
+  "0.2.0" => "Éliminez A0%1sF0R pour l'empêcher d'appeler A2l'unité spécialeR!",
+  "0.3.0" => "A0%1sF4R quitte temporairement le champ de bataille!",
+  "0.4.0" => "A0%1sF4R a fait venir A2une unité spécialeR en renfort!",
+  "0.5.0" => "A0%1sF4R se prépare de nouveau à battre en retraite!",
+  "0.6.0" => "A0%1sF4R a fini d'appeler des renforts!",
+  "0.7.0" => "Vous avez vaincu A0%1sF0R!",
+  "0.8.0" => "A0%1sF4R a rejoint le champ de bataille!",
+  "0.9.0" => "A2L'unité spécialeR va arriver d'un moment à l'autre!",
+  "0.10.0" => "Éliminez A0%1sF0R pour empêcher l'arrivée de A2l'unité spécialeR!",
+  "0.11.0" => "A0%1sF4R continue de demander des renforts!",
+  "0.12.0" => "A0%1sF4R revient sur le champ de bataille!",
+  "0.13.0" => "A0%1sF4R appelle A2l'unité spécialeR!",
+}

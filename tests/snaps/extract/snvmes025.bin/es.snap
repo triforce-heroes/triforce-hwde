@@ -1,0 +1,217 @@
+Map {
+  "1.0.0.0" => "Siento la presencia de Cia, pero
+esa de allá no es la verdadera.",
+  "1.0.1.0" => "Creo que es un ser de las tinieblas.
+¡Librémonos de él para salvar a Cia!",
+  "1.0.2.0" => "Cia era nuestra enemiga, ¡pero Lana dice
+que tenemos que ayudarla, Link!",
+  "1.0.3.0" => "Están solicitando refuerzos desde dentro
+de los bastiones... ¡Debemos evitarlo!",
+  "1.0.4.0" => "¡Qué cobardes! ¡Se encierran en
+los bastiones y piden refuerzos!",
+  "1.0.5.0" => "¡Tenemos que salvar a Cia antes de que
+el enemigo aumente en número!",
+  "1.0.6.0" => "Están pidiendo refuerzos.
+Tengo un mal presentimiento...",
+  "1.0.7.0" => "¡Ayudemos a Cia antes de que haya más
+enemigos, Link! ¡Así podremos vencer!",
+  "1.0.8.0" => "¡Debemos pedir refuerzos si queremos
+enfrentarnos a los del enemigo!",
+  "1.0.9.0" => "¡Mira, Link! ¡Quieren acabar
+con nuestros mensajeros!",
+  "1.0.10.0" => "¡Cuidado, Link! ¡Solo nos queda
+un mensajero!",
+  "1.0.11.0" => "No hemos podido ayudarlos... Lo siento.",
+  "1.0.12.0" => "¡Bien! ¡Hemos cumplido
+con nuestra misión!",
+  "1.0.13.0" => "¡Iré a buscar refuerzos y volveré
+con buenas noticias!",
+  "1.0.14.0" => "¡La figura oscura se ha escapado!",
+  "1.0.15.0" => "Nada podemos hacer ahora. Lo importante
+es localizar a la auténtica Cia.",
+  "1.0.18.0" => "¡Lana, ven aquí! ¡No podremos ayudar
+a Cia sin tu ayuda!",
+  "1.0.19.0" => "¡Comparte con Cia tu poder mágico,
+Lana! ¡Debes sacarla de las tinieblas!",
+  "1.0.20.0" => "¡Entendido! ¡Aguanta, Cia,
+voy en tu ayuda!",
+  "1.0.21.0" => "¿Eh? ¿Dónde estoy? Lana...
+¿has sido tú la que me ha ayudado?",
+  "1.0.22.0" => "Al fin estamos juntas, Cia... ¡Todos han
+ayudado en el rescate! Ahora, descansa.",
+  "1.0.23.0" => "Estableceremos aquí nuestra base y nos
+quedaremos cerca para protegerla.",
+  "1.0.24.0" => "¡Los monstruos se están poniendo en
+marcha! ¿Tendrán a Cia como objetivo?",
+  "1.0.25.0" => "Cia no está en condiciones de moverse.
+¡Yo me quedo aquí para protegerla!",
+  "1.0.26.0" => "Entonces te ayudaré.
+¡Espero tus órdenes, Lana!",
+  "1.0.27.0" => "La Cia falsa anda cerca, lo presiento...
+¿Querrá robar el poder de la verdadera?",
+  "1.0.28.0" => "Si vencemos a las hordas de monstruos,
+quizá la impostora vuelva a aparecer...",
+  "1.0.29.0" => "¡Tenemos que seguir protegiendo a
+Cia hasta que su sombra aparezca!",
+  "1.0.30.0" => "Debemos librarnos de todos los monstruos
+que tengan pinta de peligrosos...",
+  "1.0.31.0" => "Tenemos que tener cuidado con todo el
+que actúe de forma sospechosa...",
+  "1.0.32.0" => "Cia no será capaz de huir.
+¡Debemos protegerla, Link!",
+  "1.0.33.0" => "Alguien quiere usurpar tu identidad, Cia.
+¿Sabes algo al respecto?",
+  "1.0.34.0" => "Se trata de la Cia oscura. Me ha robado
+la magia para ocupar mi lugar.",
+  "1.0.35.0" => "¿Ocupar tu lugar? ¡No se lo perdonaré!
+¡Haré lo que sea por evitarlo!",
+  "1.0.36.0" => "¡Los monstruos se están acercando
+a Cia! ¡Ayúdenla, por favor!",
+  "1.0.37.0" => "Gracias, Lana...",
+  "1.0.38.0" => "¡El número de enemigos sigue
+aumentando! ¡Tenemos que hacer algo!",
+  "1.0.39.0" => "Al final se quedarán sin refuerzos, pero
+tomar sus bastiones los detendrá antes.",
+  "1.0.40.0" => "Al tomar el bastión se han abierto sus
+puertas. ¡Sigamos abriéndonos paso así!",
+  "1.0.41.0" => "Bueno, hemos conseguido evitar que sigan
+apareciendo refuerzos en los bastiones.",
+  "1.0.42.0" => "¡¿Tú también, Link?! ¡¿Has ayudado
+a salvarme?!",
+  "1.0.43.0" => "Link ya no piensa que seas nuestra
+enemiga, ¡por eso te ha ayudado!",
+  "1.0.44.0" => "Vaya, entonces es todo un héroe.",
+  "1.0.45.0" => "¡¿Eh?! ¡¿Sigue aumentando el número
+de enemigos?!",
+  "1.0.46.0" => "Estos no serán los últimos.
+¡Aún aparecerán muchos más!",
+  "1.0.47.0" => "¡¿Aún siguen pidiendo refuerzos?!
+Se van a enterar...",
+  "1.0.48.0" => "¡Necesitamos hacer algo antes de que
+consigan pedir más refuerzos!",
+  "1.0.49.0" => "Bueno, pues con eso tendrían que dejar
+de aparecer refuerzos enemigos.",
+  "1.0.50.0" => "¡¿Aún están llegando más refuerzos?!
+¡Asegúrense de que no alcancen a Cia!",
+  "1.0.51.0" => "Le sobra magia para controlar a esos
+monstruos, pero aún busca la de Cia...",
+  "1.0.52.0" => "Debemos detener a ese enemigo.
+Si no, ¡reforzará sus tropas!",
+  "1.0.53.0" => "¿Qué hacen ahí parados?
+¡En marcha!",
+  "1.0.54.0" => "Lana... no sé si podré aguantar mucho
+más... Siento que voy a desaparecer.",
+  "1.0.55.0" => "¡No dejaré que eso suceda, Cia!
+¡Dime qué puedo hacer para ayudarte!",
+  "1.0.56.0" => "Derrota a quien ha robado mi magia.
+Necesito recuperar mi poder mágico...",
+  "1.0.57.0" => "¡El enemigo es aún más poderoso, Link!",
+  "1.0.58.0" => "¡Perfecto! Hemos conseguido desbaratar
+los planes enemigos.",
+  "1.0.59.0" => "¡¿Otra vez?! Todo el mundo está muy
+cansado, Link...",
+  "1.0.60.0" => "¡Un último esfuerzo! Presiento que
+la Cia oscura está muy cerca...",
+  "1.0.61.0" => "¡Un último esfuerzo, compañeros!
+¡Necesitamos su ayuda!",
+  "1.0.62.0" => "Están intentando avisar a más refuerzos.
+¡No debemos dejar que lo consigan!",
+  "1.0.63.0" => "¡Rápido! ¡Tenemos que evitar que el
+número de enemigos siga subiendo!",
+  "1.0.64.0" => "¡Bien! ¡Hemos conseguido que paren de
+pedir refuerzos, Link!",
+  "1.0.65.0" => "Hemos logrado acabar con todos los
+enemigos. Ahora aparecerá la Cia oscura.",
+  "1.0.66.0" => "Siento su presencia muy cerca...
+¡Tengan cuidado!",
+  "1.0.67.0" => "Son... ¡Links oscuros!
+¡¿Pero por qué?!",
+  "1.0.68.0" => "¡Necesitamos ayuda! ¡El enemigo está
+intentando llegar hasta Cia!",
+  "1.0.69.0" => "La Cia oscura no cejará hasta conseguir
+usurpar la identidad de la Cia real...",
+  "1.0.70.0" => "¡No dejaremos que lo consiga! ¡Aguanta,
+Cia, vamos a acabar con esa sombra!",
+  "1.0.71.0" => "La Cia oscura debe de haber creado
+a los Links oscuros...",
+  "1.0.72.0" => "Quizá para vencer a la Cia oscura hemos
+de acabar primero con los Links oscuros.",
+  "1.0.73.0" => "¡Así se hace! ¡Vamos por el
+siguiente objetivo!",
+  "1.0.74.0" => "Aquí viene la Cia oscura...",
+  "1.0.75.0" => "¡No te preocupes, Cia!
+¡Nosotros la venceremos!",
+  "1.0.76.0" => "Bueno, pues parece que con esto ya
+hemos acabado con los Links oscuros...",
+  "1.0.77.0" => "Tras la Cia oscura, ¡aún queda Ganon
+fantasma, que me ha robado la magia!",
+  "1.0.78.0" => "Ganon fantasma... Es el malvado que
+procede del mundo de Tetra, ¿no?",
+  "1.0.79.0" => "También te robó la Trifuerza y me usó
+para encontrarte, Lana.",
+  "1.0.80.0" => "Buscaba poder y robó la Trifuerza y la
+magia de Cia, lo que causó este caos...",
+  "1.0.81.0" => "¡Entonces acabemos con ese malvado y
+devolvamos el equilibrio al mundo!",
+  "1.0.82.0" => "Su poder es increíble... no podemos
+bajar la guardia ni un instante.",
+  "1.0.83.0" => "Si seguimos así, nos vencerán...
+¡tenemos que hacer algo!",
+  "1.0.84.0" => "Lo siento... No he podido defender el
+futuro que quería para todos ustedes.",
+  "1.0.85.0" => "Así no podemos continuar peleando...
+¡y no podremos ayudar a Cia!",
+  "1.0.86.0" => "Ya no puedo más. Lo siento, Lana...",
+  "1.0.87.0" => "¡Cia! ¡No!",
+  "1.0.88.0" => "¡Están atacando nuestra base!
+¡Intenten alejar al enemigo de allí!",
+  "1.0.89.0" => "¡La base está a punto de caer!
+¡Rápido, vayan a defenderla!",
+  "1.0.90.0" => "Han tomado nuestra base...
+Todo está perdido...",
+  "1.0.91.0" => "Desde aquí siento la presencia de Cia...
+¡Está muy cerca!",
+  "1.0.92.0" => "Como siempre, ¡actúas antes de pensar!
+En fin... ¡No pienso rendirme!",
+  "13.0.2.0" => "Un vínculo mágico conecta los bastiones
+y hace que sigan apareciendo monstruos.",
+  "13.0.3.0" => "Al capturar los bastiones mágicos,
+anularemos el vínculo que los conecta.",
+  "13.0.4.0" => "Ya nos ocupamos de la zona oeste; ahora
+debemos centrarnos en la del este.",
+  "13.0.5.0" => "Ya nos ocupamos de la zona este; ahora
+debemos centrarnos en la del oeste.",
+  "13.0.6.0" => "Al capturar el bastión central hemos
+anulado dos vínculos mágicos. ¡Bravo!",
+  "13.0.7.0" => "Han aparecido más Links oscuros.
+¡Que nadie baje la guardia!",
+  "13.0.8.0" => "Si seguimos así, acabaremos
+arrinconados. ¡Tropas, retírense!",
+  "13.0.9.0" => "Los Links oscuros reviven en la sala de
+la hechicera e impiden nuestra retirada.",
+  "13.0.10.0" => "¡Link, ten cuidado! Todo el mundo
+tiene un límite.",
+  "13.0.11.0" => "Link estará bien. ¡Retírense, rápido!",
+  "13.0.12.0" => "Son demasiado fuertes...
+No podemos huir.",
+  "13.0.13.0" => "Creo que todo está perdido...",
+  "13.0.14.0" => "Puede que sea demasiado tarde...",
+  "13.0.15.0" => "¡Link, hazlo por mí!",
+  "13.0.16.0" => "¡Link! Si te perdemos, Cia
+se alzará con la victoria.",
+  "13.0.17.0" => "Era demasiada responsabilidad para mí...",
+  "13.0.18.0" => "Si cae uno solo de nosotros,
+estaremos perdidos...",
+  "13.0.19.0" => "No he estado a la altura
+de la situación.",
+  "13.0.20.0" => "Fue demasiado para mí...",
+  "13.0.21.0" => "Tendría que saber dónde están
+mis límites...",
+  "13.0.22.0" => "Pensé que podría lograrlo...",
+  "13.0.23.0" => "La mitad de los Links oscuros han caído.
+¡Derrotemos a los otros dos!",
+  "13.0.24.0" => "¿Sería más sencillo escapar por
+la rosaleda del oeste?",
+  "13.0.25.0" => "No puedo seguir adelante...",
+  "13.0.26.0" => "¡Espera, Link! Yo también voy.",
+}

@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "L'armata del crepuscolo"!",
+  "0.1.0" => "A0%1sF0R e A0%2sF2R appaiono!",
+  "0.2.0" => "A0%1sF0R va verso A0%2sF2R!",
+  "0.3.0" => "Hai sconfitto A0%1sF2R!",
+  "0.4.0" => "A0%1sF0R riappare!",
+  "0.5.0" => "A0%1sF0R ha fatto riapparire A0%2sF2R!",
+  "0.6.0" => "Sconfiggi A0%1sF2R!",
+  "0.7.0" => "A0%1sF0R ha perso e A0%2sF2R scompare!",
+  "0.8.0" => "Hai sconfitto A0%1sF2R!",
+}

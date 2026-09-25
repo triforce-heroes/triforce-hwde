@@ -1,0 +1,15 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "Il Coccò sperduto"!",
+  "0.1.0" => "A0%1sF0R appare sul campo di battaglia!",
+  "0.2.0" => "Sconfiggi A0%1sF2R!",
+  "0.3.0" => "A0%1sF0R si ritira temporaneamente!",
+  "0.4.0" => "A0%1sF0R riappare nell'area A0%2sF4R!",
+  "0.5.0" => "Conquista i presidi nemici e impedisci la ritirata!",
+  "0.6.0" => "A0%1sF0R ha perso di vista le vie di fuga!",
+  "0.7.0" => "Hai sconfitto A0%1sF2R!",
+  "0.8.0" => "A0%1sF0R si ritira completamente dalla battaglia!",
+  "0.9.0" => "Attenzione, A0%1sF2R si sta avvicinando!",
+  "0.10.0" => "Non hai sconfitto A0%1sF2R!",
+  "0.11.0" => "A0%1sF0R si ritira dalla battaglia!",
+  "0.12.0" => "A0%1sF0R si sta per ritirare completamente!",
+}

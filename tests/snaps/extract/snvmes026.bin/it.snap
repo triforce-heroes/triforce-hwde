@@ -1,0 +1,312 @@
+Map {
+  "1.0.0.0" => "Se non recupero la mia magia, io e il mondo
+intero verremo risucchiati dalle tenebre.",
+  "1.0.1.0" => "Spettro Ganon ci ha fatti disperdere!",
+  "1.0.2.0" => "Finché non riusciamo a indebolirlo,
+i fulmini non si fermeranno.",
+  "1.0.3.0" => "Questi santuari custodiscono la luce
+delle preghiere dei saggi.",
+  "1.0.4.0" => "Quel fantasma sta diventando sempre
+più forte...",
+  "1.0.5.0" => "Che potenza! Per fermare i fulmini
+dobbiamo conquistare i presidi dei saggi!",
+  "1.0.6.0" => "Il simbolo disegnato nei presidi
+è il marchio dei saggi!",
+  "1.0.7.0" => "Il presidio è nostro, ma le porte non si
+aprono! Come facciamo a raggiungere Cia?!",
+  "1.0.8.0" => "Forse è a causa della magia di
+Spettro Ganon...",
+  "1.0.9.0" => "Allora conquistiamo tutti i presidi
+dei saggi per indebolirlo!",
+  "1.0.10.0" => "Abbiamo conquistato due presidi!
+Siamo a metà, continuiamo così!",
+  "1.0.11.0" => "Dobbiamo difendere i presidi conquistati,
+per non perderli di nuovo!",
+  "1.0.12.0" => "Ma cosa...?! La strada è chiusa! Non
+possiamo raggiungere il presidio dei saggi!",
+  "1.0.13.0" => "Uhm... qui c'è un interruttore!
+Forse premendolo succederà qualcosa!",
+  "1.0.14.0" => "Bene, adesso possiamo andare avanti!",
+  "1.0.15.0" => "Presto, ai presidi dei saggi! Forse
+l'interruttore ci aiuterà a salire!",
+  "1.0.16.0" => "È fantastico! Avete visto con che velocità
+sono cresciuti gli alberi?!",
+  "1.0.17.0" => "Se colleghiamo il passaggio, potranno usarlo
+anche i nemici e chiameranno i rinforzi!",
+  "1.0.18.0" => "Non siamo riusciti a fermare il messaggero
+nemico, così ha chiamato i rinforzi!",
+  "1.0.19.0" => "Evviva! Abbiamo impedito ai nemici
+di chiamare i rinforzi!",
+  "1.0.20.0" => "I presidi dei saggi stanno indebolendo
+Spettro Ganon!",
+  "1.0.21.0" => "Tieni duro, Cia!
+Stiamo arrivando!",
+  "1.0.22.0" => "I demoni stanno diventando sempre più
+forti! Cia è in pericolo!",
+  "1.0.23.0" => "Collegando i passaggi, i nemici potranno
+attaccare la base e i nostri presidi!",
+  "1.0.24.0" => "Anche nei presidi vicini ci sono un
+sacco di demoni!",
+  "1.0.25.0" => "Ma collegando i passaggi, anche i nemici
+arriveranno alla base e ai presidi!",
+  "1.0.26.0" => "Anche nei presidi vicini ci sono un
+sacco di demoni!",
+  "1.0.27.0" => "Sono apparsi due mostri enormi!",
+  "1.0.28.0" => "Forse stanno puntando ai presidi dei
+saggi. Se li conquistano, i fulmini...",
+  "1.0.29.0" => "Dobbiamo proteggere i presidi dei saggi
+o i fulmini ricominceranno!",
+  "1.0.30.0" => "Non... non riuscirò a proteggere
+il presidio dei saggi ancora per molto...",
+  "1.0.31.0" => "Se non proteggiamo i presidi dei saggi,
+i fulmini ricominceranno!",
+  "1.0.32.0" => "Di questo passo, perderemo i presidi
+dei saggi...",
+  "1.0.33.0" => "Se ci portano via i presidi dei saggi,
+dovremo vedercela con i fulmini di nuovo!",
+  "1.0.34.0" => "Accidenti, i presidi dei saggi sono in
+pericolo...",
+  "1.0.35.0" => "Se perdiamo i presidi dei saggi,
+verremo colpiti di nuovo dai fulmini!",
+  "1.0.36.0" => "Come facciamo? I presidi dei saggi
+sono in pericolo!",
+  "1.0.37.0" => "Dobbiamo sbrigarci! Cia non può
+vincere da sola!",
+  "1.0.38.0" => "I demoni si sono messi in marcia!
+Presto, raggiungiamo Cia!",
+  "1.0.39.0" => "Se solo avessi ancora tutti i miei
+poteri...!",
+  "1.0.40.0" => "M-Mi hai salvata... grazie.",
+  "1.0.41.0" => "Finalmente quel mostro enorme
+è fuori gioco!",
+  "1.0.42.0" => "Peggio di così non poteva andare.
+Difendiamo la base e i presidi dei saggi!",
+  "1.0.43.0" => "Dobbiamo collaborare per proteggere la
+base e i presidi dei saggi!",
+  "1.0.44.0" => "Tutti i passaggi sono collegati!
+Presto, andiamo da Cia!",
+  "1.0.45.0" => "Oh, no! Dobbiamo riconquistare i presidi
+dei saggi per far smettere i fulmini!",
+  "1.0.46.0" => "Abbiamo decimato i nostri nemici!
+Presto, riprendiamoci i presidi dei saggi!",
+  "1.0.47.0" => "Tutto quello che sta succedendo è colpa
+sua! Ma da dove vengono i suoi poteri?!",
+  "1.0.48.0" => "Ha assorbito i miei... ma io posso
+fermare il suo potenziamento!",
+  "1.0.49.0" => "Dobbiamo aiutare Cia!",
+  "1.0.50.0" => "Volentieri!",
+  "1.0.51.0" => "Farò tutto ciò che è nelle mie
+possibilità.",
+  "1.0.52.0" => "L'unione fa la forza!",
+  "1.0.53.0" => "Affrontandolo da soli non abbiamo
+speranza, ma insieme ce la faremo!",
+  "1.0.54.0" => "Siamo tutti con te, Cia!
+All'attacco!",
+  "1.0.55.0" => "Sono pronta!",
+  "1.0.56.0" => "Non ho più la forza di andare avanti...
+Dovrete continuare senza di me.",
+  "1.0.57.0" => "Conta pure su di noi!",
+  "1.0.58.0" => "Poniamo fine a questa storia una
+volta per tutte!",
+  "1.0.59.0" => "Il nostro avversario ha forza da vendere,
+ma insieme non abbiamo nulla da temere!",
+  "1.0.60.0" => "Coraggio, dobbiamo sconfiggere il male
+per far tornare la pace!",
+  "1.0.61.0" => "Ha cambiato la sua strategia di attacco!
+State tutti in guardia!",
+  "1.0.62.0" => "Ogni avversario ha il suo punto debole,
+dobbiamo solo trovarlo!",
+  "1.0.63.0" => "Unendo le forze ce la possiamo fare!",
+  "1.0.64.0" => "Ancora un piccolo sforzo e
+riavremo la Triforza e i poteri di Cia!",
+  "1.0.65.0" => "Proprio così! Forza e coraggio!",
+  "1.0.66.0" => "Perdonatemi... non sono abbastanza
+forte...",
+  "1.0.67.0" => "Se conquistiamo i presidi dei saggi,
+allontaneremo le tenebre maligne!",
+  "1.0.68.0" => "Prima di collegare i passaggi, aspetta
+che io sconfigga i nemici in alto!",
+  "1.0.69.0" => "Ai nemici in alto ci penso io!
+Subito dopo collegate il passaggio!",
+  "1.0.70.0" => "Lana! Vai a chiamare gli altri! Abbiamo
+bisogno dell'aiuto di tutti quanti!",
+  "1.0.71.0" => "Levatevi di mezzo! Dobbiamo raggiungere
+Cia!",
+  "1.0.72.0" => "Oh, no! Devo farmi strada tra i nemici
+se voglio raggiungere Cia!",
+  "1.0.73.0" => "Fuori dai piedi! Devo andare da Cia!",
+  "1.0.74.0" => "Chi osa bloccarmi il passaggio?
+Devo correre in aiuto di Cia!",
+  "1.0.75.0" => "Nel presidio c'è un simbolo... si tratta
+di un presidio dei saggi?",
+  "1.0.76.0" => "Che strano simbolo... significa che
+è un presidio dei saggi?",
+  "1.0.77.0" => "Questo simbolo... indica che è un
+presidio dei saggi.",
+  "1.0.78.0" => "Per raggiungere Cia dobbiamo attivare
+gli interruttori!",
+  "1.0.79.0" => "Dobbiamo attivare gli interruttori se
+vogliamo arrivare da Cia!",
+  "1.0.80.0" => "Oh, no! La nostra base...
+È tutto finito...!",
+  "1.0.81.0" => "Non possiamo arrivare a quei mostri
+in qualche modo...?!",
+  "1.0.82.0" => "Dobbiamo contrattaccare senza timori!
+Possiamo farcela!",
+  "1.0.83.0" => "Non possiamo permettere che Cia
+svanisca nel nulla! Teniamo duro!",
+  "1.0.84.0" => "Manca solo un presidio! Poi potremo
+andare alla base dove si trova Cia!",
+  "1.0.85.0" => "Oh... appena colpite dalla luce, le
+statue sono svanite nel nulla!",
+  "1.0.86.0" => "Meglio usare l'arpione per raggiungere
+un livello più alto.",
+  "1.0.87.0" => "Per salire lassù rapidamente,
+l'arpione è quel che ci vuole!",
+  "1.0.88.0" => "Qualcuno ha idea di come aprire
+la porta di questo passaggio?",
+  "1.0.89.0" => "C'è una porta a sbarrarci la strada.
+Credi che riusciremo ad aprirla?",
+  "1.0.90.0" => "Se riuscissimo a superarla, riunirci
+con gli altri sarebbe una passeggiata!",
+  "1.0.91.0" => "Se riuscissimo ad aprire questa porta,
+riunirci ai nostri alleati sarebbe una formalità!",
+  "1.0.92.0" => "Sììì! La porta è aperta!",
+  "1.0.93.0" => "Bene! La porta si è aperta!",
+  "1.0.94.0" => "La porta si è aperta? Fantastico!",
+  "1.0.95.0" => "La porta è aperta! Ottimo lavoro!",
+  "1.0.96.0" => "Nel frattempo quello Spettro Ganon sta
+diventando sempre più forte...",
+  "1.0.97.0" => "Se sconfiggiamo i suoi scagnozzi e otteniamo
+il potere della luce, dovrà esporsi!",
+  "1.0.98.0" => "Abbattiamo quei mostri e cerchiamo
+di proteggere Cia!",
+  "1.0.99.0" => "Attenzione! Spettro Ganon sta arrivando!",
+  "13.0.0.0" => "Guarda, Link!
+C'è un interruttore!",
+  "13.0.1.0" => "Dobbiamo correre al presidio dei saggi!
+Forse con l'interruttore potremo salire?",
+  "13.0.2.0" => "Incredibile! Quelle piante sono cresciute
+in un attimo!",
+  "13.0.3.0" => "Aprendo la strada, facciamo un favore
+anche ai nemici! Dobbiamo fermarli!",
+  "13.0.4.0" => "Non abbiamo fatto in tempo... Ai presidi
+dei saggi arrivano nuovi nemici!",
+  "13.0.5.0" => "Così non dobbiamo più preoccuparci
+dei rinforzi nemici!",
+  "13.0.6.0" => "Sembra che quello stia potenziando i
+demoni! Cia è in pericolo!",
+  "13.0.7.0" => "Se apriamo la strada, i nemici potranno
+attaccare la base e i presidi dei saggi...",
+  "13.0.8.0" => "Anche i presidi nelle vicinanze sono
+pieni di nemici!",
+  "13.0.9.0" => "Se apriamo la strada, i nemici potranno
+attaccare la base e i presidi dei saggi...",
+  "13.0.10.0" => "Anche i presidi nelle vicinanze sono
+pieni di nemici!",
+  "13.0.11.0" => "Sono spuntati fuori due mostri
+enormi!",
+  "13.0.12.0" => "Se ci lasciamo sottrarre i presidi,
+ricominceranno gli attacchi di fulmini!",
+  "13.0.13.0" => "Oh, no! Non possiamo farci sottrarre
+i presidi!",
+  "13.0.14.0" => "Se ci lasciamo sottrarre i presidi,
+ricominceranno gli attacchi di fulmini!",
+  "13.0.15.0" => "Oh, no! Non possiamo farci sottrarre
+i presidi!",
+  "13.0.16.0" => "Se ci lasciamo sottrarre i presidi,
+ricominceranno gli attacchi di fulmini!",
+  "13.0.17.0" => "Oh, no! Non possiamo farci sottrarre
+i presidi!",
+  "13.0.18.0" => "Se i presidi dei saggi cadono in mano
+nemica, i fulmini ricominceranno!",
+  "13.0.19.0" => "Non ce la faccio più... non posso
+proteggere il presidio dei saggi...",
+  "13.0.20.0" => "Se ci lasciamo sottrarre i presidi,
+ricominceranno gli attacchi di fulmini!",
+  "13.0.21.0" => "Se non facciamo qualcosa, il nemico
+prenderà il presidio dei saggi!",
+  "13.0.22.0" => "Se ci lasciamo sottrarre i presidi,
+ricominceranno gli attacchi di fulmini!",
+  "13.0.23.0" => "Il presidio dei saggi sta per cadere!",
+  "13.0.24.0" => "Dobbiamo eliminarli al più presto!
+Cia non può farcela da sola!",
+  "13.0.25.0" => "I demoni si sono messi in marcia!
+Salviamo Cia al più presto!",
+  "13.0.26.0" => "Urrà! Abbiamo sconfitto un pezzo grosso!",
+  "13.0.27.0" => "Quel simbolo nel presidio... deve essere
+un presidio dei saggi!",
+  "13.0.28.0" => "Un simbolo? Forse si tratta di un
+presidio dei saggi!",
+  "13.0.29.0" => "Quel simbolo significa che si tratta
+di un presidio dei saggi.",
+  "13.0.30.0" => "In quel presidio c'è un simbolo sul
+pavimento. È forse un presidio dei saggi?",
+  "13.0.31.0" => "In quel presidio c'è un simbolo sul
+pavimento. È forse un presidio dei saggi?",
+  "13.0.32.0" => "In quel presidio c'è un simbolo sul
+pavimento. È forse un presidio dei saggi?",
+  "13.0.33.0" => "Dobbiamo attivare gli interruttori per
+aprirci la strada verso Cia!",
+  "13.0.34.0" => "Dobbiamo attivare gli interruttori per
+aprirci la strada verso Cia!",
+  "13.0.35.0" => "La cosa migliore sarebbe raggiungere
+tutti quel mostro...",
+  "13.0.36.0" => "Dazel, prima di collegare il passaggio
+aspetta che Link elimini i nemici in alto!",
+  "13.0.37.0" => "Prima di collegare il passaggio,
+aspetta che Link elimini i nemici in alto!",
+  "13.0.38.0" => "Eh? La luce ha fatto sparire le statue!",
+  "13.0.39.0" => "Mirano ai presidi dei saggi?! Se li
+conquistano, i fulmini ricominceranno!",
+  "13.0.40.0" => "Per andare lassù puoi sempre
+usare l'arpione!",
+  "13.0.41.0" => "I mostri stanno diventando sempre più forti!
+Dobbiamo agire o Cia sarà nei guai...",
+  "13.0.42.0" => "Sta potenziando i mostri! Dobbiamo
+fare qualcosa o Cia sarà in pericolo!",
+  "13.0.43.0" => "Sembra che non possa raggiungere Cia se
+non uso gli interruttori per unire i percorsi...",
+  "13.0.44.0" => "Devo usare gli interruttori per collegare
+i percorsi, se voglio raggiungere Cia...",
+  "13.0.45.0" => "Ma così facendo, i mostri potranno
+raggiungere la nostra base...",
+  "13.0.46.0" => "Così, però, quei manigoldi potranno
+raggiungere la nostra base e i presidi...",
+  "13.0.47.0" => "I mostri si stanno muovendo! Devo
+raggiungere Cia il prima possibile!",
+  "13.0.48.0" => "E così i mostri sono in movimento, eh?
+Raggiungiamo Cia prima che sia tardi!",
+  "13.0.49.0" => "C'è una porta su questo percorso.
+Se solo riuscissimo ad aprirla...",
+  "13.0.50.0" => "Se riuscissimo ad aprire quella porta
+nel passaggio, sarebbe tutto più facile!",
+  "13.0.51.0" => "Se riusciamo ad aprire quella porta
+nel passaggio, sarà tutto più facile!",
+  "13.0.52.0" => "C'è una porta in questo passaggio.
+Ci sarà un modo di aprirla?",
+  "13.0.53.0" => "C'è una porta in questo passaggio.
+Ci sarà un modo di aprirla?",
+  "13.0.54.0" => "C'è una porta in questo passaggio.
+Ci sarà un modo di aprirla?",
+  "13.0.55.0" => "Fatto! La porta è aperta!",
+  "13.0.56.0" => "La porta è aperta, fantastico!",
+  "13.0.57.0" => "Bel lavoro. La porta non è più un problema.",
+  "13.0.58.0" => "E vai! La porta è aperta!",
+  "13.0.59.0" => "E vai! La porta è aperta!",
+  "13.0.60.0" => "E vai! La porta è aperta!",
+  "13.0.61.0" => "Devo raggiungere Cia!
+Fuori dai piedi!",
+  "13.0.62.0" => "Ve lo dirò una volta sola: fuori dai piedi!
+Devo raggiungere Cia e vado di fretta!",
+  "13.0.63.0" => "Devo raggiungere Cia il prima possibile.
+Non posso permettervi di essermi d'intralcio.",
+  "13.0.64.0" => "Levatevi dai piedi!
+Link ha una missione da compiere!",
+  "13.0.65.0" => "Levatevi dai piedi!
+Link ha una missione da compiere!",
+  "13.0.66.0" => "Levatevi dai piedi!
+Link ha una missione da compiere!",
+  "13.0.67.0" => "Adesso possiamo usare l'arpione
+per andare più in alto!",
+}

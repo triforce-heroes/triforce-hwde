@@ -1,0 +1,7 @@
+Map {
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R is advancing toward A0%2sF6R!",
+  "0.3.0" => "Defeat A0%1sF2R immediately!",
+  "0.4.0" => "A0%1sF4R is still advancing toward A0%2sF6R!",
+  "0.5.0" => "You defeated all of the A0%1sF5R!",
+}

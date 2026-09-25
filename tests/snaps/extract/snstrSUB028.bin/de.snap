@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "A0%1sF1R wurden auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF1R wollen den Verwundeten der A0%2sF5R beistehen und rücken vor!",
+  "0.3.0" => "Besiege A0%1sF7R und verhindere, dass die A0%2sF5R geheilt werden!",
+  "0.4.0" => "A0%1sF0R hat die Verwundeten der A0%2sF7R erreicht!",
+  "0.5.0" => "Die A0%2sF0R rund um A0%1sF6R wurden geheilt!",
+  "0.6.0" => "Besiege A0%1sF6R schnell und verhindere, dass die A0%2sF5R geheilt werden!",
+  "0.7.0" => "A0%1sF1R wurden besiegt!",
+}

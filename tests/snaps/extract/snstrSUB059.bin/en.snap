@@ -1,0 +1,17 @@
+Map {
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R was injured fighting A0%2sF1R!",
+  "0.3.0" => "A0%1sF0R is retreating toward A0%2sF2R!",
+  "0.4.0" => "Escort A0%1sF4R to make sure they don't flee!",
+  "0.5.0" => "A0%2sF7R have forced A0%1sF0R to retreat!",
+  "0.7.0" => "A0%1sF4R's spell has decreased the amount of Rupees collected!",
+  "0.9.0" => "A0%1sF4R's spell has forced a faction of A0%2sF5R to retreat!",
+  "0.10.0" => "A0%1sF4R's spell has caused A0%2sF5R's morale to decrease!",
+  "0.11.0" => "A0%1sF0R arrived at A0%2sF6R!",
+  "0.12.0" => "A0%1sF4R was successfully escorted!",
+  "0.13.0" => "You failed to guard the A0%1sF4R!",
+  "0.14.0" => "A0%1sF4R has appeared on the battlefield!",
+  "0.16.0" => "Defeat A0%1sF4R to stop the spell!",
+  "0.17.0" => "Defeating A0%1sF4R has stopped the spell!",
+  "0.18.0" => "A0%1sF0R is advancing toward A0%2sF1R!",
+}

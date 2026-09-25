@@ -1,0 +1,316 @@
+Map {
+  "1.0.0.0" => "El Portal de las Almas está en la parte de atrás del
+palacio. ¡Tendremos que acabar con los guardas!",
+  "1.0.1.0" => "El Portal de las Almas está en la parte trasera
+del palacio, pero debemos vencer a los guardas.",
+  "1.0.2.0" => "Qué insensata, Midna. ¡Acabaré contigo!
+¡Usad el poder de las tinieblas para vencerlos!",
+  "1.0.3.0" => "Zant... ¡Quién iba a ser si no! Pero ¿por qué
+protege el Portal de las Almas?",
+  "1.0.4.0" => "Yo dirigiré a las tropas. Me conozco este palacio
+bastante bien.",
+  "1.0.5.0" => "Yo defenderé la base. Si las cosas se tuercen,
+espero que me ayudes.",
+  "1.0.6.0" => "Entonces tengo que proteger la base y luchar
+junto al comandante. ¡Vale, contad conmigo!",
+  "1.0.7.0" => "Avancemos primero hacia el este para
+tomar los bastiones enemigos.",
+  "1.0.8.0" => "Antes de nada debemos dirigirnos al
+este y capturar el bastión enemigo.",
+  "1.0.9.0" => "¡Haré lo que pueda!",
+  "1.0.10.0" => "¡No pierdas más el tiempo! Hazte con
+los bastiones del este.",
+  "1.0.11.0" => "¿Qué ocurre? ¡Debemos hacernos
+con los bastiones del este!",
+  "1.0.12.0" => "¡Bien! Ahora solo queda hacerse con el bastión
+del norte.",
+  "1.0.13.0" => "Es el momento de derribar los puentes.
+¡Separad al ejército de la base!",
+  "1.0.14.0" => "No tenemos puente, pero no pasa nada.
+¡Lo importante es hacerse con el bastión!",
+  "1.0.15.0" => "Han derribado los puentes, pero es lo
+de menos. ¡Centraos en capturar el bastión!",
+  "1.0.16.0" => "Entonces... ¿sigo luchando? ¡Vale! ¡Al ataque!",
+  "1.0.17.0" => "¡Hemos conseguido hacernos con la zona este!",
+  "1.0.18.0" => "¿Nos dan una recompensa por tomar el bastión?
+Pues no diré que no.",
+  "1.0.19.0" => "Un cofre del tesoro... No está mal, supongo.",
+  "1.0.20.0" => "Con el gancho se puede llegar a zonas
+lejanas. A lo mejor nos viene bien en el puente...",
+  "1.0.21.0" => "¡No permitiré que nadie se acerque al portal!
+Vais a ser testigos de mi gran poder.",
+  "1.0.22.0" => "Qué dragón más poderoso... Se nota que Zant
+sabe cómo usar la magia.",
+  "1.0.24.0" => "No estamos en igualdad de condiciones...
+¡No seas cobarde y ven aquí a luchar!",
+  "1.0.25.0" => "Desciende para atacar... Así no hay nada que
+podamos hacer.",
+  "1.0.26.0" => "A ese dragón le gustan las alturas... Ojalá
+pudiésemos atacarlo.",
+  "1.0.27.0" => "¡Ya sé! ¿Y si pruebo con mis poderes del
+Crepúsculo?",
+  "1.0.28.0" => "Crearé un círculo mágico justo debajo de él.
+¡Ayudadme!",
+  "1.0.29.0" => "Para vencer a un dragón en pleno vuelo solo
+podemos recurrir a la magia.",
+  "1.0.30.0" => "Crearé un círculo mágico debajo del dragón.
+¡Ayudadme!",
+  "1.0.31.0" => "Los monstruos me bloquean el paso;
+¡necesito refuerzos!",
+  "1.0.32.0" => "Los monstruos me impiden avanzar.
+¡Necesito ayuda!",
+  "1.0.33.0" => "¿Va todo bien por ahí? Si nos movemos,
+te quedarás sola en la vanguardia.",
+  "1.0.34.0" => "¿Estás bien? Si nos movemos,
+te quedarás sola en la vanguardia.",
+  "1.0.35.0" => "Todo el mundo está haciendo lo que puede,
+así que yo también quiero ayudar.",
+  "1.0.36.0" => "Su base parece estar vacía.
+¡Enviad refuerzos!",
+  "1.0.37.0" => "Ha sabido aprovechar mi ausencia. Más nos vale
+que el círculo mágico esté listo cuanto antes.",
+  "1.0.38.0" => "Ha atacado justo cuando yo no estaba... Debemos
+tener listo el círculo mágico cuanto antes.",
+  "1.0.39.0" => "¡El círculo mágico está listo! Usémoslo para
+atacar al dragón.",
+  "1.0.40.0" => "El círculo mágico ya está preparado, solo
+queda usarlo para atacar al dragón.",
+  "1.0.41.0" => "¿Vais a dejar que el dragón se quede ahí para
+siempre? ¡Usad el círculo mágico de una vez!",
+  "1.0.42.0" => "La base no resistirá mucho más tiempo...
+¡Rápido, atacad con el círculo mágico!",
+  "1.0.43.0" => "¡Así se hace! Aunque me gustaría haberme
+encargado de él personalmente...",
+  "1.0.44.0" => "Os habéis librado de Argorok, pero mi plan
+no acaba aquí.",
+  "1.0.45.0" => "¡Buen trabajo! Espero que no volvamos
+a ver a ese dragón nunca más.",
+  "1.0.46.0" => "Pasemos a mi nueva estrategia.
+¡Capturad a la mocosa!",
+  "1.0.47.0" => "Los enemigos se acercan, ¿vendrán a
+preguntarme cosas sobre bichos?",
+  "1.0.48.0" => "Qué chica más cándida... ¡No dejes que se te
+acerquen!",
+  "1.0.49.0" => "¡Van a por Maripola! No podemos dejar que
+se acerquen a ella.",
+  "1.0.50.0" => "Pero ¿qué hacéis?",
+  "1.0.51.0" => "Ha conseguido que la secuestren; y con ello
+nuestra defensa en el este se ha debilitado.",
+  "1.0.52.0" => "El enemigo se ha llevado a Maripola. La batalla
+se recrudecerá en el este...",
+  "1.0.53.0" => "¡Gracias! Ya estaba a punto de aceptar
+la invitación del enemigo.",
+  "1.0.54.0" => "Seguro que ya se han recuperado del ataque...
+¡Vamos, volved a atacar la base!",
+  "1.0.55.0" => "Ahí vuelve el dragón... ¡Qué agobio!",
+  "1.0.56.0" => "¡Atacad al dragón con el círculo mágico!
+Capturad el bastión que hay debajo.",
+  "1.0.57.0" => "¡De acuerdo! Repitamos el plan de antes.",
+  "1.0.58.0" => "Podemos atacar al dragón con el círculo mágico si
+capturamos el bastión central que está debajo.",
+  "1.0.59.0" => "Lo mismo de antes, ¿no? ¡Yo me encargo!",
+  "1.0.62.0" => "Está atacando la base otra vez, pero no os
+preocupéis, ¡haré que se marche!",
+  "1.0.63.0" => "Ha vuelto a atacar la base. ¡Debemos librarnos
+de él cuanto antes!",
+  "1.0.65.0" => "¡El círculo mágico está listo! Tenemos que acabar
+con él de una vez por todas.",
+  "1.0.66.0" => "¡El círculo mágico está terminado! Debemos usar
+su magia para acabar con el dragón para siempre.",
+  "1.0.67.0" => "¿Es que no vais a hacer nada? ¡Usad el círculo
+mágico para acabar con él, rápido!",
+  "1.0.68.0" => "Estoy llegando al límite de mis fuerzas... ¡Rápido,
+usad el círculo mágico para derrotar al dragón!",
+  "1.0.69.0" => "Se ha vuelto a escapar... Si lo alcanzamos
+con nuestros ataques, podremos acabar con él.",
+  "1.0.70.0" => "¿Ha vuelto a escaparse?",
+  "1.0.71.0" => "Para derrotar al dragón, tenemos que conseguir
+que esté al alcance de nuestros ataques.",
+  "1.0.73.0" => "¡Ya es la tercera vez!",
+  "1.0.74.0" => "Es la tercera vez que ocurre. ¿Cuánto va a durar
+esta batalla?",
+  "1.0.75.0" => "Hemos hecho que se aleje, pero vuelve una y otra
+vez. ¡Es más pesado que una mosca!",
+  "1.0.76.0" => "Los ataques con el círculo mágico no han
+acabado con él. No sé qué más podemos hacer.",
+  "1.0.77.0" => "Hemos utilizado el círculo mágico, pero ha sido
+en vano. ¿Qué más podemos hacer?",
+  "1.0.78.0" => "¡La mariposa quiere decirnos algo!
+Creo que quiere llevarnos a algún sitio...",
+  "1.0.81.0" => "Sigamos a la mariposa hacia el sureste.
+Ahí es donde está la fuente del hada, ¿no?",
+  "1.0.82.0" => "Vayamos al sureste, adonde ha ido la mariposa.
+¡No tenemos más remedio que confiar en ella!",
+  "1.0.84.0" => "El círculo mágico de la fuente del hada debería
+de ayudarnos a acabar con el dragón.",
+  "1.0.85.0" => "Creo que el círculo mágico de la fuente del
+hada es justo lo que necesitábamos.",
+  "1.0.86.0" => "¡Atacad a la vez que Argorok! Haced que esta
+sea su última batalla.",
+  "1.0.87.0" => "Ahora solo nos queda la base. Si no la
+defendemos, todo estará perdido.",
+  "1.0.88.0" => "Lo único que queda en pie es la base.
+Si la perdemos, no habrá nada que hacer.",
+  "1.0.89.0" => "Están demasiado debilitados para contratacar.
+Poco a poco, acabaré con ellos.",
+  "1.0.90.0" => "Maldito Zant, cantando victoria antes de tiempo...",
+  "1.0.91.0" => "¡Me pone de los nervios! A ver qué le parece
+que capturemos uno de sus bastiones.",
+  "1.0.92.0" => "¡Viva!",
+  "1.0.93.0" => "¿Qué te ha parecido, Zant? La próxima vez
+será algo más que un simple bastión.",
+  "1.0.94.0" => "¿Lo ves? ¡Somos más fuertes
+de lo que pensabas!",
+  "1.0.95.0" => "¿Cómo osáis burlaros de mis tropas?",
+  "1.0.96.0" => "¡El círculo mágico ha hecho su trabajo!
+El dragón ha perdido mucha altura.",
+  "1.0.97.0" => "Ahora está al alcance de nuestros ataques.
+¡Aprovechemos para acabar con él!",
+  "1.0.98.0" => "Es increíble... ¡Han puesto en
+apuros al poderoso Argorok!",
+  "1.0.99.0" => "¡Tropas, preparaos! Dirigiré el ataque y
+os enseñaré cómo se gana una batalla.",
+  "1.0.100.0" => "El dragón está a nuestro alcance y Zant
+avanza. ¡Si vencemos a ambos, ganaremos!",
+  "1.0.101.0" => "Si logramos derrotar a Zant y al dragón, la
+victoria será nuestra. ¡Podemos hacerlo!",
+  "1.0.102.0" => "¡Canallas! ¿Cómo habéis podido
+vencer al Tirano de las Sombras?",
+  "1.0.103.0" => "La avaricia ha sido tu perdición. ¡Regresa a
+la oscuridad eterna!",
+  "1.0.104.0" => "La avaricia te ha corrompido, al igual que le
+ocurrió a Cya.",
+  "1.0.106.0" => "¡Por fin hemos ganado! Supongo que a la tercera
+va la vencida...",
+  "1.0.107.0" => "Al fin hemos logrado la victoria. ¡Buen trabajo!",
+  "1.0.108.0" => "¡Hemos vencido a Zant! ¡El Portal de las Almas
+estará desprotegido ahora!",
+  "1.0.109.0" => "Hemos derrotado a los poderosos enemigos;
+ahora podremos sellar el Portal de las Almas.",
+  "1.0.110.0" => "¡La base está en peligro! Tenemos que
+reforzar las defensas.",
+  "1.0.111.0" => "El enemigo está asediando la base,
+¡debéis defenderla!",
+  "1.0.112.0" => "Si la base cae, perderemos la batalla.
+¡Defendedla!",
+  "1.0.113.0" => "La base está a punto de caer. ¡Acudid
+a defenderla!",
+  "1.0.114.0" => "Os he fallado...",
+  "1.0.115.0" => "Nunca pensé que esto podría ocurrir...",
+  "1.0.117.0" => "La base ha caído... Todo nuestro trabajo
+no ha servido para nada.",
+  "1.0.118.0" => "Si hemos perdido la base, de poco sirve seguir
+luchando...",
+  "1.0.119.0" => "Nos hemos hecho con el bastión, pero la puerta
+sigue cerrada. ¿Cómo podemos avanzar?",
+  "1.0.120.0" => "El puente que utilizamos para llegar aquí
+ha caído. ¿Qué podemos hacer?",
+  "1.0.121.0" => "Midna, ¿conoces a ese enmascarado?",
+  "1.0.122.0" => "Se llama Zant. Es un usurpador que controla
+el Reino del Crepúsculo.",
+  "1.0.123.0" => "Ese lagarto ha dañado a nuestros aliados,
+¡pero no debemos dejar que nos detenga!",
+  "1.0.124.0" => "Vaya, parece que lo hemos conseguido...",
+  "1.0.125.0" => "¡Si alguien no hace algo, nuestra
+base caerá!",
+  "1.0.126.0" => "¡Venga, ahora es el momento de
+recuperar nuestros bastiones!",
+  "1.0.127.0" => "¡Debemos vencerlos para no
+perder terreno, así que adelante!",
+  "1.0.128.0" => "¿Eh? ¿Me lo decías a mí?
+¡Uy, entonces tendré que ayudar!",
+  "1.0.129.0" => "¡Qué insolencia! Su sola presencia
+me ofende, ¡así que acabad con ella!",
+  "1.0.130.0" => "¡Estoy muy contenta de haber
+podido ayudar!",
+  "1.0.131.0" => "Yo detendré al enemigo del oeste.
+¡Vosotros defended nuestra base!",
+  "1.0.132.0" => "¡Yo me ocuparé del enemigo que
+viene del centro!",
+  "1.0.133.0" => "¡Yo me ocuparé del dragón, así que
+enseñadle a Zant lo que es bueno!",
+  "1.0.134.0" => "Nos han servido la base en bandeja,
+¡así que, a por ella!",
+  "1.0.135.0" => "¡Necesito que alguien defienda
+nuestra base ahora mismo!",
+  "1.0.136.0" => "¡Ahora acabaremos con él!
+¡Reagrupaos cerca de Argorok!",
+  "1.0.137.0" => "¡Si no regresamos pronto,
+tomarán nuestra base!",
+  "13.0.0.0" => "El Portal de las Almas está en la parte
+trasera del palacio. ¡Vayamos a cerrarlo!",
+  "13.0.1.0" => "Me encargaré de defender la base, pero si las
+cosas se tuercen, necesitaré vuestra ayuda.",
+  "13.0.2.0" => "Vayamos primero al este para hacernos
+con los bastiones enemigos.",
+  "13.0.3.0" => "¡Rápido, a por los bastiones del este!",
+  "13.0.4.0" => "No pasa nada aunque los puentes hayan
+caído. ¡Debemos capturar el bastión!",
+  "13.0.5.0" => "¡Un cofre! Pues no le voy a decir que no...",
+  "13.0.6.0" => "¡Nos atacan desde el aire! ¿Qué hacemos?",
+  "13.0.7.0" => "Lo único que podemos hacer para derrotar
+a un dragón en pleno vuelo es usar la magia.",
+  "13.0.8.0" => "Crearé un círculo mágico debajo del dragón,
+pero tendréis que echarme una mano.",
+  "13.0.9.0" => "El enemigo me impide avanzar. ¡Ayudadme!",
+  "13.0.10.0" => "¿Estaréis bien sin mí en la vanguardia?",
+  "13.0.11.0" => "Ha aprovechado mi ausencia para atacar...
+¡Tengo que activar el círculo mágico como sea!",
+  "13.0.12.0" => "El círculo mágico está listo. ¡Usadlo para acabar
+con el dragón!",
+  "13.0.13.0" => "Si no hacemos nada, la base aliada caerá.
+¡Rápido, utilizad el círculo mágico!",
+  "13.0.14.0" => "¡Buen trabajo! Espero que no volvamos
+a ver a ese dragón...",
+  "13.0.15.0" => "¡Intentan llevarse a Maripola! No dejéis que
+se acerquen.",
+  "13.0.16.0" => "Se han llevado a Maripola... Seguro que los
+enemigos del este están más que contentos.",
+  "13.0.17.0" => "Podéis usar el círculo mágico para atacar al dragón
+si os hacéis con el bastión que está justo debajo.",
+  "13.0.18.0" => "Es el mismo plan que la otra vez...
+¡Contad conmigo!",
+  "13.0.19.0" => "Va otra vez a por la base...
+Tenemos que alejarlo, ¡y rápido!",
+  "13.0.20.0" => "El círculo mágico está listo. ¡Esta vez no
+puede escapar!",
+  "13.0.21.0" => "Nos queda poco tiempo... ¡Usad
+el círculo mágico para acabar con él!",
+  "13.0.22.0" => "¡El ataque mágico ha funcionado!
+El dragón ha perdido altitud.",
+  "13.0.23.0" => "Esta ya es la tercera vez... ¿Es que vamos
+a seguir así eternamente?",
+  "13.0.24.0" => "Lo hemos atacado con el círculo mágico pero no
+ha servido de nada... ¿Qué podemos hacer?",
+  "13.0.25.0" => "Vayamos al edificio del sureste que nos mostró
+la mariposa... Es nuestra última esperanza.",
+  "13.0.26.0" => "Puede que con el círculo mágico de la fuente
+del hada logremos vencer al dragón.",
+  "13.0.27.0" => "Solo nos queda la base, así que debemos
+protegerla cueste lo que cueste.",
+  "13.0.28.0" => "¡Bravo! Así se hace.",
+  "13.0.29.0" => "Si queremos salir victoriosos, tenemos que
+vencer al dragón y a Zant. ¡No es difícil!",
+  "13.0.30.0" => "Te has dejado llevar por tu ambición,
+al igual que Cya.",
+  "13.0.31.0" => "Al fin hemos terminado con él... ¡Buen trabajo!",
+  "13.0.32.0" => "¡Hemos acabado con ellos! Ya podemos cerrar
+el Portal de las Almas.",
+  "13.0.33.0" => "La base está a punto de caer en manos
+del enemigo. ¡Debéis defenderla!",
+  "13.0.34.0" => "¡Rápido, proteged la base antes de que caiga!",
+  "13.0.35.0" => "Me han derrotado...",
+  "13.0.36.0" => "De nada sirve seguir luchando;
+la base ha caído...",
+  "13.0.37.0" => "El dragón nos ha dañado en la base.
+¡Pero no podemos dejar que caiga!",
+  "13.0.38.0" => "Vaya, parece que nos hemos librado...",
+  "13.0.39.0" => "¡No! ¡Si seguimos así,
+nuestra base caerá!",
+  "13.0.40.0" => "Yo me ocuparé del dragón, ¡pero necesito
+que tú te ocupes de Zant!",
+  "13.0.41.0" => "¡Nuestra base no debe caer!
+¡Que alguien lo impida!",
+  "13.0.42.0" => "¡Si no volvemos pronto,
+tomarán nuestra base!",
+}

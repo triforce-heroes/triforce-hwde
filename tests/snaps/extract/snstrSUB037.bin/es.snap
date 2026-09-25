@@ -1,0 +1,14 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario "Duelo dinámico"!",
+  "0.1.0" => "¡A0%1sF0R y A0%2sF2R han aparecido!",
+  "0.2.0" => "¡A0%1sF0R se dirige hacia A0%2sF2R!",
+  "0.3.0" => "¡Vence A0%1sF4R y A0%2sF4R!",
+  "0.4.0" => "¡A0%1sF0R y A0%2sF2R se están fortaleciendo mutuamente!",
+  "0.5.0" => "¡Has vencido A0%1sF4R y A0%2sF4R!",
+  "0.6.0" => "¡Has vencido A0%1sF4R!",
+  "0.7.0" => "¡Vence A0%1sF4R que queda!",
+  "0.8.0" => "¡A0%1sF0R se ha hecho más fuerte y A0%2sF2R se ha debilitado!",
+  "0.9.0" => "¡A0%1sF0R ha percibido el peligro y sigue teniendo más fuerza!",
+  "0.10.0" => "¡A0%1sF0R no puede hacerse más fuerte!",
+  "0.11.0" => "¡A0%1sF0R se ha hecho más fuerte!",
+}

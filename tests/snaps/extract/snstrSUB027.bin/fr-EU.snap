@@ -1,0 +1,7 @@
+Map {
+  "0.1.0" => "A0%1sF4R et A0%2sF0R rejoignent le champ de bataille !",
+  "0.2.0" => "A0%1sF4R et A0%2sF0R, les chefs A0%3sF3R, avancent !",
+  "0.3.0" => "A0%1sF4R et A0%2sF0R se rapprochent du champ de bataille !",
+  "0.4.0" => "Éliminez A0%3sF0R avant l'arrivée de A0%1sF0R et A0%2sF0R !",
+  "0.5.0" => "A0%1sF4R demande des renforts !",
+}

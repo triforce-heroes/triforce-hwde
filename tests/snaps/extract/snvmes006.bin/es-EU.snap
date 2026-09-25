@@ -1,0 +1,145 @@
+Map {
+  "1.0.0.0" => "De modo que este es el mundo del Crepúsculo del
+que habla la leyenda...",
+  "1.0.1.0" => "La oscuridad nos rodea por todas partes; ni
+siquiera sé dónde está el Portal de las Almas.",
+  "1.0.2.0" => "Con esta oscuridad resulta imposible detectar a
+los monstruos. ¡Estad alerta!",
+  "1.0.4.0" => "¡Me he metido en un lío!",
+  "1.0.5.0" => "Alguien ha pedido ayuda, deberíamos ir a ver
+quién es.",
+  "1.0.6.0" => "¡Nooo! ¡Que alguien me ayude!",
+  "1.0.7.0" => "¡Aguanta un poco más, ya casi hemos llegado!",
+  "1.0.8.0" => "Los monstruos acechan en la oscuridad,
+¡no bajéis la guardia!",
+  "1.0.9.0" => "La cosa no pinta nada bien...",
+  "1.0.10.0" => "¡Rápido, a la aldea, antes de que sea demasiado
+tarde!",
+  "1.0.11.0" => "Vamos a necesitar la ayuda de esa niña para
+cruzar el Crepúsculo. ¡Tenemos que protegerla!",
+  "1.0.13.0" => "La mariposa dice que es por aquí, ¡vamos!",
+  "1.0.14.0" => "Las puertas están cerradas. ¡Yo me encargaré
+de ellas!",
+  "1.0.15.0" => "Unas termitas me enseñaron una vez cómo
+abrir puertas.",
+  "1.0.17.0" => "La mariposa está asustada. Quizá deberíamos
+alejar la oscuridad que envuelve el bastión.",
+  "1.0.19.0" => "Si acabamos con el malo, la mariposa podrá
+seguir su camino.",
+  "1.0.20.0" => "¡La mariposa está contenta! Ya puede seguir
+volando.",
+  "1.0.21.0" => "Esos monstruos traman algo. Diría que van a
+intentar colarse en nuestra base.",
+  "1.0.22.0" => "Yo me ocuparé de esa bruja oscura.
+¡Vamos, detenedlos!",
+  "1.0.23.0" => "La gatita ha asustado a la mariposa y se ha
+marchado volando... Jo.",
+  "1.0.24.0" => "Debo recuperar la mariposa. Maripola, no estás a
+salvo aquí, vuelve a la aldea.",
+  "1.0.25.0" => "Vale, pero... ¡cuida de la mariposa!",
+  "1.0.26.0" => "¿Qué os pasa? ¿Queréis jugar un rato?",
+  "1.0.27.0" => "¿Qué tal si jugáis de momento
+con mis amiguitos?",
+  "1.0.28.0" => "¡Los aliados retroceden! Si tomamos los
+bastiones enemigos, no enviarán refuerzos.",
+  "1.0.29.0" => "¡Están atacando la base! Debemos defenderla.",
+  "1.0.31.0" => "¡Bienvenidos al reino de la oscuridad!
+Aunque no tengo tiempo para vosotros.",
+  "1.0.32.0" => "¡Por fin te encuentro! ¡Ya es hora de que me
+liberes de la maldición!",
+  "1.0.33.0" => "¡Ha escapado porque te has interpuesto en mi
+camino! ¿Estáis compinchadas?",
+  "1.0.34.0" => "No somos tus enemigos. Pero lo que importa
+ahora es que me devuelvas la mariposa.",
+  "1.0.35.0" => "¡Cállate, ahora no quiero!",
+  "1.0.36.0" => "No nos dejas alternativa. Lucharemos y si pierdes
+nos devolverás la mariposa, ¿vale?",
+  "1.0.37.0" => "Esta chica es peligrosa. Quizá tengamos
+problemas para vencerla.",
+  "1.0.38.0" => "Las zonas crepusculares me fortalecen. ¡No
+en vano pertenezco al pueblo de las sombras!",
+  "1.0.39.0" => "¿Has sido tú quien ha creado el Crepúsculo?
+¿Acaso querías llenar el mundo de monstruos?",
+  "1.0.40.0" => "Puede que no lo parezca, pero soy la princesa
+del Crepúsculo.",
+  "1.0.41.0" => "Quizás si capturamos los bastiones del
+Crepúsculo, sus fuerzas se debiliten.",
+  "1.0.42.0" => "No puedo quedarme de brazos cruzados,
+¡tengo que recuperar mi mariposa!",
+  "1.0.44.0" => "Y eso que le dije que se quedase en la aldea...
+En fin, tampoco podemos dejarla sola.",
+  "1.0.45.0" => "De repente me noto más débil... El poder
+del Crepúsculo está disminuyendo.",
+  "1.0.46.0" => "Tal y como pensaba. Si seguimos debilitando el
+Crepúsculo, se quedará sin fuerzas.",
+  "1.0.47.0" => "Vaya, el Crepúsculo ha desaparecido...
+Un plan muy elaborado.",
+  "1.0.48.0" => "Me retiraré por el momento, quizás así
+consiga un poco más de tiempo.",
+  "1.0.49.0" => "¡La gatita se escapa! Tenemos que ir tras ella
+para recuperar la mariposa.",
+  "1.0.50.0" => "No hay manera de que me dejéis en paz, ¿eh?
+Vale, entonces lucharemos.",
+  "1.0.51.0" => "Me habéis ganado... Muy bien, haced conmigo
+lo que queráis.",
+  "1.0.52.0" => "Nunca pensé que podría perder mientras contase
+con la fuerza del Crepúsculo.",
+  "1.0.53.0" => "Porfi, ¿podrías devolverme la mariposa?",
+  "1.0.54.0" => "Quédate la mariposa, venga. Entonces...
+¿no estáis aliadas con la bruja?",
+  "1.0.55.0" => "No, solo queremos detenerla. Pero para eso
+tenemos que llegar al Portal de las Almas.",
+  "1.0.56.0" => "Esperad, iré con vosotras. Tengo un asunto que
+arreglar con ella.",
+  "1.0.58.0" => "La base aliada ha caído... Todo está perdido...",
+  "1.0.59.0" => "No puedo moverme...",
+  "1.0.60.0" => "Siento mucho no haber podido salvarte...",
+  "1.0.61.0" => "Me he hecho pupa, ¡ay!",
+  "1.0.62.0" => "Siento no haber podido salvarte...",
+  "1.0.63.0" => "¡Quita de en medio! Tengo una cuenta pendiente
+con esa hechicera oscura.",
+  "1.0.64.0" => "Qué buen aspecto tienes. Pero ahora mismo
+tengo que marcharme.",
+  "1.0.65.0" => "No puedo moverme...",
+  "1.0.66.0" => "¡No! ¡Ayudadme!",
+  "1.0.67.0" => "Así que me habéis seguido hasta aquí.
+¡Pues divirtámonos un rato!",
+  "1.0.68.0" => "Parece que el bastión central se ha
+abierto. Percibo algo raro, ¡cuidado!",
+  "1.0.69.0" => "Es difícil luchar con esta oscuridad.
+¡Debemos disiparla como sea!",
+  "1.0.70.0" => "Este monstruo es diferente... ¡Quizá la
+oscuridad desaparezca si lo vencemos!",
+  "1.0.71.0" => "¡Parece que si tomamos un bastión en
+el Crepúsculo, se disipa la oscuridad!",
+  "1.0.72.0" => "¡Entonces debemos tomar todos
+los bastiones que podamos!",
+  "1.0.73.0" => "No voy a entregar la mariposa tan
+fácilmente. ¡Contened a esa chica!",
+  "1.0.74.0" => "No te preocupes, Maripola, yo recuperaré
+tu mariposa. ¡Espera en la aldea!",
+  "1.0.75.0" => "¡Muchas gracias por tu amabilidad!
+Eso haré entonces.",
+  "1.0.76.0" => "Aún no tengo suficiente poder...
+¡Aumentaré el del Crepúsculo!",
+  "1.0.77.0" => "¡Cuanto más se extienda el Crepúsculo,
+más poderosa será!",
+  "1.0.78.0" => "¡Entonces tenemos que frenar a los
+enemigos que van hacia los bastiones!",
+  "1.0.79.0" => "¡Bien! ¡Al fin podremos
+descansar un poco!",
+  "1.0.80.0" => "Bueno, ahora creo que podemos
+relajarnos un poco.",
+  "13.0.0.0" => "¡Id al pueblo, nosotros nos ocuparemos del resto!",
+  "13.0.1.0" => "Veréis... Creo que la mariposa ha desaparecido.",
+  "13.0.2.0" => "No nos queda más remedio que obligarla
+a que nos devuelva la mariposa.",
+  "13.0.3.0" => "La gatita es mucho más fuerte de lo que parece;
+¡tened mucho cuidado!",
+  "13.0.4.0" => "La oscuridad baña también el interior del
+bastión. ¿Será parte del Crepúsculo?",
+  "13.0.5.0" => "Este enemigo parece distinto. Quizá si lo
+derrotamos logremos alejar la oscuridad.",
+  "13.0.6.0" => "¿Dónde estará el Portal de las Almas?",
+  "13.0.7.0" => "Alguien ha pedido ayuda... ¡Vayamos a ver!",
+}

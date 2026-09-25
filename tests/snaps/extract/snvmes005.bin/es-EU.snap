@@ -1,0 +1,175 @@
+Map {
+  "1.0.0.0" => "Que alguien me libre de estos asquerosos
+mortales.",
+  "1.0.1.0" => "La princesa nunca sería capaz de atacarnos...",
+  "1.0.2.0" => "Debemos averiguar qué ha ocurrido. Además,
+el Portal de las Almas estará donde ella está.",
+  "1.0.4.0" => "¡Ayudadme!",
+  "1.0.6.0" => "La princesa Ruto es la única que sabe cómo
+entrar al templo. Es necesario protegerla.",
+  "1.0.7.0" => "Primero iremos a por los enemigos de esta zona.
+Si rodeamos el risco del norte, ¡los atraparemos!",
+  "1.0.10.0" => "¿Pretendes realizar un ataque frontal?
+Vaya majadería.",
+  "1.0.13.0" => "¡Soldados de Hyrule! Dejad las armas y seguid
+mis órdenes.",
+  "1.0.15.0" => "Primero los ataques y ahora esto... ¡Esa no
+puede ser la princesa Zelda!",
+  "1.0.16.0" => "¡Gracias por venir! Para entrar en el Templo del
+Agua, debemos abrir las compuertas. ¡Seguidme!",
+  "1.0.17.0" => "No sé quién se está haciendo pasar por la
+princesa, ¡pero lo averiguaré!",
+  "1.0.18.0" => "Si usamos el Espejo de la Verdad que hay
+en el templo, lograremos descubrir quién es.",
+  "1.0.19.0" => "¡Soldados de Hyrule, prestad atención!
+No os acerquéis al templo.",
+  "1.0.21.0" => "¡No os dejéis engañar! No hagáis caso de nada
+de lo que dice.",
+  "1.0.22.0" => "¡El enemigo viene por aquí!",
+  "1.0.23.0" => "Iré a ayudar a los aliados; tú encárgate de
+las compuertas.",
+  "1.0.24.0" => "¡Las compuertas se han abierto! Ahora podremos
+entrar en el Templo del Agua.",
+  "1.0.25.0" => "¡Así se hace! Venga, al Templo del Agua.",
+  "1.0.26.0" => "Me sumergiré para encontrar el Espejo de la
+Verdad. Nos veremos más tarde.",
+  "1.0.27.0" => "¡Vamos nosotros también!",
+  "1.0.28.0" => "Entrar no ha sido complicado; ahora solo debo
+averiguar dónde está el espejo.",
+  "1.0.29.0" => "¡Lo he encontrado! Se dice que en su superficie
+se refleja la verdadera naturaleza de las cosas.",
+  "1.0.30.0" => "Me imaginaba que me encontrarían... Ahora
+estoy atrapada.",
+  "1.0.31.0" => "Vuestra amiguita está en mi poder. Si queréis verla
+de nuevo, ¡deponed las armas!",
+  "1.0.33.0" => "¿Qué clase de cobarde secuestra a la gente?
+Te pareces a Zelda, pero solo físicamente.",
+  "1.0.34.0" => "¡Tranquilos! He encontrado
+el Espejo de la Verdad.",
+  "1.0.35.0" => "De poco sirve si no podemos usarlo...",
+  "1.0.36.0" => "¡Abrid las compuertas del templo! Si se
+retiran las aguas, las puertas se abrirán.",
+  "1.0.38.0" => "Yo buscaré por la zona este; vosotros id por
+la oeste.",
+  "1.0.39.0" => "¡Hay demasiados enemigos! Es duro incluso
+para alguien como yo.",
+  "1.0.40.0" => "¡Estoy bien! Volved al templo y localizad
+el interruptor que abre las compuertas.",
+  "1.0.41.0" => "Al abrir la compuerta, las aguas
+se han retirado.",
+  "1.0.42.0" => "¡Aún queda agua! Abrid
+la otra compuerta.",
+  "1.0.43.0" => "¡Lo habéis conseguido! Por fin podremos salir
+de aquí.",
+  "1.0.44.0" => "¡Id a ayudar a Ruto!",
+  "1.0.45.0" => "Me noto fatigada... Será mejor que os encarguéis
+del resto. ¡Suerte!",
+  "1.0.46.0" => "¿Qué ha ocurrido? La pared ha desaparecido y
+ha dejado al descubierto un pasadizo.",
+  "1.0.47.0" => "¿Cómo has podido anular mi hechizo?
+Bien, no me dejas alternativa...",
+  "1.0.48.0" => "Aproxímate, mi leal sirviente.
+¡Rey dodongo, aniquila a estos borregos!",
+  "1.0.49.0" => "Conque esas tenemos, ¿eh? ¡Nos ocuparemos
+de él! Los demás id a esconderos al bastión.",
+  "1.0.50.0" => "Si no echo una mano, no podremos ganar.
+¡Yo me encargaré de ti!",
+  "1.0.51.0" => "¡Qué insolente! ¿Cómo te atreves a desafiar
+a la princesa de Hyrule?",
+  "1.0.52.0" => "¡Cállate, impostora! ¡Muéstranos quién eres!",
+  "1.0.53.0" => "Solo un monstruo sería capaz de invocar seres
+como estos. ¡Eso es lo que es, un monstruo!",
+  "1.0.54.0" => "¡Debemos defender este bastión!",
+  "1.0.55.0" => "¡Bien hecho! Ahora solo nos queda derrotar
+a esa Zelda de pacotilla.",
+  "1.0.56.0" => "¡Me han dado! Perdonadme...",
+  "1.0.57.0" => "Estoy herida... No puedo seguir luchando.",
+  "1.0.58.0" => "Sin Ruto no lograremos atravesar el templo.",
+  "1.0.59.0" => "¿No habrá por aquí ningún héroe que me salve?",
+  "1.0.60.0" => "¡Ayúdame, rápido!",
+  "1.0.61.0" => "Abrid las compuertas del interior del templo, y así
+podréis llegar hasta mí.",
+  "1.0.62.0" => "Debéis localizar todos los bastiones que tengan
+interruptores que controlan las compuertas.",
+  "1.0.63.0" => "Los ánimos están por los suelos-goro...",
+  "1.0.64.0" => "¡Muy bien! Pero antes de poder abrir las
+compuertas, alguien necesita ayuda.",
+  "1.0.65.0" => "¡Estoy salvado! ¡Muchas gracias!
+¡Ahora, ayudad a Ruto!",
+  "1.0.66.0" => "Estoy salvado. ¡Gracias por la ayuda!",
+  "1.0.67.0" => "¡Ya está todo preparado!
+¡Abrid las compuertas!",
+  "1.0.68.0" => "¡Rápido! ¡Debemos darnos prisa
+en ayudar a Ruto!",
+  "1.0.69.0" => "¡Ahora es el momento de dar una lección
+a nuestros enemigos en el templo!",
+  "1.0.70.0" => "No podemos dejar que entren en el templo.
+¡Nos separaremos para detenerlos!",
+  "1.0.71.0" => "¡Vaya, por los pelos!",
+  "1.0.72.0" => "¡El enemigo nos está superando!",
+  "1.0.73.0" => "¡Eh, no os olvidéis de mí!
+¡Aún necesito ayuda!",
+  "1.0.74.0" => "Quedan pocos monstruos. Si los
+vencemos, ¡nuestros enemigos vacilarán!",
+  "1.0.75.0" => "¿Han vencido al rey dodongo?
+¡Atacad, mis sirvientes!",
+  "1.0.76.0" => "El enemigo está desconcertado.
+¡Es el momento de atacar!",
+  "1.0.77.0" => "Me han vencido...",
+  "1.0.78.0" => "¡Tenemos que aunar fuerzas para
+hacer huir a este monstruo!",
+  "13.0.0.0" => "La princesa Ruto es la única que sabe cómo
+entrar en el templo. ¡Debemos defenderla!",
+  "13.0.1.0" => "Iré a ayudar a nuestros aliados. Mientras tanto,
+tratad de abrir las compuertas.",
+  "13.0.2.0" => "¡Se trataba de una impostora! Debemos
+averiguar quién es en realidad.",
+  "13.0.3.0" => "Yo rastrearé la zona este, vosotros ocupaos
+del oeste.",
+  "13.0.4.0" => "Sigue haciéndose llamar princesa...",
+  "13.0.5.0" => "El enemigo viene hacia aquí...",
+  "13.0.6.0" => "Buen trabajo. Entremos en el Templo del Agua.",
+  "13.0.7.0" => "¡Vamos!",
+  "13.0.8.0" => "Nos atacan... ¡Tenemos que hacer algo!",
+  "13.0.9.0" => "Estaré bien, lo importante ahora es
+abrir todas las compuertas. ¡Rápido!",
+  "13.0.10.0" => "Qué curioso; el agua se ha retirado ligeramente.",
+  "13.0.11.0" => "Ya podemos salvar a la princesa Ruto.",
+  "13.0.12.0" => "Tenemos que interceptarlos en este bastión.",
+  "13.0.13.0" => "¡Despejado! Ahora solo queda lidiar con
+la impostora.",
+  "13.0.14.0" => "Lo siento...",
+  "13.0.15.0" => "Sea como sea, el camino está despejado.",
+  "13.0.16.0" => "Es demasiado fuerte... ¡Retirémonos al bastión!",
+  "13.0.17.0" => "Si la impostora ha invocado a ese monstruo,
+creo que ya sé de quién se trata.",
+  "13.0.18.0" => "No tiene sentido seguir adelante sin Ruto...",
+  "13.0.19.0" => "Acabemos con el enemigo de esta zona.
+¡Atacad desde el acantilado norte!",
+  "13.0.20.0" => "Gracias por la ayuda. Yo ya estoy bien,
+¡así que ayuda a Ruto, por favor!",
+  "13.0.21.0" => "Gracias por la ayuda.
+¡Estoy perfectamente!",
+  "13.0.22.0" => "Tenemos que pararlos como sea.",
+  "13.0.23.0" => "¡El enemigo nos supera!",
+  "13.0.24.0" => "¡Ya lo tengo! Si unimos fuerzas,
+podremos acabar con ese monstruo.",
+  "13.0.25.0" => "Creo que no he sido consciente
+de la fuerza que tienen...",
+  "13.0.35.0" => "No tiene sentido seguir adelante sin Ruto...",
+  "13.0.36.0" => "Acabemos con el enemigo de esta zona.
+¡Atacad desde el acantilado norte!",
+  "13.0.37.0" => "Gracias por la ayuda. Yo ya estoy bien,
+¡así que ayuda a Ruto, por favor!",
+  "13.0.38.0" => "Gracias por la ayuda.
+¡Estoy perfectamente!",
+  "13.0.39.0" => "Tenemos que pararlos como sea.",
+  "13.0.40.0" => "¡El enemigo nos supera!",
+  "13.0.41.0" => "¡Ya lo tengo! Si unimos fuerzas,
+podremos acabar con ese monstruo.",
+  "13.0.42.0" => "Creo que no he sido consciente
+de la fuerza que tienen...",
+  "13.0.52.0" => "No podemos seguir luchando sin la princesa Ruto.",
+  "13.0.53.0" => "Acabemos con los enemigos de esta zona primero.
+Luego rodearemos el acantilado norte.",
+}

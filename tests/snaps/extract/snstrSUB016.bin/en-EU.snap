@@ -1,0 +1,8 @@
+Map {
+  "0.1.0" => "A A2SummonerR has appeared on the battlefield!",
+  "0.2.0" => "The A2SummonerR has summoned A0%2sF3R near A0%1sF4R!",
+  "0.3.0" => "Defeat the A2SummonerR immediately to stop more reinforcements!",
+  "0.4.0" => "The A2SummonerR has left the battlefield!",
+  "0.5.0" => "You defeated the A2SummonerR!",
+  "0.6.0" => "The A2SummonerR has called forth more A0%1sF3R!",
+}

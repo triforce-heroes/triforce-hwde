@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Prepare to inspire your troops!",
+  "0.1.0" => "A0%1sF1R have lost morale because they're badly losing to A0%2sF1R!",
+  "0.2.0" => "Defeat A0%1sF3R to inspire A0%2sF3R!",
+  "0.3.0" => "The entirety of A0%1sF5R stopped advancing!",
+  "0.4.0" => "A faction of A0%1sF5R was inspired by A0%2sF4R's struggle and gained morale!",
+  "0.5.0" => "Defeat more A0%1sF3R to inspire A0%2sF3R!",
+  "0.6.0" => "All A0%1sF1R have gained morale!",
+  "0.7.0" => "You inspired A0%1sF5R!",
+  "0.8.0" => "A faction of A0%1sF5R is advancing again!",
+}

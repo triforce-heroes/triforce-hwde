@@ -1,0 +1,16 @@
+Map {
+  "0.1.0" => "A0%1sF7R rejoignent le champ de bataille ! Ils sont deux !",
+  "0.2.0" => "A0%1sF4R sabote un A1fort alliéR !",
+  "0.3.0" => "Éliminez A0%1sF1R !",
+  "0.4.0" => "A0%1sF5R avancent vers les A1forts alliésR pour les saboter !",
+  "0.5.0" => "A0%1sF4R a réussi à saboter le fort !",
+  "0.6.0" => "A0%1sF4R a réduit de moitié la résistance du A1fort alliéR !",
+  "0.7.0" => "Vous avez empêché le sabotage des forts !",
+  "0.8.0" => "A0%1sF4R a été repéré en train de saboter un fort !",
+  "0.9.0" => "Éliminez A0%1sF0R au plus vite !",
+  "0.10.0" => "A0%1sF4R est K.-O. !",
+  "0.11.0" => "A0%1sF4R quitte le champ de bataille !",
+  "0.12.0" => "Il reste A0%1sF2R, éliminez-le !",
+  "0.13.0" => "A0%1sF6R a pénétré dans un A1fort alliéR !",
+  "0.14.0" => "A0%1sF6R commence à saboter A1un fort alliéR !",
+}

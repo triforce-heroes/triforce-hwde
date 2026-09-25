@@ -1,0 +1,321 @@
+Map {
+  "1.0.0.0" => "Si no recuperamos el poder mágico, la
+oscuridad se cernirá sobre el mundo...",
+  "1.0.1.0" => "Pero Ganon fantasma ha dispersado a
+nuestras tropas. ¡Es muy poderoso!",
+  "1.0.2.0" => "A menos que le paremos los pies,
+los rayos no cesarán.",
+  "1.0.3.0" => "En los templos se halla el poder de
+los Sabios. Su luz nos ayudará.",
+  "1.0.4.0" => "Está usando de nuevo el poder mágico
+para hacerse aún más fuerte...",
+  "1.0.5.0" => "Debemos capturar los bastiones de los
+Sabios para librarnos de los rayos.",
+  "1.0.6.0" => "Creo que ese extraño símbolo indica que
+se trata de un bastión de los Sabios.",
+  "1.0.7.0" => "El bastión es nuestro, pero no se abre.
+¡Así no lograremos llegar hasta Cya!",
+  "1.0.8.0" => "Me atrevería a decir que se debe
+a la magia de Ganon fantasma.",
+  "1.0.9.0" => "Debemos conquistar todos los bastiones
+para acabar con el poder mágico.",
+  "1.0.10.0" => "¡Ya tenemos la mitad de los bastiones!
+Debemos seguir luchando.",
+  "1.0.11.0" => "Es necesario defender los bastiones que
+capturemos. ¡No podemos perderlos!",
+  "1.0.12.0" => "El camino está bloqueado. ¡Así no
+podremos llegar al bastión de los Sabios!",
+  "1.0.13.0" => "Seguro que ocurrirá algo si pulsamos
+ese interruptor...",
+  "1.0.14.0" => "¡Buen trabajo! Ahora podremos
+seguir avanzando.",
+  "1.0.15.0" => "Debo llegar al bastión de los Sabios. Ahí
+hay un interruptor que podría ser útil.",
+  "1.0.16.0" => "¡Impresionante! Los árboles
+han crecido al instante.",
+  "1.0.17.0" => "El enemigo podría conseguir refuerzos con
+la nueva ruta. ¡Debemos impedirlo!",
+  "1.0.18.0" => "Si hubiésemos frenado a ese mensajero,
+ahora no habría tantos enemigos...",
+  "1.0.19.0" => "Hemos impedido que el enemigo
+obtenga refuerzos. ¡Perfecto!",
+  "1.0.20.0" => "El plan ha funcionado: los bastiones de
+los Sabios están debilitando su magia.",
+  "1.0.21.0" => "¡Aguanta, Cya! Estamos de camino.",
+  "1.0.22.0" => "Los monstruos se están haciendo más
+fuertes... ¡Cya necesita ayuda!",
+  "1.0.23.0" => "Si conectamos los caminos, el enemigo
+podría atacar desde arriba.",
+  "1.0.24.0" => "Los bastiones cercanos están
+a rebosar de enemigos...",
+  "1.0.25.0" => "Si conectamos los caminos, puede
+que el enemigo ataque desde arriba.",
+  "1.0.26.0" => "En los bastiones cercanos también
+se ocultan numerosos enemigos.",
+  "1.0.27.0" => "¡Cuidado, Link! ¡Han aparecido
+dos monstruos enormes!",
+  "1.0.28.0" => "Puede que vayan a por los bastiones
+de los Sabios. ¡Y no podemos perderlos!",
+  "1.0.29.0" => "Para evitar que vuelvan a caer rayos,
+debemos conservar los bastiones.",
+  "1.0.30.0" => "Ya nada se puede hacer para
+conservar los bastiones...",
+  "1.0.31.0" => "Si perdemos los bastiones de los Sabios,
+volverán a caer rayos.",
+  "1.0.32.0" => "Debemos hacer algo para impedir que
+los bastiones de los Sabios caigan.",
+  "1.0.33.0" => "Como perdamos los bastiones, volverán
+a caer rayos por todas partes.",
+  "1.0.34.0" => "Los bastiones de los Sabios
+no aguantarán mucho más...",
+  "1.0.35.0" => "¡Si perdemos los bastiones, tendremos
+que sufrir los rayos de nuevo!",
+  "1.0.36.0" => "Los bastiones están a punto de caer.
+¡Debemos hacer algo!",
+  "1.0.37.0" => "Cya no puede ocuparse de todo sola.
+¡Debemos vencerlos cuanto antes!",
+  "1.0.38.0" => "Los monstruos se han puesto en marcha.
+¡Debemos ayudar a Cya pronto!",
+  "1.0.39.0" => "Ay, si aún dispusiese de mi verdadero
+poder mágico...",
+  "1.0.40.0" => "Gracias por la ayuda...",
+  "1.0.41.0" => "¡Al fin ha caído, Link!",
+  "1.0.42.0" => "La cosa no pinta bien. ¡Tenemos que
+eliminarlos para conservar los bastiones!",
+  "1.0.43.0" => "Debemos unir fuerzas para frenarlos.
+¡Defended la base y los bastiones!",
+  "1.0.44.0" => "Ahora que todos los caminos están
+conectados, podemos ir hasta Cya.",
+  "1.0.45.0" => "Debemos recuperar el control de todos
+los bastiones para frenar los rayos.",
+  "1.0.46.0" => "Hemos mermado las filas enemigas.
+¡Recuperad los bastiones ahora!",
+  "1.0.47.0" => "Él es la causa de todos los problemas.
+¿De dónde provendrá su poder mágico?",
+  "1.0.48.0" => "Se trata del poder que me arrebató.
+¡Por eso soy la única que puede pararlo!",
+  "1.0.49.0" => "¡Debéis ayudar todos a Cya!",
+  "1.0.50.0" => "¡Eso está hecho!",
+  "1.0.51.0" => "¡Sin demora!",
+  "1.0.52.0" => "¡Aunemos fuerzas para derrotarlo!",
+  "1.0.53.0" => "La única forma de vencerlo
+es atacar todos juntos.",
+  "1.0.54.0" => "Ya estamos todos. ¡Es el momento
+de atacar, Cya!",
+  "1.0.55.0" => "¡Entonces, al ataque!",
+  "1.0.56.0" => "Es la causa de todos nuestros males. Y
+además se está haciendo aún más fuerte.",
+  "1.0.57.0" => "Nosotros nos encargaremos.
+¡La victoria será nuestra!",
+  "1.0.58.0" => "Ha llegado el momento de la verdad.
+¡Dale duro a ese maldito!",
+  "1.0.59.0" => "Nuestro enemigo es poderoso,
+pero no debemos temer.",
+  "1.0.60.0" => "¡A por él! Debemos recuperar
+la paz, sea como sea.",
+  "1.0.61.0" => "Está atacando de forma distinta.
+¡Andaos con mucho cuidado!",
+  "1.0.62.0" => "Todo rival tiene un punto débil,
+solo tenemos que dar con él.",
+  "1.0.63.0" => "Si juntamos nuestras fuerzas,
+¡lograremos ganar!",
+  "1.0.64.0" => "¡Un último esfuerzo y lograremos salvar
+la Trifuerza y que Cya se recupere!",
+  "1.0.65.0" => "¡Por eso debemos ganar
+esta batalla a toda costa!",
+  "1.0.66.0" => "Siento no haber sido de más ayuda...",
+  "1.0.67.0" => "Si conquistamos los bastiones de los
+Sabios, podremos contener al enemigo.",
+  "1.0.68.0" => "Nos ocuparemos del enemigo de arriba.
+¡Después conectad vosotros los caminos!",
+  "1.0.69.0" => "Me encargaré de los enemigos de arriba.
+Luego podréis conectar los caminos.",
+  "1.0.70.0" => "¡Lana, reúne a los demás! Necesitaremos
+todo el poder con el que podamos contar.",
+  "1.0.71.0" => "¡Fuera de nuestro camino!
+Debemos llegar hasta Cya.",
+  "1.0.72.0" => "¡Fuera de mi vista! Tengo que
+llegar hasta Cya cuanto antes.",
+  "1.0.73.0" => "¡Fuera de aquí! Debo llegar hasta
+Cya como sea.",
+  "1.0.74.0" => "¡Fuera! No puedo perder el tiempo
+ahora, debo llegar hasta Cya.",
+  "1.0.75.0" => "Hay un extraño diseño en el interior.
+¿Será un bastión de los Sabios?",
+  "1.0.76.0" => "Hay una especie de diseño raro...
+Será un bastión de los Sabios, ¿no?",
+  "1.0.77.0" => "Ese extraño diseño quizá indique que
+se trata de un bastión de los Sabios.",
+  "1.0.78.0" => "Para llegar hasta Cya debemos conectar
+los caminos con los interruptores.",
+  "1.0.79.0" => "Creo que tenemos que conectar
+los caminos para llegar hasta Cya.",
+  "1.0.80.0" => "¡La base! Estamos perdidos...",
+  "1.0.81.0" => "Deberíamos reunirnos cerca
+del monstruo...",
+  "1.0.82.0" => "¡Contratacad sin miedo! Sin duda
+encontraremos el camino a la victoria.",
+  "1.0.83.0" => "Si no hacemos algo, perderemos a Cya.
+¡Debemos protegerla!",
+  "1.0.84.0" => "¡Solo falta un bastión de los Sabios!
+Debemos llegar hasta Cya cuanto antes.",
+  "1.0.85.0" => "Las estatuas han desaparecido cuando
+les ha dado la luz. Qué raro...",
+  "1.0.86.0" => "Me valdré del gancho
+para llegar más alto.",
+  "1.0.87.0" => "Usaré el gancho para llegar
+ahí arriba en un periquete.",
+  "1.0.88.0" => "¿Alguien sabe cómo podríamos abrir
+la puerta de este corredor?",
+  "1.0.89.0" => "Hay una puerta en el medio, pero no
+sé cómo podemos abrirla.",
+  "1.0.90.0" => "Si pudiésemos hacer algo con esa puerta,
+luego podríamos reunirnos en un pispás.",
+  "1.0.91.0" => "Si logramos abrir la puerta, seremos
+capaces de reunirnos.",
+  "1.0.92.0" => "¡Bravo! ¡La puerta se ha abierto!",
+  "1.0.93.0" => "¡Bien! Se ha abierto la puerta.",
+  "1.0.94.0" => "¿La puerta se ha abierto? ¡Estupendo!",
+  "1.0.95.0" => "¡Magnífico! Hemos logrado
+abrir la puerta.",
+  "1.0.96.0" => "Ganon fantasma está aprovechando
+el momento para acumular magia...",
+  "1.0.97.0" => "Saldrá de la base si acabamos con sus
+esbirros y acumulamos poder de luz.",
+  "1.0.98.0" => "¡Venzamos a los monstruos
+para proteger a Cya!",
+  "1.0.99.0" => "¡Cuidado! Ganon fantasma se acerca.",
+  "13.0.0.0" => "¡Mira, Link! ¡Parece que al lado de
+las estatuas hay un interruptor!",
+  "13.0.1.0" => "¡Debemos llegar al bastión de los Sabios!
+Quizá ese interruptor sirva de algo...",
+  "13.0.2.0" => "¡Increíble! ¡Los árboles
+han crecido en un segundo!",
+  "13.0.3.0" => "Si conectamos los caminos, el enemigo
+podrá pasar. ¡Evita que pidan refuerzos!",
+  "13.0.4.0" => "No hemos llegado a tiempo... ¡Hay más
+enemigos en el bastión de los Sabios!",
+  "13.0.5.0" => "Ahora ya no tendremos que preocuparnos
+de que aumente el número de enemigos.",
+  "13.0.6.0" => "Está reforzando a los monstruos. ¡Hay
+que ayudar a Cya antes de que sea tarde!",
+  "13.0.7.0" => "Si conectamos los caminos, podrán ir
+a por la base o los bastiones...",
+  "13.0.8.0" => "¡Hay muchos enemigos en
+los bastiones cercanos!",
+  "13.0.9.0" => "Si conectamos los caminos, el enemigo
+podrá ir a por la base o los bastiones...",
+  "13.0.10.0" => "¡Hay muchos enemigos en los bastiones
+cercanos, Link!",
+  "13.0.11.0" => "¡Han aparecido dos enormes monstruos!",
+  "13.0.12.0" => "¡Si toman los bastiones,
+caerán más rayos!",
+  "13.0.13.0" => "¡Tenemos que hacer algo! Si seguimos
+así, tomarán los bastiones...",
+  "13.0.14.0" => "¡Si toman los bastiones,
+caerán más rayos!",
+  "13.0.15.0" => "¡Si no hacemos algo pronto,
+tomarán los bastiones!",
+  "13.0.16.0" => "¡Si toman los bastiones,
+caerán más rayos!",
+  "13.0.17.0" => "¡Tenemos que actuar rápido para
+evitar que tomen los bastiones!",
+  "13.0.18.0" => "¡Si toman los bastiones de los Sabios,
+caerán más rayos!",
+  "13.0.19.0" => "No podemos continuar defendiendo
+los bastiones de los Sabios...",
+  "13.0.20.0" => "¡Si toman los bastiones de los Sabios,
+volverán a caer rayos!",
+  "13.0.21.0" => "¡Si no hacemos algo, tomarán
+los bastiones de los Sabios!",
+  "13.0.22.0" => "¡Si dejamos que tomen los bastiones de
+los Sabios, caerán más rayos!",
+  "13.0.23.0" => "La cosa se complica... ¡Los bastiones de
+los Sabios no aguantarán mucho más!",
+  "13.0.24.0" => "¡Tenemos que derrotarlos!
+¡Cya no aguantará mucho más!",
+  "13.0.25.0" => "¡Los monstruos avanzan! ¡Debemos ayudar
+a Cya antes de que sea demasiado tarde!",
+  "13.0.26.0" => "¡Muy bien! ¡Hemos derrotado a un
+monstruo enorme!",
+  "13.0.27.0" => "Hay un extraño símbolo en el interior...
+¡Seguro que es un bastión de los Sabios!",
+  "13.0.28.0" => "Veo un extraño símbolo en el interior.
+¡Seguro que es un bastión de los Sabios!",
+  "13.0.29.0" => "Hay un extraño símbolo en el interior...
+Seguro que es un bastión de los Sabios.",
+  "13.0.30.0" => "¡Hay un extraño símbolo en el interior!
+¿Será un bastión de los Sabios?",
+  "13.0.31.0" => "¡Hay un extraño símbolo en el interior!
+Creo que es un bastión de los Sabios...",
+  "13.0.32.0" => "¡Veo un extraño símbolo en el interior!
+¿Será un bastión de los Sabios?",
+  "13.0.33.0" => "Si no conectamos el camino con los
+interruptores, no podremos llegar a Cya.",
+  "13.0.34.0" => "No llegaremos a Cya si no usamos los
+interruptores para conectar el camino...",
+  "13.0.35.0" => "Lo ideal sería que nos reuniésemos
+cerca de donde está esa cosa...",
+  "13.0.36.0" => "Link irá a por los enemigos de arriba,
+¡Tetra, tú intenta conectar los caminos!",
+  "13.0.37.0" => "Link irá a por los enemigos de arriba,
+¡después debéis conectar los caminos!",
+  "13.0.38.0" => "¡Las estatuas han desaparecido cuando
+les ha dado la luz, Link!",
+  "13.0.39.0" => "Debemos impedir que tomen los bastiones
+de los Sabios, o volverán a caer rayos...",
+  "13.0.40.0" => "¡Puedes usar el gancho para
+llegar a esa plataforma!",
+  "13.0.41.0" => "Los monstruos se hacen más fuertes...
+Cya estará en apuros si no reaccionamos.",
+  "13.0.42.0" => "Parece que está reforzando sus tropas...
+¡Cya está en peligro!",
+  "13.0.43.0" => "Si no conectamos los caminos,
+no podremos llegar hasta Cya...",
+  "13.0.44.0" => "Hemos de conectar los caminos
+para llegar hasta Cya...",
+  "13.0.45.0" => "Pero si conectamos los caminos,
+atacarán nuestros bastiones...",
+  "13.0.46.0" => "Aunque si conectamos los caminos,
+nuestros bastiones serán atacados...",
+  "13.0.47.0" => "Los monstruos se están moviendo...
+¡He de ayudar a Cya lo antes posible!",
+  "13.0.48.0" => "Parece que el enemigo se mueve...
+¡Ayudemos a Cya cuanto antes!",
+  "13.0.49.0" => "Hay una puerta en este camino.
+¿Cómo podríamos abrirla?",
+  "13.0.50.0" => "Cuando consigamos abrir esa puerta,
+nos resultará más fácil reunirnos.",
+  "13.0.51.0" => "Si franqueamos esa puerta, será
+más fácil que nos reunamos.",
+  "13.0.52.0" => "Oye, Link, ¿tú crees que podríamos
+abrir la puerta que hay en ese camino?",
+  "13.0.53.0" => "¿Crees que podríamos conseguir abrir
+esa puerta que cierra el camino, Link?",
+  "13.0.54.0" => "Oye, Link; me pregunto si habrá alguna
+forma de abrir la puerta del camino...",
+  "13.0.55.0" => "¡Perfecto! ¡Hemos conseguido
+abrir la puerta!",
+  "13.0.56.0" => "¡Bien! ¡Hemos abierto esa puerta!",
+  "13.0.57.0" => "¡Muy bien! ¡Hemos conseguido
+abrir la puerta del camino!",
+  "13.0.58.0" => "¡Bien, Link! ¡Hemos conseguido
+abrir la puerta del camino!",
+  "13.0.59.0" => "¡Muy bien, Link!
+¡Se ha abierto la puerta!",
+  "13.0.60.0" => "¡La puerta está abierta, Link!",
+  "13.0.61.0" => "¡No podréis impedirnos que
+lleguemos hasta Cya!",
+  "13.0.62.0" => "¡No podréis impedir que
+lleguemos hasta Cya!",
+  "13.0.63.0" => "Tenemos que llegar a Cya cuanto
+antes. ¡No nos lo impediréis!",
+  "13.0.64.0" => "¡Dejadnos en paz! ¡Llegaremos
+hasta Cya lo queráis o no!",
+  "13.0.65.0" => "¡Aunque lo intentéis, no conseguiréis
+impedir que lleguemos hasta Cya!",
+  "13.0.66.0" => "¡Intentadlo si queréis, pero no
+impediréis que lleguemos a Cya!",
+  "13.0.67.0" => "¡Link, si usamos el gancho,
+podremos llegar más alto!",
+}

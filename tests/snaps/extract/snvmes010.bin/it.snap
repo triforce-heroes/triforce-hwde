@@ -1,0 +1,267 @@
+Map {
+  "1.0.0.0" => "Guarda! Guarda! Qui ci sono solo rovine!
+Si troverà qui la spada suprema?!",
+  "1.0.1.0" => "La spada suprema è da questa parte!
+Se collaboriamo riusciremo a trovarla!",
+  "1.0.2.0" => "Ma secondo la leggenda dobbiamo risvegliare
+le tre statue del sigillo che si trovano qui...",
+  "1.0.3.0" => "Prima di tutto dobbiamo cercare le statue...",
+  "1.0.4.0" => "Per risvegliare le statue, è necessaria
+la collaborazione di tre alleati.",
+  "1.0.5.0" => "La nostra collaborazione?",
+  "1.0.6.0" => "Anche la mia?",
+  "1.0.7.0" => "Va bene, farò tutto quello che vuoi...",
+  "1.0.8.0" => "Dove saranno queste statue del sigillo?",
+  "1.0.9.0" => "Io cercherò da questa parte...",
+  "1.0.10.0" => "Allora io cercherò in questa
+zona, arciroccia!",
+  "1.0.11.0" => "Bene, io cercherò da questa
+parte.",
+  "1.0.12.0" => "Statua del sigillo... sarà quella?",
+  "1.0.13.0" => "Quella potrebbe essere una statua
+del sigillo...",
+  "1.0.14.0" => "Ho trovato una statua del sigillo!",
+  "1.0.15.0" => "Eeeh? Allora è questa la statua del sigillo!",
+  "1.0.16.0" => "A quanto pare abbiamo trovato la statua
+del sigillo!",
+  "1.0.17.0" => "Impa, quella è la statua del servitore.
+Avvicinati e risvegliala.",
+  "1.0.18.0" => "Dobbiamo risvegliare quella statua...?",
+  "1.0.19.0" => "Finché la statua non sarà completamente
+risvegliata, dovrò restare qui.",
+  "1.0.20.0" => "Darunia, è la statua del fuoco e dell'acqua.
+Risvegliala con la tua abilità del fuoco!",
+  "1.0.21.0" => "Uhm... ci provo!",
+  "1.0.22.0" => "Ci vorrà un po' di tempo... Non potrò
+muovermi da qui per un po'.",
+  "1.0.23.0" => "Midna, quella è la statua del crepuscolo.
+Con i tuoi poteri dell'ombra potrai risvegliarla!",
+  "1.0.24.0" => "Ricevuto, principessa.",
+  "1.0.25.0" => "Penso di esserci riuscita! Resterò qui
+a vedere come si mettono le cose.",
+  "1.0.26.0" => "Non permetterò a nessuno di minacciare
+il tempio!",
+  "1.0.27.0" => "Quella è l'armata dei fantasmi?
+Fate attenzione!!!",
+  "1.0.28.0" => "Questi non sono demoni, ma ci attaccano
+lo stesso! Attenzione!",
+  "1.0.29.0" => "Dobbiamo trovare la statua del sigillo!",
+  "1.0.30.0" => "Dobbiamo risvegliare le statue, non possiamo
+farci sconfiggere!!!",
+  "1.0.31.0" => "Devo risvegliare la statua!
+Qualcuno pensi ai nemici!",
+  "1.0.32.0" => "Non ci volevano i nemici proprio adesso...
+Le statue non si sono ancora risvegliate!",
+  "1.0.33.0" => "Ancora due statue... difendete gli alleati
+finché non sono tutte risvegliate!",
+  "1.0.34.0" => "Ne manca una... ce l'abbiamo quasi fatta!
+Difendete gli alleati!",
+  "1.0.35.0" => "Adesso la porta del tempio si dovrebbe
+aprire...!",
+  "1.0.36.0" => "Il risveglio delle statue non è completo.
+Bisogna aspettare per entrare nel tempio.",
+  "1.0.37.0" => "L'armata dei fantasmi ha invaso anche
+il tempio!",
+  "1.0.38.0" => "C'è qualcosa di strano... sembra che i
+fantasmi siano manipolati da qualcuno...",
+  "1.0.39.0" => "Qualcuno che li controlla come burattini?
+Ma dove sarà mai?!",
+  "1.0.40.0" => "Uh uh uh...! Addosso! Addosso!",
+  "1.0.41.0" => "C'è un impostore con le sembianze di Lana!
+Fate tutti attenzione!",
+  "1.0.42.0" => "Eh...? Un'altra... me?",
+  "1.0.43.0" => "Percepisco una presenza maligna nelle
+vicinanze...",
+  "1.0.44.0" => "La sento anche io... forse un nemico si
+è infiltrato tra le nostre fila!",
+  "1.0.45.0" => "Non è abbastanza! Attaccate con più forza!",
+  "1.0.46.0" => "Un momento... Lana, c'è qualcosa di
+strano in te...",
+  "1.0.47.0" => "Smettila di rompere! Dovrai vedertela
+con me!",
+  "1.0.48.0" => "Mpf... ho sottovalutato la tua forza...
+ma non ti lascerò fare quello che vuoi!",
+  "1.0.49.0" => "M-Ma... che stavamo facendo?",
+  "1.0.50.0" => "È apparso il signore della spada sacra!
+Combatteremo anche noi!",
+  "1.0.51.0" => "Sento nuovo potere fluire nelle mie vene!
+Tra poco il risveglio sarà completo!",
+  "1.0.52.0" => "Principessa Zelda, devo ritirarmi... ho usato
+tutte le mie energie per la statua.",
+  "1.0.53.0" => "Ho usato tutte le mie energie per risvegliare la
+statua... Mi spiace, ma devo tornare indietro...",
+  "1.0.54.0" => "È stato davvero faticoso... non ce la faccio
+più! Per un po' non potrai contare su di me.",
+  "1.0.55.0" => "Al resto ci penseranno gli altri! Andiamo
+verso il piedistallo della spada sacra!",
+  "1.0.56.0" => "Link, andiamo! La spada suprema ci aspetta!",
+  "1.0.57.0" => "Link! Andiamo al piedistallo della
+spada sacra!",
+  "1.0.58.0" => "Non intralciarmi, folle! Dammi la spada
+suprema!",
+  "1.0.59.0" => "Non possiamo lasciare la spada suprema
+al nemico! Sconfiggiamo lo stregone!",
+  "1.0.60.0" => "Non posso usare i miei poteri magici nei luoghi
+sacri... devo cambiare campo di battaglia!",
+  "1.0.61.0" => "Ah! Non puoi scappare!",
+  "1.0.62.0" => "Umpf... Finché le mie ferite non saranno
+guarite, gioca con i miei amichetti!",
+  "1.0.63.0" => "Incredibile! Allora è questo il potere
+della spada suprema!",
+  "1.0.64.0" => "Qui siamo in svantaggio...
+Entriamo nel tempio e attacchiamo!",
+  "1.0.65.0" => "U-Urgh... maledetti...",
+  "1.0.66.0" => "Se volete sconfiggere Cia, andate al tempio
+degli spiriti... ma quella sarà la vostra tomba!",
+  "1.0.67.0" => "La spada suprema è incredibile!
+Con quella non puoi perdere!",
+  "1.0.68.0" => "Andiamo al tempio degli spiriti! Sconfiggiamo
+Cia con questa spada!",
+  "1.0.69.0" => "Ugh... ce l'avevamo quasi fatta...",
+  "1.0.70.0" => "Non siamo riusciti a difenderci... accidenti...",
+  "1.0.71.0" => "Ho... Ho abbassato la guardia... perdonatemi!",
+  "1.0.72.0" => "Perdonatemi... ho perso come un sassolino...",
+  "1.0.73.0" => "Scusate... non sono più in grado
+di combattere...",
+  "1.0.74.0" => "Così non riusciremo ad aprire la porta
+del tempio... Non ci resta che riprovare.",
+  "1.0.75.0" => "Se non apriamo la porta non possiamo
+entrare...",
+  "1.0.76.0" => "La porta del tempio si è aperta... Finalmente
+è apparso il signore della spada sacra...",
+  "1.0.77.0" => "Perdonate la scortesia...
+Obbediremo al nostro comandante.",
+  "1.0.78.0" => "Questi sono mostri veri! Dobbiamo
+sconfiggerli per raggiungere la spada sacra!",
+  "1.0.79.0" => "Secondo la leggenda, le statue vennero
+nascoste a nord, sud e ovest della città.",
+  "1.0.80.0" => "Fuori dai piedi! Non ho tempo da perdere
+con voi!",
+  "1.0.81.0" => "Non riesco a farmi strada...
+potete darmi una mano?",
+  "1.0.82.0" => "Accidenti, che fatica...
+Non è che qualcuno può darmi una mano?",
+  "1.0.83.0" => "Bene, ora possiamo andare avanti!",
+  "1.0.84.0" => "Forza, adesso possiamo andare avanti!",
+  "1.0.85.0" => "Vai! Adesso possiamo procedere!",
+  "1.0.86.0" => "Ah ah ah! Non mi sfuggirete!",
+  "1.0.87.0" => "Questa non è Lana! Link, sconfiggila!",
+  "1.0.88.0" => "Anche se cambi il tuo aspetto, non puoi
+nascondere la tua anima maligna!",
+  "1.0.89.0" => "Se sconfiggiamo quello stregone, la
+vittoria sarà nostra!",
+  "13.0.0.0" => "Avete bisogno del nostro aiuto?",
+  "13.0.1.0" => "Darò un'occhiata lì in fondo.",
+  "13.0.2.0" => "Probabilità di trovare una statua
+del sigillo in quest'area: 75%.",
+  "13.0.3.0" => "Darò un'occhiata lì in fondo.",
+  "13.0.4.0" => "Andrò anch'io in cerca delle statue del
+sigillo!",
+  "13.0.5.0" => "I nemici non mi lasciano proseguire...!
+Non c'è nessuno che possa aiutarmi?",
+  "13.0.6.0" => "Scusa per il disturbo. Ora posso
+procedere.",
+  "13.0.7.0" => "Sono circondata dai nemici e non posso
+proseguire! Qualcuno venga ad aiutarmi...",
+  "13.0.8.0" => "Finalmente posso proseguire!",
+  "13.0.9.0" => "Le statue del sigillo...
+Forse questa è una di loro?",
+  "13.0.10.0" => "Faih a rapporto: confermate coordinate
+della statua del sigillo.",
+  "13.0.11.0" => "Le statue del sigillo...
+Forse questa è una di loro?",
+  "13.0.12.0" => "Oh! Ma quella è una statua del sigillo!",
+  "13.0.13.0" => "A quanto pare abbiamo trovato una
+statua del sigillo...",
+  "13.0.14.0" => "Faih, quella è una statua del servitore.
+Avvicinati e risvegliala.",
+  "13.0.15.0" => "Ricevuto, principessa Zelda.",
+  "13.0.16.0" => "Resterò qui finché la statua del servitore
+non si sarà risvegliata del tutto.",
+  "13.0.17.0" => "Ruto, è la statua del fuoco e dell'acqua... con
+la tua magia dell'acqua forse puoi risvegliarla.",
+  "13.0.18.0" => "Molto bene. Vediamo un po'...",
+  "13.0.19.0" => "Potrebbe volerci qualche istante...
+Resterò qui ancora per un po'.",
+  "13.0.20.0" => "Xenia, quella è una statua del crepuscolo!
+Dovresti essere in grado di risvegliarla!",
+  "13.0.21.0" => "Chissà se posso davvero farcela...",
+  "13.0.22.0" => "Ha funzionato...? Resterò qui a tenere
+sotto controllo la statua...",
+  "13.0.23.0" => "Sono emerse delle creature spaventose!
+Fate attenzione!",
+  "13.0.24.0" => "Ancora non abbiamo trovato le statue
+del sigillo?",
+  "13.0.25.0" => "Secondo la leggenda, le statue si trovano
+a nord, a sud e a ovest di questa terra...",
+  "13.0.26.0" => "Attenzione. Se sono costretta a fuggire, la
+statua del sigillo non potrà essere risvegliata.",
+  "13.0.27.0" => "Se vengo sconfitta, non potremo risvegliare
+le statue. Chiaro?",
+  "13.0.28.0" => "Oh, no! I nemici sono qui...
+E la statua non si è ancora svegliata...",
+  "13.0.29.0" => "Devi proteggere i tuoi compagni finché
+tutte le statue non si saranno risvegliate.",
+  "13.0.30.0" => "Ancora un po'...
+Proteggi i tuoi compagni!",
+  "13.0.31.0" => "Grandioso.
+Ora possiamo accedere al tempio.",
+  "13.0.32.0" => "Probabilità di accesso al tempio: scarse. È
+necessario del tempo per attivare le statue.",
+  "13.0.33.0" => "Quei guardiani... Hanno qualcosa di strano.
+Forse c'è qualcuno che li controlla...?",
+  "13.0.34.0" => "Confermata presenza di una copia di Lana.
+Si consiglia di essere prudenti.",
+  "13.0.35.0" => "Avverto una presenza maligna nelle
+vicinanze...",
+  "13.0.36.0" => "La statua del sigillo sta ritornando in sé!
+Tra poco si risveglierà.",
+  "13.0.37.0" => "Ho perso troppe energie per attivare la
+statua. Impossibile continuare a combattere.",
+  "13.0.38.0" => "Ora che ho risvegliato la statua mi sento
+così stanca... Penso che andrò a riposarmi.",
+  "13.0.39.0" => "Anch'io non ho più forze...
+Andrò a preparare del tè!",
+  "13.0.40.0" => "Dobbiamo accontentarci di chi resta! Forza,
+verso il piedistallo della spada sacra!",
+  "13.0.41.0" => "Vogliono impadronirsi della spada sacra?
+Accidenti... Occupatevi dello stregone!",
+  "13.0.42.0" => "Sono troppi... Non ci resta che
+rifugiarci nel tempio e poi affrontarli!",
+  "13.0.43.0" => "Che peccato...",
+  "13.0.44.0" => "Impossibile continuare a combattere...
+Mi spiace...",
+  "13.0.45.0" => "Oooh!
+Mi spiace, ma non posso continuare così...",
+  "13.0.46.0" => "Mi... mi... spiace...!
+Eppure ce l'ho messa tutta...",
+  "13.0.47.0" => "La porta del tempio non si apre...
+Ma non ci resta che provare ancora...",
+  "13.0.48.0" => "Dei tipi infuriati stanno uscendo
+dal tempio!",
+  "13.0.49.0" => "La spada suprema dovrebbe essere qui da
+qualche parte. Uniamo le forze e sarà nostra!",
+  "13.0.50.0" => "Si narra che bisogna risvegliare le tre statue
+del sigillo che si trovano in questa zona.",
+  "13.0.51.0" => "È necessario l'aiuto di voi tre per risvegliare
+le statue del sigillo.",
+  "13.0.52.0" => "Impa, quella è la statua del servitore.
+Avvicinati e risvegliala.",
+  "13.0.53.0" => "Darunia, è la statua del fuoco e dell'acqua.
+Usa la forza del fuoco per risvegliarla.",
+  "13.0.54.0" => "Midna, quella è la statua del crepuscolo.
+Usa la forza dell'ombra per risvegliarla.",
+  "13.0.55.0" => "Dirigiamoci verso il tempio degli spiriti. Con il
+potere della spada suprema sconfiggeremo Cia!",
+  "13.0.56.0" => "Quindi volevi fingerti Lana per
+confonderci... Ma il tuo piano è fallito!",
+  "13.0.57.0" => "Vestire i panni di qualcun altro e compiere
+azioni malvagie... Sei destinata a fallire!",
+  "13.0.58.0" => "Lana...? No, non è lei.
+Non avremo alcuna pietà!",
+  "13.0.59.0" => "Eh eh eh, la somiglianza è perfetta. Ma
+non mi faccio ingannare tanto facilmente!",
+  "13.0.60.0" => "Probabilità che l'entità sia Lana: 0%.
+Identificata come nemica. Procedo all'attacco.",
+  "13.0.61.0" => "Ehi, fermati! Stai confondendo tutti!",
+}

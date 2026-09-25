@@ -1,0 +1,15 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R se dispone a llamar a la A2unidad especialR!",
+  "0.2.0" => "¡Vence A0%1sF4R antes de que llame a la A2unidad especialR!",
+  "0.3.0" => "¡A0%1sF0R se ha retirado temporalmente!",
+  "0.4.0" => "¡La A2unidad especialR ha respondido a la llamada A0%1sF6R!",
+  "0.5.0" => "¡A0%1sF0R va a volver a retirarse!",
+  "0.6.0" => "¡A0%1sF0R ha dejado de pedir A2refuerzosR!",
+  "0.7.0" => "¡Has vencido A0%1sF4R!",
+  "0.8.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.9.0" => "¡A0%1sF0R ha pedido ayuda y la A2unidad especialR llegará en breve!",
+  "0.10.0" => "¡Vence A0%1sF4R e impide que aparezca la A2unidad especialR!",
+  "0.11.0" => "¡A0%1sF0R sigue pidiendo refuerzos!",
+  "0.12.0" => "¡A0%1sF0R ha vuelto a aparecer en el campo de batalla!",
+  "0.13.0" => "¡A0%1sF0R se dispone a llamar a la A2unidad especialR!",
+}

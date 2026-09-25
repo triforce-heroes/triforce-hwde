@@ -1,0 +1,146 @@
+Map {
+  "1.0.0.0" => "Hé hé ! Elle est belle, cette boussole !
+Je te l'emprunte !",
+  "1.0.1.0" => "Hé ! Ma boussole ! Il y a plein de monstres,
+ici... Mais il faut que je la récupère !",
+  "1.0.2.0" => "Oh, vous êtes venues m'aider, les cocottes ?
+Alors, je ne vais pas me laisser faire !",
+  "1.0.3.0" => "Tu crois que tu pourrais
+me battre ? Prétentieuse !",
+  "1.0.4.0" => "Hé ! Viens par ici, pour voir !",
+  "1.0.5.0" => "Hein ? Il est déjà si loin ? Je n'arriverai
+jamais à le rattraper en courant...",
+  "1.0.6.0" => "Tous ces monstres sont mes sbires, et ils
+vont se faire un plaisir de jouer avec toi !",
+  "1.0.7.0" => "Tu veux récupérer ta précieuse
+boussole ? Alors, viens la chercher !",
+  "1.0.8.0" => "Ce n'est pas juste d'avoir
+fermé les portes ! Tu triches !",
+  "1.0.9.0" => "Tu n'as qu'à te débarrasser du gardien des
+portes si tu veux les ouvrir. C'est lui, là !",
+  "1.0.10.0" => "Pff ! Il était trop débile, ce monstre !
+Il ne valait rien.",
+  "1.0.11.0" => "Si tu ne viens pas vite,
+j'appellerai plus de monstres !",
+  "1.0.12.0" => "Je ne vais pas m'en sortir, s'il y a plus de
+monstres que ça ! Vite, je dois le rejoindre !",
+  "1.0.13.0" => "T'es trop lente, t'es trop lente, beuuuh !
+Je t'avais prévenue, j'appelle plus de monstres !",
+  "1.0.14.0" => "Oh, tu es mignon, toi ! Tu cherches à manger ?
+C'est trop dangereux de te laisser seul !",
+  "1.0.15.0" => "Ouah ! Le bébé est devenu tout
+doré ! Comment ça se fait ?!",
+  "1.0.16.0" => "Il s'est enfui... J'espère
+qu'il n'a rien.",
+  "1.0.17.0" => "Hein ? Hé, mais où il est passé ?",
+  "1.0.18.0" => "Jouons à cache-cache ! Je vais me cacher
+dans un fort et tu devras me trouver !",
+  "1.0.19.0" => "Hé hé ! Les monstres sont en route ! Si tu penses
+que tu peux les arrêter, alors vas-y, essaye !",
+  "1.0.20.0" => "Il a encore appelé des monstres ? Je ne vais
+pas me laisser faire comme ça, il va voir !",
+  "1.0.21.0" => "Voilà, j'en ai fini avec les monstres !
+Allez, montre-toi !",
+  "1.0.22.0" => "Ils étaient même pas forts.
+Pas de quoi se vanter !",
+  "1.0.23.0" => "Ça y est ! Je me suis occupée
+des monstres !",
+  "1.0.24.0" => "Tu ne m'as toujours pas trouvé ? Dépêche-toi,
+sinon, j'appelle plus de monstres !",
+  "1.0.25.0" => "Hein ? T'es vraiment pas gentil !
+Allez, montre-toi !",
+  "1.0.26.0" => "Je commence à perdre patience. Si t'as
+pas envie de jouer, laisse-moi gagner.",
+  "1.0.27.0" => "Bravo, tu m'as trouvé ! Mais je te rendrai
+quand même pas ta boussole. Hé hé !",
+  "1.0.28.0" => "C'est pas le bon fort !
+Hé hé !",
+  "1.0.29.0" => "Oh ! Un bébé cocotte...
+Il faut que je le protège !",
+  "1.0.30.0" => "Il est devenu tout doré ! Ce que tu brilles,
+mon petit bébé cocotte !",
+  "1.0.31.0" => "Le bébé cocotte s'est enfui...
+Le pauvre, il doit avoir si faim...",
+  "1.0.32.0" => "Tu comptes fuir encore longtemps ?
+Rends-moi tout de suite ma boussole !",
+  "1.0.33.0" => "Alors attrape-moi ! Même
+si t'as aucune chance !",
+  "1.0.34.0" => "Les monstres de ce fort sont
+super puissants ! Hé hé !",
+  "1.0.35.0" => "Il y a plein de monstres
+dans ce fort ! Keh keh !",
+  "1.0.36.0" => "Tu as vu les invocateurs dans ce fort ?
+Ils vont invoquer plein de monstres ! Hé hé !",
+  "1.0.37.0" => "Tu ne m'échapperas pas !",
+  "1.0.38.0" => "Ben, en fait, même si tu me
+rattrapais, tu ne pourrais rien faire.",
+  "1.0.39.0" => "Il s'est encore enfui !",
+  "1.0.40.0" => "Hé hé ! Allez, viens par ici !",
+  "1.0.41.0" => "Ça sent pas bon pour moi.
+Je devrais aller dans ce fort...",
+  "1.0.42.0" => "Rends-moi ma boussole !
+Allez !",
+  "1.0.43.0" => "Oh ! Ma boussole... elle brille !
+Mais... Mais qu'est-ce qu'il se passe ?!",
+  "1.0.44.0" => "Hein ? Aïe, aïe ! Ça fait
+mal aux yeux !!!",
+  "1.0.45.0" => "Encore un bébé cocotte ! Je vais l'aider
+à trouver sa nourriture !",
+  "1.0.46.0" => "Il est tout doré, maintenant ! Je suis contente
+que tu sois devenu grand, petit bébé !",
+  "1.0.47.0" => "Je suis vraiment désolée de
+ne pas avoir pu te protéger...",
+  "1.0.48.0" => "Attends, attends ! Désolé, c'est ma faute !
+Je ne te jouerai plus de mauvais tour !",
+  "1.0.49.0" => "Pour de vrai ? Alors
+je veux bien te pardonner.",
+  "1.0.50.0" => "Je le pensais pas ! La prochaine fois, je perdrai
+pas, alors attends-toi à me revoir, crétine !",
+  "1.0.51.0" => "Espèce de méchant ! De toute façon,
+je ne me laisserai plus jamais voler !",
+  "1.0.52.0" => "J'ai pris ta base, alors j'ai gagné !
+Tu peux rêver pour récupérer ta boussole !",
+  "1.0.53.0" => "Ma boussole...",
+  "1.0.54.0" => "Ah ! Les monstres viennent de ce fort...
+Alors ça veut dire que...",
+  "1.0.55.0" => "Je sais où tu te caches !
+Tu te trouves... là-bas !",
+  "1.0.56.0" => "Je suis contente d'avoir récupéré ma boussole...
+Allez, en route pour le château d'Hyrule !",
+  "13.0.2.0" => "Oh, mais au fait... Il me semble avoir vu un arc
+dans le grand arbre au sud-ouest du hameau...",
+  "13.0.3.0" => "J'étais sûre que l'arc serait utile contre les babas
+mojo ! Débarrassons-nous des autres !",
+  "13.0.4.0" => "Le poison ne se répand plus ! Tant mieux !",
+  "13.0.5.0" => "Retenons l'ennemi ici ! Comme ça, les autres
+pourront se réfugier dans le Vénérable Arbre Mojo !",
+  "13.0.6.0" => "Il faut d'abord éliminer l'ennemi qui vient depuis
+le sud !",
+  "13.0.7.0" => "Je suis inquiète pour la fille que nous avons
+laissée toute seule. Allons l'aider !",
+  "13.0.8.0" => "L'ennemi arrive aussi depuis le nord ! Il va s'en prendre
+au Vénérable Arbre Mojo ! Faites attention !",
+  "13.0.9.0" => "Ils ne nous poseront plus problème.
+Occupons-nous des autres !",
+  "13.0.10.0" => "Concentrons-nous sur les ennemis qui se trouvent
+ici ! Les autres ne nous poseront pas problème !",
+  "13.0.11.0" => "Tiens... Je ressens la présence d'une grande fée...
+Peut-être qu'elle pourrait nous aider !",
+  "13.0.12.0" => "Ah ! Je ressens une puissante présence
+au nord-est ! C'est peut-être la grande fée !",
+  "13.0.13.0" => "C'est horrible ! Des fantômes attaquent
+le Vénérable Arbre Mojo !",
+  "13.0.14.0" => "Son œil paraît particulièrement mou... On pourrait
+peut-être lui tirer des flèches dessus...",
+  "13.0.15.0" => "Les fantômes sont revenus à la charge !
+Et ils ont l'air plus en forme que tout à l'heure !",
+  "13.0.16.0" => "Bon sang, Link, reprends-toi !",
+  "13.0.17.0" => "Ouf, on l'a vaincue ! Débarrassons-nous des autres
+babas mojo !",
+  "13.0.18.0" => "L'ennemi arrive aussi depuis le nord ! Il va s'en prendre
+au Vénérable Arbre Mojo ! Faites attention !",
+  "13.0.19.0" => "On arrivera peut-être à la vaincre si
+on l'attaque à distance !",
+  "13.0.20.0" => "Je suis sûre que cet arc sera efficace contre
+les babas mojo... Allez, essayons !",
+}

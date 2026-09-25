@@ -1,0 +1,9 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "La guardia"!",
+  "0.1.0" => "A0%1sF0R appare sul campo e avanza per difendere A0%2sF2R!",
+  "0.2.0" => "Sconfiggi A0%2sF2R prima che raggiunga A0%1sF2R!",
+  "0.3.0" => "Se A0%1sF2R raggiunge A0%2sF2R, il suo morale migliorerà!",
+  "0.4.0" => "A0%1sF0R sta per raggiungere A0%2sF2R! Vai all'attacco!",
+  "0.5.0" => "A0%1sF0R difende A0%2sF2R e il suo morale è migliorato!",
+  "0.12.0" => "Hai sconfitto A0%1sF2R!",
+}

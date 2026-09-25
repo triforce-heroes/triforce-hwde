@@ -1,0 +1,261 @@
+Map {
+  "1.0.0.0" => "Das Ritual ist fehlgeschlagen?! Wir müssen
+wohl erst das ganze Gebiet erobern...",
+  "1.0.1.0" => "Mit der Kraft des Seelenportals muss die
+Erweckung gelingen! Wehe, ihr versagt erneut!",
+  "1.0.2.0" => "Böse Präsenz festgestellt. Ich muss
+den Anführer finden und ausschalten.",
+  "1.0.3.0" => "Es handelt sich zu 60 % um den Verbannten,
+der einst die Welt verschlingen wollte.",
+  "1.0.4.0" => "Das klingt schlimm...
+Ich sollte wohl helfen.",
+  "1.0.5.0" => "Was geht da vor sich? ...Na ja, wohl nichts,
+worüber ich mir Sorgen machen müsste.",
+  "1.0.6.0" => "Meine Energie hat abgenommen.",
+  "1.0.7.0" => "Das soll wohl heißen, du steckst in
+Schwierigkeiten? Warte, ich helfe dir!",
+  "1.0.8.0" => "Die Wahrscheinlichkeit, dass ich fliehen
+muss, steigt konstant.",
+  "1.0.9.0" => "Oh nein! Ich muss ihr schnell helfen!",
+  "1.0.10.0" => "Die Macht des Bösen ist gesunken.
+Dennoch ist weiter Vorsicht angebracht.",
+  "1.0.11.0" => "Ich tu, was ich kann!
+Zusammen schaffen wir das!",
+  "1.0.12.0" => "Was machen die da?! Wer sich mir in den
+Weg stellt, wird ein schnelles Ende erleben!",
+  "1.0.13.0" => "Oh nein, sie greifen die Hühner an!
+Ich muss ihnen helfen!",
+  "1.0.14.0" => "Wartet auf mich, Hühner!
+Ich komme euch zu Hilfe!",
+  "1.0.15.0" => "Seid stark, Hühner!
+Ich bin sofort bei euch!",
+  "1.0.17.0" => "Was für ein Monster vergreift sich an
+armen Hühnern? Das lasse ich nicht zu!",
+  "1.0.18.0" => "Oh... Ihr wollt mir helfen?
+Gut, dann zeigen wir es diesen Monstern!",
+  "1.0.19.0" => "Schon wieder nur so ein Kümmerling!?
+Versucht es weiter, ihr Nichtsnutze!",
+  "1.0.22.0" => "Das Ritual ist schon wieder fehlgeschlagen!?
+Verstärkt die Magie! Es MUSS klappen!",
+  "1.0.23.0" => "Wenn wir die Beschwörung nicht stoppen,
+wird die Anzahl der Verbannten steigen.",
+  "1.0.24.0" => "Stimmt wohl! Kümmern wir uns zuerst um
+die Feinde, die Beschwörungen ausführen!",
+  "1.0.25.0" => "Unfähige Magi! Habt ihr noch nie in eurem
+Leben ein diabolisches Ritual ausgeführt?!",
+  "1.0.26.0" => "Sie wollen schon wieder eine
+Beschwörung ausführen!",
+  "1.0.27.0" => "Ich empfehle, dass wir dem Kampf gegen
+die Verbannten Priorität einräumen.",
+  "1.0.28.0" => "Wut... Fürchterliche, rasende Wut!
+Quetscht den letzten Rest Magie heraus!",
+  "1.0.29.0" => "Ich verstehe nicht ganz, was du vorhast,
+aber brauchst du wirklich so viele Monster?",
+  "1.0.30.0" => "Ihr habt keine Magie mehr übrig?
+Was seid ihr nur für unfähige Amateure!",
+  "1.0.31.0" => "Ich kann eine Abnahme der Magie festellen.
+Das Ritual wurde wohl eingestellt.",
+  "1.0.32.0" => "Super! Dann kommen wohl keine schwarzen
+Monster mehr dazu? Besiegen wir den Rest!",
+  "1.0.33.0" => "Die Zahl der Verbannten nimmt zu. Dafür
+ist zu 85 % das Ritual verantwortlich.",
+  "1.0.34.0" => "Du hast wirklich eine lustige Ausdrucksweise!
+Aber gut, besiegen wir die Beschwörer!",
+  "1.0.35.0" => "Mit einer Wahrscheinlichkeit von 90 % ist ihr
+Anführer im Tempel. Er steuert das Ritual.",
+  "1.0.36.0" => "Wenn wir alle Beschwörer besiegen, wird der
+Anführer vielleicht stinkig und kommt raus?",
+  "1.0.37.0" => "Vertreibt diese Nervensägen, bevor sie
+auch noch das Seelenportal finden!",
+  "1.0.38.0" => "Los, meine Schergen! Treibt die Verbannten
+zum feindlichen Hauptquartier!",
+  "1.0.39.0" => "Die schwarzen Monster sammeln sich...
+Was hat das zu bedeuten?",
+  "1.0.40.0" => "Bestimmte Monster kontrollieren die
+Verbannten. Wir sollten sie ausschalten.",
+  "1.0.41.0" => "Wir machen die Monster fertig, die die
+schwarzen Dinger auf uns hetzen? Alles klar!",
+  "1.0.42.0" => "Verbannte nähern sich unserem Hauptquartier.
+Ich empfehle, die Treiber auszuschalten.",
+  "1.0.43.0" => "Wenn wir sie nicht aufhalten, nehmen sie
+unser Hauptquartier ein... Beeilen wir uns!",
+  "1.0.44.0" => "Ja! Treibt die Verbannten ins
+feindliche Hauptquartier!",
+  "1.0.45.0" => "Noch mehr Monster, die die schwarzen Dinger
+antreiben... Auch die Hühner sind in Gefahr!",
+  "1.0.46.0" => "Ob das Kleine dort wohl sicher ist?",
+  "1.0.47.0" => "Zahlreiche Verbannte geortet.
+Ich empfehle, sie zuerst zu eliminieren.",
+  "1.0.48.0" => "Alles klar. Ich werde so viele von den
+schwarzen Dingern wie möglich besiegen!",
+  "1.0.49.0" => "Mit diesen Störenfrieden wird das Ritual nie
+gelingen. Nehmen wir ihr Hauptquartier ein!",
+  "1.0.50.0" => "Und stärkt auch unsere Abwehr! Sie
+dürfen das Seelenportal nicht erreichen!",
+  "1.0.51.0" => "Wir haben alle der Monster erwischt, die
+die schwarzen Dinger angetrieben haben!",
+  "1.0.52.0" => "Die Verbannten haben sich zerstreut.
+Die Gefahr in diesem Gebiet ist gesunken.",
+  "1.0.53.0" => "Oh! Es ist zu einem Goldhuhn geworden!",
+  "1.0.54.0" => "Ich absorbiere die Energie der Verbannten und
+vernichte die Störenfriede höchstpersönlich!",
+  "1.0.55.0" => "Der feindliche Anführer nähert sich unserem
+Hauptquartier. Ich werde ihn abfangen.",
+  "1.0.56.0" => "Wir müssen die Hühner beschützen... Ich
+kümmere mich um den feindlichen Anführer!",
+  "1.0.57.0" => "Ich bin von ungeahnten Kräften erfüllt!
+Jetzt werde ich euch alle auslöschen!",
+  "1.0.58.0" => "Ihr Anführer stärkt sich, indem er die
+Kraft der Verbannten absorbiert.",
+  "1.0.59.0" => "Das heißt, wenn wir die schwarzen Dinger
+besiegen, wird er schwächer?",
+  "1.0.60.0" => "Unfassbar... Diese Macht...
+Zittert vor dem Dunkelfürsten!",
+  "1.0.61.0" => "Ihr Anführer hat sich gestärkt, indem er
+die Kraft der Verbannten absorbiert hat.",
+  "1.0.62.0" => "Er ist wirklich mächtig geworden... Wir
+müssen die schwarzen Monster besiegen!",
+  "1.0.63.0" => "Argh...
+Was habt ihr angerichtet?",
+  "1.0.64.0" => "Ah! Er ist nicht länger gestärkt! Du hast
+die Situation genau richtig analysiert!",
+  "1.0.65.0" => "Schwächung bestätigt. Wir sollten ihn
+ausschalten, bevor er sich wieder stärkt.",
+  "1.0.66.0" => "Warum müsst ihr alles verderben?!
+Ich hasse euch! Hass, Hass, Hass!",
+  "1.0.67.0" => "Ui, hat der eine Stinkwut! Aber zum Glück
+scheint er jetzt wirklich schwächer zu sein!",
+  "1.0.68.0" => "Schwächung des Anführers festgestellt. Ich
+empfehle, ihn noch weiter zu schwächen.",
+  "1.0.69.0" => "Ich hätte das Ritual nie solchen Nichtsnutzen
+überlassen dürfen. Es muss wiederholt werden!",
+  "1.0.70.0" => "Ich kann keine Präsenz von Verbannten mehr
+feststellen. Danke für deine Unterstützung.",
+  "1.0.71.0" => "Kein Problem, ich bin froh, dass ich helfen
+konnte! Oh, mein Kompass leuchtet wieder!",
+  "1.0.72.0" => "Oh nein! Der Anführer der Hühner ist
+gefallen! Jetzt werden sie wild...",
+  "1.0.73.0" => "Das habt ihr davon, mich gereizt zu haben!
+Flieht, solange ihr noch könnt!",
+  "1.0.74.0" => "Sie haben unser Hauptquartier eingenommen!
+Wir haben den Kampf verloren...",
+  "1.0.75.0" => "Die Störenfriede sind erledigt. Gut, dann
+können wir jetzt das Ritual fortsetzen...",
+  "1.0.76.0" => "Die bösen Kräfte verstärken sich gegenseitig.
+Wir sollten sie gleichmäßig dezimieren.",
+  "1.0.77.0" => "Schwarze Dinger, Beschwörer und Treiber...
+Wir müssen alle gleichzeitig bekämpfen!",
+  "1.0.78.0" => "Die Zahl der Verbannten nimmt ab. Wir
+sollten weiter unsere Ziele bekämpfen.",
+  "1.0.79.0" => "Wie...?! Auch wenn das Ritual fehlgeschlagen
+ist, sollten sie nahezu unbesiegbar sein!",
+  "1.0.80.0" => "Die Zahl der Verbannten ist weiter gesunken.
+Wir sollten auch die Übrigen eliminieren.",
+  "1.0.81.0" => "Ihr elenden Störenfriede! Ihr werdet dafür
+büßen, euch eingemischt zu haben!",
+  "1.0.82.0" => "Von den schwarzen Dingern hab ich eine
+Menge besiegt! Man gewöhnt sich dran...",
+  "1.0.83.0" => "Ich hab genug von euch...
+Jetzt bekommt ihr eine Lektion erteilt!",
+  "1.0.84.0" => "Ich kann keine Verbannten mehr orten.
+Womöglich sind alle eliminiert.",
+  "1.0.85.0" => "Mein König, besiegt!?
+Das... Das kann nicht sein!",
+  "1.0.86.0" => "Auch in dieser Form ist seine Macht
+grenzenlos! Verneigt euch vor ihm!",
+  "1.0.87.0" => "Er ist kleiner, als die Legende besagt.
+Nichtsdestotrotz muss er zerstört werden.",
+  "1.0.88.0" => "Oh, das ist aber süß! Aber wenn es ein
+Monster ist, muss es wohl dran glauben.",
+  "1.0.89.0" => "Wahrscheinlich, weil ich heldenhaft war?
+Aber egal, weiter zu Schloss Hyrule!",
+  "1.0.90.0" => "Diese Hühnchen werden uns nicht davon
+abhalten, dieses Gebiet zu erobern!",
+  "1.0.91.0" => "Ein grünes Gewand? Bei deinem
+Modegeschmack wird mir schlecht!",
+  "1.0.92.0" => "Das sind meine Lieblingskleider! Du
+musst grad reden, mit deiner Frisur!",
+  "1.0.93.0" => "Was machst du dich wichtig, obwohl
+dein Gebieter nicht einmal da ist!",
+  "1.0.94.0" => "Durch unerwartete Hilfe ist meine
+Kampfkraft trotzdem größer als deine.",
+  "1.0.95.0" => "Wie lang willst du mich noch stören?
+Du Stümperin machst alles kaputt!",
+  "13.0.2.0" => "Das mittlere Tor zum Tempel ist uns versperrt. Aber
+besiegen wir den Torwächter, ist das Osttor frei.",
+  "13.0.3.0" => "Was ist das? Unsere Truppen...
+Sie strahlen etwas Seltsames aus...",
+  "13.0.4.0" => "Dieser Griesgram könnte sich hinten im
+Tempel aufhalten.",
+  "13.0.5.0" => "Unsere Freunde müssen sich neu sammeln! Ziehen
+wir uns zurück, um Schlimmeres zu verhindern!",
+  "13.0.6.0" => "Wo ist der Anführer dieser Verräter? Wir
+sollten ihn finden und aus dem Weg räumen!",
+  "13.0.7.0" => "Wo könnte sich der Rädelsführer aufhalten?
+In einer Festung vielleicht? Merkwürdig...",
+  "13.0.8.0" => "Unsere Feinde marschieren auf diese Festung
+zu. Ob wir ihren Anführer dort finden?",
+  "13.0.9.0" => "Unsere Feinde verschonen eine der Festungen.
+Ihr Anführer könnte sich dort verstecken!",
+  "13.0.10.0" => "Ich spüre eine seltsame Präsenz in deiner Nähe.
+Der Rädelsführer muss hier irgendwo sein!",
+  "13.0.11.0" => "Ich wusste es! Wir haben unseren Verräter
+gefunden! Er ist in derselben Festung wie du!",
+  "13.0.12.0" => "Wenn das so weitergeht, werden wir verlieren!
+Du musst den Rädelsführer besiegen! Schnell!",
+  "13.0.13.0" => "Das hätten wir geschafft! Jetzt atmen wir kurz
+durch und nehmen uns dann den Tempel vor!",
+  "13.0.14.0" => "Vorsicht! Dieses Ungeheuer ist die Inkarnation
+der Dunkelheit... Unser mächtigster Feind bisher!",
+  "13.0.15.0" => "Oh nein! Die Schattenbestie hat es wohl
+auf unser Hauptquartier abgesehen!",
+  "13.0.16.0" => "Das Ungeheuer mag es wohl nicht, wenn
+man ihm auf die Zehen haut!",
+  "13.0.17.0" => "Dieses Ungetüm scheint seine Kräfte zu sammeln.
+Vielleicht will es eine Festung vernichten...",
+  "13.0.18.0" => "Unsere Festungen sind nicht wehrlos. Schieß mit
+dem Katapult auf das Ungeheuer, wenn es steht!",
+  "13.0.19.0" => "Ha! Er bewegt sich nicht! Schieß jetzt!",
+  "13.0.20.0" => "Setz das Katapult ein! Halte das Ungeheuer auf,
+bevor es die Festung in Schutt und Asche legt!",
+  "13.0.21.0" => "Ohne Katapult sind wir machtlos gegen die Bestie.
+Erobere eine der Festungen, die ein Katapult haben!",
+  "13.0.22.0" => "Schwachpunkt dieses Ungeheuers sind
+die Zehen. Greif sie an, um es aufzuhalten!",
+  "13.0.23.0" => "Wir haben nur noch eine Waffe...
+In unserem Hauptquartier!",
+  "13.0.24.0" => "Das Ungeheuer ist verschwunden!",
+  "13.0.25.0" => "Feinde westlich des Tempels marschieren...
+zum Hauptquartier? Link wird sie aufhalten!",
+  "13.0.26.0" => "Besiege diesen Bösewicht und wirf ihn
+durch das Seelenportal!",
+  "13.0.27.0" => "Es ist vollbracht... Das Portal ist
+geschlossen! Gute Arbeit!",
+  "13.0.28.0" => "Wir haben das Hauptquartier verloren!
+Jetzt ist alles aus...",
+  "13.0.29.0" => "Wir haben Link verloren! Das ist das Ende...",
+  "13.0.30.0" => "Jemand befehligt von dieser Festung aus
+die Verräter... Schnapp ihn dir! Schnell!",
+  "13.0.31.0" => "Jetzt können wir zur Rückseite des Tempels!",
+  "13.0.32.0" => "Es sammelt neue Kraft, um unser Hauptquartier
+zu zerstören... Wir dürfen nicht nachlassen! ",
+  "13.0.34.0" => "Es kommen immer noch Feinde aus dem
+Westen...",
+  "13.0.35.0" => "Mission erfolgreich!
+Und jetzt auf zum Tempel!",
+  "13.0.36.0" => "Ich spüre etwas in der Nähe... Da stachelt
+jemand die Soldaten zum Verrat an!",
+  "13.0.37.0" => "Ich weiß, wer der Rädelsführer ist!",
+  "13.0.38.0" => "Das da ist der Anführer der Verräter!
+Besiegen wir ihn!",
+  "13.0.39.0" => "Allein zu kämpfen ist gefährlich... Wir sollten
+uns zu unseren Mitstreitern teleportieren!",
+  "13.0.40.0" => "Während er seine Magie sammelt, heilt er sich auch!
+Wir müssen ihn mit dem Katapult davon abhalten!",
+  "13.0.41.0" => "Er regeneriert seine Energie! Aber wenn wir
+ihn erwischen, hat das ein Ende. Schnell!",
+  "13.0.42.0" => "Wenn er sich regeneriert, können wir ihn vielleicht
+nicht mehr schlagen! Schnell, verpass ihm einen!",
+  "13.0.43.0" => "Wenn die Sturmtruppen uns überrennen,
+wird die Moral des Feindes steigen.",
+}

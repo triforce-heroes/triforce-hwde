@@ -1,0 +1,270 @@
+Map {
+  "1.0.0.0" => "In diesen Lavahöhlen wimmelt es von Monstern...
+Sie versperren uns den Weg zu Prinzessin Zelda.",
+  "1.0.1.0" => "Dort drüben ist der Ausgang. Wir müssen
+aber den Umweg über den Norden nehmen!",
+  "1.0.2.0" => "Eine Handvoll hylianische Soldaten sind bereits
+auf dem Weg zum Ausgang. Helfen wir ihnen, Link!",
+  "1.0.3.0" => "Lava versperrt uns den Weg, und überall sind
+Monster... Lange halten wir das nicht durch!",
+  "1.0.4.0" => "Was?! Link und ich sind unterwegs.
+Ihr müsst durchhalten!",
+  "1.0.5.0" => "Lady Impa! Ihr habt uns gerettet!",
+  "1.0.6.0" => "Gute Arbeit.
+Link sollte auch jeden Moment hier eintreffen.",
+  "1.0.7.0" => "Diese Höhle... Sie scheint mehr Monster auf
+uns zu hetzen, je stärker wir uns wehren...",
+  "1.0.8.0" => "Sie kommen sicher aus irgendwelchen Festungen
+gekrochen. Link, kannst du sie ausfindig machen?",
+  "1.0.9.0" => "Link! Hast du die Festungen gefunden?",
+  "1.0.10.0" => "Sehr gut! Aber es scheint eine weitere Festung
+zu geben, die auch Monster beherbergt...",
+  "1.0.11.0" => "Ihre Reihen lichten sich allmählich!
+Wir gewinnen die Oberhand!",
+  "1.0.12.0" => "Wir können den wilden Angriffen des Feindes
+nicht lange standhalten!",
+  "1.0.13.0" => "Das sieht nicht gut aus...
+Link! Komm schnell hierher!",
+  "1.0.14.0" => "Endlich! Unsere Verstärkung!
+Jetzt kämpfen wir auf Augenhöhe!",
+  "1.0.15.0" => "Vergebt uns, doch wir müssen uns
+zurückziehen!",
+  "1.0.16.0" => "Es ist zu spät...
+Ich bitte euch alle um Vergebung.",
+  "1.0.17.0" => "Wir kommen nicht durch diese Lava!",
+  "1.0.18.0" => "Hmm... Vielleicht können wir rüber, wenn
+wir diese Felssäule zerstören?",
+  "1.0.19.0" => "Wir können helfen! Für Krabbelminen
+sind Felsen kein Hindernis!",
+  "1.0.21.0" => "Wunderbar!
+Dann lasst uns keine Zeit verlieren!",
+  "1.0.22.0" => "Wie ich sehe, habt ihr es euch bequem gemacht
+in diesen Höhlen... bequem wie in einem Grab!",
+  "1.0.23.0" => "Vernichtet ihr jämmerliches Nagetier!
+Lasst sie spüren, was wahre Verzweiflung ist!",
+  "1.0.24.0" => "Sie haben es auf unsere Krabbelmine abgesehen!",
+  "1.0.25.0" => "Link! Beschütze die Krabbelmine!",
+  "1.0.26.0" => "Es sind noch immer zu viele!
+So kommt die Krabbelmine nicht durch!",
+  "1.0.27.0" => "Also gut... Dann öffne ich einen Pfad durch die
+feindlichen Linien, damit sie den Felsen erreicht.",
+  "1.0.28.0" => "Hätten wir die Monsternester nur früher erobert!
+Jetzt wird es hart, die Krabbelmine zu verteidigen...",
+  "1.0.29.0" => "Wenn wir das Nordtor der Festung nicht öffnen,
+kommt die Krabbelmine nicht voran!",
+  "1.0.30.0" => "Link, ich kann die Festung nicht erreichen!
+Du musst für mich übernehmen!",
+  "1.0.31.0" => "Sehr gut! Jetzt sollte die Krabbelmine
+den Felsen erreichen!",
+  "1.0.32.0" => "Großartig, Link!
+Jetzt kommen wir endlich weiter.",
+  "1.0.33.0" => "Eilt zum Ausgang, Männer!",
+  "1.0.34.0" => "Wir müssen weiter, Link! Schnell!",
+  "1.0.35.0" => "Oh nein! Die Krabbelmine wurde zerstört!",
+  "1.0.36.0" => "Das war nicht unsere letzte!
+Wir starten einfach eine weitere!",
+  "1.0.37.0" => "Das ist die letzte Krabbelmine für diese Festung...
+Pass also gut auf sie auf!",
+  "1.0.38.0" => "Ohne Krabbelmine kommen wir niemals durch...
+Und wenn wir nicht durchkommen... ist alles aus...",
+  "1.0.39.0" => "Vorwärts! Zertretet diese lästigen Würmer!",
+  "1.0.40.0" => "Unser Feind kennt keine Gnade...
+Los! Wir dürfen jetzt nicht nachlassen!",
+  "1.0.41.0" => "Das Südtor dieser Festung scheint zum
+Ausgang zu führen... Wir müssen sie erobern!",
+  "1.0.42.0" => "Hey! Da ist eine Schatztruhe erschienen...
+Unser Lohn für die eroberte Festung. Öffne sie!",
+  "1.0.43.0" => "Hey! Ich wette, da ist was ziemlich Nützliches drin!",
+  "1.0.44.0" => "Wir haben uns zu früh gefreut!
+Das Tor öffnet sich nicht...",
+  "1.0.45.0" => "Sie können uns nicht mehr entrinnen!
+Vernichtet sie! Verschont keinen von ihnen!",
+  "1.0.46.0" => "Hm? Sie kriechen aus Tunneln? Das kann nur
+heißen... dass der Tunnelmeister nicht fern ist.",
+  "1.0.47.0" => "Besiegen wir den Meister... könnte der Weg
+frei sein... Suche in den Tiefen der Tunnel!",
+  "1.0.48.0" => "Ich verteidige diese Position.
+Du gehst auf die Suche!",
+  "1.0.49.0" => "Ich halte alle Feinde in deinem Rücken auf.
+Die werden dir kein Kopfzerbrechen bereiten...",
+  "1.0.50.0" => "Link! Dieses Monster! Das muss ihr Meister sein!",
+  "1.0.51.0" => "Wir müssen ihn besiegen!
+Nur dann bleibt uns irgendeine Hoffnung!",
+  "1.0.52.0" => "Link! Suche in den Tiefen der Tunnel!",
+  "1.0.53.0" => "Gut gemacht!
+Endlich können wir diese Höhlen verlassen!",
+  "1.0.54.0" => "Tut mir leid... Doch weiter kann ich nicht.
+Ich werde dafür beten, dass ihr heil herauskommt.",
+  "1.0.55.0" => "Er hat die Monster hinter uns aufgehalten.
+Wenn es so weitergeht, werden wir überrannt...",
+  "1.0.56.0" => "Der Weg ist schon wieder versperrt...",
+  "1.0.57.0" => "Felsen beseitigen ist unsere Spezialität!",
+  "1.0.58.0" => "Ja, bitte! Eine Krabbelmine haben wir
+schon einmal hier, in dieser Festung...",
+  "1.0.59.0" => "Die Feinde dort hindern sie daran, zu starten.
+Du musst die Festung zurückerobern!",
+  "1.0.60.0" => "Zwei Felssäulen... Da wird die Sprengkraft
+einer Krabbelmine nicht ausreichen...",
+  "1.0.61.0" => "Irgendwo in diesen Höhlen ist noch eine
+Krabbelmine versteckt. Wenn wir die hätten...",
+  "1.0.62.0" => "Ich helfe den Goronen.
+Finde du die Krabbelmine!",
+  "1.0.63.0" => "Gut gemacht! Damit sollten wir gegen
+diese Felsen ankommen können!",
+  "1.0.64.0" => "Link! Vertreibe den Feind aus der Festung!
+Ich bereite den Einsatz der Krabbelmine vor.",
+  "1.0.65.0" => "Das scheint nicht der richtige Ort zu sein!",
+  "1.0.66.0" => "Sehr gut! Damit sollte der
+Krabbelminen-Einsatz gelingen!",
+  "1.0.67.0" => "Wir können beginnen!
+Schnell! Schickt die Krabbelminen los!",
+  "1.0.68.0" => "Wir haben beide Krabbelminen losgeschickt!
+Sie halten auf die Felssäulen zu!",
+  "1.0.69.0" => "Unfähige Versager...
+Alles muss man selbst erledigen!",
+  "1.0.70.0" => "Gaaah! Verteidigt die Krabbelminen
+gegen diese Monster!",
+  "1.0.71.0" => "Wir sind bereit zum Aufbruch. Shiek, oder
+wie auch immer du heißt... Komm her!",
+  "1.0.72.0" => "Ich bin unterwegs...",
+  "1.0.73.0" => "Der erste Schlag ist schon einmal gelungen!",
+  "1.0.74.0" => "Der Weg sollte bald frei sein!
+Wir müssen auch die andere verteidigen.",
+  "1.0.75.0" => "Endlich! Wir können zum Ausgang!
+Vielen Dank, Link! Vielen Dank, Goronen!",
+  "1.0.76.0" => "Beeilung, Link! Dort drüben ist der Ausgang!",
+  "1.0.77.0" => "Impa, geht es dir gut?
+Wir warten am Ausgang!",
+  "1.0.78.0" => "Also gut! Gehen wir zum Wald von Phirone. Dort
+soll eine junge Frau den Monstern die Stirn bieten.",
+  "1.0.79.0" => "Ich hoffe, es ist Prinzessin Zelda...",
+  "1.0.80.0" => "Link... Impa... Danke! Vielleicht gelingt es euch
+beiden, Hyrule vor dem Untergang zu bewahren...",
+  "1.0.81.0" => "Welch eine Schande...
+Ich habe versagt.",
+  "1.0.83.0" => "Es gibt keine Krabbelminen mehr...",
+  "1.0.84.0" => "Die Felsen müssen weg, sonst geht es nicht
+weiter. Wir müssen es erneut versuchen...",
+  "1.0.85.0" => "Wir haben keine weiteren Krabbelminen mehr!
+Verlieren wir diese beiden, ist alles aus!",
+  "1.0.86.0" => "Es gibt noch ein paar Monsternester... Es wäre
+besser gewesen, du hättest sie zuerst zerstört...",
+  "1.0.87.0" => "Entschuldigt unser spätes Eintreffen!
+Wir werden euch unterstützen!",
+  "1.0.88.0" => "Vielleicht hätten wir zuerst die
+Monsternester ausheben sollen...",
+  "1.0.89.0" => "Braucht ihr wieder unsere Hilfe?",
+  "1.0.90.0" => "Vor uns warten Soldaten Hyrules. Doch wir können
+sie nicht erreichen, wenn das Tor geschlossen ist...",
+  "1.0.91.0" => "Wir müssen einen Weg voran finden...",
+  "1.0.92.0" => "Die Felswand dort ist am Bröckeln.
+Vielleicht können wir sie zum Einsturz bringen!",
+  "1.0.93.0" => "Wenn wir diese Festung erobern, tauchen
+vielleicht nicht mehr so viele Monster auf...",
+  "1.0.94.0" => "Hahahaaa! Solange wir noch einen Magus
+haben, können wir immer neue Monster rufen!",
+  "1.0.95.0" => "Verfolgt diese Versager! Wir
+müssen sie in die Enge treiben!",
+  "1.0.96.0" => "Ich kümmere mich um die Feinde im Osten.
+Lasst sie nicht auf den Tunnelplatz!",
+  "1.0.97.0" => "Oh nein! Dass sie uns bis hier
+verfolgen würden...",
+  "1.0.98.0" => "Ich kann nicht beide gleichzeitig verteidigen!
+Link! Übernimm du eine davon!",
+  "1.0.99.0" => "Noch mehr Feinde?
+Die werde ich übernehmen.",
+  "1.0.100.0" => "Warum rücken sie auf diese Festung zu?
+Verdächtig... Nehmen wir sie ein!",
+  "13.0.0.0" => "Impa... Link wird auch alles in seiner Macht
+Stehende tun, damit wir hier heil rauskommen!",
+  "13.0.1.0" => "Der Ausgang ist... dort drüben! Wir können
+ihn aber nur von Norden her erreichen...",
+  "13.0.2.0" => "Einige hylianische Soldaten sind schon
+vorausmarschiert. Wir sollten ihnen folgen!",
+  "13.0.3.0" => "Link! Impa! Die hylianischen Soldaten stecken
+in Schwierigkeiten! Bitte beeilt euch!",
+  "13.0.4.0" => "Danke! Du hast uns gerettet!",
+  "13.0.5.0" => "Verzeiht, dass ihr warten musstet! Impa steht
+uns zur Seite. Ihr seid jetzt also in Sicherheit.",
+  "13.0.6.0" => "Die Monster müssen aus Festungen kommen.
+Impa, sollten wir uns nicht darum kümmern?",
+  "13.0.7.0" => "Da ist das Loch, aus dem diese Monster
+kriechen, Impa!",
+  "13.0.8.0" => "Sehr gut! Aber es werden kaum weniger!
+Es muss sicher eine andere Festung geben.",
+  "13.0.9.0" => "Impa, bitte komm uns zu Hilfe!
+Schnell!",
+  "13.0.10.0" => "Es... tut mir leid...",
+  "13.0.11.0" => "Vielen Dank!
+Jetzt ist die Krabbelmine an der Reihe!",
+  "13.0.12.0" => "Impa! Wir müssen die Krabbelmine beschützen!",
+  "13.0.13.0" => "Link! Verteidige die Krabbelmine! Beseitige
+die Feinde auf dem Weg zu der Felssäule!",
+  "13.0.14.0" => "Oh nein! Link wird diese Festung nicht
+erreichen... Impa, jetzt bist du dran!",
+  "13.0.15.0" => "Wir konnten nicht verhindern, dass
+die Monster Verstärkung bekommen...",
+  "13.0.16.0" => "Hätten wir die Festungen eingenommen!
+Die Krabbelmine ist von Monstern umzingelt...",
+  "13.0.17.0" => "Gute Arbeit! Jetzt sollte die Krabbelmine
+die Felssäule erreichen können!",
+  "13.0.18.0" => "Gute Arbeit, Impa! Endlich können wir weiter!",
+  "13.0.19.0" => "Was sollen wir nur tun?! Sie haben die Krabbelmine
+zerstört!",
+  "13.0.20.0" => "Ohne Krabbelmine können wir nicht weiter...
+Und Prinzessin Zelda bleibt unerreichbar...",
+  "13.0.21.0" => "Impa! Wir brauchen dich hier! Schnell!",
+  "13.0.22.0" => "Das Südtor dieser Festung führt zum Ausgang.
+Können wir durch, wenn wir die Festung erobern?",
+  "13.0.23.0" => "Oh! Das Südtor lässt sich nicht öffnen... obwohl
+wir die Festung erobert haben. Seltsam!",
+  "13.0.24.0" => "Sie kriechen aus ihren Tunneln! Hier muss
+irgendwo der Tunnelmeister lauern...",
+  "13.0.25.0" => "Überlass Link diese Festung, Impa!
+Bei ihm ist sie in sicheren Händen!",
+  "13.0.26.0" => "Dieses Monster sieht aber merkwürdig aus!
+Das muss der Tunnelmeister sein, Impa!",
+  "13.0.27.0" => "Ich wusste doch, dass du es schaffst, Impa!
+Jetzt kommen wir hier endlich raus!",
+  "13.0.28.0" => "Dieses Kind hinter uns steckt in Schwierigkeiten...
+Wenn das so weitergeht, werden wir überrannt!",
+  "13.0.29.0" => "Oh nein! Schon wieder versperren
+Lava und Felssäulen den Weg!",
+  "13.0.30.0" => "Ja! Eine Krabbelmine ist genau das,
+was wir jetzt brauchen!",
+  "13.0.31.0" => "Solange Feinde in der Festung sind, können wir
+die Krabbelmine nicht losschicken. Erobere sie!",
+  "13.0.32.0" => "Impa, suche eine weitere Krabbelmine!
+Link wird den Goronen zur Seite stehen!",
+  "13.0.33.0" => "Vertreibe die Feinde aus der Festung, Impa!
+Dann können wir die Krabbelmine einsetzen!",
+  "13.0.34.0" => "Sind alle bereit? Legen wir los!",
+  "13.0.35.0" => "Wir sind so gut wie raus aus diesem Loch, Shiek!
+Also bleib ganz ruhig und komm hierher!",
+  "13.0.36.0" => "Hurra! Das war der erste Streich...",
+  "13.0.37.0" => "Wunderbar! Der Weg zum Ausgang ist frei!
+Danke, Impa! Und Dank auch dir, Gorone!",
+  "13.0.38.0" => "Der Weg ist frei zum Wald von Phirone... Und zu
+dieser jungen Frau, von der wir gehört haben!",
+  "13.0.39.0" => "Hoffen wir, dass es Prinzessin Zelda ist!",
+  "13.0.40.0" => "Link, geh kein unnötiges Risiko ein! Diese Welt
+braucht einen Helden, der am Leben ist...",
+  "13.0.41.0" => "Wir kommen nicht voran, solange diese
+Felssäule noch steht...",
+  "13.0.42.0" => "Da sind unsere Soldaten! Doch wir erreichen
+sie nicht, solange das Tor geschlossen ist...",
+  "13.0.43.0" => "Impa! Irgendetwas Seltsames versteckt
+sich in diesen Tunneln!",
+  "13.0.44.0" => "Wir müssen irgendeinen Weg finden!",
+  "13.0.45.0" => "Hey! Diese Felswand ist am Bröckeln. Man muss
+sie doch irgendwie zum Einsturz bringen können!",
+  "13.0.46.0" => "Beeilung, Link! Der Ausgang ist hier drüben!",
+  "13.0.47.0" => "Alles in Ordnung, Impa?
+Ich erwarte dich am Ausgang!",
+  "13.0.48.0" => "Hätten wir die Festungen der Monster
+zuerst erobern sollen?",
+  "13.0.49.0" => "Das muss eine der Festungen sein,
+aus der Monster kommen!",
+  "13.0.50.0" => "Wie schrecklich!
+Auch hier sind schon Feinde!",
+}

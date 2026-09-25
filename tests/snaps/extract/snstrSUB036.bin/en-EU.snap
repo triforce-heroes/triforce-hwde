@@ -1,0 +1,15 @@
+Map {
+  "0.0.0" => "Begin Mission: Stray Cucco!",
+  "0.1.0" => "A0%1sF0R has appeared on the battlefield!",
+  "0.2.0" => "Defeat A0%1sF2R!",
+  "0.3.0" => "A0%1sF0R has temporarily retreated!",
+  "0.4.0" => "A0%1sF0R has reappeared in A0%2sF4R!",
+  "0.5.0" => "Capture enemy keeps and interfere with the enemy retreat!",
+  "0.6.0" => "A0%1sF0R has lost sight of escape routes!",
+  "0.7.0" => "You have defeated A0%1sF4R!",
+  "0.8.0" => "A0%1sF0R has retreated fully from the battle!",
+  "0.9.0" => "Don't let A0%1sF4R get too close!",
+  "0.10.0" => "You have failed to defeat A0%1sF4R!",
+  "0.11.0" => "A0%1sF0R has retreated from the battle!",
+  "0.12.0" => "A0%1sF0R is preparing to retreat fully!",
+}

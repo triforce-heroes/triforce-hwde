@@ -1,0 +1,9 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Le soldat d'escorte »!",
+  "0.1.0" => "A0%1sF6R a rejoint le champ de bataille pour escorter A0%2sF0R!",
+  "0.2.0" => "Éliminez A0%2sF0R avant qu'il ne rejoigne A0%1sF0R!",
+  "0.3.0" => "Le moral A0%1sF3R remontera s'il rejoint A0%2sF0R!",
+  "0.4.0" => "A0%1sF4R s'approche A0%2sF3R! Éliminez-le au plus vite!",
+  "0.5.0" => "A0%1sF4R escorte A0%2sF0R! Son moral est en hausse!",
+  "0.12.0" => "Vous avez vaincu A0%1sF0R!",
+}

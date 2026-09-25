@@ -1,0 +1,28 @@
+Map {
+  "0.1.0" => "Du hast die A2feindliche FestungR erobert!",
+  "0.2.0" => "A0%1sF0R wurde im A2feindlichen HauptquartierR gesichtet!",
+  "0.3.0" => "Du hast A0%1sF6R besiegt!",
+  "0.4.0" => "A0%1sF0R ist geschlossen!",
+  "0.5.0" => "A0%1sF0R ist geflohen! Du hast verloren!",
+  "0.6.0" => "Die Zeit ist um! Du hast verloren!",
+  "0.7.0" => "Unterstütze den Vorstoß des A1FeldmarschallsR!",
+  "0.8.0" => "Erobere die A2feindliche FestungR und öffne die Tore!",
+  "0.9.0" => "Die Unterstützung der A1verbündeten TruppenR ist fehlgeschlagen!",
+  "0.10.0" => "A1Dein HauptquartierR ist gefallen! Du hast verloren!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Erobere die A2FestungenR und
+gelange zum A2HauptquartierR!",
+  "3.1.0" => "Besiege den A2feindlichen
+FeldmarschallR!",
+  "3.2.0" => "Führe den A1FeldmarschallR
+zum A2feindlichen HauptquartierR!",
+}

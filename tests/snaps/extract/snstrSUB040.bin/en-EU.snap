@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "Prepare to encounter a master of elemental barriers!",
+  "0.1.0" => "A0%1sF0R appeared on the battlefield!",
+  "0.2.0" => "A0%1sF0R is advancing to create a barrier in A0%2sF6R!",
+  "0.3.0" => "Defeat A0%1sF2R!",
+  "0.4.0" => "A0%1sF0R is going to create an elemental barrier!",
+  "0.5.0" => "A0%1sF0R is still preparing to create an elemental barrier!",
+  "0.6.0" => "You caught A0%1sF0R in the act of creating an elemental barrier!",
+  "0.7.0" => "A0%1sF0R erected an elemental barrier in A0%2sF6R!",
+  "0.8.0" => "A0%1sF0R finished creating the elemental barrier and left the battlefield!",
+  "0.9.0" => "You stopped the elemental barrier from forming!",
+  "0.10.0" => "You defeated the A0%1sF0R!",
+  "0.11.0" => "Defeat A0%1sF2R immediately!",
+  "0.12.0" => "A0%1sF0R will fall if an elemental barrier is created inside!",
+  "0.13.0" => "C1%1sF0R fell with the creation of the elemental barrier!",
+  "0.14.0" => "A0%1sF0R created an elemental barrier in C1%2sF6R!",
+}

@@ -1,0 +1,17 @@
+Map {
+  "0.1.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF0R wurde im Kampf gegen die A0%2sF1R verwundet!",
+  "0.3.0" => "A0%1sF0R zieht sich Richtung A0%2sF4R zurück!",
+  "0.4.0" => "Unterstütze A0%1sF6R, damit eine Flucht nicht mehr notwendig ist!",
+  "0.5.0" => "A0%1sF0R wurde von den A0%2sF7R vertrieben!",
+  "0.7.0" => "Durch den Fluch A0%1sF2R hast du Rubine verloren!",
+  "0.9.0" => "Der Fluch A0%1sF2R hat die A0%2sF5R zur Flucht gezwungen!",
+  "0.10.0" => "Durch den Fluch A0%1sF2R sinkt die Moral der A0%2sF5R!",
+  "0.11.0" => "A0%1sF0R hat A0%2sF6R erreicht!",
+  "0.12.0" => "Der Rückzug A0%1sF2R war erfolgreich!",
+  "0.13.0" => "Du konntest A0%1sF6R nicht verteidigen!",
+  "0.14.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.16.0" => "Besiege A0%1sF6R und brich den Fluch!",
+  "0.17.0" => "A0%1sF0R wurde besiegt! Der Fluch wurde gebrochen!",
+  "0.18.0" => "A0%1sF0R rückt gegen die A0%2sF1R vor!",
+}

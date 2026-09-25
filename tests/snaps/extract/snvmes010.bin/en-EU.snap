@@ -1,0 +1,263 @@
+Map {
+  "1.0.0.0" => "This place is nothing but ruins!
+Can the Master Sword really be here?",
+  "1.0.1.0" => "The Master Sword is up ahead.
+We must work together to retrieve it!",
+  "1.0.2.0" => "First we must awaken the three sealed
+statues.",
+  "1.0.3.0" => "We have to look for the three sealed statues
+before we can do anything else.",
+  "1.0.4.0" => "It will take the abilities of three of you
+to awaken the sealed statues.",
+  "1.0.5.0" => "Our abilities?",
+  "1.0.6.0" => "Mine as well?",
+  "1.0.7.0" => "That sounds fine. I'm willing to try anything.",
+  "1.0.8.0" => "Sealed statues... Sealed statues...
+Where are they?",
+  "1.0.9.0" => "I can look this way.",
+  "1.0.10.0" => "OK, I'll look in that direction.",
+  "1.0.11.0" => "Perfect. I'll go looking as well.",
+  "1.0.12.0" => "Sealed statue... Hey, is that one over there?",
+  "1.0.13.0" => "That would appear to be a sealed statue.",
+  "1.0.14.0" => "Hey! It's a sealed statue! I found one!",
+  "1.0.15.0" => "Is this what a sealed statue looks like?
+Wow, I thought it'd be...bigger?",
+  "1.0.16.0" => "It appears as though you've discovered a
+sealed statue.",
+  "1.0.17.0" => "Impa, that is the Statue of Servitude!
+Please awaken it!",
+  "1.0.18.0" => "Your wish is my command, Princess.",
+  "1.0.19.0" => "It seems I have no choice but to wait here
+until the statues are fully awakened.",
+  "1.0.20.0" => "Darunia, that is the Statue of Wave and Flame.
+Use your fire ability to awaken it!",
+  "1.0.21.0" => "Hrmm... OK, I'll try.",
+  "1.0.22.0" => "It's gonna take a while for this to properly
+wake up! I'll stay here until then!",
+  "1.0.23.0" => "Midna, that is the Statue of Twilight.
+Use your Twilight ability to awaken it!",
+  "1.0.24.0" => "Sure, you got it.",
+  "1.0.25.0" => "It looks like it worked, but it'll take a while to
+fully wake up. I'll stay here until it's ready.",
+  "1.0.26.0" => "Those who would threaten the temple...
+will be punished!",
+  "1.0.27.0" => "Are these...Ghost Soldiers...?
+Everyone! Watch out!",
+  "1.0.28.0" => "These aren't normal enemies!
+Watch out!",
+  "1.0.29.0" => "We must locate all the sealed statues!",
+  "1.0.30.0" => "We can't let ourselves be defeated!
+Not without all the statues being awoken!",
+  "1.0.31.0" => "Somebody's got to drive the enemies away!
+The statues haven't all woken up yet!",
+  "1.0.32.0" => "Of course the enemies would show up now...
+It's not like we're busy or anything!",
+  "1.0.33.0" => "Two more statues remain. We must protect our
+allies until all three statues have awoken!",
+  "1.0.34.0" => "One final statue remains. Our task is nearly
+complete! Protect our allies at all costs!",
+  "1.0.35.0" => "And with this, the temple doors should
+finally open!",
+  "1.0.36.0" => "The statue will not awaken in a timely
+manner. I require a moment longer!",
+  "1.0.37.0" => "Ghost Soldiers are inside the temple!",
+  "1.0.38.0" => "Inside the temple? That is unusual...
+Someone must be manipulating them!",
+  "1.0.39.0" => "Is someone pulling the strings behind the
+scenes? But who is this puppet master...?",
+  "1.0.40.0" => "Eee hee hee!
+Get them! GET THEM!",
+  "1.0.41.0" => "An impostor is posing as Lana!
+Everyone, stay alert!",
+  "1.0.42.0" => "Sounds like I have an impostor! I guess that's
+flattering, but it's still really inconvenient.",
+  "1.0.43.0" => "I feel an evil presence nearby...",
+  "1.0.44.0" => "I feel it too. Ooh, that's creepy. You don't
+think there's an impostor around, do you?",
+  "1.0.45.0" => "The enemy still lives! Finish this!",
+  "1.0.46.0" => "Wait a second. Lana, you don't quite look
+like yourself. Are you all right?",
+  "1.0.47.0" => "You and that insipid fairy are such nuisances!
+I'll stomp you both if I have to!",
+  "1.0.48.0" => "I guess you're not as easy to trick as you
+look... Oh well. I still won't let you win!",
+  "1.0.49.0" => "Huh? What were we doing...?",
+  "1.0.50.0" => "The wielder of the Sacred Sword! You've
+arrived! We're here to assist you in any way!",
+  "1.0.51.0" => "Power's starting to radiate from the statue.
+I think it's about ready to wake up!",
+  "1.0.52.0" => "Princess, forgive me... Waking the statue has
+taken its toll on me... I must retreat for now...",
+  "1.0.53.0" => "Whoa, I really overdid it waking up that statue.
+I have to fall back, or else I'm rubble!",
+  "1.0.54.0" => "Haaa... Waking statues really takes it out of
+you. You're fine without me, right?",
+  "1.0.55.0" => "Our remaining forces can finish the task.
+Come, to the pedestal of the Sacred Sword!",
+  "1.0.56.0" => "Let's go, Link!
+The Master Sword is waiting for us!",
+  "1.0.57.0" => "Link! C'mon! Let's head for the pedestal
+of the Sacred Sword!",
+  "1.0.58.0" => "Don't mess with me, punk!
+Give me the Master Sword!",
+  "1.0.59.0" => "The Master Sword cannot be controlled by
+an evil hand! Your end is nigh, wizard!",
+  "1.0.60.0" => "Hmm. It seems this sacred location is blocking
+my powers. A change of venue is in order!",
+  "1.0.61.0" => "Hah! Trying to run away? Pretty sneaky!",
+  "1.0.62.0" => "Guh... Maybe stalling a little bit will give
+my wounds a chance to heal...",
+  "1.0.63.0" => "Unbelievable! I never expected the Master
+Sword would be so powerful!",
+  "1.0.64.0" => "Our position has become disadvantageous... Let us
+retreat to the temple and strike back from within!",
+  "1.0.65.0" => "Gaahhh... You're cheating. Then again, we
+didn't give you much choice, did we?",
+  "1.0.66.0" => "If you want Cia, you'll find her in the Temple
+of Souls. But she's not going to be happy.",
+  "1.0.67.0" => "The Master Sword is amazing! Link, as long
+as we have this, we can't lose!",
+  "1.0.68.0" => "We have our objective--travel to the Temple of
+Souls and use the Master Sword to defeat Cia!",
+  "1.0.69.0" => "We were so close...",
+  "1.0.70.0" => "We let the enemy get the better of us...
+What a shame...",
+  "1.0.71.0" => "I let my guard down... Forgive me!",
+  "1.0.72.0" => "Sorry... They got the best of me...",
+  "1.0.73.0" => "Sorry... I can't keep fighting...",
+  "1.0.74.0" => "Without everyone, the temple doors will remain
+sealed. We have no choice but to start over.",
+  "1.0.75.0" => "If we can't open the door, that's it--there's
+no way in.",
+  "1.0.76.0" => "The temple door is open! He who shall wield
+the Sacred Sword has appeared!",
+  "1.0.77.0" => "Please excuse our trespasses...",
+  "1.0.78.0" => "C'mon, we have to fight through to the
+resting place of the Sacred Sword!",
+  "1.0.79.0" => "According to legend, statues are located to
+the north, south, and west...",
+  "1.0.80.0" => "Stay out of this! I don't have the time to play
+around with you! Could someone assist me?",
+  "1.0.81.0" => "We're being blocked! Hey, could you come
+give me a hand? I could really use it!",
+  "1.0.82.0" => "Well, aren't you a rather large annoyance...
+Hey! Somebody lend me a hand!",
+  "1.0.83.0" => "Good. I am able to proceed.",
+  "1.0.84.0" => "All right! Now I can get on with it!",
+  "1.0.85.0" => "Finally! I was getting impatient!",
+  "1.0.86.0" => "Hiya ha ha... I won't let you go!",
+  "1.0.87.0" => "That's not Lana! Link, take him out!",
+  "1.0.88.0" => "So you've done some shape-shifting?
+I can still spot evil at any distance!",
+  "1.0.89.0" => "The key to victory rests with the wizard's
+defeat! Eliminate him immediately!",
+  "13.0.0.0" => "Is my assistance requested?",
+  "13.0.1.0" => "Allow me to search a bit in that direction.",
+  "13.0.2.0" => "Master, I am detecting a high probability of
+a sealed statue in that direction.",
+  "13.0.3.0" => "Don't worry, I know what to look for!",
+  "13.0.4.0" => "Oh, my! I can help look for sealed statues
+as well!",
+  "13.0.5.0" => "This group of enemies is really beginning to
+bother me... Can someone help?",
+  "13.0.6.0" => "Why, thank you. My search can continue!",
+  "13.0.7.0" => "There are baddies everywhere! I'm trapped!
+I'd be ever so grateful if someone could help...",
+  "13.0.8.0" => "Hooray! I can carry on!",
+  "13.0.9.0" => "Sealed statues... Would that be one?
+I'm sure that it is!",
+  "13.0.10.0" => "Master, I have located one of the sealed
+statues.",
+  "13.0.11.0" => "Aha! A sealed statue! Lovely!",
+  "13.0.12.0" => "Oh! That's a sealed statue, isn't it?",
+  "13.0.13.0" => "It appears a sealed statue has been found...",
+  "13.0.14.0" => "Fi, that is the Statue of Servitude.
+You must get close and awaken it!",
+  "13.0.15.0" => "Affirmative, Princess Zelda.",
+  "13.0.16.0" => "I will remain here until the Statue of
+Servitude has been fully awakened.",
+  "13.0.17.0" => "Ruto, that is the Statue of Wave and Flame.
+You should have the ability to wake it.",
+  "13.0.18.0" => "Well, all right... Let's see if this works...",
+  "13.0.19.0" => "Yeah, OK, I think this may take some time.
+I'll have to stay here until it's fully awake.",
+  "13.0.20.0" => "Agitha, that is the Statue of Twilight. You
+should have the power to awaken it.",
+  "13.0.21.0" => "Oh, can I...?",
+  "13.0.22.0" => "Did that...work...? I'd better stay here and
+keep an eye on this pretty statue!",
+  "13.0.23.0" => "Something really dangerous just appeared!
+Everyone, be careful!",
+  "13.0.24.0" => "Are we still looking for the sealed statues?
+We have to hurry!",
+  "13.0.25.0" => "From what I've heard, there are statues in
+the north, south, and west of this area...",
+  "13.0.26.0" => "I must advise caution! If I am forced to flee,
+the sealed statue will no longer awaken!",
+  "13.0.27.0" => "If you want this statue to wake up,
+you must keep me safe!",
+  "13.0.28.0" => "Oh no! The baddies are here... And the
+pretty statue is still sleeping!",
+  "13.0.29.0" => "You should protect all our allies until such
+a time that the statues fully awaken!",
+  "13.0.30.0" => "Just a little longer... You've got to protect
+everybody!",
+  "13.0.31.0" => "Wonderful! Now we can enter the temple!",
+  "13.0.32.0" => "Master, I do not see a way into the temple
+other than to wait for the statues to awaken.",
+  "13.0.33.0" => "Those guards seem a bit...off... Could someone
+be controlling them?",
+  "13.0.34.0" => "I have discovered an impostor posing as
+Lana! Be on the alert!",
+  "13.0.35.0" => "Ooh, I feel something dark and foreboding
+nearby... Be careful!",
+  "13.0.36.0" => "The statue looks like it's waking up! C'mon,
+little statue! Just a bit more! Rise and shine!",
+  "13.0.37.0" => "Activating the statue has drained me of my
+energy. I am unfit to assist further in battle.",
+  "13.0.38.0" => "Phew, waking that statue up really took it out
+of me! I have to rest. Fight on without me!",
+  "13.0.39.0" => "Oh my, the statue is awake, but now I'm so
+very sleepy... I'll have to catch up later!",
+  "13.0.40.0" => "We'll have to make do with whoever is left!
+Come! To the Sacred Sword Pedestal!",
+  "13.0.41.0" => "The wizard is after the sacred sword?
+No way! Don't let him take it!",
+  "13.0.42.0" => "We're being overwhelmed! Everyone, fall back
+into the temple, then strike back!",
+  "13.0.43.0" => "How tragic...",
+  "13.0.44.0" => "I cannot continue the battle. Forgive me...",
+  "13.0.45.0" => "Ugh, I'm so sorry... I can't go on...",
+  "13.0.46.0" => "Oh my, I'm so sorry... I did the best I could...
+But I can't continue on...",
+  "13.0.47.0" => "We won't be able to open the temple gates
+now... What do we do?",
+  "13.0.48.0" => "There are a lot of really angry customers
+pouring out of the temple!",
+  "13.0.49.0" => "The sacred sword should be beyond here
+somewhere. We have to retrieve it!",
+  "13.0.50.0" => "We've got to awaken the three sealed statues
+found around here if we want into the temple.",
+  "13.0.51.0" => "We'll need all three of your unique abilities
+if we're going to awaken those statues.",
+  "13.0.52.0" => "Impa, that is the Statue of Servitude.
+Get up close and awaken it!",
+  "13.0.53.0" => "Darunia, that is the Statue of Wave and Flame.
+Use the power of fire to awaken it.",
+  "13.0.54.0" => "Midna, that is the Statue of Twilight.
+Your power should awaken it!",
+  "13.0.55.0" => "Now that we have the Master Sword,
+let's take the fight to Cia!",
+  "13.0.56.0" => "You thought you could impersonate Lana to
+confuse us? Your plan has failed!",
+  "13.0.57.0" => "If you think stealing the identity of one of our
+allies will help you, you're sadly mistaken!",
+  "13.0.58.0" => "Hey, that's not Lana! C'mon! Let's show this
+impostor the business end of a hammer!",
+  "13.0.59.0" => "Heh, I can see right through that little fake
+Lana of yours. How stupid do you think I am?!",
+  "13.0.60.0" => "The enemy is trying to trick us into believing
+that that is Lana. Do not be fooled!",
+  "13.0.61.0" => "Hey, cut it out! There's only one Lana on this
+battlefield, and it's ME!",
+}

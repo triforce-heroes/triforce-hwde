@@ -1,0 +1,18 @@
+Map {
+  "0.1.0" => "A0%1sF0R und A0%2sF5R wurden auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF0R hat A0%2sF6R aus den Augen verloren!",
+  "0.3.0" => "Eskortiere A0%1sF6R zu A0%2sF4R!",
+  "0.4.0" => "A0%1sF0R wartet darauf, eskortiert zu werden!",
+  "0.5.0" => "A0%1sF0R rückt in Richtung A0%2sF2R vor!",
+  "0.6.0" => "A0%1sF0R und A0%2sF5R haben einander erreicht!",
+  "0.7.0" => "A0%1sF0R ist dankbar und rückt in Richtung der A0%2sF0R vor!",
+  "0.8.0" => "Eskortiere A0%2sF6R zu A0%1sF4R!",
+  "0.9.0" => "A0%1sF0R ist geflohen!",
+  "0.10.0" => "A0%1sF0R konnte nicht erreicht werden!",
+  "0.11.0" => "A0%1sF0R dreht durch und greift wahllos jeden an!",
+  "0.12.0" => "Vorsicht vor A0%1sF4R!",
+  "0.13.0" => "A0%1sF0R greift A0%2sF6R an!",
+  "0.14.0" => "Besiege A0%1sF6R und rette A0%2sF6R!",
+  "0.15.0" => "A0%1sF0R rückt wieder in Richtung A0%2sF2R vor!",
+  "0.16.0" => "A0%1sF0R wurde besiegt!",
+}

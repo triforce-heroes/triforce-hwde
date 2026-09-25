@@ -1,0 +1,198 @@
+Map {
+  "1.0.0.0" => "Ich werde dir die Macht des Triforce
+niemals überlassen!",
+  "1.0.1.0" => "Diese Macht ist zu viel für dich.
+Gohmas, erobert ihre Festungen!",
+  "1.0.2.0" => "Ohne die Festungen vor den Ruinen sind wir
+erledigt. Verteidigt sie bis zum letzten Atemzug!",
+  "1.0.3.0" => "Ich kümmere mich um den Osten.
+Den Westen überlasse ich dir.",
+  "1.0.4.0" => "Sie haben sie erobert?!
+Holt sie uns zurück!",
+  "1.0.5.0" => "Freut euch nicht zu früh.
+Ich habe hier noch etwas für euch.",
+  "1.0.6.0" => "Jetzt auch noch Manhandla?
+Zerstört dieses Unkraut!",
+  "1.0.7.0" => "Pyroma! Halte Manhandla auf!",
+  "1.0.8.0" => "Meine Wunden sind noch nicht verheilt und
+Ihr behandelt mich wie einen Laufburschen...",
+  "1.0.9.0" => "Ganondorfs Macht ist wahrlich beeindruckend!
+Diese Riesenmonster so spielerisch zu beherrschen...",
+  "1.0.10.0" => "Jetzt haben wir die Gelegenheit für einen
+Gegenangriff! Pyroma, stürz dich auf sie!",
+  "1.0.11.0" => "Nein! Nur einer ist meiner Dienste würdig...
+Ganondorf!",
+  "1.0.12.0" => "Du willst dich mir anschließen? Dann
+führe den Beweis und besiege sie.",
+  "1.0.13.0" => "Hahahaa! Ich werde Euch nicht enttäuschen!",
+  "1.0.14.0" => "Erbärmliche Kreatur... Für deinen Verrat
+verdienst du die Auslöschung!",
+  "1.0.15.0" => "Pyromas Magie wird nicht lang halten. Zuerst
+müssen wir uns um unser Hauptquartier kümmern.",
+  "1.0.16.0" => "Auch wenn mich meine Diener verraten,
+der Held wird mich beschützen...",
+  "1.0.17.0" => "Diese Närrin hat so viel ihrer Magie verbraucht,
+dass sie den Verstand verliert...",
+  "1.0.18.0" => "Es gibt für mich keinen Grund mehr, ihr zu folgen.
+Ich kann mir nur noch einen würdigen Gegner suchen!",
+  "1.0.19.0" => "Ich fordere dich heraus, Ganondorf!
+Kämpfe gegen mich!",
+  "1.0.20.0" => "Ich soll dir also zeigen, wo dein Platz ist?",
+  "1.0.21.0" => "Was? Eine Falle? Aaaaah!",
+  "1.0.22.0" => "Gegen diese Barriere komme ich nicht an.
+Ich werde mich vorerst zurückziehen.",
+  "1.0.23.0" => "Unsere Monster fallen wie die Fliegen...
+Egal, wir brauchen einfach mehr von ihnen!",
+  "1.0.24.0" => "Ich beschwöre noch ein paar...",
+  "1.0.25.0" => "Meine Macht stößt an ihre Grenzen... Das
+Beschwören fällt mir immer... schwerer...",
+  "1.0.26.0" => "Neiiin! Ich will nicht wieder in den Ring!",
+  "1.0.27.0" => "Genug des Geplänkels...
+Wir nehmen uns jetzt die Ruinen!",
+  "1.0.28.0" => "Ich hätte nicht gedacht, dass er noch
+so viel an Reserven hat...",
+  "1.0.29.0" => "Dasss sssind zu viele!
+Wir können unmöglich noch gewinnen!",
+  "1.0.30.0" => "Großer Volga, vergebt unsss!
+Wir müsssen unsss zurückziehen!",
+  "1.0.31.0" => "Ich habe noch den Helden auf meiner Seite!
+Wenn ich ihn noch ein paar Mal beschwöre...",
+  "1.0.32.0" => "Cia! Reiß dich zusammen! Du darfst deine
+Magie nicht so verschleudern!",
+  "1.0.33.0" => "Lana? Was... Was tue ich hier?
+Oh... Ganondorf... Ich muss ihn besiegen...",
+  "1.0.34.0" => "Ich werde dir helfen!
+Gemeinsam können wir Ganondorf aufhalten!",
+  "1.0.35.0" => "Gut und Böse verbünden sich gegen mich...
+Aber sei's drum, zwei Fliegen mit einer Klappe...",
+  "1.0.36.0" => "Ganondorf wird immer stärker.
+Wir müssen ihn schnell besiegen!",
+  "1.0.37.0" => "Ganondorfs Hauptquartier wird von einer
+Finsternisbarriere geschützt.",
+  "1.0.38.0" => "Lichtmagie sollte die Finsternis
+aufheben können. Hilf mir bitte!",
+  "1.0.39.0" => "Wir müssen die Barriere schnell beseitigen!",
+  "1.0.40.0" => "Meine Magie wird die Finsternis vertreiben!",
+  "1.0.41.0" => "Ihr habt also meine Barriere zerstört. Bravo.
+Trotzdem seid ihr mir einfach nicht gewachsen.",
+  "1.0.42.0" => "Ich kann die Magie fühlen...
+Aber es reicht noch nicht...",
+  "1.0.43.0" => "Was ist los?
+Wolltet ihr mich nicht besiegen?",
+  "1.0.44.0" => "Aah! Ich bin von Magie erfüllt.
+Kommt! Ihr sollt euren Kampf haben!",
+  "1.0.45.0" => "Ihr seid nur lästige Insekten...
+Aber ich ziehe mich fürs Erste zurück.",
+  "1.0.46.0" => "Sieht aus, als hätten wir ihn vertrieben!",
+  "1.0.47.0" => "Dann hast du auch keinen Grund
+mehr, hier zu sein. Geh.",
+  "1.0.48.0" => "Cia... Hör doch bitte auf...
+Wenn du noch mehr Magie einsetzt, dann...",
+  "1.0.49.0" => "Verschwinde! I-ich verwende meine
+Magie, wie ich will!",
+  "1.0.50.0" => "Wenn ich dieses Gebiet verliere,
+ist das mein Ende...",
+  "1.0.51.0" => "Ich habe es versucht, aber ich konnte dir nicht helfen...
+Es tut mir so leid, Cia...",
+  "1.0.52.0" => "Lächerliche Kindereien...
+Hier habe ich noch etwas für euch.",
+  "1.0.53.0" => "Hahahaa! Erzittert vor meiner Macht!
+Wenn ich Ernst mache, habt ihr keine Chance!",
+  "1.0.54.0" => "Du kümmerst dich um den Schutz des
+Hauptquartiers, Volga. Das ist ein Befehl!",
+  "1.0.55.0" => "Warum sollte ich dir noch gehorchen?
+Ich tue und lasse, was ich will!",
+  "1.0.56.0" => "Das Hauptquartier ist in Gefahr! Wir müssen
+Manhandlas Bombardement beenden!",
+  "1.0.57.0" => "Das Hauptquartier wird fallen!
+Manhandla muss sofort aufgehalten werden!",
+  "1.0.58.0" => "Sie greifen frontal an!
+Lasst keinen durch!",
+  "1.0.59.0" => "Hahahaha! Mit dem Helden an meiner
+Seite werde ich unbesiegbar sein!",
+  "1.0.60.0" => "Greift ihr von Osten aus an...
+Dann nehmen wir sie in die Zange!",
+  "1.0.61.0" => "Denkt ihr etwa, auf diese Weise
+könntet ihr es mit mir aufnehmen?",
+  "1.0.62.0" => "Hng... Ich konnte sie nicht aufhalten...",
+  "1.0.63.0" => "Was für lästige Störenfriede... Ich werde
+euch die Unterseite meiner Stiefel zeigen!",
+  "1.0.64.0" => "Das war ja nicht der Rede wert.",
+  "1.0.65.0" => "Das kleine Gör heckt irgendetwas aus...
+Aber das werde ich nicht zulassen!",
+  "1.0.66.0" => "Komm mir bloß nicht in den Weg!",
+  "1.0.67.0" => "Danke für die Hilfe, Cia!",
+  "1.0.68.0" => "Schon gut... Jetzt beeil dich und
+zerstöre die Barriere!",
+  "1.0.69.0" => "Vielen Dank für die Hilfe!",
+  "1.0.70.0" => "Nichts zu danken. Ich habe meine Pflicht
+erfüllt, so wie du deine erfüllen solltest!",
+  "13.0.0.0" => "Der Feind darf die Festungen bei den Ruinen
+nicht erobern. Verteidigt sie mit eurem Leben!",
+  "13.0.1.0" => "Ich nehme mir den Osten vor.
+Ihr übernehmt den Westen!",
+  "13.0.2.0" => "Sie haben sie erobert? Worauf wartet ihr?
+Erobert sie wieder zurück!",
+  "13.0.3.0" => "Ausgezeichnet... Zum Gegenangriff!
+Pyroma, greif an!",
+  "13.0.4.0" => "Der Held wird mein Hauptquartier beschützen...
+Dann kann ich mich... um Ganondorf kümmern...",
+  "13.0.5.0" => "Ganondorf! Dieses Mal wird von dir nicht genug
+übrig sein, um dich wieder zusammenzusetzen!",
+  "13.0.6.0" => "E-eine Falle! Neiiin!",
+  "13.0.7.0" => "Du versteckst dich hinter einer Barriere, du Feigling?
+Ich ziehe mich zurück, aber ich kriege dich schon noch!",
+  "13.0.8.0" => "Ich hätte nicht gedacht, dass er noch
+so stark sein würde...",
+  "13.0.9.0" => "Kann es so schnell schon vorbei sein?",
+  "13.0.10.0" => "Cia... Zieht Euch besser zurück.
+So könnt Ihr nicht weiterkämpfen.",
+  "13.0.11.0" => "Sei still! Spar dir deine
+Ratschläge und kämpfe!",
+  "13.0.12.0" => "Unser Hauptquartier ist in Gefahr. Wir müssen
+Manhandlas Bombardement aufhalten...",
+  "13.0.13.0" => "Wenn wir Manhandlas Angriff nicht stoppen,
+verlieren wir unser Hauptquartier!",
+  "13.0.14.0" => "Pyromas Magie wird nicht lange halten. Erledigt
+alle, die sich unserem Hauptquartier nähern!",
+  "13.0.15.0" => "Sie greifen frontal an. Unsere
+Verteidigung muss lückenlos sein!",
+  "13.0.16.0" => "Ha! Reicht wohl nicht ganz!",
+  "13.0.17.0" => "Sie scheinen nicht ganz unfähig zu sein...",
+  "13.0.18.0" => "Das hat Spaß gemacht!",
+  "13.0.19.0" => "Hm... Wir könnten die Gegner vor die Ruinen
+locken und heimlich die Brücke senken...",
+  "13.0.20.0" => "Ruft er etwa neue Monster herbei?",
+  "13.0.21.0" => "Unser Spezialist hat das Hauptquartier
+verlassen. Geleite ihn zu den Ruinen im Osten!",
+  "13.0.22.0" => "Link wird die Feinde im Westen aufhalten.
+Senkt schnell die Brücke!",
+  "13.0.23.0" => "Am besten wäre es, wenn du die Gegner in der
+Mitte ausschaltest, Link.",
+  "13.0.24.0" => "Vorsicht! Aus dem Westen rücken Feinde gegen
+unser Hauptquartier vor!",
+  "13.0.25.0" => "Die Brücke gibt uns endlich Zugang zu den
+Ruinen!",
+  "13.0.26.0" => "Der Spezialist ist erledigt...",
+  "13.0.27.0" => "Cia ist auf der Spitze! Nichts wie hin!",
+  "13.0.28.0" => "Es lebt immer noch? Anscheinend hat es sich
+unter die Erde verzogen...",
+  "13.0.29.0" => "Wir machen das! Gib ihm Saures, Link!",
+  "13.0.30.0" => "Wir machen das! Gib ihm Saures, Link!",
+  "13.0.31.0" => "Unser Hauptquartier wird angegriffen!
+Jemand muss sich darum kümmern!",
+  "13.0.32.0" => "Das Hauptquartier ist fast in der Hand des Feindes!
+Besiege dieses Ding!",
+  "13.0.33.0" => "Schnell, schnell! Das Hauptquartier hält nicht
+mehr lang durch!",
+  "13.0.34.0" => "Das war leider nicht die Kreatur selbst...",
+  "13.0.35.0" => "Jetzt steht nichts mehr zwischen uns und Cia!
+Los, zur Altarstätte!",
+  "13.0.36.0" => "Was ist, Link? Hat's dich erwischt?",
+  "13.0.37.0" => "Vorsicht! Der Feind will unserem
+Spezialisten ans Leder!",
+  "13.0.38.0" => "Die Tore zu den Ruinen sind verschlossen.
+Hier geht es dann wohl nicht weiter.",
+  "13.0.39.0" => "Link und ich stoßen im Osten vor.
+Übernehmt ihr den Westen!",
+}

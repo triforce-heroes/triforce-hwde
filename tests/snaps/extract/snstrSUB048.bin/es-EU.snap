@@ -1,0 +1,13 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario «Los mensajeros enemigos»!",
+  "0.1.0" => "Not Used, scnarioSUB048_mes, 1",
+  "0.2.0" => "¡A0%1sF0R avanza para solicitar refuerzos!",
+  "0.3.0" => "¡Vence A0%1sF4R antes de que solicite refuerzos!",
+  "0.4.0" => "¡A0%1sF0R ha llegado a su destino y ha conseguido refuerzos!",
+  "0.5.0" => "¡Las A0%2sF1R han recibido refuerzos gracias A0%1sF4R!",
+  "0.6.0" => "¡Has impedido que se solicitasen refuerzos!",
+  "0.7.0" => "¡Has derrotado A0%1sF4R!",
+  "0.8.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.9.0" => "Not Used, scnarioSUB048_mes, 9",
+  "0.10.0" => "¡A0%1sF0R ha abandonado el campo de batalla!",
+}

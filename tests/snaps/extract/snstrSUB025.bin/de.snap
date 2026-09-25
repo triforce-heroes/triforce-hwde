@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF0R rückt gegen die A0%2sF7R vor!",
+  "0.3.0" => "A0%1sF0R nimmt an, dass A0%2sF5R angegriffen hat, und ist nun verwirrt!",
+  "0.4.0" => "Besiege A0%1sF6R schnell und rette A0%2sF6R!",
+  "0.5.0" => "A0%1sF0R hat den Kampf mit A0%2sF4R aufgenommen!",
+  "0.6.0" => "A0%1sF0R wurde besiegt!",
+  "0.7.0" => "A0%1sF0R weicht dem Angriff von A0%2sF4R vorübergehend aus!",
+  "0.8.0" => "A0%1sF0R hat die A0%2sF3R hintergangen und wurde erneut auf dem Schlachtfeld gesichtet!",
+  "0.9.0" => "A0%1sF0R ist wütend und rückt gegen A0%2sF6R vor!",
+  "0.10.0" => "A0%1sF0R darf nicht fliehen!",
+}

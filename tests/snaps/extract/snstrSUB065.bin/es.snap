@@ -1,0 +1,9 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario "Invocación en batalla"!",
+  "0.1.0" => "¡Ha aparecido un A2invocadorR en el campo de batalla!",
+  "0.2.0" => "¡El A2invocadorR ha hecho aparecer A0%2sF1R cerca A0%1sF6R!",
+  "0.3.0" => "¡Vence al A2invocadorR para impedir que solicite más refuerzos!",
+  "0.4.0" => "¡El A2invocadorR ha dejado el campo de batalla!",
+  "0.5.0" => "¡Has vencido al A2invocadorR!",
+  "0.6.0" => "¡El A2invocadorR ha hecho aparecer más A0%1sF1R!",
+}

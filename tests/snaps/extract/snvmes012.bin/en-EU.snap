@@ -1,0 +1,340 @@
+Map {
+  "1.0.0.0" => "We have entered the Valley of Seers, but our
+forces are split between the east and west.",
+  "1.0.1.0" => "The darkness courses through my veins...
+The Hyrulean Forces are but playthings to me!",
+  "1.0.2.0" => "The sanctums have been taken over, locking
+their power away! That's the monsters' secret!",
+  "1.0.3.0" => "Looks like the enemy has gained strength
+again. But I won't lose!",
+  "1.0.6.0" => "If we make for the sanctum, we can
+take back the sacred power!",
+  "1.0.7.0" => "The sanctum! If we head there,
+we can take back the sacred power!",
+  "1.0.8.0" => "By the end of this battle, Cia will be no
+more... May we bring glory to Hyrule!",
+  "1.0.9.0" => "Impa, this is our chance to secure peace for
+Hyrule and the forces of light!",
+  "1.0.10.0" => "Do you see from where the evil power rises?
+A sanctum must be located there.",
+  "1.0.11.0" => "See that evil power rising up over there?
+That must be where a sanctum is!",
+  "1.0.14.0" => "I can confirm sanctums in the east and
+the west. Shall we attack the nearest?",
+  "1.0.15.0" => "There are sanctums in the east and the west.
+You should capture the one closest to you!",
+  "1.0.16.0" => "I'll handle the enemies coming at us--you
+handle the sanctums!",
+  "1.0.17.0" => "I can take on the advancing enemies.
+You just worry about the sanctums.",
+  "1.0.18.0" => "There's a sanctum over there too!",
+  "1.0.19.0" => "It appears a sanctum is located over there
+as well!",
+  "1.0.20.0" => "Master, the West Sanctum has been
+captured. Proceed to the East Sanctum.",
+  "1.0.21.0" => "The West Sanctum is ours! That just leaves
+the East Sanctum, right?",
+  "1.0.22.0" => "Both the West and the East Sanctums have
+been captured, but a Dark Power persists...",
+  "1.0.23.0" => "Huh? We captured both the East and West
+Sanctums, but the Dark Power is still here!",
+  "1.0.24.0" => "Don't lose your focus--there's supposed
+to be one more sanctum out there!",
+  "1.0.25.0" => "We have broken the sanctum's seal and
+diminished the enemy's power!",
+  "1.0.26.0" => "Lana, where is the other sanctum?
+Can you remember?",
+  "1.0.27.0" => "There are three sanctums... One in the east,
+one in the west, and... Right! Head south!",
+  "1.0.28.0" => "Let me go looking for it! I feel like
+I can almost remember where it is!",
+  "1.0.29.0" => "I was RIGHT! Everyone, the final sanctum's
+right here!",
+  "1.0.30.0" => "We found it! That's wonderful!",
+  "1.0.31.0" => "You found the sanctum! Phew. That is
+a wonderful relief.",
+  "1.0.32.0" => "The Dark Power has weakened. This battle
+should shift in our favor!",
+  "1.0.33.0" => "So you managed to retake all three sanctums?
+Hmm. I don't think I like surprises.",
+  "1.0.34.0" => "The enemy has taken the West Sanctum!
+We must reclaim it!",
+  "1.0.35.0" => "The West Sanctum was taken? No!
+We need it back!",
+  "1.0.36.0" => "The East Sanctum is under enemy control!
+We must reclaim it immediately!",
+  "1.0.37.0" => "They took the East Sanctum? Not while I'm
+around! We have to take it back!",
+  "1.0.38.0" => "The South Sanctum has fallen to our
+enemies! It is vital that we reclaim it!",
+  "1.0.39.0" => "The South Sanctum fell to the enemy?
+We don't have time for this--take it back!",
+  "1.0.40.0" => "It's cute how you all believe you can defeat
+me... But I won't find it cute much longer!",
+  "1.0.41.0" => "Oh no! The enemy is going after Princess
+Zelda!",
+  "1.0.42.0" => "Oh no! The enemy is going after Princess
+Ruto!",
+  "1.0.43.0" => "Are you getting bored? Let me help
+with that! Second unit, advance!",
+  "1.0.44.0" => "Still not satisfied? I've given this next batch
+of troops a bit of...an enhancement.",
+  "1.0.45.0" => "A powerful regiment is heading toward
+Princess Zelda! We have to protect her!",
+  "1.0.46.0" => "A powerful regiment is heading toward
+Princess Ruto! We have to protect her!",
+  "1.0.47.0" => "This next batch is simply to DIE for! I hope
+you don't mind that I made it extra strong!",
+  "1.0.48.0" => "Cia--this is your work, isn't it?!",
+  "1.0.49.0" => "Her soul has been corrupted...
+And all in pursuit of ultimate power...",
+  "1.0.50.0" => "She's stained her heart black to tap into
+some sort of ultimate power...",
+  "1.0.51.0" => "Zelda, the time to awaken my power is
+upon us! Come to me!",
+  "1.0.52.0" => "Ruto, the time to awaken my power is
+upon us! Come to me!",
+  "1.0.53.0" => "For releasing the three sanctums, my power is
+yours!",
+  "1.0.54.0" => "The Great Fairy has summoned me!
+I must hurry to the Fairy Fountain!",
+  "1.0.55.0" => "I swear I heard the Great Fairy's voice just
+now... I have to go to the Fairy Fountain!",
+  "1.0.56.0" => "Princess Zelda, it's dangerous to go alone.
+Take me!",
+  "1.0.57.0" => "I don't recommend doing this alone.
+I'm coming too!",
+  "1.0.58.0" => "Hey, don't hog all the fun! I'm coming too!",
+  "1.0.59.0" => "It sounds dangerous. Let me come too!",
+  "1.0.60.0" => "I should probably tag along. You're less
+likely to get into trouble if I'm there.",
+  "1.0.61.0" => "It could be pretty treacherous. I'd better come
+along!",
+  "1.0.62.0" => "The Great Fairy has instructed us to make this
+area our base! Let us not disappoint her!",
+  "1.0.63.0" => "The Great Fairy told us to make this our new
+base! We have to obey!",
+  "1.0.64.0" => "We must draw as many enemies as possible
+to the area north of the fountain!",
+  "1.0.65.0" => "We have to gather as many enemies as we
+can in the area north of the fountain!",
+  "1.0.66.0" => "I shall use the Magic Circle to defeat the
+enemies in one powerful sweep!",
+  "1.0.67.0" => "I'll use the fountain's Magic Circle to wipe out
+the enemies with one massive magical strike!",
+  "1.0.68.0" => "I can draw the enemies over from the east!",
+  "1.0.69.0" => "I can handle the enemies in the east!",
+  "1.0.70.0" => "We must draw in the enemies from the west
+as well!",
+  "1.0.71.0" => "Pull in the enemies from the west as well!",
+  "1.0.72.0" => "We're being attacked right now!
+Sorta stuck at the moment!",
+  "1.0.73.0" => "The enemy is attacking us!
+They're holding up our advance!",
+  "1.0.74.0" => "Thanks! I owe you one!",
+  "1.0.75.0" => "I'm glad you came!
+You really saved me there!",
+  "1.0.76.0" => "Allow me to destroy the enemy reinforcements.
+We can't let them find the Magic Circle!",
+  "1.0.77.0" => "I'll stop the enemy reinforcements. I will NOT
+let them get any closer to the fountain!",
+  "1.0.78.0" => "Leave the enemy reinforcements to us!",
+  "1.0.79.0" => "We can take care of the enemy reinforcements!",
+  "1.0.80.0" => "The enemy may have made it to me, but that
+is as far as they get!",
+  "1.0.81.0" => "I never thought the enemy'd get this far...
+No matter! They're not getting past me!",
+  "1.0.82.0" => "Volga, would you like a taste of my power?
+You can borrow it if you promise to play nice!",
+  "1.0.83.0" => "Urg... Gyaaarh!",
+  "1.0.84.0" => "Wh-what? S-something's not right about this
+guy! I've never felt power like this before!",
+  "1.0.85.0" => "The dragon knight has become extremely
+dangerous. Don't get careless!",
+  "1.0.86.0" => "Approaching the dragon knight is extremely
+dangerous! Use caution!",
+  "1.0.87.0" => "My power is flowing like blood from a wound...
+Volga, use it and make yourself useful!",
+  "1.0.88.0" => "Volga, you don't have time to play around!
+I need you to destroy the Hyruleans NOW!",
+  "1.0.89.0" => "Graagh! This power...is never-ending!
+I...am...INVINCIBLE!",
+  "1.0.90.0" => "Every time we kill him, he just keeps getting
+back up! How are we supposed to stop him?!",
+  "1.0.91.0" => "How are we expected to slay an invincible
+beast?!",
+  "1.0.92.0" => "Now! Use the Magic Circle!",
+  "1.0.93.0" => "Now! Use the Magic Circle!",
+  "1.0.94.0" => "Hah! Why are you acting so miserable?
+Put those Hyrulean fools in their place!",
+  "1.0.95.0" => "Impressive... But not the most impressive
+thing I've ever seen!",
+  "1.0.96.0" => "Hah! Is that your idea of magic? What
+a pity it was so...underwhelming!",
+  "1.0.97.0" => "Ruarrrgh! Prepare to meet your fate!",
+  "1.0.98.0" => "Hrah! The enemy commander is MINE!",
+  "1.0.99.0" => "Can you really take pleasure from resorting to
+dark magic to win your battles?",
+  "1.0.100.0" => "It's pathetic that you have to resort to dark
+magic to win your fights!",
+  "1.0.101.0" => "Haaaaa... Don't mock me!",
+  "1.0.102.0" => "Open your eyes! I believed you to be a proud
+dragon warrior, not a sellsword for darkness!",
+  "1.0.103.0" => "Open your eyes! Don't you have any pride
+left?",
+  "1.0.104.0" => "No... NO! I won't be ruled by darkness!",
+  "1.0.105.0" => "This battle is nearly at an end... Now let me
+show you how a true warrior finishes a fight!",
+  "1.0.106.0" => "I will show you my true strength!",
+  "1.0.107.0" => "I lose, but I do so without regrets...",
+  "1.0.108.0" => "Let go of your inhibitions! Don't let a single
+one of them survive!",
+  "1.0.109.0" => "Cia... No more... Please...",
+  "1.0.110.0" => "Cia is the final challenge standing in our way.
+You must finish her off!",
+  "1.0.111.0" => "Cia's all that remains. You have to finish her!",
+  "1.0.112.0" => "A-ha-ha! Just wait. I'll entertain you
+even more!",
+  "1.0.113.0" => "A-ha-ha-ha! No one can stop me now!",
+  "1.0.114.0" => "Leave the base's defense to me.
+Cia is your responsibility!",
+  "1.0.115.0" => "I'll take care of defending our base.
+You just worry about taking Cia down!",
+  "1.0.116.0" => "Don't die out there... If you do, I won't talk
+to you anymore!",
+  "1.0.117.0" => "Return alive...OK?",
+  "1.0.118.0" => "Finish this once and for all!",
+  "1.0.119.0" => "I believe in you. To victory!",
+  "1.0.120.0" => "Do you really think you can defeat me?
+Mwa ha ha! Why don't you disappear?!",
+  "1.0.121.0" => "Hnnn--! You...will...DIE!",
+  "1.0.122.0" => "Losing now is unforgivable...
+I'm...so sorry, everyone...",
+  "1.0.123.0" => "How could I lose...? I'm so sorry!",
+  "1.0.124.0" => "Without a base...we have no hope...",
+  "1.0.125.0" => "We've lost our base? No! Then we've lost!",
+  "1.0.126.0" => "Lana... I thought this is what you wanted...",
+  "1.0.127.0" => "Cia...",
+  "1.0.128.0" => "C'mon, Link! You can't give up now!
+It's all or nothing time!",
+  "1.0.129.0" => "I won't give up here! For Princess Zelda...
+For Hyrule... I'll stand my ground!",
+  "1.0.130.0" => "The going's getting tough...but when has
+that ever stopped a Goron before?!",
+  "1.0.131.0" => "Boy, this situation is getting bad... But whining
+isn't going to solve anything. Get ready!",
+  "1.0.132.0" => "I will carry out my mission, even if it means
+my destruction.",
+  "1.0.133.0" => "Cia must be stopped... I'll do it myself if
+there's no other way!",
+  "1.0.134.0" => "The situation looks hopeless, but when has
+that ever deterred me from something?",
+  "1.0.135.0" => "Volga lost? Well of course he did...
+I'm surrounded by failures!",
+  "1.0.136.0" => "I'll lend you some of my magic. So hurry
+and stop them from advancing!",
+  "1.0.137.0" => "Fairy Fountain, got it. I'm on my way!",
+  "1.0.138.0" => "All right! One of Cia's doubles is down!",
+  "1.0.139.0" => "Heh... So one of my doubles has
+disappeared. It's nothing!",
+  "1.0.140.0" => "Confirmed that the second double of Cia
+has been defeated.",
+  "1.0.141.0" => "Kiyaaaa! Bothersome fools!",
+  "1.0.142.0" => "Stop your insolent foolishness! I'll never
+forgive this! All of you are done for!",
+  "1.0.143.0" => "Cia...I'll finish you myself!",
+  "13.0.0.0" => "The monsters control the sanctums!
+That must be why their power keeps growing!",
+  "13.0.1.0" => "We must head for the Goddess Sanctums and
+reclaim their sacred power!",
+  "13.0.2.0" => "Impa, this is our chance to claim victory and
+restore peace to Hyrule!",
+  "13.0.3.0" => "You see where that evil power's coming from?
+The Goddess Sanctums must be located there!",
+  "13.0.4.0" => "There are Sanctums in the east and the west.
+Capture the Sanctum closest to you!",
+  "13.0.5.0" => "Leave the enemies to me. You just focus on
+reclaiming those Sanctums!",
+  "13.0.6.0" => "The Dark Power has weakened! This battle
+is shifting in our favor!",
+  "13.0.7.0" => "Looks like the West Sanctum is ours!
+OK, time to head for the East Sanctum!",
+  "13.0.8.0" => "We've captured both the Sanctums in the east
+and west, yet the Dark Power remains...",
+  "13.0.9.0" => "The Dark Power is weakening! Our victory is
+looking more assured every minute!",
+  "13.0.10.0" => "Someone took the West Sanctum from us?
+No! We need it back! Go get it!",
+  "13.0.11.0" => "The East Sanctum was taken from us?
+That will not do! We must reclaim it!",
+  "13.0.12.0" => "The South Sanctum has fallen into the
+enemy's hands? Oh, no no, go take it back!",
+  "13.0.13.0" => "Oh no! The enemy is attacking Princess Ruto!",
+  "13.0.14.0" => "A really powerful-looking group is heading
+toward Princess Ruto! We've got to help!",
+  "13.0.15.0" => "Her heart was cursed, all for the fleeting
+power that darkness can provide...",
+  "13.0.16.0" => "Ruto... The time to use my power is at hand...
+Come to me!",
+  "13.0.17.0" => "Great Fairy? Is that you? Everyone, I have to
+head to the Fairy Fountain!",
+  "13.0.18.0" => "You're going to need help, which is why I'm
+coming, too.",
+  "13.0.19.0" => "I wouldn't suggest going alone. Let me come
+with you, just in case!",
+  "13.0.20.0" => "The Great Fairy instructed me to make this
+location our base!",
+  "13.0.21.0" => "Also, we have to draw as many enemies into
+the fountain's north square as possible!",
+  "13.0.22.0" => "I'll use this fountain's Magic Circle to destroy
+them all in one big attack!",
+  "13.0.23.0" => "I'll draw the enemies in the east!",
+  "13.0.24.0" => "And someone should draw the enemies
+from the west, too!",
+  "13.0.25.0" => "The enemy is attacking us! We're really
+getting slowed down...",
+  "13.0.26.0" => "I am glad you came to help! It should make
+a huge difference!",
+  "13.0.27.0" => "I'll stop the enemy reinforcements! They won't
+get anywhere near the fountain's Magic Circle!",
+  "13.0.28.0" => "Leave the enemy reinforcements to me!
+I can handle them, no problem!",
+  "13.0.29.0" => "Wow, I didn't expect they'd get this far...
+Fine, then they'll have to get through ME!",
+  "13.0.30.0" => "Watch out for that dragon knight! He's not
+going to be a pushover!",
+  "13.0.31.0" => "Invincible? Hah! No one is invincible!
+Shall we put him in his place?",
+  "13.0.32.0" => "Use the Magic Circle! Now's our chance!",
+  "13.0.33.0" => "You call this winning? Pathetic. I once believed
+you were an honorable warrior.",
+  "13.0.34.0" => "Where has your honor gone? Are you
+content being a mindless servant?",
+  "13.0.35.0" => "Cia's the last obstacle standing in our way.
+Let's finish this!",
+  "13.0.36.0" => "Don't give up! You can do it!",
+  "13.0.37.0" => "Leave the scraps to me. You have more
+important foes to deal with!",
+  "13.0.38.0" => "Hey... Come back alive, OK?",
+  "13.0.39.0" => "I believe in us, so we can't lose!",
+  "13.0.40.0" => "Forced to flee? Oh, the shame...",
+  "13.0.41.0" => "Our base has fallen?! No!
+Then that's it, huh? We've lost...",
+  "13.0.42.0" => "We made it to the Valley of Seers, but our
+troops are split between the east and the west.",
+  "13.0.43.0" => "There's a Sanctum over there as well!",
+  "13.0.44.0" => "So you found the Sanctum!
+That's wonderful!",
+  "13.0.45.0" => "You can't go off on your own! Not now!
+Let me come, too!",
+  "13.0.46.0" => "I won't flee, and I won't fall! Losing
+to these monsters is NOT an option!",
+  "13.0.47.0" => "I'm not about to give up or run
+away! I'm standing firm!",
+  "13.0.48.0" => "These monsters had better not expect
+me to flee, or they'll be very sorry!",
+  "13.0.49.0" => "Do you believe the Zora to be
+weak cowards? Think again!",
+  "13.0.50.0" => "I won't even entertain the idea of
+fleeing or falling in battle today!",
+}

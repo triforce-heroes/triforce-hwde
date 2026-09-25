@@ -1,0 +1,163 @@
+Map {
+  "1.0.0.0" => "Monster! Hilfe!",
+  "1.0.1.0" => "Cia, hör auf!
+Was haben dir die armen Feen denn getan?",
+  "1.0.2.0" => "Du beschützt also diese Feen, Lana? Sei ein
+braves Mädchen und geh mir aus dem Weg, ja?",
+  "1.0.3.0" => "Wir können Cia nicht allein aufhalten.
+Wir müssen in Schloss Hyrule um Hilfe bitten!",
+  "1.0.4.0" => "Die Hylianier kann ich hier noch nicht
+gebrauchen... Schnappt euch die Boten!",
+  "1.0.5.0" => "Keine Sorge! Wir holen Hilfe!",
+  "1.0.6.0" => "Erobert die Festungen und öffnet ihre Tore!",
+  "1.0.7.0" => "Was sollen wir nur tun?!
+Hier ist alles voller Monster!",
+  "1.0.8.0" => "Ich werde versuchen, uns etwas Zeit zu verschaffen!
+Verstecke dich bei den anderen Feen!",
+  "1.0.9.0" => "Ihr im Norden! Ihr müsst auch fliehen!
+Sofort!",
+  "1.0.10.0" => "Ich werde dich aufhalten, Cia!",
+  "1.0.11.0" => "Grrm... Lasst nicht noch
+mehr von ihnen entkommen!",
+  "1.0.12.0" => "Sie sind entkommen... Jetzt haben
+wir wohl bald die Hylianer am Hals.",
+  "1.0.13.0" => "Ha... Vor mir gibt es kein Entkommen.",
+  "1.0.14.0" => "Das genügt. Wir haben unser Ziel erreicht.",
+  "1.0.15.0" => "Ich kann nicht glauben, dass über die
+Hälfte von ihnen entkommen ist.",
+  "1.0.16.0" => "Wir haben sie ALLE entkommen lassen?
+Wie erbärmlich...",
+  "1.0.17.0" => "Die Hylianer werden uns helfen!
+Wir müssen nur durchhalten!",
+  "1.0.18.0" => "Sie haben also Verstärkung erhalten?
+Egal, mir ist niemand gewachsen!",
+  "1.0.19.0" => "Wie konnten all diese Ungeheuer so
+plötzlich hier auftauchen?",
+  "1.0.20.0" => "Das ist ihre Prinzessin! Vergesst die Feen!
+Die hylianische Prinzessin ist jetzt das Ziel!",
+  "1.0.21.0" => "Vorwärts! Für den Frieden in Hyrule!",
+  "1.0.22.0" => "Sollen sie doch kommen... Sie werden
+schon sehen, was sie davon haben!",
+  "1.0.23.0" => "Die Monster scheinen stark zu sein...
+Ich sollte wohl besser eingreifen!",
+  "1.0.24.0" => "Oh, einer ihrer Generäle wagt sich hervor. Erledigt sie!
+Wir werden die Prinzessin das Fürchten lehren!",
+  "1.0.25.0" => "Ich habe versagt... Prinzessin Zelda...
+Ich muss mich zurückziehen...",
+  "1.0.26.0" => "Wenn sie sogar zu stark für Lady Impa sind,
+gibt es überhaupt noch Hoffnung für uns?",
+  "1.0.27.0" => "Die Feen sind in Sicherheit.
+Jetzt liegt es an den Hylianern.",
+  "1.0.28.0" => "Pah... Ihre Soldaten sind nichts als Maulhelden.
+Kümmert euch um sie. Viel Spaß.",
+  "1.0.29.0" => "Wer Hyrule bedroht, wird von mir persönlich
+zur Rechenschaft gezogen!",
+  "1.0.30.0" => "Prinzessin Zelda kämpft tapfer...
+Auch wir müssen alles geben!",
+  "1.0.31.0" => "... ... ... ...",
+  "1.0.32.0" => "Was hast du hier verloren, Grünschnabel?
+Hier ist es gefährlich! Verschwinde! ... Hey!",
+  "1.0.33.0" => "Ihre Prinzessin hat sich gezeigt! Dann
+wollen wir einmal sehen, was sie vermag!",
+  "1.0.34.0" => "Soldaten von Hyrule! Stellt euch mir, wenn
+ihr glaubt, es mit mir aufnehmen zu können!",
+  "1.0.35.0" => "Dieser Drachenritter ist aus einem anderen Holz
+geschnitzt als die anderen Monster. Seid auf der Hut!",
+  "1.0.36.0" => "Halt! Bisss hier und nicht weiter!",
+  "1.0.37.0" => "Unterschätze sssie nicht! Sssie issst ssstark!",
+  "1.0.38.0" => "Dieser Junge ist unglaublich!",
+  "1.0.39.0" => "Verliert nicht die Hoffnung!",
+  "1.0.40.0" => "Prinzessin Zelda! Wir kämpfen an Eurer Seite!",
+  "1.0.41.0" => "Wir werden den Frieden in Hyrule verteidigen!",
+  "1.0.42.0" => "Genau! Wir allein können Hyrule beschützen!",
+  "1.0.43.0" => "Ich kämpfe weiter! Folgt mir!",
+  "1.0.44.0" => "Wenn sogar die Prinzessin kämpft,
+müssen auch wir unser Bestes geben!",
+  "1.0.45.0" => "... ... ... ... ... !",
+  "1.0.46.0" => "Wir müssen uns zurückziehen und neu
+gruppieren...",
+  "1.0.47.0" => "Sie haben sich ins Schloss zurückgezogen.
+Dann wollen wir mal anklopfen!",
+  "1.0.48.0" => "Wir haben sie unterschätzt...
+Versuchen wir es noch einmal!",
+  "1.0.49.0" => "Ich habe sie unterschätzt.
+Ich muss es erneut versuchen.",
+  "1.0.50.0" => "Es darf so nicht enden...",
+  "1.0.51.0" => "Wir haben sie entkommen lassen...",
+  "1.0.52.0" => "Wir werden überrannt!",
+  "1.0.53.0" => "Hmpf. Noch haben wir nicht verloren. Schnell,
+sammelt die Truppen für einen Gegenangriff!",
+  "1.0.54.0" => "Alle zu mir! Jeder, der noch
+eine Waffe halten kann!",
+  "1.0.55.0" => "Schneller! Wir müssen uns beeilen!",
+  "1.0.56.0" => "Der Plan scheint aufgegangen zu sein.
+Jetzt bin ich an der Reihe!",
+  "1.0.57.0" => "Los, wir greifen an! Unser Ziel ist
+das feindliche Hauptquartier!",
+  "1.0.58.0" => "Unglaublich! Solch schwache Gegner,
+und wir konnten sie nicht aufhalten!",
+  "1.0.59.0" => "Der Plan ist fehlgeschlagen...
+Aber wir dürfen nicht einfach weglaufen!",
+  "1.0.60.0" => "Lady Impa wurde besiegt?!
+Jetzt haben wir keine Chance mehr.",
+  "13.0.0.0" => "Hahahaa! Erobert diese Festung
+und reißt ihre Tore auf!",
+  "13.0.1.0" => "Was soll das werden, ihr Narren? Wenn ihr noch
+mehr entkommen lasst, werdet ihr mir das büßen!",
+  "13.0.2.0" => "Ihr habt sie entkommen lassen?
+Nutzloses Pack...",
+  "13.0.3.0" => "Ihr seid dem Hilferuf der Boten tatsächlich gefolgt?
+Wie widerwärtig edelmütig...",
+  "13.0.4.0" => "Nicht besonders klug, sich freiwillig zu zeigen!
+Ich werde ihr ein Ende bereiten!",
+  "13.0.5.0" => "Die Prinzessin! Das Schloss!
+Alles meins! Meins! Hahahaaa!",
+  "13.0.6.0" => "Hütet euch vor dem Hexer!
+Wir müssen wachsam sein!",
+  "13.0.7.0" => "Sie haben unser Hauptquartier erobert?
+Jetzt müssen wir von vorn anfangen!",
+  "13.0.8.0" => "Beim Weglaufen macht dir keiner etwas vor...",
+  "13.0.9.0" => "Dieser Drachenkrieger darf uns nicht abhängen!",
+  "13.0.10.0" => "Vergebt mir, Prinzessin Zelda! Der Feind hat mir eine Falle gestellt...",
+  "13.0.11.0" => "Jetzt sollten wir in der Lage sein, unsere Feinde
+zurückzudrängen. Verlieren wir keine Zeit!",
+  "13.0.12.0" => "Impa, alles in Ordnung?",
+  "13.0.13.0" => "Du bist... ein Rekrut?",
+  "13.0.14.0" => "Wir müssen die Hauptfestungen und die östlichen
+Festungen erobern und ihre Nordtore schließen!",
+  "13.0.15.0" => "Ich bereite den Plan vor. Prinzessin Zelda, bitte
+übernehmt die Eroberung der Festungen!",
+  "13.0.16.0" => "Wir haben die Hauptstreitmacht des Feindes nach
+Norden gedrängt! Jetzt brauchen wir die Große Fee.",
+  "13.0.17.0" => "Wenn der Plan funktioniert, ist uns der Sieg gewiss.
+Folge mir zur Großen Fee bei der Quelle der Göttin!",
+  "13.0.18.0" => "Wenn wir nur eine Bombe hätten...
+Dann kämen wir durch den Eingang zur Quelle...",
+  "13.0.19.0" => "Schnell! Spreng den Eingang frei, damit wir die
+Quelle der Göttin betreten können!",
+  "13.0.20.0" => "Achtung!
+Der Feind greift uns von Norden an!",
+  "13.0.21.0" => "Du sagst, die Ostfeld-Festung wurde erobert?",
+  "13.0.22.0" => "Hier entlang!
+Beten wir gemeinsam zur Großen Fee!",
+  "13.0.23.0" => "Prinzessin Zelda, der Plan war ein großer Erfolg!
+Wir haben ihnen schwere Verluste zugefügt!",
+  "13.0.24.0" => "Prinzessin Zelda, der Plan war ein Erfolg!
+Wir haben ihnen Verluste zugefügt!",
+  "13.0.25.0" => "Impa, ich übernehme...
+Führe du die hylianischen Truppen!",
+  "13.0.26.0" => "Verstanden! Viel Glück, Hoheit!",
+  "13.0.27.0" => "Wir haben es geschafft! Das haben wir nur
+eurem Kampfgeist zu verdanken!",
+  "13.0.28.0" => "Prinzessin Zelda, schreckliche Neuigkeiten!
+Der Feind hat das Schloss erobert!",
+  "13.0.29.0" => "Wir müssen Hyrule verteidigen! Schnell, Link!",
+  "13.0.30.0" => "Damit müsste ich die Felsen zerstören und zu Impa
+gelangen können!",
+  "13.0.31.0" => "Prinzessin Zelda! Bitte sehr!
+Das wird eure Bomben stärker machen!",
+  "13.0.32.0" => "Prinzessin Zelda...",
+  "13.0.33.0" => "Diese Felsen stehen zwischen uns und Impa...
+Wenn wir sie nur zerstören könnten!",
+  "13.0.34.0" => "Sieh nur, Link! Da! Die Prinzessin!",
+}

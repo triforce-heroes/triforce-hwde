@@ -1,0 +1,338 @@
+Map {
+  "0.0.0" => "The Triforce is the harmonious union of Power,
+Wisdom, and Courage.",
+  "0.1.0" => "It has been the object of countless battles between
+the forces of light and darkness.",
+  "0.2.0" => "Each time the Triforce fell into the clutches of evil,
+Hyrule was plunged into misery.",
+  "0.3.0" => "But in every age, a hero clad in green would restore
+peace to the land.",
+  "0.4.0" => "During one of these dark times, the legendary hero
+split the spirit of evil into four fragments...",
+  "0.5.0" => "sealing each away to finally break the cycle of
+destruction.",
+  "0.6.0" => "Three of the fragments were scattered across time and space.",
+  "0.7.0" => "The final fragment was sealed in a sacred temple built upon
+holy ground, imprisoned by the blade of evil's bane.",
+  "1.0.0" => "For generations, Hyruleans have told the tale of the
+War Across the Ages.",
+  "1.1.0" => "This is how it begins...",
+  "1.2.0" => "Deep in the forests, far from mortal eyes, a great sorceress
+watched over the balance of the Triforce.",
+  "1.4.0" => "Through her magic, she could see across ages, able to
+read the fates of all who lived, but never interfering.",
+  "1.6.0" => "That is, until a unique soul caught her attention...",
+  "1.7.0" => "The soul of the Hero of Legend, eternally reborn when
+Hyrule's need is greatest.",
+  "1.9.0" => "Through her powers, the sorceress should have seen
+that the hero was bound to another.",
+  "1.10.0" => "Instead she saw only a soul that was unlike any she
+had known.",
+  "1.11.0" => "And while the sorceress was preoccupied, a fragment of
+darkness, locked in its prison, saw an opportunity.",
+  "1.13.0" => "The whispering darkness wormed its way into her heart.",
+  "1.14.0" => "It pushed the light away and warped her curiosity into a
+desperate desire to possess the legendary hero's soul.",
+  "1.16.0" => "Of course, this evil had its own desires...",
+  "1.17.0" => "To use the Triforce to resurrect itself and conquer Hyrule
+once again.",
+  "1.18.0" => "Having pushed the light from her heart, the darkness
+compelled her to open the Gate of Souls, the doorway
+of time itself.",
+  "1.20.0" => "Monsters from across the ages poured through the gate,
+bringing ruin to the land of Hyrule once more.",
+  "2.0.0" => "Impa...the same nightmare keeps haunting me...",
+  "2.1.0" => "An omen, perhaps, of dark times ahead for Hyrule...",
+  "2.2.0" => "Dark times...?",
+  "2.3.0" => "If that is indeed true, we must locate...him....",
+  "2.4.0" => "We must find the reborn spirit of the hero.",
+  "2.5.0" => "We will find no fully-fledged heroes here...",
+  "2.6.0" => "We'd be wiser looking elsewhere.",
+  "2.7.0" => "Your Highness!",
+  "2.8.0" => "A horde of monsters is marching toward Hyrule Castle!",
+  "2.9.0" => "Impa, prepare the troops for battle!",
+  "2.10.0" => "Whoa, isn't that the princess?",
+  "2.11.0" => "What's she wasting her time with us for?",
+  "2.12.0" => "So...I guess we just wait to hear what happened?",
+  "2.13.0" => "Hey, Link!",
+  "2.14.0" => "What d'you think you're doing with that sword?!",
+  "2.15.0" => "Zelda",
+  "2.16.0" => "Impa",
+  "2.17.0" => "Zelda",
+  "2.18.0" => "Impa",
+  "2.19.0" => "Impa",
+  "2.20.0" => "Impa",
+  "2.21.0" => "Impa",
+  "2.22.0" => "Soldier",
+  "2.23.0" => "Soldier",
+  "2.24.0" => "Zelda",
+  "2.25.0" => "Trainee",
+  "2.26.0" => "Trainee",
+  "2.27.0" => "Trainee",
+  "2.28.0" => "Trainee",
+  "2.29.0" => "Trainee",
+  "3.0.0" => "Everyone, gather around me!",
+  "3.1.0" => "Gate of Souls...hear my voice...and open!",
+  "3.2.0" => "My spirit will be freed!",
+  "3.3.0" => "Ha!",
+  "3.4.0" => "Excellent work, child.",
+  "3.5.0" => "Three fragments of my spirit have been returned...",
+  "3.6.0" => "The only piece that remains is the one
+trapped by the Master Sword...",
+  "3.7.0" => "Lana",
+  "3.8.0" => "???",
+  "3.9.0" => "???",
+  "3.10.0" => "Cia",
+  "3.11.0" => "???",
+  "3.12.0" => "???",
+  "3.13.0" => "???",
+  "4.0.0" => "Forgive me for not saying anything.",
+  "4.1.0" => "I had to hide my identity from my enemies.",
+  "4.2.0" => "Link, your courage is extraordinary.",
+  "4.3.0" => "I could see your potential from that first moment
+in the training yard.",
+  "4.4.0" => "We closed each Gate of Souls, putting things
+right with space and time.",
+  "4.5.0" => "Next, we need to--",
+  "4.6.0" => "Hey, hold on! Don't you have some explaining to do?",
+  "4.7.0" => "Er...yes. Cia and I...",
+  "4.8.0" => "We're not just from the same clan...",
+  "4.9.0" => "We're actually...the same person.",
+  "4.10.0" => "But...how...?",
+  "4.11.0" => "Something took hold of Cia and forced the light from
+her heart.",
+  "4.12.0" => "I'm that light. I'm what was driven out of her.",
+  "4.13.0" => "And the monster responsible for this...",
+  "4.14.0" => "The time has come...",
+  "4.15.0" => "Who?",
+  "4.16.0" => "I now have three fragments of my spirit.",
+  "4.17.0" => "My power may not be whole, but my body is returned.",
+  "4.18.0" => "You!",
+  "4.19.0" => "Cia, you have been my favorite puppet yet.",
+  "4.20.0" => "I can't just... I am NO ONE'S puppet!",
+  "4.21.0" => "Whatever the case, our...alliance is over.
+I will break the final barrier myself.",
+  "4.22.0" => "This body lacks its full potential...",
+  "4.23.0" => "But that will change...",
+  "4.24.0" => "once I wrest the Triforce from you and
+conquer all!",
+  "4.25.0" => "The Triforce...",
+  "4.26.0" => "...SHALL BE MINE!",
+  "4.27.0" => "What?!",
+  "4.28.0" => "NO!",
+  "4.29.0" => "Courage and Wisdom have been returned to their
+owners...",
+  "4.30.0" => "Aargh!",
+  "4.31.0" => "I WILL reclaim the Triforce. It shall be mine alone!",
+  "4.32.0" => "As will the hero...",
+  "4.33.0" => "Zelda",
+  "4.34.0" => "Zelda",
+  "4.35.0" => "Zelda",
+  "4.36.0" => "Zelda",
+  "4.37.0" => "Lana",
+  "4.38.0" => "Lana",
+  "4.39.0" => "Midna",
+  "4.40.0" => "Lana",
+  "4.41.0" => "Lana",
+  "4.42.0" => "Lana",
+  "4.43.0" => "Zelda",
+  "4.44.0" => "Lana",
+  "4.45.0" => "Lana",
+  "4.46.0" => "Lana",
+  "4.47.0" => "???",
+  "4.48.0" => "Cia",
+  "4.49.0" => "???",
+  "4.50.0" => "???",
+  "4.51.0" => "Cia",
+  "4.52.0" => "Ganondorf",
+  "4.53.0" => "Cia",
+  "4.54.0" => "Ganondorf",
+  "4.55.0" => "Ganondorf",
+  "4.56.0" => "Ganondorf",
+  "4.57.0" => "Ganondorf",
+  "4.58.0" => "Cia",
+  "4.59.0" => "Cia",
+  "4.60.0" => "Ganondorf",
+  "4.61.0" => "Ganondorf",
+  "4.62.0" => "Cia",
+  "4.63.0" => "Ganondorf",
+  "4.64.0" => "Cia",
+  "4.65.0" => "Cia",
+  "5.0.0" => "Cia...",
+  "5.1.0" => "We've seen how this ends...and we both
+know he doesn't choose you.",
+  "5.2.0" => "How do you do it...knowing you get left behind?",
+  "5.3.0" => "You don't always get the person you think you
+deserve...and I can live with that.",
+  "5.4.0" => "You always were...my better half...",
+  "5.5.0" => "Well, that's that! See you next crisis!",
+  "5.6.0" => "Let's put Hyrule back in order.",
+  "5.7.0" => "There. Things should be as they were.",
+  "5.8.0" => "And with that, I should go...",
+  "5.9.0" => "Lana...",
+  "5.10.0" => "Will we meet again?",
+  "5.11.0" => "...Good-bye.",
+  "5.12.0" => "Lana",
+  "5.13.0" => "Cia",
+  "5.14.0" => "Cia",
+  "5.15.0" => "Lana",
+  "5.16.0" => "Cia",
+  "5.17.0" => "Midna",
+  "5.18.0" => "Zelda",
+  "5.19.0" => "Lana",
+  "5.20.0" => "Lana",
+  "5.21.0" => "Zelda",
+  "5.22.0" => "Zelda",
+  "5.23.0" => "Lana",
+  "6.0.0" => "There's just one thing left...",
+  "6.1.0" => "Return the Master Sword to its place.",
+  "6.2.0" => "But I'm not the one who should do that.",
+  "6.3.0" => "No matter what, you two always save Hyrule...together.",
+  "6.4.0" => "Good-bye, Link...",
+  "6.5.0" => "Ready?",
+  "6.6.0" => "Lana",
+  "6.7.0" => "Lana",
+  "6.8.0" => "Lana",
+  "6.9.0" => "Lana",
+  "6.10.0" => "Lana",
+  "6.11.0" => "Zelda",
+  "43.0.0" => "Hmm...",
+  "43.1.0" => "Hey, Linkle!",
+  "43.2.0" => "Have you heard? Hyrule Castle is
+beset by monsters!",
+  "43.3.0" => "What?! Really?!",
+  "43.4.0" => "Princess Zelda herself is fighting, but it's not doing
+much good. If those monsters make it here...",
+  "43.5.0" => "Hey, what's with the getup?",
+  "43.6.0" => "Isn't it obvious? I'm joining the battle and
+stopping those monsters!",
+  "43.7.0" => "My grandmother always told me that,
+secretly, I was the legendary hero!",
+  "43.8.0" => "But, everyone's grandmother says that...",
+  "43.9.0" => "Look!",
+  "43.10.0" => "See this compass? My grandma gave this
+to me. It's a MAGIC compass. Proof!",
+  "43.11.0" => "Now if you'll excuse me, I have
+a castle to protect!",
+  "43.12.0" => "Linkle",
+  "43.13.0" => "Villager",
+  "43.14.0" => "Villager",
+  "43.15.0" => "Linkle",
+  "43.16.0" => "Villager",
+  "43.17.0" => "Villager",
+  "43.18.0" => "Linkle",
+  "43.19.0" => "Linkle",
+  "43.20.0" => "Villager",
+  "43.21.0" => "Linkle",
+  "43.22.0" => "Linkle",
+  "43.23.0" => "Linkle",
+  "44.4.0" => "You fought well.",
+  "44.5.0" => "No thanks needed, Commander Impa! I was
+just doing my duty as the legendary hero.",
+  "44.6.0" => "I'm sure my grandma would be proud.",
+  "44.7.0" => "Hah, yes, I'm sure she would be.",
+  "44.12.0" => "Impa",
+  "44.13.0" => "Linkle",
+  "44.14.0" => "Linkle",
+  "44.15.0" => "Impa",
+  "45.0.0" => "I'm sensing another rift between the eras.
+Will you inspect it for us?",
+  "45.1.0" => "I should go as well.",
+  "45.2.0" => "No, you're needed here, as am I.",
+  "45.3.0" => "Link, we must ask you to look into this
+for us.",
+  "45.4.0" => "What...just happened...?",
+  "45.5.0" => "Impa",
+  "45.6.0" => "Zelda",
+  "45.7.0" => "Impa",
+  "45.8.0" => "Impa",
+  "45.9.0" => "Tetra",
+  "46.0.0" => "The land is at peace. Light has shone
+brightly upon us all.",
+  "46.1.0" => "Here's hoping we run into each other
+again someday.",
+  "46.2.0" => "We should go. Time to repair things,
+just like we always do.",
+  "46.3.0" => "King Daphnes",
+  "46.4.0" => "Tetra",
+  "46.5.0" => "Lana",
+  "49.0.0" => "Linkle left her village, vowing to
+restore peace to Hyrule.",
+  "49.1.0" => "In her hand she clutched her grandmother's
+precious compass.",
+  "49.2.0" => "But before long, a mischievous imp had stolen
+the treasured possession.",
+  "49.3.0" => "Linkle chased down the imp and tried to retrieve
+the compass.",
+  "49.4.0" => "And then something strange happened...",
+  "49.5.0" => "As if in response to her struggle, the compass
+began emitting a mysterious light.",
+  "49.6.0" => "It seemed to be reacting to her! Linkle recovered it, hung
+it from her neck, and vowed never to lose it again.",
+  "49.7.0" => "The compass's light was quite
+a mystery to her.",
+  "49.8.0" => "She didn't know what secret power it
+might hold.",
+  "49.9.0" => "Whatever the case, it had to be a sign of
+her status as the legendary hero.",
+  "49.10.0" => "If she could harness this power, perhaps she
+would fully realize her destiny and save Hyrule.",
+  "49.11.0" => "Her faith renewed, Linkle continued her quest.",
+  "50.0.0" => "Midna and Linkle made it to the Palace of
+Twilight to rescue Zelda and stop the evil magic.",
+  "50.1.0" => "Yet though the battle was won, the Twilight
+magic continued devouring everything around it.",
+  "50.2.0" => "It was then that Midna made a bold decision. She
+would smash the crystal they had found in the palace.",
+  "50.3.0" => "In doing so, perhaps she could release enough
+energy to contain the dark magic.",
+  "50.4.0" => "This plan was not without its consequences,
+as Midna would return to her cursed self.",
+  "50.5.0" => "Despite the cost, Midna decided without
+hesitation, knowing that she must save Zelda.",
+  "50.6.0" => "Midna's resolve deeply inspired Linkle.",
+  "50.7.0" => "With renewed fire, Linkle hurried to Hyrule
+Castle.",
+  "51.0.0" => "In the new world, Link met the pirate leader,
+Tetra, and they fought valiantly together as allies.",
+  "51.1.0" => "But it would seem their enemies were stronger
+and craftier than they had imagined...",
+  "51.2.0" => "After claiming victory, Link looked into the sky to
+see a monstrous bird flying off into the distance.",
+  "51.3.0" => "Squinting to get a better view, he saw that the
+giant bird was carrying something in its talons.",
+  "51.4.0" => "Not something--someone!
+It was Tetra!",
+  "51.5.0" => "Link had to do something, or she would be lost
+forever.",
+  "51.6.0" => "He dashed off to save her without
+a second thought.",
+  "52.0.0" => "Lana and Link managed to rescue Tetra
+and close every Gate of Souls.",
+  "52.1.0" => "But the change that had overtaken Hyrule
+seemed irreversible.",
+  "52.2.0" => "Lana, Link, and Tetra were all at a loss as to
+how to remedy the situation.",
+  "52.3.0" => "Just then, when they were most in need of help,
+a certain legendary figure appeared before them.",
+  "52.4.0" => "It was King Daphnes Nohansen Hyrule,
+the King of Red Lions himself!",
+  "52.5.0" => "In Tetra's world, King Daphnes was the ruler of
+the ancient kingdom that had been sealed away.",
+  "52.6.0" => "By divine command, he revealed himself,
+hoping to save a world rocked by strife.",
+  "52.7.0" => "He explained that the cause of the conflict
+was an evil presence in Tetra's world.",
+  "52.8.0" => "Their target much clearer, the heroes knew
+where they had to go.",
+  "52.9.0" => "They set out on their next journey,
+dreading the difficult battle ahead.",
+  "53.0.0" => "In this way, peace returned to Hyrule.",
+  "53.1.0" => "Lana and Cia bid Link and the others farewell and
+resumed their roles as guardians in the Valley of Seers.",
+  "53.2.0" => "Power...
+Wisdom...",
+  "53.3.0" => "Courage.",
+  "53.4.0" => "Together, Lana and Cia would protect the
+balance of the Triforce--in peace and harmony.",
+}

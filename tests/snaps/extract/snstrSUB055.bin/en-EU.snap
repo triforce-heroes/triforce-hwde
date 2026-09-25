@@ -1,0 +1,9 @@
+Map {
+  "0.0.0" => "Prepare for escort soldiers!",
+  "0.1.0" => "An A0%1sF0R appeared on the battlefield to escort A0%2sF2R!",
+  "0.2.0" => "Defeat the A0%2sF0R before it can rendezvous with A0%1sF2R!",
+  "0.3.0" => "If the A0%1sF0R rendezvouses with A0%2sF2R, their morale will improve!",
+  "0.4.0" => "The A0%1sF0R is approaching A0%2sF2R! Act quickly!",
+  "0.5.0" => "The A0%1sF0R is escorting A0%2sF2R! Their morale improved!",
+  "0.12.0" => "You defeated the A0%1sF0R!",
+}

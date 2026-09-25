@@ -1,0 +1,125 @@
+Map {
+  "1.0.0.0" => "Nous n'avons aucune chance de gagner...
+Nous devons trouver un moyen de nous enfuir.",
+  "1.0.1.0" => "Il n'en est pas question! Je ne laisserai pas
+la Triforce de la force m'échapper!",
+  "1.0.2.0" => "Je sens un pouvoir sacré émaner de ces forts.
+Pulvérisons-les pour leur enlever tout espoir.",
+  "1.0.3.0" => "Ils vont tout faire pour aider la sorcière à fuir.
+J'espère qu'ils m'amuseront encore un peu.",
+  "1.0.5.0" => "Écoutez-moi! Nous devons attirer Ghirahim
+et Xanto dans les forts!",
+  "1.0.6.0" => "Quelle petite idiote... Qu'est-elle encore
+en train de préparer?",
+  "1.0.7.0" => "Oui! Nous avons réussi à isoler Ghirahim!",
+  "1.0.8.0" => "C'est notre chance! Unissons nos forces
+et repoussons l'ennemi!",
+  "1.0.9.0" => "Très bien! Nous avons également réussi
+à isoler Xanto!",
+  "1.0.10.0" => "Nous devons repousser l'ennemi partout
+où c'est possible...",
+  "1.0.11.0" => "Courage, tout le monde! Les renforts
+ne devraient plus tarder!",
+  "1.0.12.0" => "Je prends la responsabilité de ce revers...
+Mais mes futurs exploits rattraperont cet échec.",
+  "1.0.13.0" => "Les ridicules stratagèmes d'une enfant
+ne marchent pas avec moi!",
+  "1.0.14.0" => "Je... Je vous en prie... Pardonnez-moi...
+Je vais rattraper mon erreur.",
+  "1.0.15.0" => "Croyez-vous vraiment que j'ai du temps à
+perdre avec les jeux puérils d'une enfant?",
+  "1.0.16.0" => "Ils ont étouffé le pouvoir sacré...",
+  "1.0.17.0" => "Tu n'as plus nulle part où aller...
+Donne-moi la Triforce de la force!",
+  "1.0.18.0" => "On a écrasé Xanto! Personne ne peut
+résister à la fureur des Gorons!",
+  "1.0.19.0" => "On a vaincu Ghirahim!
+Et on s'est même pas battus sérieusement!",
+  "1.0.20.0" => "Lana, tu vas bien?
+Je suis là, maintenant!",
+  "1.0.21.0" => "Impa! Merci d'être venue!",
+  "1.0.22.0" => "Je vais leur faire goûter à un arcane hérité
+de mon clan!",
+  "1.0.23.0" => "Hah! Il ne s'agissait que de mon double!",
+  "1.0.24.0" => "Un double? Ha ha! Crois-tu que je n'ai jamais
+eu recours à ce genre d'artifices?",
+  "1.0.25.0" => "Débarrassons-nous de l'originale pour faire
+disparaître ses doubles.",
+  "1.0.26.0" => "Si nous menaçons Lana, cela devrait forcer
+la vraie Impa à se révéler...",
+  "1.0.27.0" => "Hum... Ce n'est pas une si mauvaise idée...",
+  "1.0.28.0" => "Vous vous fatiguez pour rien!
+Il s'agissait aussi de mon double!",
+  "1.0.29.0" => "Nous devons forcer la vraie Lana à se
+dévoiler. Marchez sur sa base.",
+  "1.0.30.0" => "Quoi?! L'ennemi est déjà à nos portes?!",
+  "1.0.31.0" => "Lana est en danger!
+Attends, je viens te sauver!",
+  "1.0.32.0" => "Hu hu hu... Je crois bien que cette fois, nous
+avons trouvé l'originale.",
+  "1.0.33.0" => "Ton petit tour ne marchera plus... Prépare-toi
+à rendre, ce qui me revient de droit!",
+  "1.0.34.0" => "Vous n'avez pas réussi à déjouer mon arcane!
+La victoire sera nôtre!",
+  "1.0.35.0" => "Argh... Mon plan n'a pas fonctionné comme je
+l'avais prévu...",
+  "1.0.36.0" => "Grrraaar! Misérables vermines!",
+  "1.0.37.0" => "Argh... Comment ont-ils pu déjouer mon
+arcane? Mes doubles vont être affaiblis...",
+  "1.0.38.0" => "Les préparatifs sont terminés... Même si
+j'échoue, Lana pourra s'échapper...",
+  "1.0.39.0" => "Il ne nous reste plus qu'à attraper
+la petite sorcière.",
+  "1.0.40.0" => "Tout est prêt... Lana va pouvoir s'échapper,
+même si je ne m'en sors pas...",
+  "1.0.41.0" => "Protégez Lana!",
+  "1.0.42.0" => "Vous croyez pouvoir nous faire face? Allez,
+exterminez-les et capturez la sorcière!",
+  "1.0.43.0" => "Bientôt, la Triforce de la force sera
+de nouveau entre mes mains!",
+  "1.0.44.0" => "Quoi?! Ce n'était qu'un double?! 
+Cette petite idiote a osé me piéger!",
+  "1.0.45.0" => "Lana! J'ai fait installer un cercle magique
+de téléportation! Utilise-le pour t'enfuir!",
+  "1.0.46.0" => "Non! Je ne laisserai personne quitter
+le champ de bataille aujourd'hui!",
+  "1.0.47.0" => "Seule, elle ne pourra rien faire contre nous!
+Capturez-la immédiatement!",
+  "1.0.48.0" => "Si... Si je parvenais à diviser mon âme en deux
+parties une fois encore... peut-être que...",
+  "1.0.49.0" => "Ces doubles semblent différents... Non! Ce ne
+sont pas des doubles! Elles sont toutes réelles!",
+  "1.0.50.0" => "Suivez les filles! Aucune d'entre elles
+ne doit s'échapper!",
+  "1.0.51.0" => "Je m'occupe de celle qui se dirige à l'ouest.",
+  "1.0.52.0" => "Je me charge de celle qui va vers l'est. Elle
+va voir ce qu'il en coûte de se moquer de nous!",
+  "1.0.53.0" => "J'y suis presque! Je dois continuer! Quelques
+enchantements devraient me donner l'avantage!",
+  "1.0.54.0" => "Quelle sotte... Elle se fatigue pour rien!",
+  "1.0.55.0" => "Lana, vite! Rends-toi au cercle magique
+avant qu'il ne t'attrape!",
+  "1.0.56.0" => "Pourchassez-la!
+Ne la laissez surtout pas s'enfuir!",
+  "1.0.57.0" => "Elle va s'enfuir!",
+  "1.0.58.0" => "Toi! Ne bouge plus!",
+  "1.0.59.0" => "Elle nous a causé beaucoup de problèmes...
+Mais la Triforce de la force est enfin mienne!",
+  "1.0.60.0" => "Il ne me manque plus que deux fragments!
+Préparez l'assaut sur le château d'Hyrule.",
+  "1.0.61.0" => "Grr... La Triforce m'a échappé...",
+  "1.0.62.0" => "Hmph... Je dois admettre que tes stratagèmes
+ont mieux fonctionné que ce que j'aurais cru...",
+  "1.0.63.0" => "Bien! Nous avons isolé Xanto!",
+  "1.0.64.0" => "Comme ça, on pourra peut-être repousser
+les ennemis qui sont de l'autre côté.",
+  "1.0.65.0" => "Je crois qu'on peut en finir si on prend leur
+base! En avant, les amis, venez m'aider!",
+  "1.0.66.0" => "Allez, allez! Je suis là
+pour vous encourager!",
+  "1.0.67.0" => "Nous renverrons l'ennemi d'où il vient, même
+si cela nous prend toute notre énergie!",
+  "1.0.68.0" => "Il n'en reste plus qu'une...
+Allez! Finissons-en!",
+  "1.0.69.0" => "Cesse de fuir et affronte ta destinée!",
+}

@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "A0%1sF1R appaiono sul campo di battaglia!",
+  "0.2.0" => "A0%1sF1R vanno a curare i feriti dell'A0%2sF5R!",
+  "0.3.0" => "Sconfiggi A0%1sF3R e impedisci all'A0%2sF5R di riprendersi!",
+  "0.4.0" => "A0%1sF0R si avvicina ai feriti dell'A0%2sF7R!",
+  "0.5.0" => "A0%1sF0R rigenera l'energia dell'A0%2sF1R nei suoi paraggi!",
+  "0.6.0" => "Presto, sconfiggi A0%1sF2R e impedisci all'A0%2sF5R di riprendersi!",
+  "0.7.0" => "Hai sconfitto A0%1sF3R!",
+}

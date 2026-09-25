@@ -1,0 +1,17 @@
+Map {
+  "0.1.0" => "A0%1sF6R a rejoint le champ de bataille!",
+  "0.2.0" => "A0%2sF5R a blessé A0%1sF0R!",
+  "0.3.0" => "A0%1sF4R bat en retraite dans A0%2sF0R!",
+  "0.4.0" => "Protégez A0%1sF0R pour l'empêcher de fuir!",
+  "0.5.0" => "A0%2sF5R force A0%1sF0R à battre en retraite!",
+  "0.7.0" => "Le sort A0%1sF3R a diminué le nombre de rubis récoltés!",
+  "0.9.0" => "Le sort A0%1sF3R a provoqué la retraite d'une partie A0%2sF3R!",
+  "0.10.0" => "Le sort A0%1sF3R a fait baisser le moral A0%2sF3R!",
+  "0.11.0" => "A0%1sF4R a atteint A0%2sF0R!",
+  "0.12.0" => "Vous avez escorté A0%1sF0R jusqu'à sa destination!",
+  "0.13.0" => "Vous n'avez pas réussi à escorter A0%1sF0R jusqu'à sa destination!",
+  "0.14.0" => "A0%1sF6R a rejoint le champ de bataille!",
+  "0.16.0" => "Éliminez A0%1sF0R pour mettre fin à son sort!",
+  "0.17.0" => "La défaite A0%1sF3R a mis fin à son sort!",
+  "0.18.0" => "A0%1sF4R se dirige vers A0%2sF1R!",
+}

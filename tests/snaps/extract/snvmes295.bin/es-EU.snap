@@ -1,0 +1,140 @@
+Map {
+  "1.0.0.0" => "Me gustaría saber si tienes algo de valor...
+Qué brújula más bonita... ¡Me la quedo!",
+  "1.0.1.0" => "¡Eh, mi brújula! Hay muchos monstruos,
+¡pero tengo que recuperarla!",
+  "1.0.2.0" => "Hasta los cucos me están ayudando...
+¡Eso me da ánimos para seguir!",
+  "1.0.3.0" => "Oh, venga... ¿De verdad crees que puedes
+derrotarme como soy ahora? ¡Tonta!",
+  "1.0.4.0" => "¡Atrápame si puedes! ¡Je, je, jeee!",
+  "1.0.5.0" => "Pero ¡¿cómo ha podido llegar hasta
+ahí?! No sé si podré atraparlo...",
+  "1.0.6.0" => "¡Estos monstruos son mis aliados! ¡Juega
+con ellos si te atreves! ¡Je, je, jeee!",
+  "1.0.7.0" => "Si quieres recuperar tu dichosa brújula,
+¡tendrás que llegar hasta aquí!",
+  "1.0.8.0" => "¡Eh, cerrar la puerta es trampa!",
+  "1.0.9.0" => "Ese monstruo es el guarda. ¡Para pasar
+tendrás que vencerlo! ¡Je, je, jeee!",
+  "1.0.10.0" => "¡¿Qué le pasa a ese estúpido?!
+¡Es totalmente inútil!",
+  "1.0.11.0" => "Como no me cojas pronto, aparecerán
+más monstruos... Je, je, jeee...",
+  "1.0.12.0" => "No puedo dejar que aparezcan más...
+¡Tengo que darme prisa!",
+  "1.0.13.0" => "¡Qué lenta eres! Será entonces que
+quieres más monstruos para jugar, ¿no?",
+  "1.0.14.0" => "¡Hola, pequeñín! ¿Buscas algo de comer?
+Este sitio es muy peligroso, ¿sabes?",
+  "1.0.15.0" => "¡Vaya! ¡Se ha vuelto dorado!
+Pero ¿cómo lo ha hecho?",
+  "1.0.16.0" => "Se ha largado sin comer.
+Espero que no le pase nada...",
+  "1.0.17.0" => "Pero ¿dónde ha ido?",
+  "1.0.18.0" => "¡Juguemos al escondite! Si quieres la
+brújula, registra todos los bastiones.",
+  "1.0.19.0" => "¡Je, je, jeee! Ahí te van más monstruos.
+¡Intenta detenerlos si puedes!",
+  "1.0.20.0" => "¡¿Más monstruos?! Bueno, tendré que
+vérmelas con ellos, ¡y no perderé!",
+  "1.0.21.0" => "¡Ya he derrotado a todos los monstruos!
+¡Sal de donde estés!",
+  "1.0.22.0" => "Habrás acabado con esos monstruos, pero
+no dejes que se te suba a la cabeza...",
+  "1.0.23.0" => "¡Bien! ¡Un problema menos!",
+  "1.0.24.0" => "¿Aún no me has encontrado? Si no te das
+prisa, aparecerán más monstruos...",
+  "1.0.25.0" => "¡Deja de hacer el tonto y sal
+de donde estés!",
+  "1.0.26.0" => "¿Hasta cuándo vas a hacerme esperar?
+Igual es mejor que me dejes ganar...",
+  "1.0.27.0" => "Te ha costado encontrarme, ¿eh? Pero no
+te devolveré la brújula, je, je, jeee...",
+  "1.0.28.0" => "¡Frío, frío! ¡Je, je, jeee!",
+  "1.0.29.0" => "¡Eh, cuquito, ten cuidado!
+¡Espera, que te ayudo!",
+  "1.0.30.0" => "¡Vaya, te has vuelto de oro!
+¡Cómo brillas!",
+  "1.0.31.0" => "Vaya, ese cuco se ha largado sin
+comer... ¡Pobrecito!",
+  "1.0.32.0" => "¡Deja de marearme y devuélveme ya
+la brújula, enano!",
+  "1.0.33.0" => "¡Cógeme si puedes! No creo que lo
+consigas, pero bueno... Je, je, jeee...",
+  "1.0.34.0" => "Los monstruos de este bastión son muy
+poderosos, je, je, jeee...",
+  "1.0.35.0" => "¡En este bastión hay muchos monstruos!
+¡Je, je, jeee!",
+  "1.0.36.0" => "En este bastión hay invocadores,
+¡y pronto aparecerán más, je, je, jeee!",
+  "1.0.37.0" => "¡No te escaparás!",
+  "1.0.38.0" => "Aunque me cogieras, no serías capaz
+de detenerme... Je, je, jeee...",
+  "1.0.39.0" => "¡Se ha escapado otra vez!",
+  "1.0.40.0" => "¡Ven aquí, je, je, jeee!",
+  "1.0.41.0" => "Esto no me gusta...
+Huiré a ese bastión.",
+  "1.0.42.0" => "¡Venga, devuélveme ya la brújula!",
+  "1.0.43.0" => "¡La brújula está brillando!
+Pero ¿por qué?",
+  "1.0.44.0" => "¡¿Qué pasa?! ¡Me deslumbra!",
+  "1.0.45.0" => "¡Otro cuquito! No te preocupes,
+pequeñín, yo te ayudaré a comer.",
+  "1.0.46.0" => "¡Se ha vuelto dorado! ¡Y qué bien
+que haya crecido tanto!",
+  "1.0.47.0" => "Lo siento, no he podido ayudarte...",
+  "1.0.48.0" => "Perdón... Ha sido culpa mía. ¡Te
+prometo que dejaré de dar la lata!",
+  "1.0.49.0" => "¿Me lo dices de verdad?
+Bueno, ¡entonces te perdono!",
+  "1.0.50.0" => "¡Vale, pero la próxima vez te robaré sin
+que te enteres! ¡Je, je, jeee!",
+  "1.0.51.0" => "¡Pero bueno! ¿Estabas de broma otra
+vez? ¡Ni se te ocurra volver a robarme!",
+  "1.0.52.0" => "¡He tomado tu base, así que he ganado!
+¡Y me quedo con tu brújula, je, jeee!",
+  "1.0.53.0" => "Qué cara más dura...",
+  "1.0.54.0" => "Espera... Si los monstruos vienen
+de ese bastión...",
+  "1.0.55.0" => "¡La próxima vez no te me escapas!
+¡Te pillaré!",
+  "1.0.56.0" => "Al fin he recuperado la brújula.
+¡Ahora, al Castillo de Hyrule!",
+  "13.0.2.0" => "Me suena haber visto un arco cerca del árbol
+que hay al suroeste de la aldea.",
+  "13.0.3.0" => "¡Bien! El arco es justo lo que necesitábamos.
+Acabemos con las babas deku que quedan.",
+  "13.0.4.0" => "Ya no tenemos que preocuparnos por el veneno.",
+  "13.0.5.0" => "Tenemos que frenar al enemigo para que todos
+puedan llegar al Gran Árbol Deku.",
+  "13.0.6.0" => "Antes de proseguir, tenemos que detener a
+los enemigos que vienen por el sur.",
+  "13.0.7.0" => "No podrá hacer esto ella sola...
+¡Vamos a ayudarla!",
+  "13.0.8.0" => "El enemigo se aproxima al Gran Árbol
+Deku; ¡tenemos que hacer algo!",
+  "13.0.9.0" => "El enemigo ya no supone una amenaza en
+esta zona. ¡Acabemos con los que quedan!",
+  "13.0.10.0" => "Los enemigos que hay en esta zona ya no suponen
+una amenaza. Ahora solo quedan los de allí...",
+  "13.0.11.0" => "Noto la presencia de la Gran Hada...
+Si la localizamos, puede que nos ayude.",
+  "13.0.12.0" => "Noto una fuerte presencia en el noreste. ¡Creo que
+puede ser la Gran Hada!",
+  "13.0.13.0" => "¡Malas noticias! El enemigo está atacando
+el Gran Árbol Deku.",
+  "13.0.14.0" => "Puede que el ojo sea su punto débil.
+¡Probemos a dispararle con el arco!",
+  "13.0.15.0" => "¡El enemigo sigue atacando! Y parece que cada
+vez tiene más fuerzas...",
+  "13.0.16.0" => "¡Link, trata de centrarte!",
+  "13.0.17.0" => "Creo que hemos acabado con ella. Vayamos
+a por las babas deku que quedan.",
+  "13.0.18.0" => "El enemigo se aproxima al Gran Árbol
+Deku; ¡tenemos que hacer algo!",
+  "13.0.19.0" => "Puede que acabes con ellas si atacas
+desde cierta distancia.",
+  "13.0.20.0" => "El arco resulta muy útil contra
+las babas deku. ¡Dispárales!",
+}

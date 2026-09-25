@@ -1,0 +1,140 @@
+Map {
+  "1.0.0.0" => "Il nous faut tout d'abord montrer l'étendue
+de notre pouvoir.",
+  "1.0.1.0" => "Très bien... Allez massacrer les monstres qui se
+cachent dans ce village pour montrer l'exemple.",
+  "1.0.2.0" => "Je vais aller prendre ce bâtiment, au nord,
+qui ressemble à un site d'exécution.",
+  "1.0.3.0" => "(Bande de fous. Qu'est-ce que vous croyez
+pouvoir faire juste à trois ?)",
+  "1.0.4.0" => "(Les gars ! Éliminez-les !)",
+  "1.0.5.0" => "Nous pouvons faire sortir les monstres du
+hameau en exterminant ceux des forts.",
+  "1.0.6.0" => "Face à notre écrasante puissance,
+ces forts ne sont rien.",
+  "1.0.7.0" => "Il ne reste qu'un fort...
+Hâtons-nous de le faire tomber.",
+  "1.0.8.0" => "(Si vous êtes pas contents, venez le reprendre !)",
+  "1.0.9.0" => "(Qu'est-ce qui vous prend, bande
+de bons à rien ?!)",
+  "1.0.10.0" => "(Vous n'aurez jamais ce fort !)",
+  "1.0.11.0" => "Avant de faire tomber le hameau, nous devrions
+peut-être éliminer ces vermines dans les forts...",
+  "1.0.12.0" => "(Vous allez payer ce que vous avez fait à nos camarades !
+Ne croyez pas nous vaincre avec aussi peu d'hommes !)",
+  "1.0.13.0" => "Ils sont sortis de leur tanière... Le moment semble
+idéal pour prendre les forts à l'intérieur du hameau.",
+  "1.0.14.0" => "Bien, ils sont complètement acculés. Finissons-en
+avec eux en prenant le dernier fort.",
+  "1.0.15.0" => "(Misérables ! Nous allons reprendre ce fort !)",
+  "1.0.16.0" => "(Ne nous sous-estimez pas !)",
+  "1.0.17.0" => "Vous êtes pathétiques...",
+  "1.0.18.0" => "Tiens... Les portes du bâtiment sont verrouillées.
+Peut-être s'ouvrira-t-elle, si nous prenons ce fort.",
+  "1.0.19.0" => "Nous avons pris le fort mais les portes du fond restent
+closes... C'est fâcheux... Cherchons une solution.",
+  "1.0.20.0" => "(Hé ! C'est quoi ce boucan, dehors ?)",
+  "1.0.21.0" => "(Des types louches mettent la pagaille.)",
+  "1.0.22.0" => "(Éliminez tous ceux qui s'introduisent
+dans notre territoire !)",
+  "1.0.23.0" => "Encore de la piétaille...",
+  "1.0.24.0" => "Des monstres semblent être retenus en prison...
+Peut-être pourrions-nous les recruter.",
+  "1.0.25.0" => "Laissez-moi m'occuper du roi dodongo...",
+  "1.0.26.0" => "Le roi dodongo peut attendre. Commençons par
+nous débarrasser de ces monstres devant nous.",
+  "1.0.27.0" => "Je dois combattre en faisant honneur
+à mon maître... !",
+  "1.0.28.0" => "Voilà bien la force du roi des démons !
+Sublime !",
+  "1.0.29.0" => "J'ai été vaincu... Je n'ai même pas eu le temps
+de déployer toutes mes forces...",
+  "1.0.30.0" => "J'étais sur le point de me mettre à combattre
+sérieusement...",
+  "1.0.31.0" => "C'est tout... ?",
+  "1.0.32.0" => "On dirait que les maîtres du désert sont apparus...
+Si je les élimine, le fretin se prosternera devant moi.",
+  "1.0.33.0" => "Il ne faut pas les laisser se regrouper. Ils risquent
+de se stimuler et d'être encore plus violents...",
+  "1.0.34.0" => "Mais tout maîtres du désert qu'ils sont, ils ne font
+pas le poids face à mon maître...",
+  "1.0.35.0" => "En voilà déjà un de moins.
+Allons éliminer les ennemis restants.",
+  "1.0.36.0" => "Hu hu... Nul ne peut nous vaincre.",
+  "1.0.37.0" => "C'est là la puissance d'un dieu... !",
+  "1.0.38.0" => "Seigneur Ganondorf est le vrai roi des démons...
+Non, il est un roi digne de gouverner le monde !",
+  "1.0.39.0" => "C'était trop facile. Enfin, qu'importe... Sur ces
+terres va commencer une nouvelle légende...",
+  "1.0.40.0" => "(Sortez-nous d'ici !)",
+  "1.0.41.0" => "Ta vie m'appartient, désormais...",
+  "1.0.42.0" => "(Qui es-tu... ?)",
+  "1.0.43.0" => "Tu seras mon serviteur...",
+  "1.0.44.0" => "(Aidez-nous...)",
+  "1.0.45.0" => "Toi aussi tu vas œuvrer à réaliser mes ambitions...",
+  "1.0.46.0" => "Comment puis-je peiner face à de tels
+adversaires... ? Roi démon, j'implore votre aide !",
+  "1.0.47.0" => "Tu fais honte à ton titre de monarque
+démoniaque. J'ai horreur d'être déçu...",
+  "1.0.48.0" => "Pa... Pardonnez-moi... Je dois battre en retraite
+et récupérer des forces...",
+  "1.0.49.0" => "Je n'attendais rien de toi, de toute façon.
+Je peux très bien conquérir ces terres seul...",
+  "1.0.50.0" => "(Continuez comme ça ! Massacrez-les !)",
+  "1.0.51.0" => "Argh... Je suis dans une situation délicate...
+Venez à mon aide, je vous en conjure... !",
+  "1.0.52.0" => "Comment... ? N'es-tu pas le roi des ombres ?",
+  "1.0.53.0" => "Argh... Pardonnez-moi... Je bats en retraite,
+je suis désolé...",
+  "1.0.54.0" => "Bon à rien, hors de ma vue...
+Je peux me débrouiller seul...",
+  "1.0.55.0" => "(Regardez comme on est forts !)",
+  "1.0.56.0" => "(Quelle puissance...)",
+  "1.0.57.0" => "(Quelle force incroyable !)",
+  "1.0.58.0" => "(Maintenant ! Réduisez-les en bouillie !)",
+  "1.0.59.0" => "Hmpf... Bande de vermines...",
+  "1.0.60.0" => "Il me faut une offrande pour mon maître. Cet endroit fera
+parfaitement l'affaire, je vais en prendre le contrôle.",
+  "1.0.61.0" => "(C'est le moment de rassembler
+nos camarades !)",
+  "1.0.62.0" => "Ils semblent vouloir agrandir leurs troupes...
+Dépêchons-nous de conquérir leurs forts.",
+  "1.0.63.0" => "(On est assez nombreux ! À l'attaque !)",
+  "1.0.64.0" => "Face à notre écrasante puissance,
+ces forts ne sont rien.",
+  "1.0.65.0" => "(Il y a de l'agitation au sud...
+Je devrais peut-être aller voir.)",
+  "1.0.66.0" => "Les monstres au nord se sont rendu compte de quelque
+chose... Il ne faudrait pas qu'ils se rejoignent. Arrêtons-les.",
+  "1.0.67.0" => "Ce n'est que de la vermine...
+Ils ne présentent aucune menace.",
+  "1.0.68.0" => "(Ils saccagent nos forts !
+Ils vont le payer !)",
+  "1.0.69.0" => "(Geôliers ! Libérez les prisonniers et
+faites-les combattre pour nous !) ",
+  "1.0.70.0" => "Ils comptent utiliser les monstres captifs comme soldats... ?
+Si on parvient à les enrôler d'abord, ce serait plus facile.",
+  "1.0.71.0" => "Voilà une idée intéressante... Je vais
+me charger de la prison au nord.",
+  "1.0.72.0" => "Hmm... Dans ce cas, je vais je vais me
+rendre dans celle qui est au sud.",
+  "1.0.73.0" => "Créatures des ombres ! Dorénavant, dévouez-vous
+corps et âme pour servir le grand roi démon !",
+  "1.0.74.0" => "(Hé, vous autres ! Si vous voulez qu'on
+vous libère, combattez les intrus !)",
+  "1.0.75.0" => "(... Entendu.)",
+  "1.0.76.0" => "Oho... Dans ces contrées aussi se
+terrent des créatures géantes ?",
+  "1.0.77.0" => "Ces créatures sont aussi stupides qu'elles sont
+grosses, elles ne font pas le poids face à nous.",
+  "1.0.78.0" => "Tiens donc... D'autres créatures
+géantes se cachaient par ici.",
+  "1.0.79.0" => "Visiblement, ce sont les maîtres du désert. Si on les
+élimine, leurs sbires se prosterneront devant moi.",
+  "1.0.80.0" => "(Ils ont vaincu nos camarades... !
+Ils vont le payer !)",
+  "1.0.81.0" => "(Nous obéirons à vos ordres,
+ne nous tuez pas...)",
+  "1.0.82.0" => "Maître, venez auprès de cette créature,
+montrons-lui l'étendue de notre puissance.",
+}

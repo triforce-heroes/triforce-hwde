@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "Début du sous-scénario "Le renforceur de fort" !",
+  "0.1.0" => "A0%1sF6R rejoint le champ de bataille !",
+  "0.2.0" => "A0%1sF4R renforce le A2fort ennemiR !",
+  "0.3.0" => "Éliminez A0%1sF0R !",
+  "0.4.0" => "A0%1sF4R avance vers un A2fort ennemiR pour le renforcer !",
+  "0.5.0" => "A0%1sF4R a terminé de renforcer le fort !",
+  "0.6.0" => "Le A2fort ennemiR a été renforcé par A0%1sF0R !",
+  "0.7.0" => "Vous avez empêché le renforcement du fort !",
+  "0.8.0" => "Vous avez découvert A0%1sF2R en train de renforcer un fort !",
+  "0.9.0" => "Éliminez A0%1sF0R au plus vite !",
+  "0.10.0" => "Vous avez éliminé A0%1sF0R !",
+  "0.11.0" => "A0%1sF4R quitte le champ de bataille !",
+  "0.12.0" => "Not used",
+  "0.13.0" => "A0%1sF4R a atteint un A2fort ennemiR !",
+  "0.14.0" => "A0%1sF4R s'apprête à renforcer un fort !",
+}

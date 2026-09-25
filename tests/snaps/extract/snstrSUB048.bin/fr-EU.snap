@@ -1,0 +1,13 @@
+Map {
+  "0.0.0" => "Début du sous-scénario "Le planton ennemi"",
+  "0.1.0" => "Not used",
+  "0.2.0" => "A0%1sF4R avance pour demander des renforts !",
+  "0.3.0" => "Éliminez A0%1sF0R avant qu'il n'appelle des renforts !",
+  "0.4.0" => "A0%1sF4R est arrivé à destination et demande des renforts !",
+  "0.5.0" => "A0%2sF5R a reçu des renforts appelés par A0%1sF0R !",
+  "0.6.0" => "Vous avez empêché la demande de renforts !",
+  "0.7.0" => "A0%1sF4R est K.-O. !",
+  "0.8.0" => "A0%1sF6R rejoint le champ de bataille !",
+  "0.9.0" => "Not used",
+  "0.10.0" => "A0%1sF4R quitte le champ de bataille !",
+}

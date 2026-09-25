@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Get ready to deal with the Warriors of Twilight!",
+  "0.1.0" => "A0%1sF0R and A0%2sF0R have appeared!",
+  "0.2.0" => "A0%1sF0R is advancing toward A0%2sF6R!",
+  "0.3.0" => "You have defeated A0%1sF2R!",
+  "0.4.0" => "A0%1sF0R has reappeared!",
+  "0.5.0" => "A0%1sF6R helped A0%2sF0R return to the battlefield!",
+  "0.6.0" => "Defeat A0%1sF2R!",
+  "0.7.0" => "A0%2sF0R vanished after A0%1sF2R's defeat!",
+  "0.8.0" => "You defeated A0%1sF0R!",
+}

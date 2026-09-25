@@ -1,0 +1,50 @@
+Map {
+  "0.0.0" => "A0%1sF0R plant etwas und muss schnell besiegt werden!",
+  "0.1.0" => "Du hast A61 000R Feinde besiegt!",
+  "0.2.0" => "Die Zeit ist um! Du hast verloren!",
+  "0.3.0" => "Ein Teil der A2feindlichen TruppenR ist dank A0%1sF4R stärker geworden!",
+  "0.4.0" => "Ein A6Magiekrug-TransportsoldatR wurde auf dem Schlachtfeld gesichtet!",
+  "0.5.0" => "A2Feindliche BotenR wurden auf dem Schlachtfeld gesichtet!",
+  "0.6.0" => "Besiege den Feind schnell, bevor er A2VerstärkungR rufen kann!",
+  "0.7.0" => "Der A2FeindR hat Verstärkung erhalten!",
+  "0.8.0" => "Du hast den Plan des A2FeindesR durchkreuzt!",
+  "0.9.0" => "A2Feindliche BotenR haben das Kampfgeschehen verlassen, um Verstärkung zu rufen!",
+  "0.10.0" => "Du hast A6300 FeindeR besiegt!",
+  "0.11.0" => "Du hast A6400 FeindeR besiegt!",
+  "0.12.0" => "Du hast A6500 FeindeR besiegt!",
+  "0.13.0" => "Du hast A6600 FeindeR besiegt!",
+  "0.14.0" => "Du hast A6700 FeindeR besiegt!",
+  "0.15.0" => "Du hast A6800 FeindeR besiegt!",
+  "0.16.0" => "A0%1sF0R wurde gesichtet!",
+  "0.17.0" => "A0%1sF0R und A0%2sF5R wurden gesichtet!",
+  "0.18.0" => "A0%1sF0R und andere Feinde wurden gesichtet!",
+  "0.19.0" => "Der A2FeindR hat Verstärkung erhalten!",
+  "0.20.0" => "A0%1sF0R ist zurückgekehrt!",
+  "0.21.0" => "Die A0%1sF1R haben souverän gewonnen!",
+  "0.22.0" => "Die A0%1sF1R haben den Wettstreit verloren!",
+  "0.23.0" => "Die A0%1sF1R wurden besiegt!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Besiege A6300 FeindeR vor
+den A5anderen TruppenR!",
+  "3.1.0" => "Besiege A6400 FeindeR vor
+den A5anderen TruppenR!",
+  "3.2.0" => "Besiege A6500 FeindeR vor
+den A5anderen TruppenR!",
+  "3.3.0" => "Besiege A6600 FeindeR vor
+den A5anderen TruppenR!",
+  "3.4.0" => "Besiege A6700 FeindeR vor
+den A5anderen TruppenR!",
+  "3.5.0" => "Besiege A6800 FeindeR vor
+den A5anderen TruppenR!",
+  "3.6.0" => "Besiege A61 000 FeindeR vor
+den A5anderen TruppenR!",
+}

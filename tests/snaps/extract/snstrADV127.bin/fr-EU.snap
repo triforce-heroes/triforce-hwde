@@ -1,0 +1,58 @@
+Map {
+  "0.0.0" => "L'approvisionnement en magie renforce les A2capitaines ennemisR !",
+  "0.1.0" => "Les A2capitaines ennemisR semblent s'affaiblir quand le nombre A0%1sF3R diminue !",
+  "0.2.0" => "Éliminez A0%1sF1R !",
+  "0.3.0" => "A0%1sF4R est K.-O. !",
+  "0.4.0" => "Réduire le nombre A0%1sF1R affaiblit les A2capitaines ennemisR !",
+  "0.5.0" => "Un A2capitaine ennemiR se prépare à invoquer A0%1sF2R supplémentaire !",
+  "0.6.0" => "Ne laissez pas le nombre A0%1sF3R augmenter !",
+  "0.7.0" => "Les A2capitaines ennemisR restants ont invoqué A0%1sF2R supplémentaire !",
+  "0.8.0" => "A0%1sF4R renforce les A2capitaines ennemisR !",
+  "0.9.0" => "A0%1sF4R renforce encore les A2capitaines ennemisR !",
+  "0.10.0" => "A0%1sF4R sent le danger et invoque des A2troupes ennemiesR !",
+  "0.11.0" => "A0%1sF4R avance !",
+  "0.12.0" => "Les A2capitaines ennemisR restants invoquent d'autres A2troupes ennemiesR !",
+  "0.13.0" => "A0%1sF5R a été vaincue !",
+  "0.14.0" => "Les A2capitaines ennemisR peuvent invoquer A0%1sF3R plus rapidement !",
+  "0.15.0" => "Les A2troupes ennemiesR avancent !",
+  "0.16.0" => "Il reste trois A2capitaines ennemisR !",
+  "0.17.0" => "Il reste deux A2capitaines ennemisR !",
+  "0.18.0" => "Il reste un A2capitaine ennemiR !",
+  "0.19.0" => "Éliminez A0%2sF0R avant que le nombre A0%1sF3R n'augmente !",
+  "0.20.0" => "Les A2capitaines ennemisR peuvent invoquer A0%1sF3R encore plus rapidement !",
+  "0.21.0" => "A0%1sF5R sont moins nombreux ! Les A2capitaines ennemisR s'affaiblissent encore !",
+  "0.22.0" => "Éliminez les A2capitaines ennemisR affaiblis !",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Éliminez tous les A2capitaines ennemisR !",
+  "3.1.0" => "Éliminez l'A2adversaire qui
+ressemble à la princesseR !",
+  "3.2.0" => "Éliminez le A2capitaine
+de la gardeR !",
+  "3.3.0" => "Éliminez l'A2adversaire qui
+monte sur un pilierR !",
+  "3.4.0" => "Éliminez l'A2adversaire qui
+chevauche un papillonR !",
+  "3.5.0" => "Éliminez l'A2adversaire qui
+chevauche un loupR !",
+  "3.6.0" => "Éliminez l'A2adversaire qui
+use d'une lumière sacréeR !",
+  "3.7.0" => "Éliminez l'A2adversaire qui
+vole avec des cocottesR !",
+  "3.8.0" => "Éliminez l'A2adversaire qui
+commande au Poisson-RêveR !",
+  "3.9.0" => "Éliminez l'A2adversaire qui
+secoue son instrumentR !",
+  "3.10.0" => "Éliminez l'A2adversaire qui
+pince son instrumentR !",
+  "3.11.0" => "Éliminez l'A2adversaire qui
+souffle dans son instrumentR !",
+}

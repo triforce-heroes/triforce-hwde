@@ -1,0 +1,9 @@
+Map {
+  "0.1.0" => "A0%1sF1R have appeared on the battlefield!",
+  "0.2.0" => "A0%1sF1R are advancing to heal the injured faction of A0%2sF5R!",
+  "0.3.0" => "Defeat the A0%1sF1R, and prevent A0%2sF5R from being healed!",
+  "0.4.0" => "A0%1sF0R is approaching the injured faction of A0%2sF7R!",
+  "0.5.0" => "A0%1sF4R has healed a faction of A0%2sF1R!",
+  "0.6.0" => "Defeat the A0%1sF2R immediately to prevent A0%2sF5R from being healed!",
+  "0.7.0" => "You defeated the A0%1sF5R!",
+}

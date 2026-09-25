@@ -1,0 +1,9 @@
+/tests/fixtures/*.rebuilded
+/entries.json
+/letters.json
+/uniques.json
+/query.sql
+/tests/fixtures/*
+!/tests/fixtures/buffer-serializer.ts
+/tests/snaps/*
+!/tests/snaps/extract/

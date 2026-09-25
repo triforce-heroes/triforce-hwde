@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "A0%1sF6R a rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF4R prépare une puissante attaque contre A0%2sF0R!",
+  "0.3.0" => "Éliminez A0%1sF0R au plus vite!",
+  "0.4.0" => "A0%1sF4R se prépare à attaquer A0%2sF0R!",
+  "0.5.0" => "A0%1sF4R bat en retraite pour attaquer A0%2sF0R!",
+  "0.6.0" => "A0%1sF4R attaque A0%2sF0R sans relâche!",
+  "0.7.0" => "Ne laissez pas A0%1sF0R tomber face aux attaques ennemies!",
+  "0.8.0" => "L'assaut A0%1sF3R a été repoussé!",
+  "0.9.0" => "A0%1sF4R attaque A0%2sF0R!",
+}

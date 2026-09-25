@@ -1,0 +1,28 @@
+Map {
+  "0.1.0" => "¡Has conquistado el A2bastión enemigoR!",
+  "0.2.0" => "¡A0%1sF0R ha aparecido en la A2base enemigaR!",
+  "0.3.0" => "¡Has derrotado A0%1sF4R!",
+  "0.4.0" => "¡A0%1sF0R se ha cerrado!",
+  "0.5.0" => "¡A0%1sF0R ha huido! ¡Has perdido!",
+  "0.6.0" => "¡Se ha terminado el tiempo! ¡Has perdido!",
+  "0.7.0" => "¡Ayuda al A1comandante aliadoR a avanzar!",
+  "0.8.0" => "¡Conquista el A2bastión enemigoR y abre las puertas!",
+  "0.9.0" => "¡No has defendido al A1aliadoR!",
+  "0.10.0" => "¡La A1base aliadaR ha caído! ¡Has perdido!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "¡Toma los A2bastionesR
+y la A2base enemigaR!",
+  "3.1.0" => "¡Vence al
+A2comandante enemigoR!",
+  "3.2.0" => "Guía al A1comandante aliadoR
+hasta la A2base enemigaR.",
+}

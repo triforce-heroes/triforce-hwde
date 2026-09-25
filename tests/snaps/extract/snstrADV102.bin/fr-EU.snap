@@ -1,0 +1,56 @@
+Map {
+  "0.1.0" => "A6Bonne réponse !R",
+  "0.2.0" => "Le temps est écoulé. Vous avez perdu !",
+  "0.3.0" => "Mauvaise réponse !",
+  "0.4.0" => "Trouvez l'ennemi qui s'est déguisé en allié !",
+  "0.5.0" => "Le quiz comprend 3 problèmes ! Éliminez le bon A2ennemiR !",
+  "0.6.0" => "Premier problème !",
+  "0.7.0" => "Deuxième problème !",
+  "0.8.0" => "Troisième problème !",
+  "0.9.0" => "Question 4 !",
+  "0.10.0" => "Vous avez éliminé le bon A2ennemiR !",
+  "0.11.0" => "Vous n'avez pas éliminé le bon A2ennemiR !",
+  "0.12.0" => "Vous avez résolu les 3 problèmes !",
+  "0.13.0" => "Vous avez 3 bonnes réponses sur 4 !",
+  "0.14.0" => "Vous avez 2 bonnes réponses sur 3 !",
+  "0.15.0" => "Vous avez 1 bonne réponse sur 3 !",
+  "0.16.0" => "Vous n'avez résolu aucun des 3 problèmes !",
+  "0.17.0" => "Avancez sur le A6fort de destinationR !",
+  "0.18.0" => "Éliminez les A2ennemisR dans le bon ordre !",
+  "0.19.0" => "Les A2ennemisR n'ont pas été éliminés dans le bon ordre !",
+  "0.20.0" => "Avancez sur le A6fort suivantR !",
+  "0.21.0" => "Annonce des résultats !",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Éliminez l'A2adversaire qui
+lance des lamesR !",
+  "3.1.0" => "Éliminez l'A2adversaire qui
+se sert d'une hacheR !",
+  "3.2.0" => "Éliminez l'A2adversaire qui
+lance des javelotsR !",
+  "3.3.0" => "Éliminez l'A2adversaire qui
+collectionne les insectesR !",
+  "3.4.0" => "Éliminez l'A2adversaire qui
+possède sa propre maisonR !",
+  "3.5.0" => "Éliminez la A2princesse du
+monde des ombresR !",
+  "3.6.0" => "Éliminez le A2monarque
+démoniaqueR !",
+  "3.7.0" => "Éliminez le A2poids lourdR !",
+  "3.8.0" => "Éliminez l'A2esprit qui
+repose dans une épéeR !",
+  "3.9.0" => "Éliminez l'A2adversaire qui
+manipule l'eauR !",
+  "3.10.0" => "Éliminez l'A2adversaire qui donne deux
+bourses en échange d'insectesR !",
+  "3.11.0" => "Éliminez l'A2adversaireR
+A2qui est apparu sur un chevalR !",
+}

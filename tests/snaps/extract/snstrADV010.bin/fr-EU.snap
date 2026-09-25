@@ -1,0 +1,22 @@
+Map {
+  "0.1.0" => "Vous avez réussi à éliminer tous les A2monstres géantsR !",
+  "0.2.0" => "A0%1sF5R a reçu des renforts sur le champ de bataille !",
+  "0.3.0" => "A0%1sF5R a encore reçu des renforts sur le champ de bataille !",
+  "0.4.0" => "La récompense pour avoir terminé le scénario est apparue !",
+  "0.5.0" => "A0%1sF4R a fui. Vous avez perdu !",
+  "0.6.0" => "Le temps est écoulé. Vous avez perdu !",
+  "0.7.0" => "L'arrivée des renforts galvanise une partie A0%1sF3R !",
+  "0.8.0" => "L'arrivée des renforts galvanise les troupes A0%1sF3R !",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Éliminez tous les
+monstres géants !",
+}

@@ -1,0 +1,14 @@
+Map {
+  "0.1.0" => "A0%1sF0R hat A0%2sF6R beschworen!",
+  "0.2.0" => "Besiege A0%1sF6R und A0%2sF6R!",
+  "0.3.0" => "A0%1sF0R wurde besiegt!",
+  "0.10.0" => "Die gesamten A0%1sF5R rücken gegen A0%2sF6R vor!",
+  "0.11.0" => "Die Moral der gesamten A0%1sF5R steigt!",
+  "0.12.0" => "A0%1sF0R darf nicht fliehen!",
+  "0.20.0" => "A0%1sF0R hat die A0%2sF3R angespornt!",
+  "0.21.0" => "Die Moral der A0%1sF1R steigt!",
+  "0.22.0" => "A0%1sF0R muss schnell besiegt werden!",
+  "0.23.0" => "A0%2sF0R wurde besiegt. Die Moral der A0%1sF1R sinkt!",
+  "0.24.0" => "A0%1sF0R wurde besiegt!",
+  "0.25.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+}

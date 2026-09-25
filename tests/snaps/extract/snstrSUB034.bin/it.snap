@@ -1,0 +1,11 @@
+Map {
+  "0.1.0" => "A0%1sF4R appare sul campo di battaglia in cerca di cibo!",
+  "0.2.0" => "A0%1sF0R ha iniziato a cibarsi nell'area A0%2sF6R!",
+  "0.3.0" => "Sconfiggi A0%1sF2R prima che diventi troppo forte!",
+  "0.4.0" => "A0%1sF0R riesce a crescere un po' grazie al cibo ingerito!",
+  "0.5.0" => "A0%1sF0R si sposta alla ricerca di cibo!",
+  "0.6.0" => "A0%1sF0R ha raggiunto le sue dimensioni massime!",
+  "0.7.0" => "A0%1sF0R avanza per fare di questi suoli fertili il suo territorio!",
+  "0.8.0" => "A0%1sF0R cresce ulteriormente grazie al cibo ingerito!",
+  "0.9.0" => "A0%1sF0R cresce notevolmente grazie al cibo ingerito!",
+}

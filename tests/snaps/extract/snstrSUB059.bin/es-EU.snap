@@ -1,0 +1,17 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡Las A0%2sF1R han herido A0%1sF4R!",
+  "0.3.0" => "¡A0%1sF0R se retira A0%2sF4R!",
+  "0.4.0" => "¡Escolta A0%1sF4R e impide que huya!",
+  "0.5.0" => "¡Las A0%2sF1R han obligado A0%1sF4R a retirarse!",
+  "0.7.0" => "¡El hechizo A0%1sF6R ha mermado la cantidad de rupias obtenidas!",
+  "0.9.0" => "¡El hechizo A0%1sF6R ha hecho que parte de las A0%2sF1R se retire!",
+  "0.10.0" => "¡El hechizo A0%1sF6R ha mermado la moral de las A0%2sF1R!",
+  "0.11.0" => "¡A0%1sF0R ha llegado A0%2sF4R!",
+  "0.12.0" => "¡Has escoltado A0%1sF4R!",
+  "0.13.0" => "¡No has logrado escoltar A0%1sF4R!",
+  "0.14.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.16.0" => "¡Vence A0%1sF4R para poner fin al hechizo!",
+  "0.17.0" => "¡Al vencer A0%1sF4R, el hechizo se ha desvanecido!",
+  "0.18.0" => "¡A0%1sF0R se dirige hacia las A0%2sF1R!",
+}

@@ -1,0 +1,18 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R y A0%2sF2R han aparecido!",
+  "0.2.0" => "¡A0%1sF0R ha perdido de vista A0%2sF4R!",
+  "0.3.0" => "¡Escolta A0%1sF4R para que se reúna con A0%2sF2R!",
+  "0.4.0" => "¡Ya puedes escoltar A0%1sF4R!",
+  "0.5.0" => "¡A0%1sF0R se dirige hacia A0%2sF2R!",
+  "0.6.0" => "¡A0%1sF0R y A0%2sF2R se han reunido!",
+  "0.7.0" => "¡En agradecimiento, A0%1sF2R se dirige hacia las A0%2sF1R!",
+  "0.8.0" => "¡Ayuda A0%2sF4R hasta que se reúna con A0%1sF2R!",
+  "0.9.0" => "¡A0%1sF0R ha huido!",
+  "0.10.0" => "¡No has logrado que se reuniera con A0%1sF2R!",
+  "0.11.0" => "¡A0%1sF0R se ha enfurecido y está atacando a todas las tropas!",
+  "0.12.0" => "¡Ten cuidado con A0%1sF2R!",
+  "0.13.0" => "¡A0%1sF0R está atacando A0%2sF4R!",
+  "0.14.0" => "¡Vence A0%1sF4R y rescata A0%2sF4R!",
+  "0.15.0" => "¡A0%1sF0R se dirige de nuevo hacia A0%2sF2R!",
+  "0.16.0" => "¡Has conseguido vencer A0%1sF4R!",
+}

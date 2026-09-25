@@ -1,0 +1,12 @@
+Map {
+  "0.0.0" => "Beginn der Episode „Eskorte“!",
+  "0.1.0" => "A0%1sF1R wurden gesichtet und wollen A0%2sF6R beschützen!",
+  "0.2.0" => "A0%2sF1R dürfen A0%1sF6R nicht erreichen!",
+  "0.3.0" => "Wenn A0%1sF7R A0%2sF6R erreichen, steigt ihre Moral!",
+  "0.4.0" => "Vorsicht! A0%1sF1R nähern sich A0%2sF4R!",
+  "0.5.0" => "A0%1sF0R hat A0%2sF6R erreicht! Die Moral steigt!",
+  "0.6.0" => "Vorsicht! A0%1sF0R nähert sich A0%2sF6R!",
+  "0.10.0" => "Besiege die übrigen A0%1sF3R!",
+  "0.11.0" => "A0%1sF0R wurde besiegt!",
+  "0.12.0" => "A0%1sF1R wurden besiegt!",
+}

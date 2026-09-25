@@ -1,0 +1,15 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario «El cuco plateado perdido»!",
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡Vence A0%1sF4R!",
+  "0.3.0" => "¡A0%1sF0R se ha retirado temporalmente!",
+  "0.4.0" => "¡A0%1sF0R ha vuelto a aparecer en A0%2sF2R!",
+  "0.5.0" => "¡Conquista los bastiones enemigos e impide la retirada!",
+  "0.6.0" => "¡A0%1sF0R ha perdido de vista las rutas de huida!",
+  "0.7.0" => "¡Has vencido A0%1sF4R!",
+  "0.8.0" => "¡A0%1sF0R se ha retirado del frente de batalla!",
+  "0.9.0" => "¡Impide que A0%1sF2R se acerque!",
+  "0.10.0" => "¡No has logrado vencer A0%1sF4R!",
+  "0.11.0" => "¡A0%1sF0R se ha retirado!",
+  "0.12.0" => "¡A0%1sF0R se dispone a retirarse!",
+}

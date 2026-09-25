@@ -1,0 +1,17 @@
+Map {
+  "0.0.0" => "Beginn der Episode „Magiespezialist“!",
+  "0.1.0" => "A0%1sF0R wurde auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF0R will A0%2sF3R eine Barriere erschaffen!",
+  "0.3.0" => "Besiege A0%1sF6R!",
+  "0.4.0" => "A0%1sF0R bereitet die Erschaffung einer Barriere vor!",
+  "0.5.0" => "A0%1sF0R erschafft eine Barriere!",
+  "0.6.0" => "A0%1sF0R wurde beim Erschaffen einer Barriere entdeckt!",
+  "0.7.0" => "A0%1sF0R hat A0%2sF3R eine Barriere erschaffen!",
+  "0.8.0" => "A0%1sF0R hat sich zurückgezogen!",
+  "0.9.0" => "Die Erschaffung der Barriere wurde verhindert!",
+  "0.10.0" => "A0%1sF0R wurde besiegt!",
+  "0.11.0" => "A0%1sF0R muss schnell besiegt werden!",
+  "0.12.0" => "Wird die Barriere errichtet, fällt A0%1sF5R!",
+  "0.13.0" => "C1%1sF0R ist durch die Barriere gefallen!",
+  "0.14.0" => "A0%1sF0R hat C1%2sF3R eine Barriere erschaffen!",
+}

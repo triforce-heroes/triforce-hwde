@@ -1,0 +1,12 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « L'arrivée de Crâne de Pierre »!",
+  "0.1.0" => "A0%1sF4R a rejoint le champ de bataille!",
+  "0.2.0" => "A0%1sF4R se dirige vers A0%2sF0R!",
+  "0.3.0" => "Empêchez A0%1sF0R d'avancer!",
+  "0.4.0" => "A0%1sF4R s'approche A0%2sF3R!",
+  "0.5.0" => "A0%1sF4R a rejoint votre camp!",
+  "0.6.0" => "A0%1sF4R se dirige vers A0%2sF1R!",
+  "0.7.0" => "A0%1sF4R a repéré A0%2sF2R!",
+  "0.8.0" => "Éliminez A0%1sF0R!",
+  "0.9.0" => "Vous avez vaincu A0%1sF0R!",
+}

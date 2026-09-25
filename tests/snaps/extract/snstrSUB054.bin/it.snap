@@ -1,0 +1,12 @@
+Map {
+  "0.0.0" => "Comincia il sottoscenario "Le guardie"!",
+  "0.1.0" => "A0%1sF5R appaiono sul campo e avanzano per difendere A0%2sF2R!",
+  "0.2.0" => "Sconfiggi A0%2sF3R prima che raggiungano A0%1sF2R!",
+  "0.3.0" => "Se A0%1sF3R raggiungono A0%2sF2R il loro morale migliorerà!",
+  "0.4.0" => "A0%1sF1R stanno per raggiungere A0%2sF2R! Vai all'attacco!",
+  "0.5.0" => "A0%1sF5R difendono A0%2sF2R e il loro morale migliora!",
+  "0.6.0" => "A0%1sF0R va verso A0%2sF2R! Vai all'attacco!",
+  "0.10.0" => "Sconfiggi A0%1sF2R che manca!",
+  "0.11.0" => "Hai sconfitto A0%1sF2R!",
+  "0.12.0" => "Hai sconfitto A0%1sF3R!",
+}

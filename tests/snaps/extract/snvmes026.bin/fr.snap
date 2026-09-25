@@ -1,0 +1,331 @@
+Map {
+  "1.0.0.0" => "Si nous ne pouvons récupérer le pouvoir des
+ténèbres, je disparaîtrai avec ce monde.",
+  "1.0.1.0" => "On a tous été séparés par le fantôme de
+Ganon! Il est beaucoup trop puissant!",
+  "1.0.2.0" => "Si nous n'arrêtons pas le fantôme de Ganon,
+la foudre ne cessera jamais de tomber.",
+  "1.0.3.0" => "Il existe une solution. Utilisez le pouvoir des
+sages. Eux seuls peuvent nous protéger!",
+  "1.0.4.0" => "Fantôme de malheur... Il utilise sa magie
+pour devenir encore plus puissant.",
+  "1.0.5.0" => "Ce pouvoir... Je l'envie... mais pour l'instant,
+nous devons capturer les forts des sages!",
+  "1.0.6.0" => "Vous voyez ce grand symbole ici! Nous
+devons être dans un des forts des sages!",
+  "1.0.7.0" => "Nous avons pris le contrôle du fort, mais les
+portes restent fermées... Qu'est-ce que...?",
+  "1.0.8.0" => "C'est sûrement la faute du fantôme de Ganon.
+Il ne manque pas de ressources...",
+  "1.0.9.0" => "Bon, on dirait qu'on va devoir prendre
+tous les forts des sages sans exception!",
+  "1.0.10.0" => "Et de deux! Allez, les amis!
+Continuez comme ça!",
+  "1.0.11.0" => "Et continuez à protéger les forts une fois pris!
+On ne peut pas se permettre de les perdre!",
+  "1.0.12.0" => "Qu'est-ce qui se passe? Quelque chose nous
+bloque le passage! Impossible d'avancer!",
+  "1.0.13.0" => "Hum? Oh! Tu as vu cet interrupteur? Tu crois
+qu'il se passera quoi si on appuie dessus?",
+  "1.0.14.0" => "Bon travail! Nous allons pouvoir
+continuer à avancer!",
+  "1.0.15.0" => "Nous devons atteindre les forts des sages au
+plus vite... Et cet interrupteur devrait nous aider!",
+  "1.0.16.0" => "Inouï! Avez-vous vu l'incroyable vitesse
+à laquelle ces arbres ont poussé?",
+  "1.0.17.0" => "Ces chemins profiteront également à l'ennemi.
+Ne les laissez pas appeler des renforts!",
+  "1.0.18.0" => "Nous n'avons pu arrêter leur messager!
+Les ennemis sont plus nombreux que jamais!",
+  "1.0.19.0" => "Bien, nous sommes parvenus à empêcher
+l'arrivée de renforts ennemis.",
+  "1.0.20.0" => "Les forts des sages affaiblissent Ganon!
+On dirait que votre plan a marché!",
+  "1.0.21.0" => "Tiens bon, Cya! Nous serons là
+dans un instant!",
+  "1.0.22.0" => "Génial, ces monstres deviennent de plus en plus
+puissants. Allons donner un coup de main à Cya!",
+  "1.0.23.0" => "Prudence! L'ennemi pourra atteindre notre base
+et nos forts si on connecte ces chemins...",
+  "1.0.24.0" => "En plus, les forts aux alentours
+sont remplis de monstres!",
+  "1.0.25.0" => "Si nous connectons ces chemins, notre base
+et nos forts seront à la merci de l'ennemi!",
+  "1.0.26.0" => "Les forts à proximité sont eux
+aussi remplis d'ennemis.",
+  "1.0.27.0" => "Deux créatures en sont sorties?!",
+  "1.0.28.0" => "Ils s'attaquent à nouveau aux forts des sages.
+S'ils les prennent, la foudre reprendra!",
+  "1.0.29.0" => "Ne laissez surtout pas l'ennemi
+récupérer les forts des sages!",
+  "1.0.30.0" => "Malheur... Nous ne pouvons protéger
+les forts des sages plus longtemps!",
+  "1.0.31.0" => "Si nous perdons les forts des
+sages, la foudre reprendra!",
+  "1.0.32.0" => "Nous allons perdre les forts des
+sages si nous ne réagissons pas!",
+  "1.0.33.0" => "On va devoir supporter la foudre à nouveau
+si les forts des sages tombent!",
+  "1.0.34.0" => "C'est mal engagé. Les forts des sages
+ne tiendront plus longtemps!",
+  "1.0.35.0" => "Si on perd les forts des sages, la foudre
+va recommencer à tomber... Non merci!",
+  "1.0.36.0" => "Qu'est-ce qu'on va faire? Ils vont
+prendre les forts des sages, Link!",
+  "1.0.37.0" => "Dépêchez-vous! Cya ne pourra
+pas gagner cette bataille seule...",
+  "1.0.38.0" => "Les monstres se sont mis en marche! Nous
+devons aider Cya avant qu'il ne soit trop tard!",
+  "1.0.39.0" => "Non... Si seulement j'avais
+encore tous mes pouvoirs...",
+  "1.0.40.0" => "Vous... Vous m'avez sauvée...
+Merci.",
+  "1.0.41.0" => "Ce gros monstre a fini
+ par mordre la poussière!",
+  "1.0.42.0" => "Aïe, aïe, aïe! Notre base et les forts des
+sages sont en danger. Repoussez l'ennemi!",
+  "1.0.43.0" => "Nous devons nous battre ensemble pour les
+arrêter. Protégez la base et les forts des sages!",
+  "1.0.44.0" => "Tous les chemins sont ouverts. 
+En avant, allons rejoindre Cya!",
+  "1.0.45.0" => "Non! Il nous faut récupérer les forts des sages!
+C'est le seul moyen d'arrêter la foudre!",
+  "1.0.46.0" => "Les troupes ennemies diminuent!
+Récupérez les forts des sages! Maintenant!",
+  "1.0.47.0" => "C'est lui qui a créé le nouveau portail...
+Mais d'où viennent ses pouvoirs magiques?",
+  "1.0.48.0" => "Il me les a volés... Et je préfère vous prévenir,
+je ne suis pas d'humeur magnanime...",
+  "1.0.49.0" => "Allez, tout le monde,
+prêtez vos forces à Cya!",
+  "1.0.50.0" => "C'est compris!",
+  "1.0.51.0" => "Je m'exécute!",
+  "1.0.52.0" => "Tu peux avoir nos forces à nous aussi!",
+  "1.0.53.0" => "Seuls, nous n'avons aucune chance. Mais
+ensemble, nous décrocherons la victoire!",
+  "1.0.54.0" => "Tout le monde est là! Maintenant, Cya!
+À l'attaque!",
+  "1.0.55.0" => "Allons-y!",
+  "1.0.56.0" => "Ah... Cette démonstration de force m'a
+épuisée. Le reste est entre vos mains!",
+  "1.0.57.0" => "Ne t'en fais pas. On s'en occupe!
+La victoire ne fait aucun doute!",
+  "1.0.58.0" => "Il est temps d'en finir une fois pour toutes!
+Frappons-le de toutes nos forces!",
+  "1.0.59.0" => "Notre adversaire est un ennemi
+redoutable, mais n'ayez pas peur!",
+  "1.0.60.0" => "Allez, les amis!
+Encore un petit effort!",
+  "1.0.61.0" => "J'ai jamais rien vu de pareil!
+Faites tous très attention!",
+  "1.0.62.0" => "Peu importe sa puissance, tout être est
+faillible. Il nous faut trouver son point faible!",
+  "1.0.63.0" => "Tout ira bien si on se bat ensemble. C'est
+comme ça qu'on déplace des montagnes!",
+  "1.0.64.0" => "Encore un petit effort, et Cya
+récupèrera ses pouvoirs!",
+  "1.0.65.0" => "Oui, nous devons à tout prix
+gagner cette bataille!",
+  "1.0.66.0" => "Pardonnez-moi... Je n'ai été...
+d'aucune aide...",
+  "1.0.67.0" => "Si nous prenons les forts des sages,
+leur lumière affaiblira nos ennemis.",
+  "1.0.68.0" => "On va s'occuper des ennemis en haut!
+Connectez les chemins quand on aura fini!",
+  "1.0.69.0" => "Je vais m'occuper des ennemis en haut. 
+Connectez les chemins quand j'aurai terminé!",
+  "1.0.70.0" => "Lana, regroupe les autres! Nous allons
+avoir besoin d'une grande puissance!",
+  "1.0.71.0" => "Poussez-vous de là!
+On doit vite rejoindre Cya!",
+  "1.0.72.0" => "Hors de mon chemin!
+Cya a besoin de moi!",
+  "1.0.73.0" => "Libérez le passage! Il faut que
+je retrouve cette fille, Cya!",
+  "1.0.74.0" => "Disparaissez! Ma mission est de sauver Cya,
+pas d'affronter la vermine de ce monde!",
+  "1.0.75.0" => "On peut voir un étrange symbole sur ce fort...
+Tu crois que c'est un fort des sages, Link?",
+  "1.0.76.0" => "Quel drôle de symbole. Ça doit être un
+fort des sages...",
+  "1.0.77.0" => "Il y a un symbole sur le sol... Il s'agit
+probablement d'un fort des sages.",
+  "1.0.78.0" => "On pourra pas atteindre Cya sans activer ces
+interrupteurs pour rétablir les chemins.",
+  "1.0.79.0" => "Le seul moyen de rejoindre Cya est d'activer
+ces interrupteurs pour rétablir le chemin.",
+  "1.0.80.0" => "Notre base! On dirait bien
+que c'est la fin cette fois!",
+  "1.0.81.0" => "On a du mal à se regrouper!",
+  "1.0.82.0" => "Renvoyez ses projectiles quand il attaque!
+Nous pouvons gagner cette bataille!",
+  "1.0.83.0" => "Cya risque de disparaître!
+Il faut à tout prix la protéger!",
+  "1.0.84.0" => "Plus qu'un fort des sages! Ensuite,
+nous pourrons rejoindre Cya!",
+  "1.0.85.0" => "Tiens! Les statues ont disparu quand
+elles ont été touchées par la lumière!",
+  "1.0.86.0" => "Il ne me reste plus qu'à
+monter avec le grappin.",
+  "1.0.87.0" => "Et voilà! Il me reste plus qu'à utiliser
+le grappin, et je suis en haut!",
+  "1.0.88.0" => "On ne pourrait pas ouvrir
+les portes de ce passage?",
+  "1.0.89.0" => "Des portes nous bloquent le passage!
+Je me demande si je pourrais les ouvrir...",
+  "1.0.90.0" => "Si on ouvrait les portes de ce passage, 
+on aurait plus aucun mal à se rassembler.",
+  "1.0.91.0" => "Ouvrons les portes de ce passage, et nous
+pourrons nous regrouper plus facilement...",
+  "1.0.92.0" => "On a réussi! Les portes
+sont ouvertes!",
+  "1.0.93.0" => "Bien joué! Les portes
+sont ouvertes!",
+  "1.0.94.0" => "Et voilà! Les portes
+sont ouvertes!",
+  "1.0.95.0" => "Bien. Les portes
+sont ouvertes!",
+  "1.0.96.0" => "Le fantôme de Ganon doit être en train
+d'accumuler de la magie à l'heure qu'il est.",
+  "1.0.97.0" => "Si on renforce le pouvoir de la lumière en
+éliminant les monstres, il sortira de sa base...",
+  "1.0.98.0" => "Éliminons les monstres pour protéger Cya!",
+  "1.0.99.0" => "Attention! Il... Il arrive!
+Le fantôme de Ganon!",
+  "13.0.0.0" => "Regarde, Link! Il y a une
+sorte d'interrupteur, là-bas!",
+  "13.0.1.0" => "Vite, allons prendre le fort des Sages! Tu crois
+qu'on peut monter grâce à cet interrupteur?",
+  "13.0.2.0" => "Fantastique! Ces arbres ont poussé
+en un instant!",
+  "13.0.3.0" => "Mais l'ennemi aussi peut passer maintenant.
+Empêchons-le d'appeler du renfort!",
+  "13.0.4.0" => "On est pas arrivés à temps... Les forts des
+sages sont remplis d'ennemis maintenant...",
+  "13.0.5.0" => "Bon! Au moins, on a plus à craindre
+de renforts ennemis, maintenant!",
+  "13.0.6.0" => "Il a recommencé à renforcer les monstres!
+Cya est en mauvaise posture!",
+  "13.0.7.0" => "Mais si on relie les chemins, les ennemis au nord
+attaqueront la base et les forts des sages...",
+  "13.0.8.0" => "Il y a aussi plein d'ennemis
+dans les forts à proximité!",
+  "13.0.9.0" => "Mais si on ouvre le passage, les monstres au
+nord attaqueront la base et les forts des sages!",
+  "13.0.10.0" => "En plus, les forts à proximité
+sont remplis d'ennemis!",
+  "13.0.11.0" => "Deux énormes créatures
+viennent d'apparaître!",
+  "13.0.12.0" => "Si on perd les forts des sages,
+la foudre va se remettre à tomber!",
+  "13.0.13.0" => "Je ne sais pas quoi faire! On va perdre
+les forts des sages si ça continue!",
+  "13.0.14.0" => "Il ne faut pas qu'on perde les forts des
+sages, ou la foudre reprendra!",
+  "13.0.15.0" => "Qu'est-ce qu'on peut faire! Ils vont
+prendre les forts des sages si ça continue!",
+  "13.0.16.0" => "S'ils s'emparent des forts des sages,
+la foudre recommencera à tomber!",
+  "13.0.17.0" => "Il faut trouver une solution, Link!
+Ou nous allons perdre les forts des sages!",
+  "13.0.18.0" => "La foudre tombera à nouveau si
+nous perdons les forts des sages!",
+  "13.0.19.0" => "Hum! Je n'arriverai pas à protéger
+les forts des sages!",
+  "13.0.20.0" => "Si l'ennemi reprend les forts des sages,
+la foudre recommencera à tomber!",
+  "13.0.21.0" => "Oh non! L'ennemi va reprendre les forts
+des sages si nous ne réagissons pas...",
+  "13.0.22.0" => "La foudre va encore tomber
+si on perd les forts des sages!",
+  "13.0.23.0" => "Ça sent pas bon pour nous... Les forts
+des sages ne tiendront plus longtemps!",
+  "13.0.24.0" => "Il faut vite se débarrasser d'eux!
+Cya ne peut rien faire toute seule!",
+  "13.0.25.0" => "Les monstres se déplacent! Si on ne
+réagit pas, il sera trop tard pour Cya!",
+  "13.0.26.0" => "On a réussi! Bravo!
+On a vaincu ces gros monstres!",
+  "13.0.27.0" => "Il y a un symbole, ici! C'est
+sûrement un des forts des sages!",
+  "13.0.28.0" => "Quel drôle de symbole...
+Ça doit être un fort des sages.",
+  "13.0.29.0" => "Un mystérieux symbole marque le sol...
+Il s'agit probablement d'un fort des sages.",
+  "13.0.30.0" => "Il y a un très grand symbole ici.
+C'est peut-être un fort des sages?",
+  "13.0.31.0" => "Tu as vu ce symbole, Link? Tu crois
+que c'est un fort des sages?",
+  "13.0.32.0" => "Quel symbole étrange! Hé, mais c'est
+peut-être un fort des sages, non?",
+  "13.0.33.0" => "Il va falloir activer les interrupteurs et
+relier les chemins si on veut rejoindre Cya.",
+  "13.0.34.0" => "On ne pourra pas rejoindre Cya sans activer
+les interrupteurs pour relier les chemins!",
+  "13.0.35.0" => "Ça risque d'être difficile pour tout le monde
+de se retrouver près de ce monstre...",
+  "13.0.36.0" => "Link se charge des monstres au nord!
+Après ça, va relier les chemins, Tetra!",
+  "13.0.37.0" => "Link s'occupe des monstres au nord!
+Charge-toi de relier les chemins après!",
+  "13.0.38.0" => "Hein, mais...?! Les statues ont disparu
+quand la lumière les a touchées!",
+  "13.0.39.0" => "Ils veulent prendre les forts des sages? Il faut
+les empêcher, sinon la foudre retombera!",
+  "13.0.40.0" => "Il suffit qu'on utilise le grappin
+pour monter!",
+  "13.0.41.0" => "Les monstres deviennent de plus en plus
+forts! Cya est en danger, il faut l'aider!",
+  "13.0.42.0" => "L'ennemi renforce ses monstres!
+Cya court un grave danger!",
+  "13.0.43.0" => "Si on veut rejoindre Cya, il faut qu'on active
+les interrupteurs pour relier les chemins...",
+  "13.0.44.0" => "Si nous n'activons pas les interrupteurs,
+nous ne pourrons pas rejoindre Cya...",
+  "13.0.45.0" => "Mais si nous ouvrons le passage, la base et les
+forts seront attaqués par les monstres au nord...",
+  "13.0.46.0" => "Hum! Si nous ouvrons le passage, les monstres
+au nord s'en prendront à la base et aux forts...",
+  "13.0.47.0" => "Les monstres se déplacent!
+Vite, sinon Cya sera perdue!",
+  "13.0.48.0" => "Les monstres marchent à nouveau! Hâtons-nous
+de secourir Cya avant qu'il ne soit trop tard!",
+  "13.0.49.0" => "Des portes nous bloquent le passage!
+Je me demande si je peux les ouvrir...",
+  "13.0.50.0" => "Si on ouvrait les portes de ce passage, 
+ça nous aiderait à nous rassembler.",
+  "13.0.51.0" => "Ouvrons les portes de ce passage, et nous
+pourrons nous regrouper plus facilement...",
+  "13.0.52.0" => "Tu penses qu'il y a un moyen
+d'ouvrir les portes de ce passage?",
+  "13.0.53.0" => "Est-ce qu'on ne pourrait pas
+ouvrir les portes de ce passage?",
+  "13.0.54.0" => "On ne pourrait pas ouvrir
+les portes de ce passage?",
+  "13.0.55.0" => "Bravo! Les portes
+sont ouvertes!",
+  "13.0.56.0" => "Et voilà! Les portes
+sont ouvertes!",
+  "13.0.57.0" => "Très bon travail. Les portes
+sont ouvertes!",
+  "13.0.58.0" => "On a réussi! Les portes
+sont ouvertes!",
+  "13.0.59.0" => "Super! Les portes
+sont ouvertes!",
+  "13.0.60.0" => "Bien joué! Les portes
+sont ouvertes!",
+  "13.0.61.0" => "Je dois vite retrouver Cya!
+Hors de ma route!",
+  "13.0.62.0" => "Ôtez-vous de là!
+Je dois rejoindre Cya!",
+  "13.0.63.0" => "Je dois me hâter et rejoindre Cya.
+Ne restez pas en travers de mon chemin.",
+  "13.0.64.0" => "Restez pas là! On doit rejoindre
+Cya au plus vite!",
+  "13.0.65.0" => "Laissez-nous passer!
+On doit vite rejoindre Cya!",
+  "13.0.66.0" => "Poussez-vous de là!
+Cya a besoin de nous!",
+  "13.0.67.0" => "On peut sûrement monter
+avec le grappin!",
+}

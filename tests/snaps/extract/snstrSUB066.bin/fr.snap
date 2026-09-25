@@ -1,0 +1,11 @@
+Map {
+  "0.0.0" => "Début du sous-scénario « Motivation des troupes »!",
+  "0.1.0" => "La supériorité numérique A0%2sF3R baisse le moral A0%1sF3R!",
+  "0.2.0" => "Éliminez A0%1sF1R et encouragez A0%2sF1R!",
+  "0.3.0" => "Les troupes A0%1sF3R arrêtent d'avancer!",
+  "0.4.0" => "L'acharnement A0%2sF3R remonte le moral d'une partie A0%1sF3R!",
+  "0.5.0" => "Éliminez A0%1sF1R et encouragez A0%2sF1R!",
+  "0.6.0" => "Le moral des troupes A0%1sF3R est en hausse!",
+  "0.7.0" => "Vous avez encouragé A0%1sF1R!",
+  "0.8.0" => "Une partie A0%1sF3R avance de nouveau!",
+}

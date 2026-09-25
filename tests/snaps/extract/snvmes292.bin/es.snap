@@ -1,0 +1,22 @@
+Map {
+  "13.0.0.0" => "Si usamos esto para romper las rocas,
+lograremos llegar hasta la princesa Zelda.",
+  "13.0.1.0" => "¡Debemos proteger la base!",
+  "13.0.2.0" => "¡Tenemos que recuperar el bastión central!",
+  "13.0.3.0" => "¡Recuperen el bastión este de la llanura!",
+  "13.0.4.0" => "¡Tengan cuidado! El enemigo se acerca por el norte.",
+  "13.0.5.0" => "¡El enemigo se dirige al bastión central!",
+  "13.0.6.0" => "¿Qué hacemos? ¡El enemigo se aproxima
+por el bastión este!",
+  "13.0.7.0" => "¡Nosotros nos encargaremos del resto, princesa!",
+  "13.0.8.0" => "¿Qué es eso? Parece un fantasma...",
+  "13.0.9.0" => "¡Los goron están en un aprieto! ¡Voy hacia allá!",
+  "13.0.10.0" => "Esta roca nos impide llegar hasta Impa. Ojalá
+pudiéramos romperla...",
+  "13.0.11.0" => "Usaré esto para destruir la roca y llegar hasta Impa.",
+  "13.0.12.0" => "¡Tome, princesa! ¡Esto hará que las bombas
+sean más potentes!",
+  "13.0.13.0" => "Lo siento mucho, princesa...",
+  "13.0.14.0" => "¡Capturen el bastión central! Yo me dirigiré
+a la base enemiga.",
+}

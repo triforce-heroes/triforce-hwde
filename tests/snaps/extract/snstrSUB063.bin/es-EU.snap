@@ -1,0 +1,7 @@
+Map {
+  "0.0.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.1.0" => "¡A0%1sF0R se ha puesto en marcha!",
+  "0.2.0" => "¡A0%1sF0R ha alentado a las A0%2sF1R más cercanas!",
+  "0.3.0" => "¡La moral de las A0%1sF1R ha aumentado!",
+  "0.4.0" => "¡A0%1sF0R se dispone a alentar a las A0%2sF1R!",
+}

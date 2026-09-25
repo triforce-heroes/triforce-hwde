@@ -1,0 +1,12 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario "El capitán Keeta entra en escena"!",
+  "0.1.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF0R se dirige hacia A0%2sF2R!",
+  "0.3.0" => "¡Detén el avance A0%1sF6R!",
+  "0.4.0" => "¡A0%1sF0R se aproxima A0%2sF4R!",
+  "0.5.0" => "¡A0%1sF0R se ha aliado contigo!",
+  "0.6.0" => "¡A0%1sF0R se dirige hacia las A0%2sF1R!",
+  "0.7.0" => "¡A0%1sF0R ha encontrado A0%2sF4R!",
+  "0.8.0" => "¡Vence A0%1sF4R y acaba con su violenta acción!",
+  "0.9.0" => "¡Has derrotado A0%1sF4R!",
+}

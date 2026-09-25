@@ -1,0 +1,192 @@
+Map {
+  "1.0.0.0" => "The princess must have headed to the
+Enemy Base. Guess I better rescue her.",
+  "1.0.1.0" => "Hey, I can help! But...it looks like there's
+a Gatekeeper at the Enemy Base!",
+  "1.0.2.0" => "Both the throne room and the Gatekeeper
+are strengthened by magic. Wonderful.",
+  "1.0.3.0" => "Best to divide the west and east sides
+and advance. I'll take the east!",
+  "1.0.4.0" => "Wow, these enemies aren't pushovers...
+Looks like they're coming from the palace.",
+  "1.0.5.0" => "I don't care how strong our opponents
+are. I will put an end to their madness!",
+  "1.0.6.0" => "Zelda is keeping the Twilight magic from
+devouring everything, but she won't last!",
+  "1.0.7.0" => "Dang it... They're trying to fortify the keep
+and maintain the Twilight magic's power...",
+  "1.0.8.0" => "We can't get into the Enemy Base with all
+this Twilight magic! We've got to act!",
+  "1.0.9.0" => "The Gatekeeper is a shadow of Zant? If we
+weaken its magic, we can defeat it!",
+  "1.0.10.0" => "So we can weaken the Twilight magic by 
+taking keeps? Let's go!",
+  "1.0.11.0" => "Who's doing all this? Someone's
+capitalizing on Zelda's strained abilities...",
+  "1.0.12.0" => "This enemy seems tough, but if we take
+more keeps, I bet he'll be a pushover.",
+  "1.0.13.0" => "With those monsters, we don't need to
+take all the keeps--three would do it.",
+  "1.0.14.0" => "Uh-oh! It looks like our base is in trouble!
+I'd better go do something to defend it!",
+  "1.0.15.0" => "Let's keep this up and take more of those
+keeps! We can't keep Zelda waiting!",
+  "1.0.16.0" => "Good, that's one less roadblock.",
+  "1.0.17.0" => "Oh come on... And we were just starting
+to gather some momentum here...",
+  "1.0.18.0" => "Phew! Now all we have to do is take
+the throne room! Er, I think...",
+  "1.0.19.0" => "Oh no! It's even more fortified! How are
+we going to get to the princess now?",
+  "1.0.20.0" => "I managed to stop my half of the enemies!
+C'mon! Let's take that keep!",
+  "1.0.21.0" => "They managed to fortify the throne room...
+Ugh, now it'll take us forever to get to Zelda.",
+  "1.0.22.0" => "Zelda, are you all right? Conserve your
+strength! If you fall, then it's all over for us!",
+  "1.0.23.0" => "I need to stop their commander. In the
+meantime, weaken the other enemies.",
+  "1.0.24.0" => "I will put an end to this evil Twilight
+magic, even if it means the end of me!",
+  "1.0.25.0" => "No! Somebody! STOP HER!",
+  "1.0.26.0" => "Excellent! We weakened enemy forces by
+taking the keep!",
+  "1.0.27.0" => "We did it! That means no more monsters
+spewing out of those keeps!",
+  "1.0.28.0" => "...What?! Different monsters?!
+Well THAT'S not fair.",
+  "1.0.29.0" => "Wonderful, look who they decided to
+call out. Careful! He's no slouch!",
+  "1.0.30.0" => "Avoid that slob, and focus your efforts
+on the keeps with Twilight magic!",
+  "1.0.31.0" => "We need more troops! I'm going
+to call for reinforcements!",
+  "1.0.32.0" => "We're joining in! Let's stop
+that beast together!",
+  "1.0.33.0" => "Great! That means we can concentrate
+on taking the keeps!",
+  "1.0.34.0" => "Thanks for covering us! Our mission's
+complete, so we're taking off!",
+  "1.0.35.0" => "They couldn't call for reinforcements...
+That means the base is our responsibility!",
+  "1.0.36.0" => "I'll open those gates with my own two
+hands if I have to. Hold on, Zelda!",
+  "1.0.37.0" => "Zelda! You're still alive! Thank goodness!
+Here, take some of my magic reserves.",
+  "1.0.38.0" => "You have my gratitude!",
+  "1.0.39.0" => "Zelda...!
+How could they...",
+  "1.0.40.0" => "Hey, my compass is glowing again!",
+  "1.0.41.0" => "Don't get cocky. You helped, but don't forget
+that you're talking to a princess of Twilight here.",
+  "1.0.42.0" => "Hey, I DID defeat the strongest-looking
+monster, didn't I?",
+  "1.0.43.0" => "But...it looks like the Twilight magic is
+still at work. What should we do?",
+  "1.0.44.0" => "It'll be fine. This is my domain, so let
+me handle it from here.",
+  "1.0.45.0" => "Our base! How are we supposed to rescue
+Zelda if we can't even defend our own base?",
+  "1.0.46.0" => "Forgive me... I...wasn't strong enough...",
+  "1.0.47.0" => "Hey! The Enemy Base still won't open!",
+  "1.0.48.0" => "I won't let you get away with this!",
+  "1.0.49.0" => "That's one side taken care of!
+Now, let's take that keep!",
+  "1.0.50.0" => "We must do something!",
+  "1.0.51.0" => "I will not allow the evil Twilight magic
+to consume this world!",
+  "1.0.52.0" => "There's Twilight magic coming from the
+northern keep. Let's start there!",
+  "1.0.53.0" => "What got them all fired up? Great, we can't
+handle this. Not with Zelda so weak...",
+  "1.0.54.0" => "Hey, look alive! I think our enemies
+are up to something.",
+  "1.0.55.0" => "Good, the magic weakened! Now stay
+outta my way!",
+  "1.0.56.0" => "The Gatekeeper is down! That just leaves
+the keep, and the Enemy Base should open!",
+  "1.0.57.0" => "I'll keep the princess safe!",
+  "1.0.58.0" => "If we capture the keep, it should weaken
+the Enemy Base's gate and Gatekeeper!",
+  "1.0.59.0" => "Midna... I've taken all that you had to give...
+though I did not want it. Thanks for this... And you...",
+  "1.0.60.0" => "You stopped the summoning and focused
+the remaining magic.",
+  "1.0.61.0" => "How could they call forth more enemies?
+We can't keep this up!",
+  "1.0.62.0" => "All right! Leave the west to me!",
+  "1.0.63.0" => "If the Gatekeeper and gates lose power,
+I should be able to open the gates!",
+  "1.0.64.0" => "Midna... You look...different... And who
+is that other girl?",
+  "1.0.65.0" => "I'm Linkle! I'm going to rescue you!",
+  "1.0.66.0" => "Right. Less talking, more rescuing.",
+  "1.0.67.0" => "As the hero, it's only natural that I do
+the rescuing.",
+  "1.0.68.0" => "After all, a fake is a fake...and no matter how much
+you dress things up, the real thing always wins!",
+  "13.0.2.0" => "We should go to the east first and capture
+the enemy outpost. Ready? Let's go!",
+  "13.0.3.0" => "Oh, come on! Hurry and capture the Eastern
+Keep! You didn't get distracted, did you?",
+  "13.0.4.0" => "The bridge is down, but don't worry about it!
+You just focus on getting that keep!",
+  "13.0.5.0" => "A chest? Heh, don't mind if I do...",
+  "13.0.6.0" => "We're being attacked from the air! How are
+we supposed to combat that...?",
+  "13.0.7.0" => "We'll have to use magic if we want to
+damage the dragon in midflight!",
+  "13.0.8.0" => "I'll create a Magic Circle in the keep
+underneath the dragon! Buy some time!",
+  "13.0.9.0" => "Monsters are in my way! Can someone do
+me a favor and get rid of them?",
+  "13.0.10.0" => "Will you dainty little flowers be OK without
+me holding your hands on the front lines?",
+  "13.0.11.0" => "He struck when I was gone! Darn! I need
+to finish that Magic Circle immediately...",
+  "13.0.12.0" => "The Magic Circle is finished! Use it to really
+give that dragon something to roar about!",
+  "13.0.13.0" => "Our base can't take much more!
+Hurry--someone use the Magic Circle!",
+  "13.0.14.0" => "Wonderful! I hope that's the last we'll
+hear from our friend the dragon...",
+  "13.0.15.0" => "Oh no, they're trying to take Agitha!
+Keep the monsters away from her!",
+  "13.0.16.0" => "Agitha's been taken! Dang... That'll really
+please the enemies in the east...",
+  "13.0.17.0" => "The Magic Circles are key! Capture the
+keep that's directly below the dragon!",
+  "13.0.18.0" => "Same plan as last time? Too easy!",
+  "13.0.19.0" => "It wants to attack the base again...
+We have to hit it hard and hit it fast!",
+  "13.0.20.0" => "The Magic Circle is ready! Make this one
+really count!",
+  "13.0.21.0" => "That's about all I can do... Quick, defeat
+that dragon with the Magic Circle!",
+  "13.0.22.0" => "Look! The magic attack worked! We should
+be able to hit the dragon with normal attacks!",
+  "13.0.23.0" => "Third time, huh? Haaaa... How many times
+will we have to go through this?",
+  "13.0.24.0" => "The Magic Circle doesn't seem to have the
+effect we want, but what else can we do...?",
+  "13.0.25.0" => "Let's just follow the butterfly to the building
+in the southeast! Trust it knows something!",
+  "13.0.26.0" => "A Magic Circle in the Fairy Fountain...
+That should help us take down Argorok!",
+  "13.0.27.0" => "Our base is the last building standing!
+DO NOT LET IT FALL!",
+  "13.0.28.0" => "See? We can pull through this!",
+  "13.0.29.0" => "We just need to defeat Argorok and Zant...
+Hey, that won't be too hard, right?",
+  "13.0.30.0" => "You're a product of your own greed... You and
+Cia both.",
+  "13.0.31.0" => "Yes! Nice work, everyone!",
+  "13.0.32.0" => "We cleared out anyone in our way!
+Now let's seal the Gate of Souls!",
+  "13.0.33.0" => "We've got enemies swarming the base!
+Someone defend it!",
+  "13.0.34.0" => "Our base is on the brink of falling!
+It needs someone to defend it immediately!",
+  "13.0.35.0" => "I've let everyone down... I'm so sorry...",
+  "13.0.36.0" => "Our base fell...? Then this fight is over...",
+}

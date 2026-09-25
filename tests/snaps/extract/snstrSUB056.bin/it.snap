@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF1R appaiono!",
+  "0.2.0" => "Puoi fare uno scambio con A0%1sF3R se ti avvicini!",
+  "0.4.0" => "Hai fatto uno scambio con A0%1sF2R!",
+  "0.5.0" => "A0%1sF0R lascia il campo di battaglia con soddisfazione!",
+  "0.6.0" => "Raggiungi A0%1sF2R restante e fai uno scambio!",
+  "0.8.0" => "A0%1sF0R fugge!",
+  "0.9.0" => "A0%1sF0R percepisce il pericolo e si ritira!",
+  "0.11.0" => "A0%1sF0R ha lasciato un oggetto sul campo!",
+  "0.13.0" => "A0%1sF0R ti ha dato un A6atto di proprietàR per A61000 rupieR!",
+  "0.14.0" => "A0%1sF0R ti ha dato un oggetto per l'A6atto di proprietàR!",
+}

@@ -1,0 +1,1658 @@
+Map {
+  "0.0.0" => "Good job, Link!",
+  "0.1.0" => "Great work, Link!",
+  "0.2.0" => "Yes, just like that!",
+  "0.3.0" => "The enemy's down! Good going, Link!",
+  "0.4.0" => "Hey, not bad! You're really starting
+to look like a hero!",
+  "0.5.0" => "Looking good, Link!
+You're making a great impression!",
+  "0.6.0" => "Is everyone OK? Link's here!",
+  "0.7.0" => "We're here! All right, Link, let's do it!",
+  "0.8.0" => "Nothing we can do here!
+We should run away for now!",
+  "0.9.0" => "Link, you did your best,
+but you've got to retreat!",
+  "0.10.0" => "Hey! Link, this enemy looks tough!
+Be careful!",
+  "0.11.0" => "We'll show you what a real hero looks like!
+Right, Link?",
+  "0.12.0" => "We messed with the wrong opponent...",
+  "0.13.0" => "That's a tough loss, Link...
+Let's do better next time!",
+  "0.14.0" => "Look what they did to our friends!
+It's unforgivable!",
+  "0.15.0" => "Someone's down!
+I hope they're alive...",
+  "0.16.0" => "Things will get easier if we take this keep!",
+  "0.17.0" => "Take over this keep!",
+  "0.18.0" => "This keep is ours now!",
+  "0.19.0" => "Link, you took the keep!",
+  "0.20.0" => "Let's go, Link!
+Don't get yourself hurt!",
+  "0.21.0" => "Let's go! We've got to save Hyrule!",
+  "0.22.0" => "That went well, yeah?
+Great job, Link!",
+  "0.23.0" => "It's finally over. I'm so
+glad you're not hurt, Link!",
+  "0.24.0" => "That sure pushed us to our limits, didn't
+it, Link? Good thing we won!",
+  "0.25.0" => "Link took the keep!",
+  "0.30.0" => "I shall protect Hyrule!",
+  "0.31.0" => "I will deal with Hyrule's enemies myself!",
+  "0.32.0" => "I refuse to fall to the likes of you!",
+  "0.33.0" => "I have defeated an enemy officer!",
+  "0.34.0" => "Everyone, follow me!
+For the victory of Hyrule!",
+  "0.35.0" => "It is my duty to protect Hyrule!
+No monster shall claim it!",
+  "0.36.0" => "What is our army's status?
+I can join the fight to help.",
+  "0.37.0" => "The real battle starts now!
+Show no fear!",
+  "0.38.0" => "I must withdraw for now...",
+  "0.39.0" => "I underestimated the enemy's strength...",
+  "0.40.0" => "Your ruthless ambitions end here!",
+  "0.41.0" => "Be gone! I won't allow
+any further destruction!",
+  "0.42.0" => "We must fall back!",
+  "0.43.0" => "This...is not the end!",
+  "0.44.0" => "Everyone, halt the enemy's advance!",
+  "0.45.0" => "We must overcome as one!",
+  "0.46.0" => "Quickly, capture this location!",
+  "0.47.0" => "I can handle this keep!",
+  "0.48.0" => "I claim this keep for our forces!",
+  "0.49.0" => "This keep is now ours.",
+  "0.50.0" => "Fight bravely and Hyrule shall shine brightly
+once more!",
+  "0.51.0" => "If everyone pools their efforts, this fight
+is ours! Forward toward victory!",
+  "0.52.0" => "It has been decided...
+We have won!",
+  "0.53.0" => "All shadows must eventually meet the light.",
+  "0.54.0" => "Well done! Thank you all for your brave
+efforts!",
+  "0.55.0" => "I was able to capture the keep. Thank
+goodness!",
+  "0.60.0" => "Evil must be snuffed out...",
+  "0.61.0" => "I'll help however I can.",
+  "0.62.0" => "This melody should guide us to the correct
+path...",
+  "0.63.0" => "The enemy officer has been defeated.",
+  "0.64.0" => "Friendships built across time and space
+can overcome any adversity...",
+  "0.65.0" => "The Sheikah have never abandoned Hyrule
+when it needed them, nor will I.",
+  "0.66.0" => "I'll guide us to victory.",
+  "0.67.0" => "Let me help you.",
+  "0.68.0" => "The evil's power proved too much...",
+  "0.69.0" => "My strength was not enough...",
+  "0.70.0" => "Listen to this melody and feel the darkness
+fade away...",
+  "0.71.0" => "You will block our path no further...",
+  "0.72.0" => "Fate was not on our side.",
+  "0.73.0" => "Losing here is not the end...",
+  "0.74.0" => "We must move forward, even if we
+do so without our friend...",
+  "0.75.0" => "I'll fight, even if I'm the last one standing.",
+  "0.76.0" => "I'll take this keep.",
+  "0.77.0" => "I'll secure this location.",
+  "0.78.0" => "This keep is ours.",
+  "0.79.0" => "We took the keep, but we must continue on.",
+  "0.80.0" => "Our destination lies beyond this battlefield...",
+  "0.81.0" => "We must hurry. Quick, before the darkness
+swallows us...",
+  "0.82.0" => "Remind me to play a melody for times of
+celebration when this is all through.",
+  "0.83.0" => "The goddesses will smile on our victory...",
+  "0.84.0" => "Sharing in this struggle has brought us closer
+than ever before. Well done, everyone.",
+  "0.85.0" => "This keep is now under our control.",
+  "0.90.0" => "You'll need more skill than that to beat me!",
+  "0.91.0" => "I'm sorry. That's all I can say.",
+  "0.92.0" => "Sorry, but you were in my way.",
+  "0.93.0" => "I've cut down an enemy officer.",
+  "0.94.0" => "I am Impa of the Sheikah Tribe! We are
+warriors of incomparable strength!",
+  "0.95.0" => "While I take pride in defeating 1,000 enemies,
+I'm more concerned with moving forward!",
+  "0.96.0" => "You fought well. Now, leave the rest to me.",
+  "0.97.0" => "I offer my skills in assistance.",
+  "0.98.0" => "How shamefully disappointing...",
+  "0.99.0" => "I pray for everyone's success in battle...",
+  "0.100.0" => "If you want to live, you'd better run...",
+  "0.101.0" => "I'll deal with the enemy here.",
+  "0.102.0" => "This may be a good moment to leave...",
+  "0.103.0" => "How could my abilities have no effect...?",
+  "0.104.0" => "An enemy has gotten in my way...",
+  "0.105.0" => "I had hoped you could hold out
+a little longer...",
+  "0.106.0" => "Attack the keep!",
+  "0.107.0" => "We can win if we take this location!",
+  "0.108.0" => "This keep is under our control!",
+  "0.109.0" => "Capturing that location should help to break
+our enemy's spirit! Let's keep it up!",
+  "0.110.0" => "We need to overcome our enemies and
+return peace to Hyrule!",
+  "0.111.0" => "I want to evaluate their forces.
+Let me go ahead.",
+  "0.112.0" => "We can't let one victory go to our heads.
+Onward to the next battle!",
+  "0.113.0" => "Phew, we won... I think the soldiers
+can rest... They've earned it.",
+  "0.114.0" => "Finally, we can breathe easy...
+at least for now.",
+  "0.115.0" => "I've completed capturing this keep!",
+  "0.120.0" => "Those anguished screams... I can't help but
+find some satisfaction in them...",
+  "0.121.0" => "Behold the power of a Gerudo warrior!",
+  "0.122.0" => "Is that all? You make me laugh!",
+  "0.123.0" => "Weak...
+WEAK!",
+  "0.124.0" => "Now that my power has been released,
+no one can stop me!",
+  "0.125.0" => "Bow down to your new king!",
+  "0.126.0" => "You wouldn't want to leave me out of all
+the fun, would you?",
+  "0.127.0" => "Who dares to resist my power?",
+  "0.128.0" => "This bores me...
+I refuse to stay here a moment longer.",
+  "0.129.0" => "You finish this fight. I can't be bothered.",
+  "0.130.0" => "Get comfortable with this area...
+It shall be your final resting place!",
+  "0.131.0" => "Care to show me what you can do?",
+  "0.132.0" => "How dare you attempt to wound
+the Demon King!",
+  "0.133.0" => "I'll remember this... Next time,
+fate will be on my side...",
+  "0.134.0" => "These children...have grown a little too
+confident.",
+  "0.135.0" => "Why must there always be some sort of
+pest in the way...?",
+  "0.136.0" => "This keep is too good for our enemy.
+I'd much prefer it were ours!",
+  "0.137.0" => "This keep is now mine.",
+  "0.138.0" => "This location is under my dominion!",
+  "0.139.0" => "That was a bit too easy.",
+  "0.140.0" => "Care for a taste of my strength?",
+  "0.141.0" => "Fools... I'll eliminate every single
+one of you!",
+  "0.142.0" => "Of course I was victorious.
+What did you expect?",
+  "0.143.0" => "I am one step closer to controlling Hyrule...",
+  "0.144.0" => "You thought you could oppose me?
+Ha! What a foolish notion!",
+  "0.145.0" => "This keep is now mine.",
+  "0.150.0" => "I'm not about to roll over for
+the likes of you!",
+  "0.151.0" => "Yes! We've done it!",
+  "0.152.0" => "Yahoo! Take THAT!",
+  "0.153.0" => "I took down an enemy officer!",
+  "0.154.0" => "Monsters? Hah! They're hardly a match
+for Darunia!",
+  "0.155.0" => "Scared? Do you know who I am?
+I am Darunia, chief of the Gorons!",
+  "0.156.0" => "Here I am! Let's do this!",
+  "0.157.0" => "Need a hand?",
+  "0.158.0" => "Apologies... I've gotta go...",
+  "0.159.0" => "Gah! I have to pull back for now...",
+  "0.160.0" => "I'll take you ALL down!",
+  "0.161.0" => "Keep your hands off my brothers!",
+  "0.162.0" => "I won't lose anyone else!",
+  "0.163.0" => "Grrr! I'll remember this!",
+  "0.164.0" => "Hurk--! Expect some payback for that one!",
+  "0.165.0" => "I can't believe it...",
+  "0.166.0" => "I can handle this keep!",
+  "0.167.0" => "The Goron tribe claims this keep!",
+  "0.168.0" => "This keep now belongs to the Goron tribe!
+But, uh, you can use it too! Ha ha!",
+  "0.169.0" => "This spot is mine!",
+  "0.170.0" => "I'll show you what the Gorons can do!",
+  "0.171.0" => "Time for a rampage! Ha ha ha!",
+  "0.172.0" => "All right! We won!",
+  "0.173.0" => "Victory! Ha ha ha!",
+  "0.174.0" => "Hah! Now THAT was a hot battle!",
+  "0.175.0" => "This keep is ours! No keep can stand up
+to a Goron's mighty punch! Ha ha ha!",
+  "0.180.0" => "See what happens when you get in my way?",
+  "0.181.0" => "You insolent creatures...
+Learn some respect!",
+  "0.182.0" => "Do you know who I am?
+No? Then let me show you!",
+  "0.183.0" => "Did you see me take down that officer?
+Wasn't it perfect? I sure thought so!",
+  "0.184.0" => "I never knew I had it in me!",
+  "0.185.0" => "It's clear to everyone that I'm the
+number one princess in this world, yes?",
+  "0.186.0" => "This place looks dangerous...",
+  "0.187.0" => "Where are my friends? I have to save them!",
+  "0.188.0" => "Time to flee...",
+  "0.189.0" => "I'm just...exhausted.",
+  "0.190.0" => "I won't let evil do as it pleases!",
+  "0.191.0" => "Don't you dare lay a hand on my friends!",
+  "0.192.0" => "I'll...I'll tell on you to daddy!",
+  "0.193.0" => "Sometimes, retreating doesn't seem like
+such a bad option...",
+  "0.194.0" => "I think we may be in trouble...",
+  "0.195.0" => "No time to mope around!",
+  "0.196.0" => "Should I attack this keep?",
+  "0.197.0" => "I'm going after the enemy keep!",
+  "0.198.0" => "I'll make this a Zora keep!",
+  "0.199.0" => "Excellent! The keep is ours!",
+  "0.200.0" => "Let me show you the force of the Zora!",
+  "0.201.0" => "Everyone, prepare yourselves!",
+  "0.202.0" => "Wonderful work, everyone!",
+  "0.203.0" => "It's time for me to take my leave.
+Somebody carry me!",
+  "0.204.0" => "Goodness, that was tiring. Everyone, good
+job! Now, let's rest up for the next battle!",
+  "0.205.0" => "I don't mean to brag, but capturing keeps
+just comes easy to me. Don't be jealous!",
+  "0.210.0" => "Oh, Mr. Baddie, are you sleeping?",
+  "0.211.0" => "Hmm... I don't much like coming off
+as a violent person...",
+  "0.212.0" => "Oh look, it's over!",
+  "0.213.0" => "Goodnight, you evil little bug!",
+  "0.214.0" => "Did you know that I'm the princess
+of the insect kingdom? It's true!",
+  "0.215.0" => "I can't wait to tell the pill bugs
+back home how brave I was!",
+  "0.216.0" => "Pardon me for being late, but I'm here now!",
+  "0.217.0" => "I'll do my very, very best!",
+  "0.218.0" => "Oh no! I'm going to be late for tea with
+my insect friends!",
+  "0.219.0" => "The rest is up to you...",
+  "0.220.0" => "I won't forgive anyone who's mean to the
+insects!",
+  "0.221.0" => "Oh, so you're the enemy?",
+  "0.222.0" => "You kind of look like a grasshopper.
+I'm not sure I can fight a fellow insect...",
+  "0.223.0" => "Well, so long! Let's meet again!",
+  "0.224.0" => "You were really amazing out there!",
+  "0.225.0" => "You're running away and leaving me here...?
+That's mean!",
+  "0.226.0" => "I want to have a party for all the bugs!",
+  "0.227.0" => "Could you maybe give this place to me?",
+  "0.228.0" => "Let's turn this keep into a beautiful bug
+garden!",
+  "0.229.0" => "I took the baddies' keep. Do you think
+they still wanted it?",
+  "0.230.0" => "Let's all advance together!",
+  "0.231.0" => "I'm...a little afraid of fighting...",
+  "0.232.0" => "Everyone looks so happy! That makes me
+ever so glad!",
+  "0.233.0" => "Oh, the insects will be pleased to know
+that I'm OK!",
+  "0.234.0" => "What's that, li'l ladybug? You're happy the
+fighting's over? Me too! I'm glad we won!",
+  "0.235.0" => "Oh? Did I take a keep? How wonderful!",
+  "0.240.0" => "You think I'd lose to you?!",
+  "0.241.0" => "Now you know how tough I can be!",
+  "0.242.0" => "You're weaker than I expected.
+That's kind of sad.",
+  "0.243.0" => "Hah! I made taking down that captain look
+easy! You WISH you could be this strong!",
+  "0.244.0" => "Is that all? Drat, I was really hoping
+there'd be someone else at my level.",
+  "0.245.0" => "I'm Midna of the Twili people, and now
+you've witnessed the fury of Twilight!",
+  "0.246.0" => "You're not really pulling your weight...
+I'm going to have to join in.",
+  "0.247.0" => "You're still at it? Fine, I can help!",
+  "0.248.0" => "Sorry, I'm taking off now...",
+  "0.249.0" => "Hm... That didn't turn out well at all...",
+  "0.250.0" => "Hah! Now that I'm here, you guys
+don't stand a chance!",
+  "0.251.0" => "I'll take you all on at once!",
+  "0.252.0" => "My mistake... Should have been
+more careful...",
+  "0.253.0" => "I think I'll call it a day now...",
+  "0.254.0" => "It's not over yet!",
+  "0.255.0" => "You won't win if you regret every move you
+make!",
+  "0.256.0" => "I'll take this keep, thank you!",
+  "0.257.0" => "I think we better take over this keep.",
+  "0.258.0" => "Hey! I took the keep!",
+  "0.259.0" => "Heh, now it's under my control.",
+  "0.260.0" => "I can use the power of Twilight to
+scatter the enemy!",
+  "0.261.0" => "I'll show you what real power looks like!",
+  "0.262.0" => "Heh, I think we showed them.",
+  "0.263.0" => "Well of course we were gonna win.
+What'd you expect?",
+  "0.264.0" => "Aaand done! I knew we could do it.
+Well, I knew I could do it, anyway...",
+  "0.265.0" => "I stole a keep! Now let's try not to
+lose it to the enemy right away, OK?",
+  "0.270.0" => "The enemy's life force can no longer
+be detected.",
+  "0.271.0" => "Master, I have fulfilled my duty.",
+  "0.272.0" => "The enemy has been defeated. I await
+my next assignment.",
+  "0.273.0" => "Master, I have fulfilled my mission.",
+  "0.274.0" => "Would now be a good time to celebrate?
+I feel as if I should...",
+  "0.275.0" => "Master, it appears that I'm far
+stronger than I once calculated.",
+  "0.276.0" => "Master, it is my responsibility to rescue you.",
+  "0.277.0" => "Master, do you need my assistance?",
+  "0.278.0" => "I can no longer assist in this battle.",
+  "0.279.0" => "I must retreat for now.
+Forgive me, Master.",
+  "0.280.0" => "Your probability of survival is very low.",
+  "0.281.0" => "Your weaknesses are very apparent to me.
+I advise you to give up.",
+  "0.282.0" => "Your strength deserves praise.",
+  "0.283.0" => "My energy has run out. Master, I must retreat.",
+  "0.284.0" => "There is a high probability that our
+allies will not pull through...",
+  "0.285.0" => "Master, allow me to serve you by
+taking care of this.",
+  "0.286.0" => "Master, I believe I can capture
+this enemy keep.",
+  "0.287.0" => "Master, this keep can be taken.",
+  "0.288.0" => "Master, I have taken this keep for
+our forces.",
+  "0.289.0" => "This keep now belongs to the Allied Forces.",
+  "0.290.0" => "Master, I am ready to devote myself fully
+to this mission.",
+  "0.291.0" => "I will do only as I'm told.",
+  "0.292.0" => "Master, we were fortunate in this battle.",
+  "0.293.0" => "This is a shared victory.
+Everyone has performed admirably.",
+  "0.294.0" => "I have fulfilled my duties. I will now rest.",
+  "0.295.0" => "I have captured a keep. I am proceeding
+to my next objective.",
+  "0.300.0" => "Finished so soon? Was I too strong for you?",
+  "0.301.0" => "Though I could say I'd prefer you didn't
+struggle, we both know that's not true.",
+  "0.302.0" => "Your chances against someone as powerful as
+myself are very slim, so don't fool yourself.",
+  "0.303.0" => "I've taken care of that pesky enemy officer.",
+  "0.304.0" => "Gaze upon my splendid swordsmanship!
+Are you not impressed?",
+  "0.305.0" => "You will fall to your doom once my
+blade meets with your heart!",
+  "0.306.0" => "Well, that was certainly unexpected...",
+  "0.307.0" => "I've decided to join this little soiree.",
+  "0.308.0" => "Allow me to excuse myself...",
+  "0.309.0" => "I refuse to waste any more time on you!",
+  "0.310.0" => "Rejoice--you get the honor of fighting
+with a true demon lord!",
+  "0.311.0" => "Why would you leave so soon after
+I got here? How rude...",
+  "0.312.0" => "Next time I see you, I'll crush you into
+tiny little pieces!",
+  "0.313.0" => "Don't let a lucky victory give you
+a swollen ego!",
+  "0.314.0" => "Ah, it appears this enemy has a bit of skill...",
+  "0.315.0" => "Well, well... What am I to do?",
+  "0.316.0" => "What would happen if I took this keep?
+Shall we find out?",
+  "0.317.0" => "Why don't I take this keep while I'm here?",
+  "0.318.0" => "It looks as if this keep...is now mine. Ha!",
+  "0.319.0" => "There. This keep is now mine.",
+  "0.320.0" => "Anyone who gets in the way must be dealt
+with...",
+  "0.321.0" => "This fight will bring honor to my master!",
+  "0.322.0" => "Perhaps I took things a bit too seriously...",
+  "0.323.0" => "You've had enough, I presume? Good.
+Then don't ever get in our way again.",
+  "0.324.0" => "Did you believe you could stand in my
+glorious path? Ha ha ha! How daft!",
+  "0.325.0" => "This is my keep! Starting...now!",
+  "0.330.0" => "Opposing me is a foolish thing indeed!",
+  "0.331.0" => "The darkness consumes all.",
+  "0.332.0" => "Someday I may fall, but it shall not be to you.",
+  "0.333.0" => "All fools end up meeting a pitiful end...",
+  "0.334.0" => "I am the greatest! All should bow to me!",
+  "0.335.0" => "I am not a usurper!
+I am a true king! A true king!",
+  "0.336.0" => "Might I be of some assistance?",
+  "0.337.0" => "If you want to run, your window of
+opportunity is quickly closing.",
+  "0.338.0" => "You cannot erase the darkness any more
+than you can erase my royal right.",
+  "0.339.0" => "I cannot accept...this loss...",
+  "0.340.0" => "Surrender now...or DIE!",
+  "0.341.0" => "It would be very kind of you to just
+go ahead and die.",
+  "0.342.0" => "You will pay for what you have done to me...",
+  "0.343.0" => "Now would be a good chance to bide our
+time...",
+  "0.344.0" => "How far down do you seek to push us?",
+  "0.345.0" => "My hatred will only empower me!",
+  "0.346.0" => "This location is suitable for my needs!",
+  "0.347.0" => "I shall rule this keep!",
+  "0.348.0" => "This keep now lies in darkness...",
+  "0.349.0" => "I desired this keep and now it is mine!
+Let that be a lesson to you all!",
+  "0.350.0" => "So, you wish to die? Very well...",
+  "0.351.0" => "Despair and hatred now rule this battlefield!",
+  "0.352.0" => "Bow to Zant, your true king!",
+  "0.353.0" => "And now...there is a little less light in the
+world.",
+  "0.354.0" => "The day is approaching when Twilight engulfs
+the world... Today pushes that world closer!",
+  "0.355.0" => "This keep will be better off under my control.",
+  "0.390.0" => "If you thought I was strong there,
+you should see me when I really try!",
+  "0.391.0" => "You shouldn't have gotten in my way!",
+  "0.392.0" => "I have no choice but to fight!",
+  "0.393.0" => "Was I a little too forceful there...?",
+  "0.394.0" => "Phew, defeating hundreds of enemies
+can really give you a workout!",
+  "0.395.0" => "I'll be careful to use my abilities
+only for Hyrule's benefit!",
+  "0.396.0" => "Stay tough, everyone!
+The real battle is beginning!",
+  "0.397.0" => "Hold tight, everyone!
+I'm fighting, too!",
+  "0.398.0" => "Dang, I didn't want to have to run away...",
+  "0.399.0" => "I have to go... Be safe, everyone!",
+  "0.400.0" => "I'll join the fray!",
+  "0.401.0" => "Your rampage ends now!",
+  "0.402.0" => "Um, I have something I need to do.
+So...bye!",
+  "0.403.0" => "No use... Let's get out of here!",
+  "0.404.0" => "I'll fight for my fallen allies!",
+  "0.405.0" => "How DARE you do that to my friends!",
+  "0.406.0" => "Now's the time to take this keep!",
+  "0.407.0" => "Let's invade and capture!",
+  "0.408.0" => "This should give us the advantage!",
+  "0.409.0" => "What should we take next?",
+  "0.410.0" => "I'll bring us closer to victory!",
+  "0.411.0" => "I won't give up until Hyrule is
+back to normal!",
+  "0.412.0" => "Phew... Looks like we won somehow!",
+  "0.413.0" => "Wow, my adrenaline is still pumping!",
+  "0.414.0" => "Yes, we won! Excellent work, everyone!",
+  "0.415.0" => "I took a keep! Nice!",
+  "0.420.0" => "Effortless, really.",
+  "0.421.0" => "Out of the way, nuisance.",
+  "0.422.0" => "You underestimate me at your peril.",
+  "0.423.0" => "Finished already?",
+  "0.424.0" => "Is there no one who can challenge me?",
+  "0.425.0" => "If you surrender, I'll consider giving you
+a quick death.",
+  "0.426.0" => "Must I be forced into battle?
+I had hoped I could rely on you more!",
+  "0.427.0" => "My servants are so disappointingly worthless...
+But what was I to expect? They're not women.",
+  "0.428.0" => "I grow weary of this... The rest is in your
+hands.",
+  "0.429.0" => "I've accomplished all I intend to at the
+moment. Farewell for now.",
+  "0.430.0" => "Who is standing in my way?
+Did I say you could?",
+  "0.431.0" => "Would someone like to fight me? My back is
+sore and I need an excuse to stretch it out.",
+  "0.432.0" => "No! I refuse to let this be my end...",
+  "0.433.0" => "You impress me... I'll pull back, for today...",
+  "0.434.0" => "Is that it? I was expecting something a little
+less...brief. How disappointing.",
+  "0.435.0" => "No matter--you were but a pawn in my larger
+game!",
+  "0.436.0" => "I had better take this keep.",
+  "0.437.0" => "This keep will be mine in no time at all.",
+  "0.438.0" => "Mmm, I do so like this keep
+now that it's mine.",
+  "0.439.0" => "What a filthy keep... Oh well.
+It's mine and I suppose I'll love it.",
+  "0.440.0" => "I'll show you what happens when you make
+the mistake of crossing me!",
+  "0.441.0" => "I've seen your fate...and it does not look
+promising!",
+  "0.442.0" => "Have you realized how useless your efforts
+were?",
+  "0.443.0" => "Ha ha ha! That was rather entertaining!",
+  "0.444.0" => "Come now, you only got hurt because you tried
+to struggle against me. Wasn't that silly of you?",
+  "0.445.0" => "This keep's mine. Now, what to take next...?",
+  "0.450.0" => "Where are your real warriors?!",
+  "0.451.0" => "You're outmatched.",
+  "0.452.0" => "Learn your place.",
+  "0.453.0" => "How unfortunate for you that we
+should meet...",
+  "0.454.0" => "It's never enough. I need a true challenge!",
+  "0.455.0" => "I am Volga and I will be your doom.",
+  "0.456.0" => "Are you prepared for the afterlife?
+Then come at me!",
+  "0.457.0" => "No more playing around!",
+  "0.458.0" => "I must back down for the time being...",
+  "0.459.0" => "I never believed I'd be in this position...",
+  "0.460.0" => "Now that I've arrived, there is no hope
+for you.",
+  "0.461.0" => "I'll take you all on by myself!",
+  "0.462.0" => "Not bad... I hope to fight you again
+someday...",
+  "0.463.0" => "I'll back down for now, but this is far
+from over.",
+  "0.464.0" => "Am I left alone? Fine. I prefer it that way.",
+  "0.465.0" => "You're weak, but I never expected you'd be
+useless as well.",
+  "0.466.0" => "I'll put this keep under my command.",
+  "0.467.0" => "A keep like this will fall to my
+might in a matter of seconds.",
+  "0.468.0" => "This keep is mine.",
+  "0.469.0" => "That was easier than I expected.",
+  "0.470.0" => "Challenge me...if you wish to perish!",
+  "0.471.0" => "Shall I show you what havoc a dragon can
+cause?",
+  "0.472.0" => "Why don't you challenge me again
+when you're a little stronger?",
+  "0.473.0" => "I take no pleasure in this, but it is done.",
+  "0.474.0" => "The battle is over already? Too easy...",
+  "0.475.0" => "I have taken your keep!
+Where are the strong enemies hiding?!",
+  "0.480.0" => "Nincompoop! That'll teach you.",
+  "0.481.0" => "You're nothing! Don't waste my time.",
+  "0.482.0" => "Doesn't matter how hard you try--cannon
+fodder will always be cannon fodder...",
+  "0.483.0" => "They'll be looking for the pieces of
+that one for a while. Gyahahaha!",
+  "0.484.0" => "It's not enough... I need to make you all
+suffer more! Gyahaha!",
+  "0.485.0" => "They never learn, do they? It's pointless,
+but they still keep coming!",
+  "0.486.0" => "Out of my way--I'll take care of this myself!",
+  "0.487.0" => "Hiya ha ha! Having fun?",
+  "0.488.0" => "Curses! I didn't anticipate it'd be this hard...",
+  "0.489.0" => "That's it, I've had enough of this!",
+  "0.490.0" => "Hiya ha! Have a taste of my MAGIC!",
+  "0.491.0" => "Hmm... You'll make for an interesting
+challenge... I'll enjoy killing you!",
+  "0.492.0" => "What manner of beast is this?!",
+  "0.493.0" => "I...lost? But how could one as clever
+as I lose to YOU?!",
+  "0.494.0" => "Leaving so soon? Then why bother
+arriving in the first place?!",
+  "0.495.0" => "You're just slowing me down anyway...",
+  "0.496.0" => "This keep looks nice enough...",
+  "0.497.0" => "I'm invading the keep! Get out of my way
+if you'd like to keep your life! Hiya ha ha!",
+  "0.498.0" => "Hiya ha ha! I took the keep!",
+  "0.499.0" => "Your uselessness in protecting that keep
+almost makes me giggle.",
+  "0.500.0" => "I'll exterminate any vermin that get in my way!",
+  "0.501.0" => "I have more important things to do,
+so let's get this over quick!",
+  "0.502.0" => "Battling... What an inconvenience!",
+  "0.503.0" => "Your performance was abysmal
+compared to mine! Hiya ha ha!",
+  "0.504.0" => "Garbage will always be garbage. Consider
+yourself trash that's been disposed of!",
+  "0.505.0" => "The keep is down. How droll. Oh well,
+onto the next one.",
+  "0.510.0" => "It feels good to stretch my legs with
+a real battle.",
+  "0.511.0" => "Oh? Sorry--I didn't see you there. You must
+not be important enough for me to notice.",
+  "0.512.0" => "All right, then! Who's up for the next beating?",
+  "0.513.0" => "I took down the enemy commander.
+You're welcome.",
+  "0.514.0" => "Now that you understand what sort of power
+I'm working with, hurry up and surrender.",
+  "0.515.0" => "Never underestimate the power of a
+full-fledged princess of Twilight!",
+  "0.516.0" => "Hold on--I'm coming to help. I wouldn't want
+you to injure yourself or something.",
+  "0.517.0" => "You're not done yet? Fine. Let's do this
+together.",
+  "0.518.0" => "I thought I had it under control...",
+  "0.519.0" => "Wow, that was too much, even for me...",
+  "0.520.0" => "Pipe down before I have to silence you!",
+  "0.521.0" => "Are you the ones with an appetite for pain?
+Then you're gonna love what I'm serving!",
+  "0.522.0" => "How could I...underestimate you...?",
+  "0.523.0" => "I can only do so much...",
+  "0.524.0" => "There's still a chance we can win this!",
+  "0.525.0" => "The enemy's really not fooling around...",
+  "0.526.0" => "Leave the keep to me! I've got it!",
+  "0.527.0" => "I suppose I'd better do something about
+this keep.",
+  "0.528.0" => "All right, I took the keep! Anything else
+you need from me?",
+  "0.529.0" => "Perfect. The keep is under our control!",
+  "0.530.0" => "The power of Twilight is nothing to take lightly!",
+  "0.531.0" => "C'mon, let's get this over with quickly.",
+  "0.532.0" => "OK, so we won. But let's not let it go
+to our heads.",
+  "0.533.0" => "Good. The battle's over! And not a moment too soon.
+I was starting to get bored with all this winning.",
+  "0.534.0" => "Ha... That was more strenuous than I expected.
+Still, it wasn't without a bit of fun.",
+  "0.535.0" => "One more keep for us!",
+  "0.540.0" => "All right! That's the way to do it, Link!",
+  "0.541.0" => "Link, good work!",
+  "0.542.0" => "Keep it up! Just like that!",
+  "0.543.0" => "What did you expect when you attacked
+Link? Of course he was gonna beat you!",
+  "0.544.0" => "Hey, not bad, Link!",
+  "0.545.0" => "Link, looking good! More of that!",
+  "0.546.0" => "Calm down, Link and Proxi are here!
+You'll be fine!",
+  "0.547.0" => "OK, Link! Let's take care of these
+wannabe warriors!",
+  "0.548.0" => "No shame in running! I say we start running!",
+  "0.549.0" => "Link, you did your best, but it wasn't enough...",
+  "0.550.0" => "Link, be careful! This enemy doesn't look
+like a pushover!",
+  "0.551.0" => "We'll make quick work of you! Right, Link?
+Yeah! OK, Link, make quick work of 'em...",
+  "0.552.0" => "I think...we chose the wrong opponent...",
+  "0.553.0" => "We lost? Fine, we'll just have to do better
+next time.",
+  "0.554.0" => "Look what they did to our friends! Unforgivable!",
+  "0.555.0" => "Oh no! We've lost an ally! I hope not for good...",
+  "0.556.0" => "If we take this keep, it'll make the rest
+of this fight easier!",
+  "0.557.0" => "Fight, Link! Take this keep!",
+  "0.558.0" => "That's right, this keep is ours!",
+  "0.559.0" => "Good job, Link! This keep is ours now!",
+  "0.560.0" => "Let's go, Link! Don't get yourself killed!",
+  "0.561.0" => "C'mon, Link! Let's bring peace back to Hyrule!",
+  "0.562.0" => "That went a lot better than I expected.
+Good job, Link!",
+  "0.563.0" => "It's finally over. I'm actually surprised you're
+not in worse shape, Link. Nice work!",
+  "0.564.0" => "How did we manage victory out of THAT? Oh
+well, I'm not complaining! Good job, everyone!",
+  "0.565.0" => "Another keep for Team Link!",
+  "0.570.0" => "Tingle's not usually the violent type...but
+he can learn!",
+  "0.571.0" => "Hey, Tingle is pretty useful, right?
+Right? Right?",
+  "0.572.0" => "What's this? Did Tingle defeat you? Well,
+now you know better than to doubt a fairy!",
+  "0.573.0" => "The enemy is down! No one can stand
+against Tingle and his friends!",
+  "0.574.0" => "That was as easy as Kooloo-Limpah!",
+  "0.575.0" => "Looks can be deceiving, but Tingle is tough...
+Whaddya mean Tingle doesn't look tough?!",
+  "0.576.0" => "Sorry to keep you waiting! Tingle, to the rescue!",
+  "0.577.0" => "Who's in need of Tingle's skills? Anybody?
+Someone must need Tingle!",
+  "0.578.0" => "Tingle is generally against violence! Don't
+make Tingle have to show you why!",
+  "0.579.0" => "And so, another fairy must leave you...
+Good-bye from Tingle!",
+  "0.580.0" => "Could this be...where the fairies live?",
+  "0.581.0" => "Uh-oh... Tingle may have gotten himself
+lost again...",
+  "0.582.0" => "Have some respect for your Tingles!",
+  "0.583.0" => "What? You dare question Tingle's well-being?
+Leave Tingle's business to Tingle!",
+  "0.584.0" => "Wha-wha-what? What's happening?",
+  "0.585.0" => "Would anyone mind if Tingle just...
+took his leave?",
+  "0.586.0" => "Mr. Fairy? Are you hiding in this keep...?",
+  "0.587.0" => "Should Tingle take this keep? Of course! After
+35 years, Tingle is the best at anything he does!",
+  "0.588.0" => "This keep would make a perfect vacation
+home for Tingle!",
+  "0.589.0" => "Wow... Did Tingle really succeed...?
+Of course Tingle succeeded!",
+  "0.590.0" => "Tingle isn't about to give up! He'll survive
+this somehow!",
+  "0.591.0" => "Tingle will finish you faster than you can
+say "Kooloo-Limpah!"",
+  "0.592.0" => "Aaand...done! Time to head home.",
+  "0.593.0" => "Tingle! Tingle! Kooloo-Limpah!",
+  "0.594.0" => "Is it over already? Tingle feared for his life
+the entire time!",
+  "0.595.0" => "Yaaay! Tingle got a keep!
+...Don't steal it!",
+  "0.600.0" => "Yes! We won! I knew we could do it!",
+  "0.601.0" => "Woohoo! This feels great!",
+  "0.602.0" => "Yes! I feel so STRONG!",
+  "0.603.0" => "All right, on to the next adventure!",
+  "0.604.0" => "Yeah, I'm feeling good today!",
+  "0.605.0" => "Aw, do you really think I'm amazing?
+Well, I won't argue with you! Hah!",
+  "0.606.0" => "Everyone all right? Don't worry--I can help!",
+  "0.607.0" => "Linkle is here, so put your fears at rest!",
+  "0.608.0" => "I'm sure you'll all be amazing!",
+  "0.609.0" => "Sorry, I've gotta go!",
+  "0.610.0" => "Your fight is with me! You ready?",
+  "0.611.0" => "I'm here! Linkle is on the scene!",
+  "0.612.0" => "Ooh... I really thought we could win this...",
+  "0.613.0" => "Ugh... Today must be an off day...",
+  "0.614.0" => "Oh no! I've got to try harder!",
+  "0.615.0" => "We can't give up yet! C'mon, everyone!",
+  "0.616.0" => "Let's take this keep!",
+  "0.617.0" => "You want me to take this keep?
+Consider it done!",
+  "0.618.0" => "This keep is Linkle's now! Ha ha!",
+  "0.619.0" => "This keep is mine!",
+  "0.620.0" => "All right, where to next?",
+  "0.621.0" => "If we all work together, there's no way we
+can lose!",
+  "0.622.0" => "Watch out, I'm giving it my all!",
+  "0.623.0" => "It's pretty useful having me on your side,
+isn't it?",
+  "0.624.0" => "We won! But heroes don't rest.
+Onward!",
+  "0.625.0" => "Is it all over? Oh, thank goodness!",
+  "0.630.0" => "Hee, hee... Fool!",
+  "0.631.0" => "Of course I was stronger! That should have
+been obvious!",
+  "0.632.0" => "Don't mess with me if you're afraid to
+get hurt!",
+  "0.633.0" => "Did you think you'd really be able to hurt me?",
+  "0.634.0" => "Now you know how strong I am,
+so don't forget it!",
+  "0.635.0" => "This is nothing to me. I have fairies on my side,
+so I can't lose.",
+  "0.636.0" => "Hey, are you playing some sort of game?
+Let me join!",
+  "0.637.0" => "I'd better help you out, otherwise you're
+doomed.",
+  "0.638.0" => "I'm soooooo sleepy. Perhaps I should just
+take a little nap...",
+  "0.639.0" => "What is this? C'mon...",
+  "0.640.0" => "I'm here to destroy you!",
+  "0.641.0" => "Are you having fun without me?
+You'd better not be!",
+  "0.642.0" => "I just thought I'd have a little fun with you...",
+  "0.643.0" => "I can't believe how weak I was...
+You must have cheated...",
+  "0.644.0" => "Just because you beat one little bad guy
+doesn't mean you're THAT strong.",
+  "0.645.0" => "I suppose I shouldn't just lay about all day.",
+  "0.646.0" => "What did you do to my friends?!",
+  "0.647.0" => "Give me that keep! I want it!",
+  "0.648.0" => "Stop fighting and just give me this keep!",
+  "0.649.0" => "There, wouldn't it have been simpler to just
+let me have the keep in the first place?",
+  "0.650.0" => "I took the keep! That's what you wanted,
+right?",
+  "0.651.0" => "Feel free to take me on...if you'd like to get
+hurt!",
+  "0.652.0" => "Fools... I'll give them something wicked to
+remember!",
+  "0.653.0" => "There's no way we can lose! Hee hee!",
+  "0.654.0" => "Hee hee! We've won!",
+  "0.655.0" => "This is how I expected it to happen.",
+  "0.656.0" => "Let's play again someday. Bye-bye for now!",
+  "0.660.0" => "Big Brother, you're so strong!",
+  "0.661.0" => "I'm so proud of you, Big Brother!",
+  "0.662.0" => "You're doing great!",
+  "0.663.0" => "Look out, everyone! My big brother's
+super strong!",
+  "0.664.0" => "What'd I tell you? My big brother is the
+strongest!",
+  "0.665.0" => "My big brother is stronger than all of you!",
+  "0.666.0" => "That looks pretty dangerous... Be careful,
+Big Brother!",
+  "0.667.0" => "Hurry up, Big Brother! Everyone is waiting
+for you!",
+  "0.668.0" => "You can't keep fighting, Big Brother!
+You'll get REALLY hurt!",
+  "0.669.0" => "Come home, Big Brother...",
+  "0.670.0" => "Look, look! There are tons of enemies
+up there!",
+  "0.671.0" => "'Hoy! Big Brother, you should show those
+bad guys who's boss!",
+  "0.672.0" => "Oh, Big Brother... I was counting on you...",
+  "0.673.0" => "There's nothing you can do. You should
+just come home, Big Brother...",
+  "0.674.0" => "Oh no! Your friends need you, Big Brother!",
+  "0.675.0" => "I wonder if that person got away safely...?",
+  "0.676.0" => "You'll take this keep in no time, Big
+Brother. I just know it!",
+  "0.677.0" => "I guess you should just take that keep,
+Big Brother. Good luck!",
+  "0.678.0" => "Do you think anyone will mind that
+you took that keep, Big Brother?",
+  "0.679.0" => "Good job, Big Brother! The more keeps we
+have, the better!",
+  "0.680.0" => "Now that you took that keep, what do you
+need to do next?",
+  "0.681.0" => "Do your best out there, Big Brother!",
+  "0.682.0" => "I'm cheering you on, Big Brother!",
+  "0.683.0" => "Big Brother, we won!",
+  "0.684.0" => "'Hoy! I knew you could do it!",
+  "0.685.0" => "Wow, you and your friends are so
+amazing, Big Brother!",
+  "0.690.0" => "I'm not going to lose! Don't be silly!",
+  "0.691.0" => "Heh, just who do you think I am?",
+  "0.692.0" => "This'll be a cinch.",
+  "0.693.0" => "Oh come on! You're not going to be able
+to beat me like THAT, so just give up!",
+  "0.694.0" => "I'll admit, I may have gotten a little carried
+away there...",
+  "0.695.0" => "Who am I? Only the most fearsome terror of
+the Great Sea!",
+  "0.696.0" => "Hey, are you OK? You'd better be! I'm not
+letting my crew go down without a fight!",
+  "0.697.0" => "All right, I guess you could use my help.
+Fine, fine, I'll be right there.",
+  "0.698.0" => "Sorry, this is as far as I can go...",
+  "0.699.0" => "I got...careless...",
+  "0.700.0" => "All right, come and get me!",
+  "0.701.0" => "You ready to lose?",
+  "0.702.0" => "I messed up... I have to pull back!",
+  "0.703.0" => "Ouch... All right, I'll remember this!",
+  "0.704.0" => "I'll fight to avenge you!",
+  "0.705.0" => "This enemy is no joke...",
+  "0.706.0" => "All I have to do is take that keep?
+Not a problem.",
+  "0.707.0" => "How about I take this keep? Anyone have a
+problem with that?",
+  "0.708.0" => "This keep is ours, and I intend it to STAY
+that way!",
+  "0.709.0" => "It wasn't much of a challenge, but
+I'll have this keep anyway.",
+  "0.710.0" => "Secured that keep! I'm on to the next one!",
+  "0.711.0" => "Let's win this already!",
+  "0.712.0" => "Everyone ready? Then let's go!",
+  "0.713.0" => "Guess we managed to squeak out a win there.
+Not bad, everyone.",
+  "0.714.0" => "Victory! And that's why you always side with
+a pirate! Hah!",
+  "0.715.0" => "Normally, I'd expect a huge reward for something
+like this...but this time, it's my treat!",
+  "0.720.0" => "I refuse to let you take one step further.",
+  "0.721.0" => "You would be wise not to underestimate me.",
+  "0.722.0" => "Your kind has no place in this world.",
+  "0.723.0" => "I refuse to forgive those who would do harm
+to this world's future.",
+  "0.724.0" => "I will not allow you to turn this land into
+a darkened wasteland.",
+  "0.725.0" => "I won't allow this land to suffer the same fate
+as my kingdom.",
+  "0.726.0" => "Let us settle this right here, right now.",
+  "0.727.0" => "Everyone, be on guard! Together, we shall
+prevail!",
+  "0.728.0" => "I...have proved ineffectual...",
+  "0.729.0" => "This land's future...is in your hands...",
+  "0.730.0" => "I won't let this foolishness go on any further.",
+  "0.731.0" => "You... I will be your opponent.",
+  "0.732.0" => "My strength...just wasn't enough...",
+  "0.733.0" => "To lose here... It is regrettable...",
+  "0.734.0" => "We haven't lost yet!",
+  "0.735.0" => "This is what it all comes down to...
+Everyone, hold steady!",
+  "0.736.0" => "We must claim this keep for our forces.",
+  "0.737.0" => "I will take this keep. Everyone else,
+go about your business.",
+  "0.738.0" => "This keep is now ours. The future looks
+brighter and brighter for us.",
+  "0.739.0" => "Now that this keep is ours, victory is one
+step closer to being within our grasp.",
+  "0.740.0" => "Our forces now control this keep, but we
+must not rest. Onward!",
+  "0.741.0" => "We shall win, whatever the costs!",
+  "0.742.0" => "We must press on! This land will not fall into
+evil's clutches!",
+  "0.743.0" => "This battle has been decided...
+We are victorious!",
+  "0.744.0" => "While the threat was strong, we have proven
+ourselves far stronger.",
+  "0.745.0" => "Good, let us move forward.",
+  "0.750.0" => "There are things even I can do!",
+  "0.751.0" => "I did it! Even I can take an
+enemy down once in a while!",
+  "0.752.0" => "I'm doing my best, too!",
+  "0.753.0" => "Yeah, I was able to help out!
+Well, at least a little…",
+  "0.754.0" => "What is it I should be doing...?
+...Oh, I think I remember!",
+  "0.755.0" => "I defeated a bunch of enemies! All by myself, too!",
+  "0.756.0" => "Are you OK? I'm here to help!",
+  "0.757.0" => "It'll be fine as long as we all do our best!",
+  "0.758.0" => "It looks like...this is as far as I can go...",
+  "0.759.0" => "I just couldn't handle it... But you can...",
+  "0.760.0" => "OK, I'll give it my all!",
+  "0.761.0" => "My name's Medli.
+Pleased to meet you!",
+  "0.762.0" => "I hope we meet again someday...",
+  "0.763.0" => "Looks like they got me... Aa-ahh...",
+  "0.764.0" => "This enemy looks strong...",
+  "0.765.0" => "Th-this fight is far from over...!",
+  "0.766.0" => "I'll look after this keep!",
+  "0.767.0" => "I'll help out by taking this keep!",
+  "0.768.0" => "I took control of this keep!",
+  "0.769.0" => "Everything's fine now! The keep is ours!",
+  "0.770.0" => "Well, let's head to the next target!",
+  "0.771.0" => "It'll be fine! I'm sure we can win!",
+  "0.772.0" => "Well, let's get started!",
+  "0.773.0" => "All right, that's a win for us!",
+  "0.774.0" => "We won? Phew, what a relief!",
+  "0.775.0" => "We did it! And I like to
+think I did my part, too.",
+  "0.780.0" => "Oh yeah! I'm really feeling it
+right now!",
+  "0.781.0" => "All right! I crushed 'em!",
+  "0.782.0" => "Now you've done it...
+You brought this on yourself!",
+  "0.783.0" => "See? I got the job done just fine!",
+  "0.784.0" => "Woohoo! I'll blast you all to smithereens!!
+I said what? You must be hearing things...",
+  "0.785.0" => "Look at how many enemies I defeated!
+Ohh, or maybe this is all a dream?",
+  "0.786.0" => "Don't take all the work on yourselves!
+I'm here to help out, too!",
+  "0.787.0" => "Oh no! Is everyone okay?!",
+  "0.788.0" => "It looks like the only option
+left for me is to run...",
+  "0.789.0" => "Everyone, be careful!",
+  "0.790.0" => "But what about everyone else?!",
+  "0.791.0" => "Huh? Did somebody call me?",
+  "0.792.0" => "Hmph, I won't lose next time!
+You can count on it!",
+  "0.793.0" => "What a horrible thing to do...",
+  "0.794.0" => "I'm sorry I couldn't save you...",
+  "0.795.0" => "I need to do more out there!",
+  "0.796.0" => "I'll take this keep so fast
+it'll make your head spin!",
+  "0.797.0" => "Leave this keep to me!",
+  "0.798.0" => "I'll take this keep, please and thank you!",
+  "0.799.0" => "So that was a good plan, right?",
+  "0.800.0" => "Where should I head next?",
+  "0.801.0" => "Everyone, keep an eye out!",
+  "0.802.0" => "So, you think you can beat me?",
+  "0.803.0" => "My singing will ensure our victory!",
+  "0.804.0" => "We won? It feels just like a dream!",
+  "0.805.0" => "All of you were so great out there!",
+  "0.809.0" => "I will NOT lose to the likes of you!",
+  "0.810.0" => "Yes! We did it!",
+  "0.811.0" => "I did pretty well out there,
+if I do say so myself!",
+  "0.812.0" => "That was hardly enough to satisfy!",
+  "0.813.0" => "I'm finally getting used to this body...
+All right, everyone! Full speed ahead!",
+  "0.814.0" => "Spirits and demons have no power over me.
+With everyone by my side, I'm unstoppable!",
+  "0.815.0" => "I'm finally here, so you can all relax!
+We'll overcome this obstacle together!",
+  "0.816.0" => "Looks like I made it here in time.
+This battle should pose no problem!",
+  "0.817.0" => "Oh, I've been defeated...?",
+  "0.818.0" => "I can't keep fighting at this pace...",
+  "0.819.0" => "I won't let you just do what you want!",
+  "0.820.0" => "If a good scolding isn't enough,
+maybe a good beating will do!",
+  "0.821.0" => "My strength is not enough...",
+  "0.822.0" => "I'll make sure the battle ends in our
+favor next time!",
+  "0.823.0" => "I guess help didn't get here
+quickly enough...",
+  "0.824.0" => "I will fight in his place!",
+  "0.825.0" => "I'm not just waiting around anymore.
+I'll take this keep!",
+  "0.826.0" => "In this body, I feel strong enough
+to take a keep!",
+  "0.827.0" => "I think I'll take this keep as my own.
+Any objections? No?",
+  "0.828.0" => "All right, we've captured the keep!",
+  "0.829.0" => "Our job here is done.
+Let's move on to the next location!",
+  "0.830.0" => "I'm a little scared, and this armor
+is a little hot, but I'll press on!",
+  "0.831.0" => "I will not lose to someone with such a
+twisted idea of right and wrong!",
+  "0.832.0" => "Everyone did such a wonderful job!
+Let's enjoy this victory while we can!",
+  "0.833.0" => "I may not look my usual self...
+But I'm glad I could help out!",
+  "0.834.0" => "Thank you for your help, everyone.
+Now, let's keep moving forward!",
+  "0.840.0" => "Hey, I defeated one of 'em too! I've got
+a whole new outlook. I'll fight harder now!",
+  "0.841.0" => "Ha! Any opponent that gets in my way is
+gonna end up just like that!",
+  "0.842.0" => "All right, I did! See? I told you
+I could be useful!",
+  "0.843.0" => "Hup! That's one down for ya!",
+  "0.844.0" => "Huh? You think I'm a hero? Nonono,
+I'm not that amazing!",
+  "0.845.0" => "I used to be a powerless coward... But
+now I'm sure I can be a hero!",
+  "0.846.0" => "Hey, hi! I've come to help out!",
+  "0.847.0" => "So what if I look a little suspicious?
+I'm an ally, so just chill out!",
+  "0.848.0" => "I don't do so well in dangerous
+places like this...",
+  "0.849.0" => "Looks like this is as far as I'll go.
+The rest is up to you!",
+  "0.850.0" => "Hello there!
+Take it easy on me!",
+  "0.851.0" => "Maybe I should join this fight...",
+  "0.852.0" => "This is why I didn't want to fight...",
+  "0.853.0" => "Oh, is that our white flag I see?
+Time to say good-bye!",
+  "0.854.0" => "Ugh... This enemy is pretty darn strong...",
+  "0.855.0" => "The real battle is still coming up!
+Everyone, do your best out there!",
+  "0.856.0" => "Even I can take one of those keeps...
+I'm sure of it!",
+  "0.857.0" => "Huh? I thought I was walking into an open
+house, but I guess it's an enemy keep...",
+  "0.858.0" => "I took down one of those keeps!",
+  "0.859.0" => "Hmm, this keep I just took is pretty nice...
+Maybe I'll set up a shop! ...Just kidding!",
+  "0.860.0" => "Say, wanna buy this keep I just captured?
+Ha, that's what I call a Ravio-style joke!",
+  "0.861.0" => "All right, let's clean these guys up!",
+  "0.862.0" => "Do your best out there! I'll be cheering
+for--I mean, I'll be fighting alongside you!",
+  "0.863.0" => "Phew, it got pretty exciting out there, huh?
+I'm glad we got out with our lives!",
+  "0.864.0" => "All right, we're all done! Huh?
+That was just one task on the checklist?",
+  "0.865.0" => "I'm so glad we won! I was pretty handy
+out there, don't you think?",
+  "0.870.0" => "I have eliminated those unsightly enemies.",
+  "0.871.0" => "Why don't you rot right where you stand?",
+  "0.872.0" => "Hmph... Your skills are comparable
+to a child's doodle.",
+  "0.873.0" => "Now you understand what happens to
+those who get in my way. Ha ha ha...",
+  "0.874.0" => "Any volunteers to be my next great
+work of art?",
+  "0.875.0" => "I'd rather have one masterpiece than a
+thousand ugly scribbles.",
+  "0.876.0" => "Are you all trying to steal my talent?",
+  "0.877.0" => "I will decorate this battlefield with artwork
+of my own. What do you think of that?",
+  "0.878.0" => "I'm sure you won't mind if I leave
+the rest to you.",
+  "0.879.0" => "One must move with grace and beauty,
+even when retreating!",
+  "0.880.0" => "So, who wants to become my next
+work of art?",
+  "0.881.0" => "Could you possible stop pestering me while
+I'm creating such beautiful art?",
+  "0.882.0" => "Hmph... You crafty little worms...!",
+  "0.883.0" => "Next time we meet, I'll be sure to squash
+you with my opening move!",
+  "0.884.0" => "Your actions today have been
+foolish and brazen...",
+  "0.885.0" => "Don't think that's enough to
+earn yourself a win.",
+  "0.886.0" => "I'll take every unsightly keep.",
+  "0.887.0" => "I do so hate leaving such ugly
+keeps out in the open.",
+  "0.888.0" => "I have finished capturing the keep.",
+  "0.889.0" => "Ha ha ha... I'll take this keep.",
+  "0.890.0" => "This keep has become one of my
+works of art!",
+  "0.891.0" => "It will be a nuisance, but I'll mop
+up all of you.",
+  "0.892.0" => "I'll finish off every shameless fool
+who gets in our way.",
+  "0.893.0" => "We may have pocketed the win, but my
+quest for true beauty will go on.",
+  "0.894.0" => "Ho ho ho... This one will be a truly
+unique painting.",
+  "0.895.0" => "Ho ho ho... This one turned out to be
+quite the gratifying painting.",
+  "0.3186.0" => "We'll join the fight!",
+  "0.3187.0" => "Oh good, we made it in time to help!",
+  "0.3188.0" => "We can't keep up...",
+  "0.3189.0" => "We must withdraw!",
+  "0.3190.0" => "We'll try to stop the enemy!",
+  "0.3191.0" => "Don't think you can get away with it!",
+  "0.3192.0" => "Retreat is our only option!",
+  "0.3193.0" => "Blast... We have to pull back!",
+  "0.3196.0" => "We'll take this keep for our side!",
+  "0.3197.0" => "Let's join together to take this keep!",
+  "0.3198.0" => "This keep is now under our control!",
+  "0.3199.0" => "Hoorah! The keep is ours!",
+  "0.3216.0" => "We're here to help!",
+  "0.3217.0" => "We'll show you the strength of the Goron!",
+  "0.3218.0" => "We're out of here...",
+  "0.3219.0" => "We've reached our limit! Sorry!",
+  "0.3220.0" => "We'll make those bad guys suffer!",
+  "0.3221.0" => "We won't abandon a friend!",
+  "0.3222.0" => "That's enough from us for one day...",
+  "0.3223.0" => "We're outta here!",
+  "0.3226.0" => "We'll take care of that keep!",
+  "0.3227.0" => "We can take that keep if we work together!",
+  "0.3228.0" => "The keep is ours now!",
+  "0.3229.0" => "We took that keep like it was nothing!",
+  "0.4470.0" => "Wow, look at the princess go!",
+  "0.4471.0" => "Princess Zelda can really fight!",
+  "0.4472.0" => "Hey, did you hear that?
+The princess was impressed!",
+  "0.4473.0" => "I never knew the princess was that strong!",
+  "0.4474.0" => "Princess, we'll give it everything!",
+  "0.4475.0" => "Princess, Link won't let you down!",
+  "0.4476.0" => "Princess, please be careful!",
+  "0.4477.0" => "Princess, Link is here to help!",
+  "0.4478.0" => "Link, the princess has arrived to help!",
+  "0.4479.0" => "Princess! Help!
+Link is in danger!",
+  "0.4480.0" => "Oh no, we have to rescue the princess!",
+  "0.4481.0" => "Link, remember to thank the princess!",
+  "0.4482.0" => "Everything will be fine!
+Link can protect her highness!",
+  "0.4483.0" => "Let's follow the princess!",
+  "0.4484.0" => "Link, hold it together!
+We just have to defeat Ganondorf!",
+  "0.4485.0" => "Link, the princess needs us!",
+  "0.4486.0" => "Fantastic! That's the way to do it!
+Let's keep it up!",
+  "0.4487.0" => "Oh wow! I'm surprised you had it in you!",
+  "0.4488.0" => "Link's the coolest, right? Well, I sure think so!",
+  "0.4489.0" => "Here we go! No enemy can match Link in combat!",
+  "0.4490.0" => "Excellent work, Link!",
+  "0.4491.0" => "Such incredible strength! Link, you
+really play the hero part well!",
+  "0.4492.0" => "Who could stay gloomy
+amidst such celebration?",
+  "0.4493.0" => "Link, I believe in you and your abilities!",
+  "0.4494.0" => "I will be right there.
+We shall fight together!",
+  "0.4495.0" => "Link, allow me to take it from here.",
+  "0.4496.0" => "Link, I must trust you with this task.",
+  "0.4497.0" => "Link! Allow me to join you!",
+  "0.4498.0" => "Link! I was hoping you'd come!",
+  "0.4499.0" => "Link, please lend me a hand!
+I cannot win this fight alone...",
+  "0.4500.0" => "Link needs my help!
+I will delay no longer!",
+  "0.4501.0" => "Thank you, Link! When we stand
+as one, I fear no enemy.",
+  "0.4502.0" => "Link, our combined efforts will bring
+victory to the Hyrulean army!",
+  "0.4503.0" => "Link, I will go with you!",
+  "0.4504.0" => "Ganondorf... We will not let you
+defeat us! The light shall return!",
+  "0.4505.0" => "Link, be careful! I will be right there!",
+  "0.4506.0" => "I knew I could rely on you!",
+  "0.4507.0" => "A most impressive display!
+Victory is within our reach!",
+  "0.4508.0" => "Now is not the time to
+stand around. Onwards!",
+  "0.4509.0" => "With everyone's help, I believe we can
+overcome this crisis!",
+  "0.4510.0" => "Your strength is most impressive.",
+  "0.4511.0" => "Allow me to praise your efforts. Well done.",
+  "0.4512.0" => "The Sheikah would be proud of this moment.",
+  "0.4513.0" => "Don't get careless, lest you slip up and fall.
+Mind where you step, friend.",
+  "0.4514.0" => "Let's not lose momentum. C'mon,
+we need to keep going.",
+  "0.4530.0" => "Princess Zelda, that was amazing!",
+  "0.4531.0" => "The princess will bring light
+back to Hyrule!",
+  "0.4532.0" => "I'm honored by your praise...",
+  "0.4533.0" => "It looks like Princess Zelda can
+handle herself.",
+  "0.4534.0" => "Princess Zelda, I'll accompany you!",
+  "0.4535.0" => "Leave this to a Sheikah!",
+  "0.4536.0" => "Princess Zelda, please, don't strain yourself!",
+  "0.4537.0" => "Princess Zelda, I've arrived to help!",
+  "0.4538.0" => "Princess Zelda... Thank you for your
+assistance...",
+  "0.4539.0" => "I'm ashamed to ask, but I need aid!",
+  "0.4540.0" => "I won't allow Hyrule to lose hope!",
+  "0.4541.0" => "Thank you, Princess!",
+  "0.4542.0" => "Fear not! I'll be right there
+to guard you!",
+  "0.4543.0" => "Princess Zelda, allow me to join
+the raid on the Enemy Base!",
+  "0.4544.0" => "Well done! Have you been training?",
+  "0.4545.0" => "Princess Zelda, fighting alone is too dangerous!",
+  "0.4546.0" => "Excellent work!",
+  "0.4547.0" => "What a sight to behold! I'm impressed!",
+  "0.4548.0" => "Trusting in my abilities was the
+wisest decision you could have made.",
+  "0.4549.0" => "Let's get going. There is evil in need of
+smiting.",
+  "0.4550.0" => "Hmm, you're proving to be quite useful.",
+  "0.4551.0" => "Impressive... I'm almost jealous. Not quite,
+but close.",
+  "0.4552.0" => "No one currently alive could ever hope to
+match my power!",
+  "0.4553.0" => "Bah. There are wars yet to be won. We
+can rest later.",
+  "0.4554.0" => "You might just be a useful minion after all.",
+  "0.4564.0" => "The one commanding the enemy army is
+a mere boy...? This will be too easy!",
+  "0.4570.0" => "Hey, nice job, Link!",
+  "0.4571.0" => "Now THAT is something worthy of
+a Goron brother!",
+  "0.4572.0" => "I knew you were dependable!",
+  "0.4573.0" => "Link, you're a mountain!",
+  "0.4574.0" => "I'm with you!",
+  "0.4575.0" => "Leave this to me!",
+  "0.4576.0" => "All right--it's all yours!",
+  "0.4577.0" => "Link, you sound like you could
+use my hammer's might!",
+  "0.4578.0" => "Glad you could make it!",
+  "0.4580.0" => "Wait there--I'm on my way!",
+  "0.4581.0" => "Thanks!",
+  "0.4582.0" => "Hey, you don't have to be so polite!
+You're practically a Goron! Ha!",
+  "0.4583.0" => "I'm going, too!",
+  "0.4585.0" => "On your guard--I'll be there in a
+moment!",
+  "0.4586.0" => "All right! Watching you fight gets me fired up!",
+  "0.4587.0" => "Excellent work! Consider that the highest
+honor a Goron can bestow on you!",
+  "0.4588.0" => "You can call me your brother if you want!",
+  "0.4589.0" => "Are you in need of Darunia's hammer?
+Then you shall have it!",
+  "0.4590.0" => "Wow! Great, Link!",
+  "0.4591.0" => "You're a true hero indeed!",
+  "0.4592.0" => "My my, are you proposing?
+Ha ha! I'm only kidding!",
+  "0.4593.0" => "What a strong hero you're becoming!
+I bet you'll make someone a fine husband...",
+  "0.4594.0" => "Link, please don't leave me here!",
+  "0.4595.0" => "Link, I can handle this!",
+  "0.4596.0" => "Link, I'm leaving this to you.",
+  "0.4597.0" => "Link, I came to rescue you!",
+  "0.4598.0" => "Link, you came all the way to see me?",
+  "0.4599.0" => "Link! Help!",
+  "0.4600.0" => "So, you need me after all?",
+  "0.4601.0" => "Such a gentleman.",
+  "0.4602.0" => "Hah, if I didn't know any better,
+I'd say you were trying to court me!",
+  "0.4603.0" => "I won't leave you to fight all by yourself!",
+  "0.4604.0" => "Amazing! Once this is all over, remind me
+to give you some sort of royal celebration!",
+  "0.4605.0" => "Link, I can offer help!",
+  "0.4606.0" => "Wow! That's excellent work, and I don't
+say that lightly!",
+  "0.4607.0" => "With you on our side, it's as if we've
+already won!",
+  "0.4608.0" => "Forgive my unladylike rage on the battlefield.
+...Though it was rather enjoyable.",
+  "0.4609.0" => "Hmph. I'll bring it to a swift end!",
+  "0.4610.0" => "Even Mr. Beetle is impressed with you! Well done!",
+  "0.4611.0" => "Can you hear them? The li'l insects
+are all praising you!",
+  "0.4612.0" => "I'm happy that I could help!",
+  "0.4613.0" => "I feel really safe with you around!",
+  "0.4614.0" => "Goodness, you work harder than all
+of my li'l ant friends combined!",
+  "0.4630.0" => "Good, good! You're doing well!",
+  "0.4631.0" => "Whoa! Your strength is nothing to scoff at!",
+  "0.4632.0" => "You know, in my true form, I'd be even
+MORE intimidating.",
+  "0.4633.0" => "Don't tell me I have to get my hands dirty...
+Fine! Ready or not, here I come!",
+  "0.4634.0" => "You're pretty good... But don't let it go to
+your head! Let's go! No slacking off!",
+  "0.4644.0" => "Zant! I'm putting an end to your
+twisted ambitions!",
+  "0.4650.0" => "My suspicions about you were correct.
+You are indeed a vital asset to our forces!",
+  "0.4651.0" => "I've noticed your strength growing. I shall
+praise you for your impressive efforts.",
+  "0.4652.0" => "I can report that I have been extremely
+useful in this battle.",
+  "0.4653.0" => "As advised, commence the advance.",
+  "0.4654.0" => "Your success has greatly increased our
+chances of victory.",
+  "0.4670.0" => "Marvelous!",
+  "0.4671.0" => "Your strength is awe inspiring!",
+  "0.4672.0" => "I only did what should be expected
+of a demon lord.",
+  "0.4673.0" => "My lord... Only someone as powerful
+as you could deliver such pain!",
+  "0.4674.0" => "I do hope you'll enjoy my handiwork
+on the battlefield!",
+  "0.4675.0" => "My lord, allow me to take care of this.",
+  "0.4676.0" => "Yes... I believe you'll enjoy this,
+my lord.",
+  "0.4677.0" => "It's true, I've joined the battle.
+Don't all applaud at once.",
+  "0.4678.0" => "You honor me with your kind attention.",
+  "0.4679.0" => "Master, I beg your mercy!",
+  "0.4680.0" => "My master aches for help...
+I will not disappoint!",
+  "0.4681.0" => "Forgive me for troubling you...",
+  "0.4682.0" => "If I must clean up this mess,
+then I shall do it with a smile!",
+  "0.4683.0" => "I'll be your companion. No need to thank me.",
+  "0.4684.0" => "Isn't that nice... My congratulations.",
+  "0.4685.0" => "It will be an honor to witness my master's
+fighting skill firsthand!",
+  "0.4686.0" => "Not bad... I commend your efforts!",
+  "0.4687.0" => "Having strong allies is certainly good news!",
+  "0.4688.0" => "I was in such a bad mood today...
+I'm glad I could take it out on our enemies!",
+  "0.4689.0" => "Will none of you worms challenge
+Ghirahim? Fine! He'll come to you!",
+  "0.4690.0" => "Such a simple task for my master.",
+  "0.4691.0" => "I expect nothing less from my master!",
+  "0.4692.0" => "I only succeed...because my
+master wills it!",
+  "0.4693.0" => "How fortunate I was to cross
+paths with my master!",
+  "0.4694.0" => "Let me lend a blade to this fight!",
+  "0.4695.0" => "Leave these troubles to me.",
+  "0.4696.0" => "Let me do your bidding, master.",
+  "0.4697.0" => "Make use of me, master!",
+  "0.4698.0" => "Thank you for lending me your strength!",
+  "0.4699.0" => "Master! Your servant needs you!",
+  "0.4700.0" => "I'll be there immediately.",
+  "0.4701.0" => "Ah! My savior!",
+  "0.4702.0" => "Your words are not wasted upon me!",
+  "0.4703.0" => "Allow me to assist with the assault on the base!",
+  "0.4704.0" => "Well done. Well done indeed!",
+  "0.4705.0" => "Together our powers will be unrivaled!",
+  "0.4706.0" => "Such power... It's worthy of praise!",
+  "0.4707.0" => "Impressive! Surely you'll join me in
+plunging Hyrule into the depths of despair!",
+  "0.4708.0" => "Witness the true power of the King of Twilight!",
+  "0.4709.0" => "Let me show you the power of Twilight...",
+  "0.4730.0" => "Wow, you're strong!
+I hope to be half as amazing as you!",
+  "0.4731.0" => "I can't believe it! You did that all by yourself?
+That's amazing!",
+  "0.4732.0" => "I did my best! What did you think? Impressed, right?",
+  "0.4733.0" => "Let's go! If we fight together, no one can
+stand in our way!",
+  "0.4734.0" => "Yes! I knew I could count on you!",
+  "0.4744.0" => "I have to be the one who defeats Cia!",
+  "0.4750.0" => "Well, well... Turns out you're not so bad
+to keep around after all, are you?",
+  "0.4751.0" => "Ah, the screams of our enemies are like
+music to my ears! Play on, maestro!",
+  "0.4752.0" => "Nothing in this world can hope to stop me!",
+  "0.4753.0" => "Have you prepared for the true power of
+a sorceress? Then prepare for me!",
+  "0.4754.0" => "Splendid! If I didn't know any better,
+I'd say you were trying to impress me...",
+  "0.4770.0" => "That strength is to be respected...",
+  "0.4771.0" => "Such incredible strength! ",
+  "0.4772.0" => "It was nothing to boast of.",
+  "0.4773.0" => "Your strength proves your worth
+as a warrior!",
+  "0.4774.0" => "I'll accompany you...",
+  "0.4775.0" => "Leave this area to me.",
+  "0.4776.0" => "I will leave it to you then.",
+  "0.4777.0" => "You're about to witness my true strength.",
+  "0.4778.0" => "I have been waiting.",
+  "0.4779.0" => "Give me the power to overcome...",
+  "0.4780.0" => "I will be there shortly.",
+  "0.4781.0" => "I'm in your debt...",
+  "0.4782.0" => "I... Forgive me.",
+  "0.4783.0" => "My strength is yours!",
+  "0.4784.0" => "I can see that you're improving. Well done.",
+  "0.4785.0" => "I would rather enjoy a fight with that one...",
+  "0.4786.0" => "Yes... A warrior worthy of my respect!",
+  "0.4787.0" => "Finally, a worthy display of battle prowess!",
+  "0.4788.0" => "These foes are beneath my contempt.",
+  "0.4789.0" => "A powerful presence... Let us match blows!",
+  "0.4790.0" => "Wonderful skill! I'm dizzy just watching!",
+  "0.4791.0" => "What...power!",
+  "0.4792.0" => "Such kind words... Whee hee hee!",
+  "0.4793.0" => "I don't think I have the proper words to
+describe what I've just seen...",
+  "0.4794.0" => "Are you excited to see my work?!
+You should be! Hiya ha ha!",
+  "0.4795.0" => "I'll destroy these ants, one by one!",
+  "0.4796.0" => "Well, if you insist...don't mind if I do!",
+  "0.4797.0" => "Are you ready to experience
+my greatness?!",
+  "0.4798.0" => "Oh... I've been waiting for you!",
+  "0.4799.0" => "Urgh... I need help!",
+  "0.4800.0" => "Well then, I'll go!",
+  "0.4801.0" => "Forgive me for being a bother...",
+  "0.4802.0" => "We'll be done here before long...
+Please go easy on me.",
+  "0.4803.0" => "Fine, I'll accompany you.",
+  "0.4804.0" => "Kiya ha ha! You're really impressive out there!",
+  "0.4805.0" => "I'll sway this fight in our favor!",
+  "0.4806.0" => "Hya ha ha! That's good! More, more!",
+  "0.4807.0" => "That strength... It's...monstrous! Hiya ha ha!",
+  "0.4808.0" => "Hiya ha ha! Your suffering is far from over!",
+  "0.4809.0" => "You can keep fooling around if you want.
+Me? I'll be doing my job.",
+  "0.4810.0" => "You're really not holding anything back! Good!",
+  "0.4811.0" => "Huh, I guess no one can stop you
+once you get going. Not bad!",
+  "0.4812.0" => "Hah! Now THIS body is more like it!
+No more imp form, thank you!",
+  "0.4813.0" => "You might actually stand a chance if
+I join you. Well? Let's go!",
+  "0.4814.0" => "OK, I admit, you're looking good. But
+don't let that stop you from trying harder!",
+  "0.4824.0" => "Zant, your life is forfeit, but only to me!",
+  "0.4830.0" => "Wow, the princess is really determined!
+Look at her go!",
+  "0.4831.0" => "Princess Zelda is no pushover! Cool!",
+  "0.4832.0" => "Hey, you hear that? I think the princess
+likes you, Link!",
+  "0.4833.0" => "Wow... I never imagined the princess
+would be THAT strong...",
+  "0.4834.0" => "Princess, we'll do our part!",
+  "0.4835.0" => "Hey, Link! Let's help out!
+Princess! Leave it to us!",
+  "0.4836.0" => "Princess, be careful, OK?",
+  "0.4837.0" => "Princess, we made it!",
+  "0.4838.0" => "Link, the princess is here to help! Say
+thank you!",
+  "0.4839.0" => "Princess! Link needs your help!",
+  "0.4840.0" => "Hey! We need to go save the princess!
+C'mon, Link!",
+  "0.4841.0" => "Link, thank the princess! She deserves it!",
+  "0.4842.0" => "Don't worry, everyone!
+Link can protect the princess!",
+  "0.4843.0" => "Link, we should follow the princess!",
+  "0.4844.0" => "Link, don't fail me now! We just
+have to defeat Ganondorf!",
+  "0.4845.0" => "Link, the princess needs us! Come on!",
+  "0.4846.0" => "Amazing! Keep it up!",
+  "0.4847.0" => "Wow! I can't believe you're so strong!",
+  "0.4848.0" => "See? Told ya Link's the best!",
+  "0.4849.0" => "No worries! Link can handle any enemy!
+Right, Link? Go ahead. Handle the enemies!",
+  "0.4850.0" => "Woohaaa! Tingle's gonna fight just as hard
+as you!",
+  "0.4851.0" => "Splendid! Marvelous! Tingle is
+so happy you're on his side!",
+  "0.4852.0" => "You thought Tingle was weak, did you?
+Then you're a bigger fool than Tingle!",
+  "0.4853.0" => "Yaaay! Tingle's tagging along, too!",
+  "0.4854.0" => "Such strength! Tingle is amazed!",
+  "0.4870.0" => "Yeah! That's the way!",
+  "0.4871.0" => "Yes! I like it!",
+  "0.4872.0" => "Whoa! I'm surprised how strong you are!",
+  "0.4873.0" => "I've got to keep pushing!",
+  "0.4874.0" => "With me by your side, everything will be fine!",
+  "0.4890.0" => "All right, I'm a little impressed.",
+  "0.4891.0" => "Wow, you're sure showing off.",
+  "0.4892.0" => "OK, you're pretty strong. I'm glad we
+decided to be friends! Hee hee!",
+  "0.4893.0" => "This enemy is way too weak for us to waste
+our time with.",
+  "0.4894.0" => "I'll help out. That's what friends are
+supposed to do!",
+  "0.4910.0" => "That person's really strong, huh?",
+  "0.4911.0" => "Wow, that person's really trying hard!
+You should try that hard, Big Brother!",
+  "0.4912.0" => "I can't believe how strong that person is!
+Big Brother, don't give up!",
+  "0.4913.0" => "He's amazing, isn't he?
+That's my brother!",
+  "0.4914.0" => "Hey, Big Brother! It's starting!",
+  "0.4930.0" => "That's it! Clean up all those enemies!",
+  "0.4931.0" => "Hey, you're pretty dependable.",
+  "0.4932.0" => "Wow. Can't believe you beat all those
+enemies by yourself!",
+  "0.4933.0" => "Heh, don't mention it.",
+  "0.4934.0" => "All right! Let's show them why we're
+the terror of the seas!",
+  "0.4950.0" => "How reliable you are!",
+  "0.4951.0" => "Wonderful! We'll advance just like that!",
+  "0.4952.0" => "Your strength is commendable.
+You are hope embodied!",
+  "0.4953.0" => "I pray that I can be of some help to you.",
+  "0.4954.0" => "If we work together, our might will be more
+than any enemy can overcome.",
+  "0.4970.0" => "Wow, you're really on a roll!",
+  "0.4971.0" => "You've done a wonderful job so far!",
+  "0.4972.0" => "You're so strong!
+I'll do my best to catch up!",
+  "0.4973.0" => "I'll get stronger so I can be more helpful!",
+  "0.4974.0" => "Alright! Let's put our backs into it!",
+  "0.4990.0" => "Wow, you're so strong!
+I'm really amazed!",
+  "0.4991.0" => "Are you always this successful?",
+  "0.4992.0" => "You're taking a few too many risks for
+my liking, but I'm still really impressed!",
+  "0.4993.0" => "Hey, I was pretty cool out there, right?",
+  "0.4994.0" => "All right! Let's all win together!",
+  "0.5010.0" => "Your strength is amazing!",
+  "0.5011.0" => "Wow! Wonderful work!",
+  "0.5012.0" => "Simply amazing... Those skills make
+a big difference on the battlefield!",
+  "0.5013.0" => "Oh, oops... Did I take things too far?",
+  "0.5014.0" => "Let's combine our powers
+and fight as one!",
+  "0.5030.0" => "Wonderful! Simply amazing!",
+  "0.5031.0" => "You really are the dependable sort!",
+  "0.5032.0" => "You sure have defeated a lot of enemies.
+It's almost like you're a hero!",
+  "0.5033.0" => "Aw, shucks. Well, I can take care of this
+business any time, really...",
+  "0.5034.0" => "Fight your hardest! If you're defeated, I'll
+send Sheerow to collect your... Kidding!",
+  "0.5050.0" => "Your work out in the field has been
+rather beautiful.",
+  "0.5051.0" => "Oh-ho! Allow me to praise you!",
+  "0.5052.0" => "Your beautiful silhouette... It reminds me
+of a crane descending upon the battlefield!",
+  "0.5053.0" => "No need to pay me compliments. I am
+well aware of my own talents.",
+  "0.5054.0" => "I'll offer assistance to anyone grateful
+enough to accept it.",
+  "0.6679.0" => "Masssster! Sssssave me!",
+  "0.6681.0" => "Kya! Much thanksssss!",
+  "0.6699.0" => "Gya! Masssster Volga! Help!",
+  "0.6701.0" => "Masssster Volga ssssssaved us!",
+  "0.7450.0" => "He looks pretty strong...
+but you can't lose, Link!",
+  "0.7451.0" => "W-we're not afraid!
+Link, take care of him!",
+  "0.7452.0" => "Yeah! We did it!
+Link, you're a true hero!",
+  "0.7453.0" => "Doesn't matter how strong you think you are,
+Link is always gonna be one step ahead!",
+  "0.7454.0" => "You don't even know what Link's capable of!
+You should give up now, before it's too late!",
+  "0.7460.0" => "It is my duty as Hyrule's princess
+to end your senseless aggression!",
+  "0.7461.0" => "This world will see only darkness
+while you still draw breath!",
+  "0.7462.0" => "It was worth it to hold on to hope...",
+  "0.7463.0" => "Come here! I'll cut you down with my own
+hands!",
+  "0.7464.0" => "I will fight you, and I will win!",
+  "0.7470.0" => "I don't expect you to last long against me.",
+  "0.7471.0" => "I have no time to listen to your pitiful chatter.",
+  "0.7480.0" => "Begone! With my blade, I will stop you!",
+  "0.7481.0" => "Defeat me? Hah! Wishful thinking!",
+  "0.7490.0" => "Boy... I'll put you to bed.",
+  "0.7491.0" => "Your bravery is to be commended...
+But your stupidity is to be punished!",
+  "0.7492.0" => "A Legendary Hero without strength?
+Worthless... I'm almost disappointed.",
+  "0.7493.0" => "You dare to cross me? Hah! You'll have
+time to rethink that strategy in the afterlife!",
+  "0.7494.0" => "You need to learn your place. I'll teach you!",
+  "0.7500.0" => "You wanna fight Darunia? Hah! LET'S ROCK!",
+  "0.7501.0" => "Now you've done it! I'm too riled up to
+calm down! You brought this on yourself!",
+  "0.7510.0" => "I pity you. Let me put you out of your
+misery!",
+  "0.7511.0" => "Never underestimate the might of the Zora!",
+  "0.7520.0" => "Oh no! You nearly squished Mister Ant!
+I won't sit idle while you hurt my friends!",
+  "0.7521.0" => "I'm busy running errands for my insect
+subjects...but defeating you will be easy.",
+  "0.7530.0" => "Zant! Your head is MINE!",
+  "0.7531.0" => "I'm not about to lose to someone like YOU!",
+  "0.7532.0" => "Foolish Zant... How about you stay asleep,
+OK?",
+  "0.7533.0" => "You wanna fight? Let's fight! But no crying
+when I break you like a Rupee jar!",
+  "0.7534.0" => "Hey, are you challenging me? Big mistake, pal!",
+  "0.7540.0" => "You are an obstacle. Obstacles must be
+removed. I assume you understand.",
+  "0.7541.0" => "Engaging in combat with you falls within
+my duties.",
+  "0.7550.0" => "Ah, it's you... Perhaps it's time
+I got serious. What do you think?",
+  "0.7551.0" => "I had really hoped we'd get a chance to
+meet in battle. I promise this won't be dull!",
+  "0.7552.0" => "Huh! Do you see your limitations, boy?!
+Perhaps...I may have overdone it...",
+  "0.7553.0" => "You want to run away? I can't allow that.
+Instead, I'll destroy you!",
+  "0.7554.0" => "Do you really need my help crying? Fine, I
+suppose I can make you weep.",
+  "0.7560.0" => "You dare oppose the Twilight?
+You should bow down before me!",
+  "0.7561.0" => "Midna, your magic is NOTHING
+compared to mine!",
+  "0.7562.0" => "You sad, pathetic little princess...
+Bother me no more.",
+  "0.7563.0" => "Your power is nothing compared to mine.",
+  "0.7564.0" => "Who do you think I am?! You won't live
+long enough to regret your words!",
+  "0.7580.0" => "Cia! I'll be the one to stop you!",
+  "0.7581.0" => "This has been a long time coming, Cia!",
+  "0.7582.0" => "Cia... You left me with no other choice...",
+  "0.7583.0" => "What are you waiting for? Let's fight!
+No backing down now!",
+  "0.7584.0" => "If it's a fight you want, then I'll give you
+a good one!",
+  "0.7590.0" => "Lana... My patience for you has run out!",
+  "0.7591.0" => "You'd better stop me...if you think you can.",
+  "0.7592.0" => "Could you please disappear? You're
+spoiling my view.",
+  "0.7593.0" => "Oh, I'll take good care of you. You'll see.",
+  "0.7600.0" => "You think you're strong? Let me be the
+judge of that!",
+  "0.7601.0" => "A challenger? Interesting.",
+  "0.7610.0" => "I think a crushing defeat would suit you
+well! Kiya ha ha!",
+  "0.7611.0" => "You want me angry? I'll show you angry!",
+  "0.7620.0" => "Zant... You traitor... I won't let you shame
+the Twili people any longer!",
+  "0.7621.0" => "I'm not about to fall in battle to you...",
+  "0.7622.0" => "Zant, you've always been a sniveling little
+weakling... And now you're done!",
+  "0.7623.0" => "What do you want? You want to fight?
+Heh, you must be kidding me...",
+  "0.7624.0" => "You think you'll defeat me? Oh my, that's rich.",
+  "0.7630.0" => "That enemy looks like trouble... But we
+can't lose! Link, don't let me down!",
+  "0.7631.0" => "We're not afraid! We could win with our sword
+tied behind our back! Isn't that right, Link? Yeah!",
+  "0.7632.0" => "We did it! Nice work, Link!",
+  "0.7633.0" => "Doesn't matter how tough you are!
+Link'll eat you up! Right, Link?",
+  "0.7634.0" => "You'll be sorry you made Link angry! Link?
+Show 'em your angry side!",
+  "0.7640.0" => "It's you and Tingle now!
+And Tingle will Kooloo-Limpah you good!",
+  "0.7641.0" => "Tingle never backs down from a fight!
+Real fairies never back down from fights!",
+  "0.7650.0" => "Hey, let's duel! Yeah, this'll be fun!",
+  "0.7660.0" => "I really don't think you'll be able to beat me,
+but you're welcome to try!",
+  "0.7670.0" => "You don't scare my Big Brother! He could beat
+you with both hands tied behind his back!",
+  "0.7680.0" => "If you're looking for a fight, sure, I'm game!",
+  "0.7690.0" => "For the sake of the children of this kingdom,
+it's time for you to disappear.",
+  "0.7700.0" => "I'll stop you! Just you wait!",
+  "0.7710.0" => "You brought this on yourself by
+doing those bad things!",
+  "0.7720.0" => "I won't let you get in our way!",
+  "0.7730.0" => "I guess this is one fight I can't get
+out of. Well, I'm ready for you!",
+  "0.7740.0" => "Is your plan really to get in my way?
+If so, I'll finish you off right here!",
+}

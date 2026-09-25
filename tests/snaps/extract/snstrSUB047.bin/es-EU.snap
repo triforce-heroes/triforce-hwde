@@ -1,0 +1,7 @@
+Map {
+  "0.0.0" => "¡Va a dar comienzo el subescenario «Bombardeo 2»!",
+  "0.1.0" => "¡Han aparecido A0%1sF1R en el campo de batalla!",
+  "0.2.0" => "¡A0%1sF3R te están A2atacandoR!",
+  "0.3.0" => "¡Vence A0%1sF5R para frenar su A2ataqueR!",
+  "0.4.0" => "¡Has derrotado A0%1sF5R y has frenado su A2ataqueR!",
+}

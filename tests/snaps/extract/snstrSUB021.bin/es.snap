@@ -1,0 +1,14 @@
+Map {
+  "0.1.0" => "¡A0%1sF0R ha hecho aparecer A0%2sF4R!",
+  "0.2.0" => "¡Vence A0%1sF4R y A0%2sF4R!",
+  "0.3.0" => "¡Has vencido A0%1sF4R!",
+  "0.10.0" => "¡Las A0%1sF1R se dirigen hacia A0%2sF2R!",
+  "0.11.0" => "¡La moral de las A0%1sF1R ha aumentado!",
+  "0.12.0" => "¡Impide que A0%1sF2R huya!",
+  "0.20.0" => "¡A0%1sF0R ha levantado el ánimo de las A0%2sF1R!",
+  "0.21.0" => "¡La moral de las A0%1sF1R ha aumentado!",
+  "0.22.0" => "¡Vence A0%1sF4R cuanto antes!",
+  "0.23.0" => "¡La moral de las A0%1sF1R ha disminuido!",
+  "0.24.0" => "¡Has vencido A0%1sF4R!",
+  "0.25.0" => "¡A0%1sF0R ha aparecido en el campo de batalla!",
+}

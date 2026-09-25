@@ -1,0 +1,217 @@
+Map {
+  "1.0.0.0" => "Hey, Link, let's slice through these enemies
+quick! It'll be easy with the Master Sword!",
+  "1.0.1.0" => "Link may be too overconfident... I pray he
+doesn't become reckless...",
+  "1.0.2.0" => "Oh ho! Link! Did you find a shiny, new sword?
+Mmm. I'd like to see it... Come to me!",
+  "1.0.3.0" => "If Link falls, our hope is lost. We must
+keep Link safe at all times!",
+  "1.0.5.0" => "There should be three Magic Keeps in the
+east and three in the west...",
+  "1.0.6.0" => "I can sense the Magic Keeps as well.
+We must capture them immediately!",
+  "1.0.7.0" => "Ha... The Triforce is drawing nearer...",
+  "1.0.8.0" => "How odd... I can feel an eerie presence
+coming from somewhere in this area...",
+  "1.0.9.0" => "An eerie presence? I feel only the aura
+given off by the witch and her monsters.",
+  "1.0.10.0" => "The Magic Keeps are spawning strong
+enemies! We must do something!",
+  "1.0.11.0" => "This situation grows worse with each passing
+moment. We must capture those keeps!",
+  "1.0.12.0" => "Whoa! The enemies we're facing have a lot
+more power than we're used to!",
+  "1.0.13.0" => "I was right... We must capture the Magic Keeps
+to break the connection and weaken the magic!",
+  "1.0.14.0" => "That should stop some of the enemies, but
+we've got to capture more Magic Keeps!",
+  "1.0.15.0" => "The order we capture the keeps in may change
+how quickly the flow of magic is severed!",
+  "1.0.16.0" => "The west is free of magic! We must refocus
+our efforts on the eastern Magic Keeps!",
+  "1.0.17.0" => "Master, cutting the Magic Keeps off from one
+another will greatly improve our chances.",
+  "1.0.18.0" => "The east is free of magic! We must refocus
+our efforts on the western Magic Keeps!",
+  "1.0.19.0" => "The Magic Keeps are proving a real challenge
+in this battle. We must capture them.",
+  "1.0.20.0" => "By capturing the center, all three Magic Keeps
+were deactivated at once! That's the secret!",
+  "1.0.21.0" => "Master, the magic pathways
+have all been severed.",
+  "1.0.22.0" => "Link, stop wasting your time with petty
+brawls! Show me what that sword can do...",
+  "1.0.23.0" => "Link, the doors have opened and Cia is inside!
+This is it! Let's take her down! Swish-swosh!",
+  "1.0.24.0" => "I can see the darkness in your heart...but can
+you overcome it? Don't disappoint me, love!",
+  "1.0.25.0" => "Oh no, Link. I shouldn't have egged you
+on! Don't let this impostor get you!",
+  "1.0.26.0" => "We must not leave Link to fend for
+himself! Hurry! Before he's defeated!",
+  "1.0.28.0" => "She's using the darkness in his heart against
+him... There must be something we can do!",
+  "1.0.29.0" => "More Dark Links have appeared?
+We must stop them!",
+  "1.0.30.0" => "Four evil versions of Link have appeared.
+We should dispatch them immediately.",
+  "1.0.31.0" => "Four of them?! Uh-oh. You're in some
+deep gravel now...",
+  "1.0.32.0" => "There. That should take care of all
+those pesky Dark Links.",
+  "1.0.33.0" => "It revived itself. How can we help Link
+against an enemy that can't be killed?",
+  "1.0.34.0" => "Let them wear themselves out...
+Then the Triforce will be MINE!",
+  "1.0.35.0" => "What--?! This can't be! He's come to claim
+the Triforce of Power--!",
+  "1.0.36.0" => "Uh-oh! Uh-oh! More enemies are appearing!",
+  "1.0.37.0" => "We'll be annihilated... All troops, retreat!
+Fall back immediately!",
+  "1.0.38.0" => "We've got to fall back! C'mon, the rose garden
+in the west should make for a good getaway!",
+  "1.0.39.0" => "Quickly! Everyone, escape through the rose
+garden in the west!",
+  "1.0.40.0" => "The Dark Links are being revived in the
+Sorceress's Room. We must capture it!",
+  "1.0.41.0" => "Link! You have to defeat all those Dark
+Links. Otherwise no one else can escape!",
+  "1.0.42.0" => "Link! Choose your battles carefully!",
+  "1.0.44.0" => "Master, all Dark Links have been
+permanently eliminated. Well done!",
+  "1.0.45.0" => "The Master Sword is radiating so much
+power... Link, are you doing this?",
+  "1.0.46.0" => "The Master Sword's true power must be
+awakening!",
+  "1.0.47.0" => "If I can no longer pull from the darkness
+in Link's heart, then I'll pull from my own!",
+  "1.0.48.0" => "Cia, stop it! You're working with magic
+that no one can contain!",
+  "1.0.49.0" => "Silence! I won't be lectured by a happy
+little goody-goody like you!",
+  "1.0.50.0" => "Link appears to be unscathed... Everyone,
+we must make a hasty retreat!",
+  "1.0.51.0" => "OK, fall back! We can escape through the
+western rose garden!",
+  "1.0.52.0" => "Princess Zelda is in trouble! Everyone, go
+on ahead! I'll rescue her myself!",
+  "1.0.53.0" => "Impa! My safety is not your priority! I
+order you to retreat along with the others!",
+  "1.0.54.0" => "M'lady...I understand. Be well without me.",
+  "1.0.55.0" => "Ha ha ha... Did you think I'd let you run?",
+  "1.0.56.0" => "By the goddesses... This power... It...
+My body refuses to move!",
+  "1.0.57.0" => "Link, time to return that favor and protect your
+friends from evil! Smite him! Smite him good!",
+  "1.0.58.0" => "This is far worse than I could have ever
+imagined...",
+  "1.0.59.0" => "Ha ha ha... How dismally depressing...
+Would you care to struggle further?",
+  "1.0.60.0" => "Nnh--! It's no use!",
+  "1.0.61.0" => "Such a pity... Let me free you from the
+misery of this world...",
+  "1.0.62.0" => "This is NOT good... I'll go on ahead and
+guide everyone to the escape point!",
+  "1.0.63.0" => "Midna has begun leading us to safety.
+We should follow her!",
+  "1.0.64.0" => "Everyone, listen up! I've found our point of
+escape! Just get to me and you'll be safe!",
+  "1.0.66.0" => "I thank you for your courage.
+You saved me from a terrible fate!",
+  "1.0.67.0" => "You dare raise the blade of evil's bane to me?
+So be it. Hyrule's blood will be on your hands.",
+  "1.0.68.0" => "Don't give up now, Link! FIGHT!",
+  "1.0.69.0" => "Link, c'mon, buddy. Keep your head in
+the game! We can't lose now!",
+  "1.0.70.0" => "Link! Oh no, Link! What will we do without
+the hero?",
+  "1.0.71.0" => "Oh... Link... How could it come to this...?",
+  "1.0.72.0" => "And so our end comes in this horrible
+place... Forgive me, everyone!",
+  "1.0.73.0" => "Hrk--! I'm done for... I'm so sorry,
+everyone!",
+  "1.0.74.0" => "I never thought I'd end in a place like
+this. Princess Zelda...I have failed you...",
+  "1.0.75.0" => "HA! They got me... Brothers...avenge me!",
+  "1.0.76.0" => "Master, I...cannot continue fighting... I feel
+my power fading away...",
+  "1.0.77.0" => "Guh... I messed up bad... I'm so sorry...
+I didn't want it to end like this...",
+  "1.0.78.0" => "If any one of us falls, this battle is lost...",
+  "1.0.79.0" => "You always have to be the hero, huh?",
+  "1.0.80.0" => "What's this...? Does anyone else feel an eerie
+presence coming from somewhere nearby?",
+  "1.0.81.0" => "The magic connection is back! That means
+strong monsters are bound to appear!",
+  "1.0.82.0" => "We must recapture the Magic Keeps and
+sever their connection with one another!",
+  "1.0.83.0" => "The Magic Keeps are ours again!
+That should cut their connection!",
+  "1.0.84.0" => "Take the Magic Keeps all you'd like.
+We'll just keep taking them back!",
+  "1.0.85.0" => "We did it! We beat back the Dark Link!",
+  "1.0.86.0" => "Get going, everyone! I'll hold the enemy
+back!",
+  "1.0.87.0" => "Everyone else got away! You've got to
+get away, too!",
+  "1.0.88.0" => "We have to escape! There must be a way.",
+  "1.0.89.0" => "We can't escape! Not like this!",
+  "1.0.90.0" => "Looks like we're not escaping THAT easily!",
+  "1.0.91.0" => "And we were so close to getting away.
+This is bad...",
+  "1.0.92.0" => "Everyone is giving it their all... I refuse to
+fall when they're all counting on me!",
+  "1.0.93.0" => "The enemy won't relent! How much longer
+can we fight at this intensity...?",
+  "1.0.94.0" => "Go, my minions! Reclaim the Magic Keeps
+and reestablish their connection!",
+  "13.0.0.0" => "We can't win this without Link...
+Don't let him out of your sight!",
+  "13.0.1.0" => "I can sense strong magic coming from the
+Magic Keeps... We must capture them!",
+  "13.0.2.0" => "There are three Magic Keeps in both the east
+and the west. They're empowering the enemy!",
+  "13.0.3.0" => "I knew it! Capturing a Magic Keep severs its
+connection to the rest of its group of keeps!",
+  "13.0.4.0" => "The west side has been taken care of. Now we
+need to focus on the Magic Keeps in the east!",
+  "13.0.5.0" => "The east side has been taken care of. Now we
+need to focus on the Magic Keeps in the west!",
+  "13.0.6.0" => "Wow! Capturing that middle keep disconnected
+all three Magic Keeps at once! Good idea!",
+  "13.0.7.0" => "More Dark Links have appeared...?
+Everyone, be careful!",
+  "13.0.8.0" => "We'll be cornered if we stay here... All
+troops! Fall back! On the double!",
+  "13.0.9.0" => "The Sorceress's Room is somehow reviving
+the Dark Links! We have to capture that keep!",
+  "13.0.10.0" => "Link! Know your limits!",
+  "13.0.11.0" => "Link should be all right now. Everyone!
+Let's fall back!",
+  "13.0.12.0" => "Ugh... Such strength... We can't get away.",
+  "13.0.13.0" => "Is...all hope lost...?",
+  "13.0.14.0" => "Are we...too late...?",
+  "13.0.15.0" => "Please... Carry on... For me...",
+  "13.0.16.0" => "Oh no! If Link falls, we don't stand a
+chance against Cia and her forces!",
+  "13.0.17.0" => "The burden...was too great...",
+  "13.0.18.0" => "We can't let a single one of our friends
+fall if we hope to stand a chance!",
+  "13.0.19.0" => "The fight was...too much...",
+  "13.0.20.0" => "I thought...I could do more...",
+  "13.0.21.0" => "I should have...known my limits...",
+  "13.0.22.0" => "I got careless...",
+  "13.0.23.0" => "Oh! Half of those Dark Links have been beaten!
+Shall we take care of the remaining two?",
+  "13.0.24.0" => "Oh my... Would it be easier to flee through
+the rose garden in the west?",
+  "13.0.25.0" => "Ooh... Ouchie... This is it for me...",
+  "13.0.26.0" => "Link...wait! I'm coming too!",
+  "13.0.27.0" => "Take back the Magic Keeps, and cut that
+magical connection!",
+  "13.0.28.0" => "What's this? I sense a strange presence
+somewhere around here...",
+  "13.0.29.0" => "The Magic Keeps have lost their power.
+I think the connection is cut for good.",
+}

@@ -1,0 +1,8 @@
+Map {
+  "0.1.0" => "A2Un invocateurR a rejoint le champ de bataille!",
+  "0.2.0" => "A2L'invocateurR a invoqué A0%2sF1R près A0%1sF3R!",
+  "0.3.0" => "Éliminez A2l'invocateurR au plus vite pour éviter l'appel d'autres renforts!",
+  "0.4.0" => "A2L'invocateurR a fui le champ de bataille!",
+  "0.5.0" => "Vous avez vaincu A2l'invocateurR!",
+  "0.6.0" => "A2L'invocateurR a de nouveau invoqué A2desR A0%1sF7R!",
+}

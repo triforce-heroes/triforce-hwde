@@ -1,0 +1,43 @@
+Map {
+  "0.0.0" => "Tempo scaduto! Hai perso!",
+  "0.1.0" => "Dovrai superare 3 prove! Sconfiggi il A2nemicoR giusto!",
+  "0.2.0" => "Prima prova!",
+  "0.3.0" => "Seconda prova!",
+  "0.4.0" => "Terza prova!",
+  "0.5.0" => "Hai sconfitto il A2nemicoR giusto!",
+  "0.6.0" => "Hai sconfitto il A2nemicoR sbagliato!",
+  "0.7.0" => "Hai superato tutte e tre le prove!",
+  "0.8.0" => "Hai superato due prove su tre!",
+  "0.9.0" => "Hai superato una prova su tre!",
+  "0.10.0" => "Non hai superato nessuna prova!",
+  "0.11.0" => "Raggiungi il A6presidio indicatoR!",
+  "0.12.0" => "Raggiungi il A6prossimo presidioR!",
+  "0.13.0" => "Ecco i risultati!",
+  "1.0.0" => "01",
+  "1.1.0" => "02",
+  "1.2.0" => "03",
+  "1.3.0" => "04",
+  "1.4.0" => "05",
+  "1.5.0" => "06",
+  "1.6.0" => "07",
+  "1.7.0" => "08",
+  "1.8.0" => "09",
+  "1.9.0" => "10",
+  "3.0.0" => "Sconfiggi A2quello alatoR!",
+  "3.1.0" => "Sconfiggi A2chi si buttaR
+A2di panciaR!",
+  "3.2.0" => "Sconfiggi A2chi attaccaR
+A2con la codaR!",
+  "3.3.0" => "Sconfiggi A2chi viveR
+A2in acquaR!",
+  "3.4.0" => "Sconfiggi A2il capoR
+A2degli SheikahR!",
+  "3.5.0" => "Sconfiggi A2colui la cuiR
+A2tribù vive nei vulcaniR!",
+  "3.6.0" => "Sconfiggi A2il mostro delR
+A2castello di HyruleR!",
+  "3.7.0" => "Sconfiggi A2chi ha attaccatoR
+A2il Grande Albero DekuR!",
+  "3.8.0" => "Sconfiggi A2chi ha evocatoR
+A2i mostriR!",
+}

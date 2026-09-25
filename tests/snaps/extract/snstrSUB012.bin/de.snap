@@ -1,0 +1,12 @@
+Map {
+  "0.1.0" => "A0%1sF1R wurden auf dem Schlachtfeld gesichtet!",
+  "0.2.0" => "A0%1sF1R rücken vor, um Verstärkung zu rufen!",
+  "0.3.0" => "Besiege A0%1sF7R, bevor Verstärkung gerufen wird!",
+  "0.4.0" => "A0%1sF0R ist am Ziel angekommen und ruft Verstärkung!",
+  "0.5.0" => "A0%1sF0R hat Verstärkung für die A0%2sF5R gerufen!",
+  "0.6.0" => "Der Ruf nach Verstärkung wurde verhindert!",
+  "0.7.0" => "A0%1sF0R wurde besiegt!",
+  "0.8.0" => "A0%1sF1R wurden auf dem Schlachtfeld gesichtet!",
+  "0.9.0" => "Besiege auch den Rest A0%1sF3R!",
+  "0.10.0" => "A0%1sF0R hat das Schlachtfeld verlassen!",
+}

@@ -1,0 +1,200 @@
+Map {
+  "1.0.0.0" => "La principessa deve essere andata alla
+base nemica! Vado subito a salvarla!",
+  "1.0.1.0" => "Vengo anche io! Ma c'è un guardaporta
+a difesa della base nemica!",
+  "1.0.2.0" => "La porta e la guardia sono potenziati con
+la magia! Dobbiamo conquistare i presidi!",
+  "1.0.3.0" => "Dividiamoci e attacchiamo da
+entrambi i lati! Io andrò a est!",
+  "1.0.4.0" => "Il nemico è più forte di quanto pensassi...
+Anche fuori dal palazzo è pieno di mostri!",
+  "1.0.5.0" => "Non importa quanto siano forti quei
+demoni... io non mi arrenderò!",
+  "1.0.6.0" => "La principessa impedisce al crepuscolo di
+inglobare tutto, ma non resisterà a lungo!",
+  "1.0.7.0" => "Accidenti... stanno cercando di potenziare
+i presidi per mantenere il crepuscolo!",
+  "1.0.8.0" => "Non possiamo accedere alla base nemica
+finché non indeboliamo il crepuscolo!",
+  "1.0.9.0" => "Il guardaporta è un'illusione di Zant! Per
+eliminarlo dobbiamo indebolire la sua magia!",
+  "1.0.10.0" => "Possiamo scalfire la magia del crepuscolo
+conquistando i presidi!",
+  "1.0.11.0" => "Forse il leader nemico acquista potenza
+perché Zelda sta perdendo energie...",
+  "1.0.12.0" => "È un nemico potente, ma se conquistiamo
+i suoi presidi possiamo indebolirlo!",
+  "1.0.13.0" => "Non serve conquistare tutti i presidi.
+Tre dovrebbero bastare!",
+  "1.0.14.0" => "Hanno preso di mira la nostra base!
+Andiamo subito a difenderla!",
+  "1.0.15.0" => "Continuiamo così e conquistiamo anche
+gli altri presidi! Zelda, stiamo arrivando!",
+  "1.0.16.0" => "Abbiamo decimato i nostri nemici!",
+  "1.0.17.0" => "Accidenti... le cose prendono una
+brutta piega...",
+  "1.0.18.0" => "Fiu... ora dobbiamo continuare
+a conquistare i presidi!",
+  "1.0.19.0" => "Il presidio è stato potenziato ancora...
+Sarà sempre più difficile salvare Zelda!",
+  "1.0.20.0" => "Una buona metà è sistemata!
+Presto, conquistiamo il presidio!",
+  "1.0.21.0" => "Hanno potenziato ulteriormente il presidio...
+Spero che faremo in tempo a salvare Zelda...",
+  "1.0.22.0" => "Zelda, tutto bene? Cerca di non esagerare!
+Non consumare tutte le tue energie!",
+  "1.0.23.0" => "Io devo fermare il loro generale. Intanto
+tu occupati dei nemici appena spuntati!",
+  "1.0.24.0" => "Devo impedire che il crepuscolo divori
+tutto... A costo della mia vita!",
+  "1.0.25.0" => "No! Sei impazzita? Non posso
+lasciarti fare una cosa del genere!!!",
+  "1.0.26.0" => "Conquistando i loro presidi, abbiamo
+indebolito i nemici!",
+  "1.0.27.0" => "Evviva! I demoni hanno smesso di apparire!",
+  "1.0.28.0" => "Ma... adesso spuntano fuori
+altri mostri?!",
+  "1.0.29.0" => "Guardate cos'hanno chiamato!
+Attenzione, sembra molto pericoloso!",
+  "1.0.30.0" => "La nostra priorità è sempre conquistare
+i presidi che emanano il crepuscolo!",
+  "1.0.31.0" => "Non riusciamo a tenere a bada il nemico,
+vado a chiamare rinforzi!",
+  "1.0.32.0" => "Ci siamo anche noi a combattere!
+Insieme ce la faremo!",
+  "1.0.33.0" => "Evviva! Così possiamo concentrarci
+sui presidi nemici!",
+  "1.0.34.0" => "Grazie per la protezione! Il piano è
+andato a buon fine. Possiamo ritirarci!",
+  "1.0.35.0" => "Non sono riusciti a chiamare i rinforzi...
+La nostra base è esposta al nemico!",
+  "1.0.36.0" => "Ora dovrei essere in grado di aprire la
+porta... Principessa, tieni duro!",
+  "1.0.37.0" => "Zelda, stai bene?! Ti infonderò
+un po' della mia magia!",
+  "1.0.38.0" => "Grazie... mi hai salvata...",
+  "1.0.39.0" => "Come avete potuto fare questo a
+Zelda?! Ora ve la vedrete con me!!!",
+  "1.0.40.0" => "Oh... la mia bussola brilla di nuovo...",
+  "1.0.41.0" => "Avrai anche conquistato il castello, ma ricorda
+che la principessa del crepuscolo sono io!",
+  "1.0.42.0" => "Abbiamo sconfitto il demone più
+forte di tutti!",
+  "1.0.43.0" => "Grazie dell'aiuto, ma a quanto pare il
+crepuscolo continua a guadagnare terreno...",
+  "1.0.44.0" => "Niente paura, ho un'idea! In quanto principessa
+del crepuscolo sarò io a porre fine a tutto ciò!",
+  "1.0.45.0" => "La nostra base!!! Così non potremo
+andare a salvare Zelda!",
+  "1.0.46.0" => "Mi dispiace... non ho più... forze...",
+  "1.0.47.0" => "La base nemica è ancora chiusa!",
+  "1.0.48.0" => "Le tue malefatte finiscono qui!",
+  "1.0.49.0" => "Questa parte è al sicuro! Presto,
+conquistiamo i presidi!",
+  "1.0.50.0" => "Dobbiamo fare qualcosa...!",
+  "1.0.51.0" => "Devo fermare il crepuscolo a costo
+della mia vita...",
+  "1.0.52.0" => "I presidi a nord emanano moltissimo
+crepuscolo! Cominciamo da lì!",
+  "1.0.53.0" => "Forse il leader nemico acquista potenza
+perché Zelda sta perdendo energie...",
+  "1.0.54.0" => "Credo proprio che stiano tramando
+qualcosa...",
+  "1.0.55.0" => "Abbiamo indebolito i loro poteri magici!
+Ora nessuno ci potrà fermare!",
+  "1.0.56.0" => "Abbiamo steso il guardaporta! Ora pensiamo
+ai presidi e apriamo la base nemica!",
+  "1.0.57.0" => "Combatterò anche io per difendere
+la principessa!",
+  "1.0.58.0" => "Conquistando i presidi, indeboliremo
+il guardaporta e la base nemica!",
+  "1.0.59.0" => "Midna... grazie... ho preso tutto ciò che
+avevi da darmi... E grazie anche a te...",
+  "1.0.60.0" => "A quanto pare hanno interrotto l'evocazione
+e concentrano la magia su quei mostri enormi!",
+  "1.0.61.0" => "Il nemico ha chiamato i rinforzi...
+La faccenda si mette male!",
+  "1.0.62.0" => "Lasciate a me la parte ovest!",
+  "1.0.63.0" => "Se la porta e la guardia perdono la
+protezione magica, potrò farmi strada!",
+  "1.0.64.0" => "Midna, sei davvero tu?!
+E chi è quella ragazza?",
+  "1.0.65.0" => "Mi chiamo Linkle!
+Sono venuta per salvarti, principessa!",
+  "1.0.66.0" => "Basta chiacchiere, ora!
+Abbiamo una missione da svolgere!",
+  "1.0.67.0" => "D'altra parte ogni eroe che si rispetti
+salva le donzelle in difficoltà!",
+  "1.0.68.0" => "Per quanto bene possa dissimulare, un
+impostore rimane tale. Non vincerà mai!",
+  "13.0.2.0" => "Prima avanziamo verso est per occupare
+l'avamposto nemico!",
+  "13.0.3.0" => "Cosa sta succedendo?
+Sbrigatevi a conquistare i presidi est!",
+  "13.0.4.0" => "Il ponte è fuori uso!
+Presto, intanto conquistiamo i presidi!",
+  "13.0.5.0" => "Un forziere...? Lo accetto volentieri!",
+  "13.0.6.0" => "Ci sta attaccando dall'alto...
+Cosa possiamo fare?",
+  "13.0.7.0" => "L'unico modo per sconfiggere un drago
+volante... potrebbe essere la magia!",
+  "13.0.8.0" => "Creerò un cerchio magico nel presidio, proprio
+sotto al drago! C'è qualcuno che può aiutarmi?",
+  "13.0.9.0" => "I demoni mi stanno bloccando e non
+riesco a proseguire...! Aiutatemi!",
+  "13.0.10.0" => "Ehi, tutto bene?
+Io sono da sola nelle prime linee...",
+  "13.0.11.0" => "Ha approfittato della mia assenza... Dobbiamo
+sbrigarci a costruire il cerchio magico!",
+  "13.0.12.0" => "Il cerchio magico è ultimato!
+Usatelo per attaccare il drago!",
+  "13.0.13.0" => "Di questo passo la base alleata sarà sconfitta!
+Presto, usate il cerchio magico per attaccare!",
+  "13.0.14.0" => "Ottimo lavoro!
+Spero che quel drago non si faccia più vedere...",
+  "13.0.15.0" => "Oh, no! Stanno per attaccare Xenia!
+Non lasciate che si avvicinino troppo!",
+  "13.0.16.0" => "Xenia è stata catturata dal nemico?!
+Di sicuro i nemici a est ne saranno contenti...",
+  "13.0.17.0" => "Potete colpire il drago usando il cerchio magico!
+Occupate la piazza lì sotto!",
+  "13.0.18.0" => "Di nuovo quel piano? Ci sto!",
+  "13.0.19.0" => "Si dirige di nuovo verso la base...
+Dobbiamo fermarlo, e subito!",
+  "13.0.20.0" => "Il cerchio magico è ultimato!
+Stavolta non fatevi scappare il drago!",
+  "13.0.21.0" => "È quasi finita... Presto, usate il cerchio magico
+per sconfiggere il drago!",
+  "13.0.22.0" => "Guarda! L'attacco magico ha fatto effetto!
+Il drago ha perso quota!",
+  "13.0.23.0" => "È già la terza volta...
+Quanto durerà ancora...?",
+  "13.0.24.0" => "Gli attacchi effettuati con il cerchio magico
+non hanno effetto... Cosa possiamo fare...?",
+  "13.0.25.0" => "Ora dirigiamoci verso l'edificio a sud est che la
+farfalla ci ha mostrato. Non ci resta che fidarci!",
+  "13.0.26.0" => "Forse il cerchio magico nella fontana della dea
+è ciò che ci serve per sconfiggere il drago...!",
+  "13.0.27.0" => "Ci resta solo la base...
+Dobbiamo difenderla a costo della vita...",
+  "13.0.28.0" => "Visto? Ce l'abbiamo fatta!",
+  "13.0.29.0" => "Una volta sconfitti il drago e Zant...
+la vittoria sarà nostra, giusto? Forza!",
+  "13.0.30.0" => "Hai rinunciato ai tuoi desideri...
+Come Cia...",
+  "13.0.31.0" => "Finalmente ce l'abbiamo fatta...
+Bravi, ottimo lavoro!",
+  "13.0.32.0" => "Li abbiamo sconfitti tutti!
+Ora possiamo chiudere la porta delle anime!",
+  "13.0.33.0" => "La base sta per cadere nelle mani del nemico!
+Ho bisogno di aiuto!",
+  "13.0.34.0" => "La base sta per arrendersi!
+Presto, mandate dei rinforzi!",
+  "13.0.35.0" => "Ah... Non ce l'ho fatta...
+Mi dispiace...",
+  "13.0.36.0" => "La base è caduta...?
+Quindi la battaglia è finita...",
+  "13.0.37.0" => "Guardate! Gli attacchi del circolo magico hanno effetto!
+Il drago ora vola basso!",
+}
